@@ -30,16 +30,14 @@ to get a membership export.
 
 ## Member attributes
 
-[**should we remove the 'user:' prefix for all these??**]
-
 To define attributes (which can then be included in personalized,
 group emails), add a header row to your CSV import file, put the
-member email addresses under a "user:email" column, and then add
-"user:<attribute name>" columns for your custom attributes.  
+member email addresses under an "email" column, and then add
+"<attribute name>" columns for your custom attributes.  
 
 For example:
 
-| user:email                  | user:first | user:last  | user:favcolor  |
+| email                       | first      | last       | favcolor       |
 |:----------------------------|:-----------|:-----------|:---------------|
 |tim.tangelo@example.com      | Tim        | Tangelo    | blue           |
 |beth.blueberry@example.com   | Beth       | Blueberry  | black          |
@@ -48,32 +46,34 @@ For example:
 
 ### Reserved Attributes
 
-The following user attribute are reserved (and thus, can't be used to
+The following member attributes are reserved (and thus, can't be used to
 define your custom attributes).
 
 Memmber identification:
 
-*  **user:email**  member's primary email address
-*  **user:emailAltN** alternate addresses, where N is an optional integer (2, 3, ...) in
-*  **user:id** number used internally
+*  **email**  member's primary email address
+*  **emailAltN** alternate addresses, where N is an optional integer (2, 3, ...) in
+*  **id** number used internally
 
 Opted-in/-out status:
 
-*  **user:optedOut** indicates whether the member has opted out (or hasn't yet opted-in) to receiving emails.
+*  **optedOut** indicates whether the member has opted out (or hasn't yet opted-in) to receiving emails.
 
 Text notifications::
 
-*  **user:textingNumber**  mobile phone number for receiving text notifications of new group emails
-*  **user:textingCarrier** mobile phone carrier or service provider
+*  **textingNumber**  mobile phone number for receiving text notifications of new group emails
+*  **textingCarrier** mobile phone carrier or service provider
     (e.g., att, verizon, tmobile, ...)
-*  **user:textingMode** one of "none" (no notifications sent), "urgent"
+*  **textingMode** one of "none" (no notifications sent), "urgent"
     (notifications only sent for emails marked as "urgent"), or "all"
     (notifications sent for all group emails)
 
 Also, attributes may not begin with the following prefixes:
 
+*  **group:**    used for setting group memberhips and roles
+*  **list:**     used for setting list memberships
 *  **delivery:** used in exports for reporting delivery statistics
-*  **ignored:** indicates column should be ignored in import process
+*  **ignored:**  informational columnn which should be ignored in import process.
 
 
 ## Making Membership Changes
