@@ -13,16 +13,16 @@ quiet.quinn@example.com
 ```
 
 Then, create an email, attach the file (e.g., "emails.csv"), and send
-to your account address (e.g., "gvdev" as the account name):
+to your account address (e.g., "bingotech" as the account name):
 
 ```
-~import='emails.csv'~~gvdev@trivy.email
+~import='emails.csv'~~bingotech@trivy.email
 ```
 
 Want to see your resulting membership?  Send an email to:
 
 ```
-~export~~gvdev@trivy.email
+~export~~bingotech@trivy.email
 ```
 
 to get a membership export.
