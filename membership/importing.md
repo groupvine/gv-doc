@@ -30,6 +30,8 @@ to get a membership export.
 
 ## Member attributes
 
+[**should we remove the 'user:' prefix for all these??**]
+
 To define attributes (which can then be included in personalized,
 group emails), add a header row to your CSV import file, put the
 member email addresses under a "user:email" column, and then add
@@ -49,10 +51,11 @@ For example:
 The following user attribute are reserved (and thus, can't be used to
 define your custom attributes).
 
-Memmber email addresses:
+Memmber identification:
 
 *  **user:email**  member's primary email address
 *  **user:emailAlternateN** alternate addresses, where N is an integer (1, 2, ...)
+*  **user:id** number used internally
 
 Opted-in/-out status:
 
@@ -66,6 +69,11 @@ Text notifications::
 *  **user:textingMode** one of "none" (no notifications sent), "urgent"
     (notifications only sent for emails marked as "urgent"), or "all"
     (notifications sent for all group emails)
+
+Also, attributes may not begin with the following prefixes:
+
+*  **delivery:** used in exports for reporting delivery statistics
+*  **ignored:** indicates column should be ignored in import process
 
 
 ## Making Membership Changes
