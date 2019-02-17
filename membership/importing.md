@@ -54,7 +54,7 @@ define your custom attributes).
 Memmber identification:
 
 *  **user:email**  member's primary email address
-*  **user:emailAlternateN** alternate addresses, where N is an integer (1, 2, ...)
+*  **user:emailAltN** alternate addresses, where N is an optional integer (2, 3, ...) in
 *  **user:id** number used internally
 
 Opted-in/-out status:
