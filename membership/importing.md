@@ -44,6 +44,45 @@ For example:
 ### Reserved Attributes
 
 The following user attribute are reserved (and thus, can't be used to
-define your custom attributes):
+define your custom attributes).
+
+Memmber email addresses:
+
+*  *user:email*  member's primary email address
+
+* *user:emailAlternateN* alternate addresses, where N is an integer (1, 2, ...)
+
+Opted-in/-out status:
+
+*  *user:optedOut* indicates whether the member has opted out (or hasn't yet opted-in) to receiving emails.
+
+Text notifications::
+
+*  *user:textingNumber*  mobile phone number for receiving text notifications of new group emails
+
+* *user:textingCarrier* mobile phone carrier or service provider
+    (e.g., att, verizon, tmobile, ...)
+
+* *user:textingMode* one of "none" (no notifications sent), "urgent"
+    (notifications only sent for emails marked as "urgent"), or "all"
+    (notifications sent for all group emails)
 
 
+## Making Membership Changes
+
+To change existing member information, use "~importmod" (for
+import-modify) in the email address in place of "~import".
+
+
+## Groups & lists
+
+... [like GroupVine]
+
+
+## Other notes
+
+- Email addresses can imported using various formats, most commonly like
+  one of the following:
+  - tim.tangelo@example.com
+  - "Tim Tangelo" <tim.tangelo@example.com>
+  
