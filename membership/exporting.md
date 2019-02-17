@@ -12,7 +12,7 @@ For instance, for the "gvdev" account, send it to:
 ~export~~gvdev@trivy.email
 ```
 
-Your account membership will be shortly be returned to you in a reply email! <sup>&ast;</sup>
+Your account membership will be shortly be returned to you in a reply email!<sup>++</sup>
 
 
-&ast; assuming you are a verified account Admin!
+++ assuming you are a verified account Administrator!
