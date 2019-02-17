@@ -2,7 +2,9 @@
 
 ## Simple Example
 
-Contents of your file ```emails.csv```:
+Use a spreadsheet program (e.g., Excel, Numbers, Google Spreadsheet)
+to create and save a "CSV" file with a simple list of your recipient
+member's email addresses.  For example:
 
 ```
 tim.tangelo@example.com
@@ -10,7 +12,8 @@ beth.blueberry@example.com
 quiet.quinn@example.com
 ```
 
-Create an email, attach ```emails.csv```, and send to (using ```gvdev``` as the account name):
+Then, create an email, attach the file (e.g., "emails.csv"), and send
+to your account address (e.g., "gvdev" as the account name):
 
 ```
 ~import='emails.csv'~~gvdev@trivy.email
@@ -48,22 +51,19 @@ define your custom attributes).
 
 Memmber email addresses:
 
-*  *user:email*  member's primary email address
-
-* *user:emailAlternateN* alternate addresses, where N is an integer (1, 2, ...)
+*  **user:email**  member's primary email address
+*  **user:emailAlternateN** alternate addresses, where N is an integer (1, 2, ...)
 
 Opted-in/-out status:
 
-*  *user:optedOut* indicates whether the member has opted out (or hasn't yet opted-in) to receiving emails.
+*  **user:optedOut** indicates whether the member has opted out (or hasn't yet opted-in) to receiving emails.
 
 Text notifications::
 
-*  *user:textingNumber*  mobile phone number for receiving text notifications of new group emails
-
-* *user:textingCarrier* mobile phone carrier or service provider
+*  **user:textingNumber**  mobile phone number for receiving text notifications of new group emails
+*  **user:textingCarrier** mobile phone carrier or service provider
     (e.g., att, verizon, tmobile, ...)
-
-* *user:textingMode* one of "none" (no notifications sent), "urgent"
+*  **user:textingMode** one of "none" (no notifications sent), "urgent"
     (notifications only sent for emails marked as "urgent"), or "all"
     (notifications sent for all group emails)
 
