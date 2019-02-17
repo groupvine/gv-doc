@@ -40,3 +40,10 @@ For example:
 |beth.blueberry@example.com   | Beth       | Blueberry  | black          |
 |quiet.quinn@example.com      | Quiet      | Quinn      | red            |
 
+
+### Reserved Attributes
+
+The following user attribute are reserved (and thus, can't be used to
+define your custom attributes):
+
+
