@@ -1,6 +1,8 @@
-# Managing yoru Trivy Account Membership
+# Managing your Followers 
 
-* [Importing your memberhip](./importing.html)
+Trivy account membership...
+
+* [Importing your membershp](./importing.html)
 * [Exporting your memberhip](./exporting.html)
 * [Sub-groups and Lists ](./groupslists.html)
 

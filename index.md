@@ -1,10 +1,12 @@
 
-# Simple Start
+# Quick Start
 
 Do ....
 
 
-# Want to do more?
+# Want to know more?
 
-* [Managing your membership](./membership/index.html)
+* [Social email options](./social/index.html)
+* [Your published email gallery](./gallery/index.html)
+* [Managing your followers](./membership/index.html)
 
