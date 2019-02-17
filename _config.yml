@@ -1,5 +1,7 @@
-theme: jekyll-theme-minimal
-
 title: Trivy
-description: Simple Social Email
+logo: 
+description: Simple Social Email, by GroupVine
+show_downloads: false
+google_analytics:
+theme: jekyll-theme-minimal
 
