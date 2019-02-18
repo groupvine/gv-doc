@@ -1,3 +1,6 @@
+---
+layout: default
+---
 
 # Quick Start
 

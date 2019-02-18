@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Managing your Followers 
 
 Trivy account membership...
