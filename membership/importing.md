@@ -64,7 +64,7 @@ Identification:
 Text notifications::
 
 *  **textingNumber**  mobile phone number for receiving text notifications of new group emails,
-*  **textingCarrier** mobile phone carrier or service provider
+*  **textingService** mobile phone service provider
     (e.g., att, verizon, sprint, tmobile, ...),
 *  **textingMode** one of "none" (no notifications sent), "urgent"
     (notifications only sent for emails marked as "urgent"), or "all"
@@ -75,7 +75,7 @@ Also, member attributes may not begin with the following prefixes:
 *  **group:**    used for setting group memberhips and roles,
 *  **list:**     used for setting list memberships,
 *  **delivery:** used in exports for reporting delivery statistics, or
-*  **ignored:**  informational columnn which should be ignored in import process.
+*  **ignored:**  informational columnn, ignored by import process.
 
 
 ## Making Membership Changes
