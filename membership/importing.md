@@ -33,7 +33,7 @@ to get a membership export.
 To define attributes (which can then be included in personalized,
 group emails), add a header row to your CSV import file, put the
 member email addresses under an "email" column, and then add
-"<attribute name>" columns for your custom attributes.  
+"\<attribute name\>" columns for your custom attributes.  
 
 For example:
 
