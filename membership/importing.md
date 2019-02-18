@@ -49,15 +49,17 @@ For example:
 The following member attributes are reserved (and thus, can't be used to
 define your custom attributes).
 
-Member identification:
+Email-related:
 
 *  **email**  member's primary email address,
 *  **emailAltN** alternate addresses, where N is an optional integer (2, 3, ...),
-*  **id** number used internally.
-
-Opted-in/-out status:
-
 *  **optedOut** indicates whether the member has opted out (or hasn't yet opted-in) to receiving emails.
+
+Identification:
+
+*  **role** Member's role in the account, one of Admininistrator (or abbrev. 'Admin'), 
+   Editor, or Member (or abbrev. 'x')
+*  **id**   number used internally.
 
 Text notifications::
 
@@ -84,7 +86,18 @@ To make modifications of your existing member information, use
 
 ## Groups & lists
 
-... [like GroupVine]
+Group member roles:
+
+*  **Member** Receives and can engage with group emails (unless opted-out). 
+   (accepted abbreviation '**x**').
+*  **Editor**  Can also create and send group emails.
+*  **Administrator** Can also manage group membership and approve moderated 
+   group emails (accepted abbreviation '**Admin**').
+
+Group columns are in the format group:\<group name\> where  \<group name\> is just '.' 
+
+... [like GroupVine except column header field 'group:.' renamed 'role']
+
 
 
 ## Other notes
