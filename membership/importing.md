@@ -104,5 +104,5 @@ Group columns are in the format group:\<group name\> where  \<group name\> is ju
 - Email addresses can be imported either with or without an associated "display name", 
   for example, like:
   - tim.tangelo@example.com, or
-  - "Tim Tangelo" <tim.tangelo@example.com>
+  - "Tim Tangelo" \<tim.tangelo@example.com\>
   
