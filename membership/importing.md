@@ -49,7 +49,7 @@ For example:
 The following member attributes are reserved (and thus, can't be used to
 define your custom attributes).
 
-Email-related:
+Email delivery:
 
 *  **email**  member's primary email address,
 *  **emailAltN** alternate addresses, where N is an optional integer (2, 3, ...),
