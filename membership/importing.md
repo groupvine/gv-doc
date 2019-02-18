@@ -49,11 +49,11 @@ For example:
 The following member attributes are reserved (and thus, can't be used to
 define your custom attributes).
 
-Memmber identification:
+Member identification:
 
-*  **email**  member's primary email address
-*  **emailAltN** alternate addresses, where N is an optional integer (2, 3, ...) in
-*  **id** number used internally
+*  **email**  member's primary email address,
+*  **emailAltN** alternate addresses, where N is an optional integer (2, 3, ...),
+*  **id** number used internally.
 
 Opted-in/-out status:
 
@@ -61,25 +61,25 @@ Opted-in/-out status:
 
 Text notifications::
 
-*  **textingNumber**  mobile phone number for receiving text notifications of new group emails
+*  **textingNumber**  mobile phone number for receiving text notifications of new group emails,
 *  **textingCarrier** mobile phone carrier or service provider
-    (e.g., att, verizon, tmobile, ...)
+    (e.g., att, verizon, sprint, tmobile, ...),
 *  **textingMode** one of "none" (no notifications sent), "urgent"
     (notifications only sent for emails marked as "urgent"), or "all"
-    (notifications sent for all group emails)
+    (notifications sent for all group emails).
 
-Also, attributes may not begin with the following prefixes:
+Also, member attributes may not begin with the following prefixes:
 
-*  **group:**    used for setting group memberhips and roles
-*  **list:**     used for setting list memberships
-*  **delivery:** used in exports for reporting delivery statistics
+*  **group:**    used for setting group memberhips and roles,
+*  **list:**     used for setting list memberships,
+*  **delivery:** used in exports for reporting delivery statistics, or
 *  **ignored:**  informational columnn which should be ignored in import process.
 
 
 ## Making Membership Changes
 
-To change existing member information, use "~importmod" (for
-import-modify) in the email address in place of "~import".
+To make modifications of your existing member information, use
+"~importmod" in the email address in place of "~import".
 
 
 ## Groups & lists
