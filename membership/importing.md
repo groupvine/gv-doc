@@ -89,21 +89,20 @@ To make modifications of your existing member information, use
 Group member roles:
 
 *  **Member** Receives and can engage with group emails (unless opted-out). 
-   (accepted abbreviation '**x**').
+   (or abbreviation '**x**').
 *  **Editor**  Can also create and send group emails.
 *  **Administrator** Can also manage group membership and approve moderated 
-   group emails (accepted abbreviation '**Admin**').
+   group emails (or abbreviation '**Admin**').
 
 Group columns are in the format group:\<group name\> where  \<group name\> is just '.' 
 
-... [like GroupVine except column header field 'group:.' renamed 'role']
-
+... [like GroupVine v1 except column header field 'group:.' renamed 'role']
 
 
 ## Other notes
 
-- Email addresses can imported using various formats, most commonly like
-  one of the following:
-  - tim.tangelo@example.com
+- Email addresses can be imported either with or without an associated "display name", 
+  for example, like:
+  - tim.tangelo@example.com, or
   - "Tim Tangelo" <tim.tangelo@example.com>
   
