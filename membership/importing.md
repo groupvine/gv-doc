@@ -94,7 +94,9 @@ Group member roles:
 *  **Administrator** Can also manage group membership and approve moderated 
    group emails (or abbreviation '**Admin**').
 
-Group columns are in the format group:\<group name\> where  \<group name\> is just '.' 
+Group columns are in the format group:\<group name\> with the values
+giving each member's role in that group.  The member's role for the
+whole account is under the optional "role" column.
 
 ... [like GroupVine v1 except column header field 'group:.' renamed 'role']
 
