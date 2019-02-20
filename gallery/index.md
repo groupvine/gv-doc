@@ -1,7 +1,8 @@
 ---
 layout: default
+title: Email Gallery
 ---
 
-# Your Published Email Gallery
+# Published Email Gallery
 
 TBD

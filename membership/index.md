@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Membership
 ---
 
 # Managing your Followers 
