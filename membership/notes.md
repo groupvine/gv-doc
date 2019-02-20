@@ -1,5 +1,5 @@
 
-# Detailed & Advanced Notes related to Membership
+# Advanced Notes on Membership
 
 ## Importing and Alternate Address Handling
 
