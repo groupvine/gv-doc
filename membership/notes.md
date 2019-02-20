@@ -1,3 +1,7 @@
+---
+layout: default
+permalink: /membership/notes
+---
 
 # Advanced Notes on Membership
 

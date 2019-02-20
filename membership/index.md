@@ -8,7 +8,7 @@ permalink: /membership
 
 Trivy account membership...
 
-* [Importing your membershp](./importing.html)
-* [Exporting your memberhip](./exporting.html)
-* [Sub-groups and Lists ](./groupslists.html)
+* [Importing your membershp](./importing)
+* [Exporting your memberhip](./exporting)
+* [Sub-groups and Lists ](./groupslists)
 

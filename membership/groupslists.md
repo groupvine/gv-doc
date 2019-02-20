@@ -1,3 +1,9 @@
+---
+layout: default
+title: Membership Sub-groups & Lists
+permalink: /membership/groupslists
+---
+
 # Sub-groups and Lists
 
 [full-GroupVine accounts only, at least for sub-groups?]

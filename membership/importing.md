@@ -1,3 +1,9 @@
+---
+layout: default
+title: Membership Import
+permalink: /membership/importing
+---
+
 # Membership Import
 
 ## Simple Example
