@@ -5,11 +5,12 @@ title: Membership Import
 
 # Membership Import
 
-## Simple Example
+## Simple, addresses-only
 
-Use a spreadsheet program (e.g., Excel, Numbers, Google Spreadsheet)
-to create and save a "CSV" file with a simple list of your recipient
-member's email addresses.  For example:
+An easy way to add a list of recipients to your account is to use a
+spreadsheet program (e.g., Excel, Numbers, Google Spreadsheet) to
+create and save a "CSV" file that simply lists your recipient's email
+addresses, like the following:
 
 ```
 tim.tangelo@example.com
@@ -17,20 +18,28 @@ beth.blueberry@example.com
 quiet.quinn@example.com
 ```
 
-Then, create an email, attach the file (e.g., "emails.csv"), and send
-to your account address (e.g., "bingotech" as the account name):
+Then upload the spreadsheet using the **Import** button on your
+account's membership page.
+
+<div class="gv-only">
+
+Or, if you prefer, you can simply email the file to your account's
+server to be imported.  For example, if your account name is
+"bingotech" and your import file is names "followers.csv",
+then send an email with this file attached to address:
 
 ```
-~import='emails.csv'~~bingotech@trivy.email
+~import='followers.csv'~~bingotech@trivy.email
 ```
 
-Want to see your resulting membership?  Send an email to:
+And, to have your up-to-date account membership emailed to you, send 
+an email to:
 
 ```
 ~export~~bingotech@trivy.email
 ```
 
-to get a membership export.
+</div>
 
 
 ## Member attributes
