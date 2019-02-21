@@ -43,9 +43,7 @@ an email to:
 
 <div class="support">  <!-- START SUPPORT -->
 
-## Importing and Alternate Address Handling:
-
-When importing a nenw member, the imported member's primary ('email')
+When importing a nen member, the imported member's primary ('email')
 address is given a high priority when matching (or not matching)
 existing user records.
 

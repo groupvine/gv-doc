@@ -10,7 +10,7 @@ const supportBox = `
 `;
 
 const advBox = `
-<div class="advBox">
+<div class="advbox">
   <div class="title">Advanced note</div>
   <div class="contents"></div>          
 </div>
