@@ -6,7 +6,7 @@ layout: default
 # Trivy Quick Start
 </div>
 
-<div class="gv only">
+<div class="gv">
 # GroupVine Quick Start
 </div>
 
