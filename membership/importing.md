@@ -51,7 +51,7 @@ existing user records.
   by their primary or one of their alternate addresses), then that
   existing user record is used to represent this new account or group
   member.  If the importing member also has alternate
-  ('emailAlt\<N\>') address(es) that happen to match different
+  ('emailAlt\<N>') address(es) that happen to match different
   existing user records, those alternate addresses of the member being
   imported are ignored.
 
@@ -71,7 +71,7 @@ existing user records.
 To define attributes (which can then be included in personalized,
 group emails), add a header row to your CSV import file, put the
 member email addresses under an "email" column, and then add
-"\<attribute name\>" columns for your custom attributes.  
+"\<attribute name>" columns for your custom attributes.  
 
 For example:
 
@@ -167,11 +167,11 @@ memberships):
 
 Groups allow ...
 
-Group columns are in the format group:\<group name\> with the values
+Group columns are in the format group:\<group name> with the values
 giving each member's role in that group.  Whereas a member's role for
 the entire account is under the optional "role" column (see above),
 the member's role within a specific sub-group is uncer the 
-group:\<group name\> column.
+group:\<group name> column.
 
 ... [otherwise like GroupVine v1]
 
@@ -183,5 +183,5 @@ group:\<group name\> column.
 - Email addresses can be imported either with or without an associated "display name", 
   for example, like:
   - tim.tangelo@example.com, or
-  - "Tim Tangelo" \<tim.tangelo@example.com\>
+  - "Tim Tangelo" \<tim.tangelo@example.com>
   
