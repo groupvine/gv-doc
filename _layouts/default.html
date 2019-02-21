@@ -25,7 +25,31 @@
   <body>
     <div class="wrapper">
       <header>
-        <h1><a href="{{ "/" | absolute_url }}?view=GV-SET-VIEW"> <span class="gv-service">Trivy</span></a></h1>
+        <h1>
+          <a href="{{ "/" | absolute_url }}?view=GV-SET-VIEW"> 
+            <span class="trivy only">Trivy Docs</span>  
+            <span class="gv adv support only">GroupVine Docs</span>  
+          </a>
+        </h1>
+
+        <div>
+          <div class="trivy only">
+            <ul>
+              <li>Simple</li>
+              <li>Social</li>
+              <li>Email</li>
+            </ul>
+          </div>
+          <div class="gv adv support only">
+            Simple email, socially-aware and designed to engage, for
+            <ul>
+              <li>People with followers</li>
+              <li>People who inspire</li>
+              <li>People who organize</li>
+            </ul>
+          </div>
+        </div>
+
         
         {% if site.logo %}
           <img src="{{site.logo | relative_url}}" alt="Logo" />
