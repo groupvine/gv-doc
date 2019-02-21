@@ -5,7 +5,7 @@ $(document).ready( function() {
     $('.gv-only').each( function() {
         let md   = $(this).text();
         let html = converter.makeHtml(md);
-        $(this).text(html);
+        $(this).html(html);
     });
 
     // Hide some content depending on query args
