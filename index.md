@@ -30,7 +30,7 @@ layout: default
 
 # Temporary -- Switch to:
 
-* [Trivy documentation](./view=trivy)
-* [Full GroupVine documentation](./view=gv)
-* [Advanced GroupVine documentation](./view=adv)
-* [Support documentation](./view=support)
+* [Trivy documentation](./?view=trivy)
+* [Full GroupVine documentation](./?view=gv)
+* [Advanced GroupVine documentation](./?view=adv)
+* [Support documentation](./?view=support)
