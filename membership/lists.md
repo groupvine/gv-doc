@@ -5,8 +5,9 @@ title: Membership Lists
 
 # Membership Lists
 
-For the more adventerous, lists give you flexibility in how you can
-target email recipients.  Lists can:
+Lists give you flexibility in how you can target an email's
+receipients list to a specific interest group or classification
+sub-set of your membership.  Lists:
 
 * Allow cross-account identification of your members
 * Can easily be added in membership imports
@@ -24,4 +25,14 @@ send an email to all the musicians using the address:
 ```
 ~list=musiclovers~~bingotech@trivy.email
 ```
+
+<div class="adv">
+
+For an account with sub-groups
+([see information on sub-groups here](./groups?view=GV-SET-VIEW)), you'll be 
+pleased to know that group Administrators can define their own lists, which
+will then apply to that group, as well as any sub-groups of that group.  This
+also means that Lists defined at the account level apply to all sub-groups 
+in the account.
+</div>
 
