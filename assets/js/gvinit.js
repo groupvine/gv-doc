@@ -1,6 +1,7 @@
-let converter = new showdown.Converter();
 
 $(document).ready( function() {
+    let converter = new showdown.Converter();
+
     $('.gv-only').each( function() {
         let md   = $(this).text();
         let html = converter.makeHtml(md);
