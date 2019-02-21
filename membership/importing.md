@@ -165,12 +165,15 @@ memberships):
 
 ## Groups
 
+Groups allow ...
 
 Group columns are in the format group:\<group name\> with the values
-giving each member's role in that group.  The member's role for the
-whole account is under the optional "role" column.
+giving each member's role in that group.  Whereas a member's role for
+the entire account is under the optional "role" column (see above),
+the member's role within a specific sub-group is uncer the 
+group:\<group name\> column.
 
-... [like GroupVine v1 except column header field 'group:.' renamed 'role']
+... [otherwise like GroupVine v1]
 
 </div>   <!-- END GROUPVINE -->
 
