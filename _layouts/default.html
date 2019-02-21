@@ -32,27 +32,21 @@
           </a>
         </h1>
 
-        <div>
-          <div class="trivy only">
-            <ul>
-              <li>Simple</li>
-              <li>Social</li>
-              <li>Email</li>
-            </ul>
-          </div>
-          <div class="gv adv support only">
-            Simple email, socially-aware and designed to engage, for
-            <ul>
-              <li>People with followers</li>
-              <li>People who inspire</li>
-              <li>People who organize</li>
-            </ul>
-          </div>
+        <div class="trivy only">
+          Simple<br/>
+          Social<br/>
+          Email<br/>
+        </div>
+        <div class="gv adv support only">
+          Simple email, socially-aware and designed to engage, for:<br/>
+          &nbsp;&nbsp; People with followers<br/>
+          &nbsp;&nbsp; People who inspire<br/>
+          &nbsp;&nbsp; People who organize<br/>
         </div>
 
         
         {% if site.logo %}
-          <img src="{{site.logo | relative_url}}" alt="Logo" />
+          <!-- <img src="{{site.logo | relative_url}}" alt="Logo" />  -->
         {% endif %}
 
         <p>{{ site.description | default: site.github.project_tagline }}</p>
