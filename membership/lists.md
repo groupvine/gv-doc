@@ -34,5 +34,6 @@ pleased to know that group Administrators can define their own lists, which
 will then apply to that group, as well as any sub-groups of that group.  This
 also means that Lists defined at the account level apply to all sub-groups 
 in the account.
+
 </div>
 
