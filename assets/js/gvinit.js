@@ -4,14 +4,14 @@
 
 const supportBox = `
 <div class="supportbox">
-  <div class="title">Support notes</div>
+  <div class="title">SUPPORT NOTE</div>
   <div class="contents"></div>          
 </div>
 `;
 
 const advBox = `
 <div class="advBox">
-  <div class="title">Advanced notes</div>
+  <div class="title">Advanced note</div>
   <div class="contents"></div>          
 </div>
 `;
