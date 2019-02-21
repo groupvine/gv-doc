@@ -14,6 +14,18 @@ membership and target email recipients.  Sub-groups can have:
 * Multiple sub-group levels are possible, members of a sub-group are
   automatically a member of the parent (grand-parent, ..) groups.
 
+<div class="support"> 
+Remember that group membership applies "upward" from that group's
+sub-groups (or sub-sub-groups).  So a group Member (or Editor or
+Admin) in a child sub-group will automatically be a Member in the
+current group.
+
+For example, if you're an Editor of the "classclowns" sub-group of the
+"2ndgrade" group in the "central valley" account, then you'll be at
+least a Member of the "2ndgrade".
+</div>
+
+
 ## Example
 
 For example, for a main group account named "bingotech", you might
@@ -41,3 +53,15 @@ Or, if you only want to send it to musicloving advisors, use:
 
 Don't worry, you can always use the address helper on the site.
 
+<div class="adv">
+Note that role privileges apply "downward." So an
+Administrator at the account level will have Admin privileges
+throughtout all sub-groups in the account, or an Administrator of a
+"2ndgrade" sub-group also have Admin privileges in its "classclowns"
+sub-group.   
+
+However, one sidenote is that only Administrators that are explicit
+Admins for that specific group are are listed under the "group:"
+columns of membership Exports, and only explicit group Admins receive
+the group's moderation request emails.
+</div>
