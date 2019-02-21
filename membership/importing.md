@@ -5,7 +5,7 @@ title: Membership Import
 
 # Membership Import
 
-## Simple, addresses-only
+## Recipent addresses-only
 
 An easy way to add a list of recipients to your account is to use a
 spreadsheet program (e.g., Excel, Numbers, Google Spreadsheet) to
