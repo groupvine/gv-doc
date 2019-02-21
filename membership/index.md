@@ -5,8 +5,6 @@ title: Membership
 
 # Managing your Followers 
 
-Trivy account membership...
-
 <div class="trivy only">
 * [Importing your membershp](./importing?view=GV-SET-VIEW)
 * [Exporting your memberhip](./exporting?view=GV-SET-VIEW)
