@@ -65,9 +65,9 @@ $(document).ready( function() {
     }
 
     $('a').each( function () {
-        let src = $(this).attr('src');
+        let src = $(this).attr('href');
         src = src.replace(/view=GV-SET-VIEW/i, 'view=' + mode);
-        $(this).attr('src', src);
+        $(this).attr('href', src);
     });
 
     mode = mode.toLowerCase();
