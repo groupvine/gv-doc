@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Membership Export
-permalink: /membership/exporting
 ---
 
 

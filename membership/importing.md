@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Membership Import
-permalink: /:path/:name
 ---
 
 # Membership Import
