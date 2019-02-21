@@ -82,17 +82,17 @@ For example:
 |quiet.quinn@example.com      | Quiet      | Quinn      | red            |
 
 You can now include these variables in your email surrounded by 
-```{% raw %} {{ {%- endraw -%} ... {%- raw -%} }} {% endraw %}```, 
+```{% raw %} {{ {% endraw %} ... {% raw %} }} {% endraw %}```, 
 such as:
 
 ```
 Hello {% raw %}{{{% endraw %} first {% raw %}}}{% endraw %}, 
 
-We see a "{% raw %} {{ {% endraw %} favcolor {% raw %} }} {% endraw %}"
-person, so look for your {% raw %} {{ {% endraw %} favcolor 
-{% raw %} }} {% endraw %} BingoTech bingo board coming in the mail soon!
+We see you're a "{% raw %}{{ {% endraw %} favcolor {% raw %} }}{% endraw %}" person,
+so look for your {% raw %} {{ {% endraw %} favcolor {% raw %} }} {% endraw %} BingoTech
+bingo board coming to your mail box soon!
 
-Bingo on!
+Bingo!
 ```
 
 Note that a small number of attribute names are reserved, such as 'email'.  
