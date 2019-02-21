@@ -2,10 +2,6 @@
 layout: default
 ---
 
-| Switch to Documentation Mode:  |
-| [Trivy](./?view=trivy) | [Full GroupVine](./?view=gv) | [Advanced GroupVine](./?view=adv) | [Support documentation](./?view=support) |
-
-
 <div class="trivy only">
 # Trivy Quick Start
 </div>
