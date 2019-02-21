@@ -33,6 +33,7 @@ function queryStr(key) {
 $(document).ready( function() {
     let converter = new showdown.Converter();
     converter.setFlavor('github');
+    converter.setOption('simpleLineBreaks', false);
 
     // Unfortunately, the github-pages/jekyll converter doesn't
     // operate within html elements like:
