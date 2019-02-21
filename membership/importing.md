@@ -51,7 +51,7 @@ existing user records.
   by their primary or one of their alternate addresses), then that
   existing user record is used to represent this new account or group
   member.  If the importing member also has alternate
-  ('emailAlt\<N>') address(es) that happen to match different
+  ('emailAlt[N]') address(es) that happen to match different
   existing user records, those alternate addresses of the member being
   imported are ignored.
 
