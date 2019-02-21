@@ -25,7 +25,7 @@
   <body>
     <div class="wrapper">
       <header>
-        <h1><a href="{{ "/" | absolute_url }}"> <span class="gv-service">Trivy</span></a></h1>
+        <h1><a href="{{ "/" | absolute_url }}?view=GV-SET-VIEW"> <span class="gv-service">Trivy</span></a></h1>
         
         {% if site.logo %}
           <img src="{{site.logo | relative_url}}" alt="Logo" />
@@ -68,7 +68,7 @@
       </section>
       <footer>
         {% if site.github.is_project_page %}
-        <p>Trivy is brought to you by GroupVine<sup>&trade;</sup></a></p>
+        <!-- <p>Trivy is brought to you by GroupVine<sup>&trade;</sup></a></p> -->
         {% endif %}
 <!--
         <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
