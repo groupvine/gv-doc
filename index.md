@@ -12,11 +12,11 @@ layout: default
 
 ... do
 
-<div class="adv only">
+<div class="adv">
 Note that you're viewing the documentation with advanced notes included.
 </div>
 
-<div class="support only">
+<div class="support">
 Note that you're viewing the documentation in GroupVine "support" mode.
 </div>
 
