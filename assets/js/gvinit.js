@@ -1,4 +1,22 @@
 //
+// Special content boxes
+//
+
+const supportBox = `
+<div class="supportbox">
+  <div class="title">Support notes</div>
+  <div class="contents"></div>          
+</div>
+`;
+
+const advBox = `
+<div class="advBox">
+  <div class="title">Advanced notes</div>
+  <div class="contents"></div>          
+</div>
+`;
+
+//
 // queryStr() function from:
 // https://stackoverflow.com/questions/7731778/get-query-string-parameters-with-jquery
 //
@@ -25,7 +43,16 @@ $(document).ready( function() {
     $('.trivy, .gv, .adv, .support').each( function() {
         let md   = $(this).text();
         let html = converter.makeHtml(md);
-        $(this).html(html);
+
+        if ($(this).hasClass('adv')) {
+            $(this).html(advBox);
+            $(this).find('contents').html(html);
+        } else if ($(this).hasClass('support')) {
+            $(this).html(supportBox);
+            $(this).find('contents').html(html);
+        } else {
+            $(this).html(html);
+        }
     });
 
     //
