@@ -46,10 +46,10 @@ $(document).ready( function() {
 
         if ($(this).hasClass('adv')) {
             $(this).html(advBox);
-            $(this).find('contents').html(html);
+            $(this).find('.contents').html(html);
         } else if ($(this).hasClass('support')) {
             $(this).html(supportBox);
-            $(this).find('contents').html(html);
+            $(this).find('.contents').html(html);
         } else {
             $(this).html(html);
         }

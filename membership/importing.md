@@ -21,7 +21,7 @@ quiet.quinn@example.com
 Then upload the spreadsheet using the **Import** button on your
 account's membership page.
 
-<div class="gv-only">
+<div class="gv">
 
 Or, if you prefer, you can simply email the file to your account's
 server to be imported.  For example, if your account name is
