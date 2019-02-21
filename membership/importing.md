@@ -81,14 +81,16 @@ For example:
 |beth.blueberry@example.com   | Beth       | Blueberry  | black          |
 |quiet.quinn@example.com      | Quiet      | Quinn      | red            |
 
-You can now include these variables in your email surrounded by ```\{\{ ... \}\}```, 
+You can now include these variables in your email surrounded by 
+```{% raw %} {{ {% endraw %} ... {% raw %} }} {% endraw %}```, 
 such as:
 
 ```
-Hello \{\{ first \}\}, 
+Hello {% raw %}{{{% endraw %} first {% raw %}}}{% endraw %}, 
 
-We see a "\{\{ favcolor \}\}" person, so look for your \{\{ favcolor \}\} BingoTech
-bingo board coming in the mail soon!
+We see a "{% raw %} {{ {% endraw %} favcolor {% raw %} }} {% endraw %}"
+person, so look for your {% raw %} {{ {% endraw %} favcolor 
+{% raw %} }} {% endraw %} BingoTech bingo board coming in the mail soon!
 
 Bingo on!
 ```
