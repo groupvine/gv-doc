@@ -80,14 +80,14 @@ $(document).ready( function() {
     //
 
     switch(mode) {
-    case 'trivy':
+    case 'gv':
         $('.trivy').show();
-        $('.gv').hide();
+        $('.gv').show();
         $('.adv').hide();
         $('.support').hide();
 
         $('.only').hide();
-        $('.trivy.only').show();
+        $('.gv.only').show();
     case 'adv':
         $('.trivy').show();
         $('.gv').show();
@@ -96,6 +96,7 @@ $(document).ready( function() {
 
         $('.only').hide();
         $('.adv.only').show();
+        break;
     case 'support':
         $('.trivy').show();
         $('.gv').show();
@@ -104,15 +105,17 @@ $(document).ready( function() {
 
         $('.only').hide();
         $('.support.only').show();
-    case 'gv':
+        break;
+    case 'trivy':
     default:
         $('.trivy').show();
-        $('.gv').show();
+        $('.gv').hide();
         $('.adv').hide();
         $('.support').hide();
 
         $('.only').hide();
-        $('.gv.only').show();
+        $('.trivy.only').show();
+        break;
     }
 });
 
