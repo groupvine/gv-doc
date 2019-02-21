@@ -161,7 +161,7 @@ memberships):
 |quiet.quinn@example.com      |            | x          |
 
 
-<div>   <!-- START GROUPVINE -->
+<div class="gv">   <!-- START GROUPVINE -->
 
 ## Groups
 
