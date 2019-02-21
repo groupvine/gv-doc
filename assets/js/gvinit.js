@@ -88,6 +88,7 @@ $(document).ready( function() {
 
         $('.only').hide();
         $('.gv.only').show();
+        break;
     case 'adv':
         $('.trivy').show();
         $('.gv').show();
@@ -115,7 +116,6 @@ $(document).ready( function() {
 
         $('.only').hide();
         $('.trivy.only').show();
-        break;
     }
 });
 
