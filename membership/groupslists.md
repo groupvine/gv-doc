@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Membership Sub-groups & Lists
-permalink: /membership/groupslists
 ---
 
 # Sub-groups and Lists
