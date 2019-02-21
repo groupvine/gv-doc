@@ -2,6 +2,10 @@
 layout: default
 ---
 
+| Switch to Documentation Mode:  |
+| [Trivy](./?view=trivy) | [Full GroupVine](./?view=gv) | [Advanced GroupVine](./?view=adv) | [Support documentation](./?view=support) |
+
+
 <div class="trivy only">
 # Trivy Quick Start
 </div>
@@ -29,9 +33,4 @@ Note that you're viewing the documentation in GroupVine "support" mode.
 * [Managing your followers](./membership?view=GV-SET-VIEW)
 
 
-# Temporary -- Switch to:
 
-* [Trivy documentation](./?view=trivy)
-* [Full GroupVine documentation](./?view=gv)
-* [Advanced GroupVine documentation](./?view=adv)
-* [Support documentation](./?view=support)
