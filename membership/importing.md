@@ -144,8 +144,6 @@ shown to give a more complete import example, but aren't necessary).
 |quiet.quinn@example.com      | Quiet      | Quinn      | red            | Editor  |
 
 
-</div>   <!-- END GROUPVINE -->
-
 
 ## Lists
 
@@ -162,8 +160,6 @@ memberships):
 |beth.blueberry@example.com   | x          | x          |
 |quiet.quinn@example.com      |            | x          |
 
-
-<div class="gv">   <!-- START GROUPVINE -->
 
 ## Groups
 
