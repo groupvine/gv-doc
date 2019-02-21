@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Membership
-permalink: /membership
 ---
 
 # Managing your Followers 
