@@ -64,21 +64,18 @@ $(document).ready( function() {
         mode = 'gv';
     }
 
+    mode = mode.toLowerCase();
+
     $('a').each( function () {
         let src = $(this).attr('href');
         src = src.replace(/view=GV-SET-VIEW/i, 'view=' + mode);
         $(this).attr('href', src);
     });
 
-    mode = mode.toLowerCase();
-
     //
     // Hide sections that shouldn't be viewed according to
     // the view mode.
     //
-
-    // Start with all 'only' sections hidden
-    $('.only').hide();
 
     switch(mode) {
     case 'trivy':
@@ -87,6 +84,7 @@ $(document).ready( function() {
         $('.adv').hide();
         $('.support').hide();
 
+        $('.only').hide();
         $('.trivy.only').show();
     case 'adv':
         $('.trivy').show();
@@ -94,6 +92,7 @@ $(document).ready( function() {
         $('.adv').show();
         $('.support').hide();
 
+        $('.only').hide();
         $('.adv.only').show();
     case 'support':
         $('.trivy').show();
@@ -101,6 +100,7 @@ $(document).ready( function() {
         $('.adv').show();
         $('.support').show();
 
+        $('.only').hide();
         $('.support.only').show();
     case 'gv':
     default:
@@ -109,6 +109,7 @@ $(document).ready( function() {
         $('.adv').hide();
         $('.support').hide();
 
+        $('.only').hide();
         $('.gv.only').show();
     }
 });

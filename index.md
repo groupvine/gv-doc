@@ -3,20 +3,22 @@ layout: default
 ---
 
 <div class="trivy only">
-# GroupVine service Quick Start
+# Trivy Quick Start
 </div>
 
 <div class="gv only">
-# GroupVine service Quick Start
+# GroupVine Quick Start
 </div>
 
 <div class="adv only">
-# GroupVine service (Advanced) Quick Start
+# GroupVine (Advanced) Quick Start
 </div>
 
 <div class="support only">
-# GroupVine service (Support mode) Quick Start
+# GroupVine (Support mode) Quick Start
 </div>
+
+... do
 
 
 # Want to know more?

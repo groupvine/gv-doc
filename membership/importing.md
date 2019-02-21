@@ -21,9 +21,9 @@ quiet.quinn@example.com
 Then upload the spreadsheet using the **Import** button on your
 account's membership page.
 
-<div class="gv">
+<div class="adv">
 
-Or, if you prefer, you can simply email the file to your account's
+Or, if you prefer, you can email the file to your account's
 server to be imported.  For example, if your account name is
 "bingotech" and your import file is names "followers.csv",
 then send an email with this file attached to address:
