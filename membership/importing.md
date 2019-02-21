@@ -82,7 +82,7 @@ For example:
 |quiet.quinn@example.com      | Quiet      | Quinn      | red            |
 
 You can now include these variables in your email surrounded by 
-```{% raw %} {{ {% endraw %} ... {% raw %} }} {% endraw %}```, 
+```{% raw %} {{ {%- endraw -%} ... {%- raw -%} }} {% endraw %}```, 
 such as:
 
 ```
