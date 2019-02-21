@@ -45,6 +45,12 @@ $(document).ready( function() {
         let md   = $(this).text();
         let html = converter.makeHtml(md);
 
+        if ($(this).hasClass('trivy') ||
+            $(this).hasClass('gv')) {
+            // For sections that have multiple classes
+            return;
+        }
+
         if ($(this).hasClass('adv')) {
             $(this).html(advBox);
             $(this).find('.contents').html(html);
