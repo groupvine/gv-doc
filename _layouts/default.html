@@ -34,17 +34,21 @@
 
         <div class="trivy only html">
           <div style="margin:20px 0 10px 0">
-            <b>Simple<br/>
-               Social<br/>
-               Email</b><br/>
+            <div style="margin-left:10px">
+              <b>Simple<br/>
+                 Social<br/>
+                 Email</b><br/>
+            </div>
           </div>
         </div>
         <div class="gv adv support only html">
           <div style="margin:20px 0 10px 0">
             <b>Simple email, socially-aware and designed to engage, for:</b>
-              People with followers<br/>
-              People who inspire<br/>
-              People who organize.<br/>
+              <div style="margin-left:10px">
+                People with followers<br/>
+                People who inspire<br/>
+                People who organize.<br/>
+              <div>
           </div>
         </div>
 
@@ -53,9 +57,9 @@
           <img src="{{site.logo | relative_url}}" alt="Logo" />
         {% endif %}
 
+<!--
         <p>{{ site.description | default: site.github.project_tagline }}</p>
 
-<!--
         {% if site.github.is_project_page %}
         <p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ site.github.repository_nwo }}</small></a></p>
         {% endif %}
