@@ -81,50 +81,46 @@ For example:
 |beth.blueberry@example.com   | Beth       | Blueberry  | black          |
 |quiet.quinn@example.com      | Quiet      | Quinn      | red            |
 
+You can now include these variables in your email surrounded by ```{{ ... }}```, 
+such as:
 
-### Reserved Attributes
+```
+Hello {{ first }}, 
 
-The following member attributes are reserved (and thus, can't be used to
-define your custom attributes).
+We see a "{{ favcolor }}" person, so look for your {{ favcolor }} BingoTech
+bingo board coming in the mail soon!
 
-Email delivery:
+Bingo on!
+```
 
-*  **email**  member's primary email address,
-*  **emailAltN** alternate addresses, where N is an optional integer (2, 3, ...),
-*  **optedOut** indicates whether the member has opted out (or hasn't yet opted-in) to receiving emails.
-
-Identification:
-
-*  **role** Member's role in the account, one of Admininistrator (or abbrev. 'Admin'), 
-   Editor, or Member (or abbrev. 'x')
-*  **id**   number used internally.
-
-Text notifications::
-
-*  **textingNumber**  mobile phone number for receiving text notifications of new group emails,
-*  **textingService** mobile phone service provider
-    (e.g., att, verizon, sprint, tmobile, ...),
-*  **textingMode** one of "none" (no notifications sent), "urgent"
-    (notifications only sent for emails marked as "urgent"), or "all"
-    (notifications sent for all group emails).
-
-Also, member attributes may not begin with the following prefixes:
-
-*  **group:**    used for setting group memberhips and roles,
-*  **list:**     used for setting list memberships,
-*  **delivery:** used in exports for reporting delivery statistics, or
-*  **ignored:**  informational columnn, ignored by import process.
+Note that a small number of attribute names are reserved, such as 'email'.  
+You can checkout the full list [here](./reservedatts?view=GV-SET-VIEW).
 
 
 ## Making Membership Changes
 
-To make modifications of your existing member information, use
-"~importmod" in the email address in place of "~import".
+By default, an **Import** will only make member additions or fill-in
+information that's missing.  To make modifications of your existing
+member information, use the **Import Modifications** button.
+
+<div class="adv">   <!-- START ADVANCED -->
+
+Or, if sending an email, replace ```~import``` with ```~importmod``` in the email
+address.  So, the above address would instead be:
+
+```
+~importmod='followers.csv'~~bingotech@trivy.email
+```
+
+</div>   <!-- END ADVANCED -->
 
 
-## Groups & lists
+<div class="gv">   <!-- START GROUPVINE -->
 
-Group member roles:
+## Roles
+
+By default, new recipients are given the "Member" role, however, you
+can also have an aribtrary number of Administrators and Editors.
 
 *  **Member** Receives and can engage with group emails (unless opted-out). 
    (or abbreviation '**x**').
@@ -132,11 +128,49 @@ Group member roles:
 *  **Administrator** Can also manage group membership and approve moderated 
    group emails (or abbreviation '**Admin**').
 
+To set or change a member's role, specify each member's role in a
+"role" column, like this (the first, last, and favcolor custom attributes are just 
+shown to give a more complete import example, but aren't necessary).
+
+
+| email                       | first      | last       | favcolor       |  role   |
+|:----------------------------|:-----------|:-----------|:---------------|:--------|
+|tim.tangelo@example.com      | Tim        | Tangelo    | blue           | Admin   |
+|beth.blueberry@example.com   | Beth       | Blueberry  | black          |   x     |
+|quiet.quinn@example.com      | Quiet      | Quinn      | red            | Editor  |
+
+
+</div>   <!-- END GROUPVINE -->
+
+
+## Lists
+
+Lists allow you to target emails by certain sub-sets of recipients.
+For example, the following import would specify which members are on
+one of two lists (this time, we've simplified the import, removing the
+custom attributes and role columns, to just update the list
+memberships):
+
+
+| email                       | musicians  | golfers    |
+|:----------------------------|:-----------|:-----------|
+|tim.tangelo@example.com      | x          |            |
+|beth.blueberry@example.com   | x          | x          |
+|quiet.quinn@example.com      |            | x          |
+
+
+<div>   <!-- START GROUPVINE -->
+
+## Groups
+
+
 Group columns are in the format group:\<group name\> with the values
 giving each member's role in that group.  The member's role for the
 whole account is under the optional "role" column.
 
 ... [like GroupVine v1 except column header field 'group:.' renamed 'role']
+
+</div>   <!-- END GROUPVINE -->
 
 
 ## Other notes
