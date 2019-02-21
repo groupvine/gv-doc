@@ -67,6 +67,18 @@ $(document).ready( function() {
 
     mode = mode.toLowerCase();
 
+    // Change service name whereever found
+
+    $('.gv-service').each( function() {
+        if (mode === 'trivy') {
+            $(this).html("Trivy");
+        } else {
+            $(this).html("GroupVine");
+        }
+    });
+
+    // Set view mode on all internal links
+
     $('a').each( function () {
         let src = $(this).attr('href');
         if (src) {
