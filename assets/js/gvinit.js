@@ -61,15 +61,17 @@ $(document).ready( function() {
 
     let mode = queryStr('view');
     if (!mode || !mode.trim()) {
-        mode = 'gv';
+        mode = 'trivy';
     }
 
     mode = mode.toLowerCase();
 
     $('a').each( function () {
         let src = $(this).attr('href');
-        src = src.replace(/view=GV-SET-VIEW/i, 'view=' + mode);
-        $(this).attr('href', src);
+        if (src) {
+            src = src.replace(/view=GV-SET-VIEW/i, 'view=' + mode);
+            $(this).attr('href', src);
+        }
     });
 
     //

@@ -21,7 +21,7 @@ quiet.quinn@example.com
 Then upload the spreadsheet using the **Import** button on your
 account's membership page.
 
-<div class="adv">
+<div class="adv">  <!-- START ADVANCED -->
 
 Or, if you prefer, you can email the file to your account's
 server to be imported.  For example, if your account name is
@@ -39,7 +39,7 @@ an email to:
 ~export~~bingotech@trivy.email
 ```
 
-</div>
+</div>  <!-- END ADVANCED -->
 
 
 ## Member attributes
