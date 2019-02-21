@@ -71,7 +71,7 @@ existing user records.
 To define attributes (which can then be included in personalized,
 group emails), add a header row to your CSV import file, put the
 member email addresses under an "email" column, and then add
-"\<attribute name>" columns for your custom attributes.  
+"[attribute name]" columns for your custom attributes.  
 
 For example:
 
@@ -167,11 +167,11 @@ memberships):
 
 Groups allow ...
 
-Group columns are in the format group:\<group name> with the values
+Group columns are in the format group:[group name] with the values
 giving each member's role in that group.  Whereas a member's role for
 the entire account is under the optional "role" column (see above),
 the member's role within a specific sub-group is uncer the 
-group:\<group name> column.
+group:[group name] column.
 
 ... [otherwise like GroupVine v1]
 
