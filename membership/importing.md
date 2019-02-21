@@ -48,20 +48,20 @@ address is given a high priority when matching (or not matching)
 existing user records.
 
 * When that primary address matches any existing user record (whether
-by their primary or one of their alternate addresses), then that
-existing user record is used to represent this new account or group
-member.  If the importing member also has alternate
-('emailAlt[N]') address(es) that happen to match different
-existing user records, those alternate addresses of the member being
-imported are ignored.
+  by their primary or one of their alternate addresses), then that
+  existing user record is used to represent this new account or group
+  member.  If the importing member also has alternate
+  ('emailAlt[N]') address(es) that happen to match different
+  existing user records, those alternate addresses of the member being
+  imported are ignored.
 
 * When that primary address does not match any existing user record,
-then a **new** user record is created based on this primary address,
-whether or not the member being imported has any alternate addresses
-that do match existing user records.  This new user record will also
-have the alternate addresses of the member being imported that don't
-match any existing user's addresses (the ones that do match existing
-user records will be ignored).
+  then a **new** user record is created based on this primary address,
+  whether or not the member being imported has any alternate addresses
+  that do match existing user records.  This new user record will also
+  have the alternate addresses of the member being imported that don't
+  match any existing user's addresses (the ones that do match existing
+  user records will be ignored).
 
 </div>  <!-- END SUPPORT -->
 
@@ -71,7 +71,7 @@ user records will be ignored).
 To define attributes (which can then be included in personalized,
 group emails), add a header row to your CSV import file, put the
 member email addresses under an "email" column, and then add
-"[attribute name]" columns for your custom attributes.  
+"[attribute name]" columns for your custom attributes.
 
 For example:
 
@@ -95,7 +95,7 @@ bingo board coming to your mail box soon!
 Bingo!
 ```
 
-Note that a small number of attribute names are reserved, such as 'email'.  
+Note that a small number of attribute names are reserved, such as 'email'.
 You can checkout the full list [here](./reservedatts?view=GV-SET-VIEW).
 
 
@@ -124,13 +124,13 @@ address.  So, the above address would instead be:
 By default, new recipients are given the "Member" role, however, you
 can also have an aribtrary number of Administrators and Editors.
 
-*  **Member** Receives and can engage with group emails (unless opted-out). 
-(or abbreviation '**x**').
+* **Member** Receives and can engage with group emails (unless opted-out).
+  (or abbreviation '**x**').
 
-*  **Editor**  Can also create and send group emails.
+* **Editor**  Can also create and send group emails.
 
-*  **Administrator** Can also manage group membership and approve moderated 
-group emails (or abbreviation '**Admin**').
+* **Administrator** Can also manage group membership and approve moderated
+  group emails (or abbreviation '**Admin**').
 
 To set or change a member's role, specify each member's role in a
 "role" column, like this (the first, last, and favcolor custom attributes are just 
@@ -188,4 +188,4 @@ for example, like:
   - tim.tangelo@example.com, or
 
   - "Tim Tangelo" \<tim.tangelo@example.com>
-  
+
