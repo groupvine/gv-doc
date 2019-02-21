@@ -10,15 +10,16 @@ layout: default
 # GroupVine Quick Start
 </div>
 
+... do
+
 <div class="adv only">
-# GroupVine (Advanced) Quick Start
+Note that you're viewing the documentation with advanced notes included.
 </div>
 
 <div class="support only">
-# GroupVine (Support mode) Quick Start
+Note that you're viewing the documentation in GroupVine "support" mode.
 </div>
 
-... do
 
 
 # Want to know more?
