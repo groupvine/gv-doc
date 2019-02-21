@@ -42,6 +42,11 @@ $(document).ready( function() {
     // here for our mode-specific sections.
 
     $('.trivy, .gv, .adv, .support').each( function() {
+        if ($(this).hasClass('html')) {
+            // No convrsion, already in html
+            return;
+        }
+
         let md   = $(this).text();
         let html = converter.makeHtml(md);
 
