@@ -13,9 +13,9 @@ create and save a "CSV" file that simply lists your recipient's email
 addresses, like the following:
 
 ```
-tim.tangelo@example.com
 beth.blueberry@example.com
 quiet.quinn@example.com
+"Tim Tangelo" \<tim.tangelo@example.com>
 ```
 
 Then upload the spreadsheet using the **Import** button on your
@@ -175,13 +175,4 @@ group:[group name] column.
 
 </div>   <!-- END GROUPVINE -->
 
-
-## Other notes
-
-- Email addresses can be imported either with or without an associated "display name", 
-for example, like:
-
-  - tim.tangelo@example.com, or
-
-  - "Tim Tangelo" \<tim.tangelo@example.com>
 
