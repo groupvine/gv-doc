@@ -5,8 +5,9 @@ title: Reserved Member Attributes
 
 # Reserved Member Attributes
 
-The following member attributes are reserved (and thus, can't be used to
-define your custom member attributes).
+Custom member attributes may only consist of alphanumeric and the
+underscore ('_') character.  Also, they must avoid the following
+reserved member attributes.
 
 Email delivery:
 
@@ -29,9 +30,3 @@ Text notifications::
     (notifications only sent for emails marked as "urgent"), or "all"
     (notifications sent for all group emails).
 
-Also, member attributes may not begin with the following prefixes:
-
-*  **group:**    used for setting group memberhips and roles,
-*  **list:**     used for setting list memberships,
-*  **delivery:** used in exports for reporting delivery statistics, or
-*  **ignored:**  informational columnn, ignored by import process.

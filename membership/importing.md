@@ -154,11 +154,11 @@ custom attributes and role columns, to just update the list
 memberships):
 
 
-| email                       | musicians  | golfers    |
-|:----------------------------|:-----------|:-----------|
-|tim.tangelo@example.com      | x          |            |
-|beth.blueberry@example.com   | x          | x          |
-|quiet.quinn@example.com      |            | x          |
+| email                       | list:musicians | list:golfers  |
+|:----------------------------|:---------------|:--------------|
+|tim.tangelo@example.com      | x              |               |
+|beth.blueberry@example.com   | x              | x             |
+|quiet.quinn@example.com      |                | x             |
 
 
 ## Groups
@@ -175,4 +175,14 @@ group:[group name] column.
 
 </div>   <!-- END GROUPVINE -->
 
+## Other Notes
 
+* Custom attributes, list and group names must only consist of
+  alphanumeric and the underscore ('_') character.  They are all
+  treated as case-insensitive, and are typically handled in
+  lower-case.
+
+* Any number of informational-only columns prefixed by column headers named
+  "ignore:.." can be included in import files and will be entirely
+  ignored by the membership import process.
+  

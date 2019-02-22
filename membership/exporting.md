@@ -29,3 +29,13 @@ Your account membership will be shortly be returned to you in a reply email!<sup
 ++ assuming you are a verified account Administrator!
 
 </div>  <!-- END ADVANCED -->
+
+
+## Recipient delivery statistics
+
+The **delivery:...** export columns are used to report email delivery
+statistics for each recipient.   
+
+*  **delivery:xyz**  blah blah
+*  **delivery:123**  blah blah
+
