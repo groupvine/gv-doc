@@ -103,7 +103,19 @@ You can checkout the full list [here](./reservedatts?view=GV-SET-VIEW).
 
 By default, an **Import** will only make member additions or fill-in
 information that's missing.  To make modifications of your existing
-member information, use the **Import Modifications** button.
+member attributes, use the **Import Modifications** button.
+
+<div class="trivy only">   <!-- START TRIVY ONLY -->
+
+Also, the 'role' column can optionally be included to modify membership
+status of your followers.  Members with 'x' indicate a continuing
+member, or an empty field is used to a remove a member.
+
+(If the account administrator is included in the import file, "Admin"
+should be entered in the role field for that member.)
+
+</div>   <!-- END TRIVY ONLY -->
+
 
 <div class="adv">   <!-- START ADVANCED -->
 
@@ -115,20 +127,6 @@ address.  So, the above address would instead be:
 ```
 
 </div>   <!-- END ADVANCED -->
-
-
-<div class="trivy only">   <!-- START TRIVY ONLY -->
-
-## Membership Roles
-
-The 'role' column can optionally be included to modify membership
-status of your followers.  Members with 'x' indicate a continuing
-member, or an empty field is used to a remove a member.
-
-(If the account administrator is included in the import file, "Admin"
-should be entered in the role field for that member.)
-
-</div>   <!-- END TRIVY ONLY -->
 
 
 
