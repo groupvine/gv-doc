@@ -27,19 +27,12 @@
       <header>
         <h1>
           <a href="{{ "/" | absolute_url }}?view=GV-SET-VIEW"> 
-            <span class="trivy only html">Trivy Docs</span>  
-            <span class="gv adv support only html">GroupVine Docs</span>  
+            <span class="trivy only html">Trivy</span>  
+            <div class="gv html">
+             <img src="/gv-trivy/assets/img/GroupVine_RGB.png"/>
+            </div>        
           </a>
         </h1>
-
-        <div class="trivy only html">
-          <!-- 
-          <img src="/gv-trivy/assets/img/Trivy_RGB.png"/>
-          -->
-        </div>        
-        <div class="gv html">
-          <img src="/gv-trivy/assets/img/GroupVine_RGB.png"/>
-        </div>        
         
         {% if site.logo %}
           <img src="{{site.logo | relative_url}}" alt="Logo" />
