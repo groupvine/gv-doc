@@ -182,7 +182,11 @@ group:[group name] column.
   treated as case-insensitive, and are typically handled in
   lower-case.
 
-* Any number of informational-only columns prefixed by column headers named
-  "ignore:.." can be included in import files and will be entirely
-  ignored by the membership import process.
+* Any number of informational-only columns with headers names prefixed
+  with "ignore:.." can be included in import files and will be
+  entirely ignored by the membership import process.  (Also, columns
+  with headers names prefixed with "delivery:...", used for
+  [exports](./exporting?view=GV-SET-VIEW), will also be ignored in
+  imports.)
+  
   
