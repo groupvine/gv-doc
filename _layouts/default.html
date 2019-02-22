@@ -33,6 +33,19 @@
         </h1>
 
         <div class="trivy only html">
+          <!-- 
+          <img src="/gv-trivy/assets/img/Trivy_RGB.png"/>
+          -->
+        </div>        
+        <div class="gv html">
+          <img src="/gv-trivy/assets/img/GroupVine_RGB.png"/>
+        </div>        
+        
+        {% if site.logo %}
+          <img src="{{site.logo | relative_url}}" alt="Logo" />
+        {% endif %}
+
+        <div class="trivy only html">
           <div style="margin:20px 0 10px 0">
             <div style="margin-left:10px">
               <b>Simple<br/>
@@ -41,7 +54,7 @@
             </div>
           </div>
         </div>
-        <div class="gv adv support only html">
+        <div class="gv html">
           <div style="margin:20px 0 10px 0">
             <b>Simple group email, socially-aware and designed to engage, for:</b>
               <div style="margin-left:10px">
@@ -52,10 +65,6 @@
           </div>
         </div>
 
-        
-        {% if site.logo %}
-          <img src="{{site.logo | relative_url}}" alt="Logo" />
-        {% endif %}
 
 <!--
         <p>{{ site.description | default: site.github.project_tagline }}</p>
