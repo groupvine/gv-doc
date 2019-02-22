@@ -188,12 +188,21 @@ group:[group name] column.
 
 </div>   <!-- END GROUPVINE -->
 
+
 ## Other Notes
 
+<div class="trivy only">
+* Custom attributes must only consist of alphanumeric and the
+  underscore ('_') character, are treated as case-insensitive, and
+  typically handled in lower-case.
+</div>
+
+<div class="gv">
 * Custom attributes, list and group names must only consist of
   alphanumeric and the underscore ('_') character.  They are all
   treated as case-insensitive, and are typically handled in
   lower-case.
+</div>
 
 * Any number of informational-only columns with headers names prefixed
   with "ignore:.." can be included in import files and will be
