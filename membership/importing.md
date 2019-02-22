@@ -117,9 +117,24 @@ address.  So, the above address would instead be:
 </div>   <!-- END ADVANCED -->
 
 
+<div class="trivy only">   <!-- START TRIVY ONLY -->
+
+## Membership Roles
+
+The 'role' column can optionally be included to modify membership
+status of your followers.  Members with 'x' indicate a continuing
+member, or an empty field is used to a remove a member.
+
+(If the account administrator is included in the import file, "Admin"
+should be entered in the role field for that member.)
+
+</div>   <!-- END TRIVY ONLY -->
+
+
+
 <div class="gv">   <!-- START GROUPVINE -->
 
-## Roles
+## Membership Roles
 
 By default, new recipients are given the "Member" role, however, you
 can also have an aribtrary number of Administrators and Editors.
