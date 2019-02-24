@@ -68,15 +68,16 @@
 -->
 
         <div style="margin:40px 0 10px 0">
-          <select>
-            <option> Documentation view </option>
-            <option><a href="./?view=trivy">Trivy</a> </option>
-            <option><a href="./?view=gv">GroupVine</a> </option>
-            <option><a href="./?view=adv">GroupVine - Advanced</a> </option>
-            <option><a href="./?view=support">Support mode</a> </option>
+          Documentation view:
+          <select id="docview">
+            <option value="trivy"><a href="./?view=trivy">Trivy</a> </option>
+            <option value="gv"><a href="./?view=gv">GroupVine</a> </option>
+            <option value="adv"><a href="./?view=adv">GroupVine - Advanced</a> </option>
+            <option value="support"><a href="./?view=support">Support mode</a> </option>
           </select>
         </div>
 
+<!--
         <div style="margin:40px 0 10px 0">
           <b>Documentation view:</b><br/>
           <div style="margin-left:10px">
@@ -86,6 +87,7 @@
             <a href="./?view=support">Support mode</a> 
           <div>
         </div>
+-->
 
         {% if site.github.is_user_page %}
         <p class="view"><a href="{{ site.github.owner_url }}">View My GitHub Profile</a></p>

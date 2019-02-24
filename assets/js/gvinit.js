@@ -26,6 +26,18 @@ function queryStr(key) {
     return match && decodeURIComponent(match[1].replace(/\+/g, " "));
 }
 
+function locationWithQueryStr(key, value) {
+    // key = key.replace(/[*+?^$.\[\]{}()|\\\/]/g, "\\$&"); // escape RegEx meta chars
+    var match = location.search.match(new RegExp("^(.*[?&]"+key+"=)([^&]+)(.*)$"));
+    if (match) {
+        return match[1] + encodeURIComponent(value) + match[3];
+    } else if (match.indexOf('?') !== -1) {
+        return location.replace('?', '?' + key + '=' + encodeURIComponent(value) + '&');
+    } else {
+        return location + '?' + key + '=' + encodeURIComponent(value);
+    }
+}
+
 //
 // Show/hide page content based on mode query arg
 //
@@ -40,6 +52,11 @@ $(document).ready( function() {
     //    <div class="gv-only"> .. </div>
     // So, do our own own github-compatible Markdown conversion
     // here for our mode-specific sections.
+    
+
+    //
+    // Do view-specific view changes
+    //
 
     $('.trivy, .gv, .adv, .support').each( function() {
         if ($(this).hasClass('html')) {
@@ -71,6 +88,17 @@ $(document).ready( function() {
     }
 
     mode = mode.toLowerCase();
+
+    //
+    // Handle view menu
+    //
+
+    $("#docview").val(mode);
+
+    $("#docview").change( function() {
+        window.location = locationWithQueryStr('view', $(this).val());
+    });
+
 
     // Set view mode on all internal links
 
