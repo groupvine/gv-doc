@@ -37,7 +37,7 @@ function locationWithQueryStr(key, value) {
     } else {
         newQuery =  '?' + key + '=' + encodeURIComponent(value);
     }
-    return location.path + newQuery + location.hash;
+    return location.pathname + newQuery + location.hash;
 }
 
 //
