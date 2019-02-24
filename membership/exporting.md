@@ -13,7 +13,7 @@ your membership page.
 <div class="adv">  <!-- START ADVANCED -->
 
 Memberships exports can also be performed by emailing instructions to
-your account server; ([see here](./emailactions?view=GV-SET-VIEW) for
+your account server; [see here](./emailactions?view=GV-SET-VIEW) for
 instructions.
 
 </div>  <!-- END ADVANCED -->

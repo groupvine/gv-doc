@@ -59,10 +59,10 @@ For importing modifications (rather than just additions), replace
 An account's sub-groups can also be managed by email by creating and
 attaching a group-instructions CSV file using the following columns:
 
-* **action** - one of 'add', 'update', or 'delete'
+* **action** - one of 'add', 'update', or 'delete'.  Note that group deletions will 
+  also associated group lists and memberships.
 
-* **abbrev** - the group abbrevation (or abbreviation path for 
-  sub-subgroups, such as "grade2/skit").
+* **abbrev** - the group's abbreviated name.
 
 * **title** - Optional group title.  If not specified, it default to
   "[abbrev] group".
@@ -92,10 +92,36 @@ For example:
 | action      | abbrev      | title               | isModerated |
 |:------------|:------------|:--------------------|:------------|
 | add         | grade1      | First Grade         | x           |
-| add         | grade1/skit | 1st Grade Skit Team |             |
 | add         | grade2      | Second Grade        | x           |
 | delete      | test-group  |                     |             |
 | update      | frontoffice | School Front Office | x           |
+
+
+<div class="adv"
+
+The special group abbreviation "." is used to indicate the top-level
+account itself.  Actions on this account level are handled as follows:
+
+* **add** is invalid, and ignored.
+* **update** is handled normally, allowing changes to the group properties.
+* **delete** is also handled normally, excapt that this account "group" itself is not deleted.
+
+</div>
+
+<div class="adv">
+
+Note that for accounts with multiple levels of sub-groups, the
+abbreviated group name is used to give the full abbreviated name path
+to the sub-group, for example, to add a "skit" sub-group of the "grade1"
+group:
+
+| action      | abbrev      | title               | isModerated |
+| add         | grade1/skit | 1st Grade Skit Team |             |
+
+Also note that when deleting a group that has it's own sub-groups,
+those sub-groups will also be deleted.
+
+</div>
 
 
 Then, to process the group instruction file, send the file to your
