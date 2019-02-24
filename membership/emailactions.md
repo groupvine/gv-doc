@@ -61,20 +61,14 @@ attaching a group-instructions CSV file using the following columns:
 
 * **action** - one of 'add', 'update', or 'delete'.  Note that group deletions will 
   also associated group lists and memberships.
-
 * **abbrev** - the group's abbreviated name.
-
 * **title** - Optional group title.  If not specified, it default to
   "[abbrev] group".
-
 * **description** - Optional group description.
-
 * **isModerated** - Optional column, set to 'x' to enable group moderation or left
   blank for unmoderated.
-
 * **membersSend** - Optional column, set to 'x' to allow group members to send
   blank for unmoderated.
-
 * **imgFilename** - Optional column to provid an URL to an image file
     for the group logo.
 
