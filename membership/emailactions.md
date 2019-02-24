@@ -80,9 +80,9 @@ attaching a group-instructions CSV file using the following columns:
 
 <div class="support">
 
-An optional column is the "id" for the groupId.  For an update, "id"
-is specified as well as an "abbrev", then it's taken as an instruction
-to change the group's abbreviation.
+An optional column is the "id" for the groupId.  For update
+operations, if the "id" is specified as well as an "abbrev", then it's
+taken as an instruction to change the group's abbreviation.
 
 </div>
 
