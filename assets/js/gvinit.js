@@ -129,6 +129,11 @@ $(document).ready( function() {
         // domain everywhere with "trivy.email"
         let newBody = $("body").html().replace(/groupvine\.email/g, 'trivy.email');
         $("body").html(newBody);
+
+        // Update the favicon
+        $('link[rel="icon"]').each( function() {
+            $(this).attr("href", "/gv-trivy/assets/img/favicon-trivy.png");
+        });
     }
 });
 
