@@ -38,7 +38,7 @@ You can email your membership file to your account's server to be
 imported using the following address:
 
 ```
-~import='[membership filename]'~~[account name]@groupvine.email
+~import='[membership filename]'~~[account]@groupvine.email
 ```
 
 For example, for bingotech with a membership file named "followers.csv", use:
@@ -128,7 +128,7 @@ Then, to process the group instruction file, send the file to your
 account's server using the address:
 
 ```
-~groups='[group instructions file]'~~[account name]@groupvine.email
+~groups='[group instructions file]'~~[account]@groupvine.email
 ```
 
 For example, for the bingotech account and a file named
