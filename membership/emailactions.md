@@ -38,7 +38,7 @@ You can email your membership file to your account's server to be
 imported using the following address:
 
 ```
-~import='[membership filename]'~~[account]@groupvine.email
+~import='[membership file]'~~[account]@groupvine.email
 ```
 
 For example, for bingotech with a membership file named "followers.csv", use:
@@ -102,9 +102,9 @@ For example:
 The special group abbreviation "." is used to indicate the top-level
 account itself.  Actions on this account level are handled as follows:
 
-* **add** is invalid, and ignored.
-* **update** is handled normally, allowing changes to the group properties.
-* **delete** is also handled normally, excapt that this account "group" itself is not deleted.
+* 'add' is invalid, and ignored.
+* 'update' is handled normally, allowing changes to the account's group-related properties.
+* 'delete' is also handled normally, except that this account "group" itself is not deleted.
 
 </div>
 
