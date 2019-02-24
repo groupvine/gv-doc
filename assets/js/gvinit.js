@@ -124,6 +124,11 @@ $(document).ready( function() {
 
         $('.only').hide();
         $('.trivy.only').show();
+
+        // For the trivy case, need to replacee default "groupvine.email"
+        // domain everywhere with "trivy.email"
+        let newbody = $("body").html().replace(/groupvine\.email/g, 'trivy.email');
+        $("body").html(newBody);
     }
 });
 

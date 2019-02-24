@@ -9,24 +9,12 @@ title: Membership Export
 To get your current account membership, use the **Export** button on
 your membership page.
 
+
 <div class="adv">  <!-- START ADVANCED -->
 
-Or, you can send an email to:
-
-```
-~export~~[your account name]@trivy.email
-```
-
-For instance, for the "bingotech" account, send it to:
-
-```
-~export~~bingotech@trivy.email
-```
-
-Your account membership will be shortly be returned to you in a reply email!<sup>++</sup>
-
-
-++ assuming you are a verified account Administrator!
+Memberships exports can also be performed by emailing instructions to
+your account server; ([see here](./emailactions?view=GV-SET-VIEW) for
+instructions.
 
 </div>  <!-- END ADVANCED -->
 

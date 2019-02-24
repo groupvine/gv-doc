@@ -23,21 +23,9 @@ account's membership page.
 
 <div class="adv">  <!-- START ADVANCED -->
 
-Or, if you prefer, you can email the file to your account's
-server to be imported.  For example, if your account name is
-"bingotech" and your import file is names "followers.csv",
-then send an email with this file attached to address:
-
-```
-~import='followers.csv'~~bingotech@trivy.email
-```
-
-And, to have your up-to-date account membership emailed to you, send 
-an email to:
-
-```
-~export~~bingotech@trivy.email
-```
+If you prefer, you can also email membership additions or
+modifications to your account's server for processing; [see
+here](./emailactions?view=GV-SET-VIEW) for instructions.
 
 </div>  <!-- END ADVANCED -->
 
@@ -115,19 +103,6 @@ member, or an empty field is used to a remove a member.
 should be entered in the role field for that member.)
 
 </div>   <!-- END TRIVY ONLY -->
-
-
-<div class="adv">   <!-- START ADVANCED -->
-
-Or, if sending an email, replace ```~import``` with ```~importmod``` in the email
-address.  So, the above address would instead be:
-
-```
-~importmod='followers.csv'~~bingotech@trivy.email
-```
-
-</div>   <!-- END ADVANCED -->
-
 
 
 <div class="gv">   <!-- START GROUPVINE -->

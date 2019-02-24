@@ -25,6 +25,16 @@ For example, if you're an Editor of the "classclowns" sub-group of the
 least a Member of the "2ndgrade".
 </div>
 
+<div class="adv">  <!-- START ADVANCED -->
+
+Additions, modifications, and deletions of new or existing sub-groups
+can also be performed by emailing instructions to your account server; 
+([see here](./emailactions?view=GV-SET-VIEW) for instructions.
+
+
+</div>  <!-- END ADVANCED -->
+
+
 
 ## Example
 
@@ -33,7 +43,7 @@ have sub-groups named "team", "advisors", and "investors".  Emails to
 the team could be easily targetted using the address:
 
 ```
-team.bingotech@trivy.email
+team.bingotech@groupvine.email
 ```
 
 It may also make sense to further classify your BingoTech followers
@@ -42,13 +52,13 @@ using Lists to identify some of their interests, such as "golfers" and
 using the address:
 
 ```
-~list=musiclovers~~bingotech@trivy.email
+~list=musiclovers~~bingotech@groupvine.email
 ```
 
 Or, if you only want to send it to musicloving advisors, use:
 
 ```
-~list=musiclovers~~advisors.bingotech@trivy.email
+~list=musiclovers~~advisors.bingotech@groupvine.email
 ```
 
 Don't worry, you can always use the address helper on the site.
