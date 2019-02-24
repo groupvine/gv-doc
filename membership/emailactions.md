@@ -97,7 +97,7 @@ For example:
 | update      | frontoffice | School Front Office | x           |
 
 
-<div class="adv"
+<div class="adv">
 
 The special group abbreviation "." is used to indicate the top-level
 account itself.  Actions on this account level are handled as follows:
@@ -110,12 +110,12 @@ account itself.  Actions on this account level are handled as follows:
 
 <div class="adv">
 
-Note that for accounts with multiple levels of sub-groups, the
-abbreviated group name is used to give the full abbreviated name path
-to the sub-group, for example, to add a "skit" sub-group of the "grade1"
-group:
+In accounts with multiple levels of sub-groups, the abbreviated group
+name should give the full abbreviated name path to the sub-group,
+for example, to add a "skit" sub-group of the "grade1" group:
 
 | action      | abbrev      | title               | isModerated |
+|:------------|:------------|:--------------------|:------------|
 | add         | grade1/skit | 1st Grade Skit Team |             |
 
 Also note that when deleting a group that has it's own sub-groups,
@@ -128,7 +128,7 @@ Then, to process the group instruction file, send the file to your
 account's server using the address:
 
 ```
-~groups='[group instructions file]'~~[account]@groupvine.email
+~groups='[instructions file]'~~[account]@groupvine.email
 ```
 
 For example, for the bingotech account and a file named
