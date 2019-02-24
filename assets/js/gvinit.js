@@ -127,7 +127,7 @@ $(document).ready( function() {
 
         // For the trivy case, need to replacee default "groupvine.email"
         // domain everywhere with "trivy.email"
-        let newbody = $("body").html().replace(/groupvine\.email/g, 'trivy.email');
+        let newBody = $("body").html().replace(/groupvine\.email/g, 'trivy.email');
         $("body").html(newBody);
     }
 });
