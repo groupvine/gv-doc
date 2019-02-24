@@ -22,11 +22,4 @@ Note that you're viewing the documentation in GroupVine "support" mode.
 
 
 
-# Want to know more?
-
-* [Social email options](./social?view=GV-SET-VIEW)
-* [Your published email gallery](./gallery?view=GV-SET-VIEW)
-* [Managing your followers](./membership?view=GV-SET-VIEW)
-
-
 
