@@ -91,17 +91,6 @@ $(document).ready( function() {
 
     mode = mode.toLowerCase();
 
-    //
-    // Handle view menu
-    //
-
-    $("#docview").val(mode);
-
-    $("#docview").change( function() {
-        window.location = locationWithQueryStr('view', $(this).val());
-    });
-
-
     // Set view mode on all internal links
 
     $('a').each( function () {
@@ -165,5 +154,17 @@ $(document).ready( function() {
             $(this).attr("href", "/gv-trivy/assets/img/favicon-trivy.png");
         });
     }
+
+    //
+    // Handle view menu.
+    // Attach event after possibly modifying content above!
+    //
+
+    $("#docview").val(mode);
+
+    $("#docview").change( function() {
+        window.location = locationWithQueryStr('view', $(this).val());
+    });
+
 });
 
