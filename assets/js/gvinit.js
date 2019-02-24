@@ -29,13 +29,15 @@ function queryStr(key) {
 function locationWithQueryStr(key, value) {
     // key = key.replace(/[*+?^$.\[\]{}()|\\\/]/g, "\\$&"); // escape RegEx meta chars
     var match = location.search.match(new RegExp("^(.*[?&]"+key+"=)([^&]+)(.*)$"));
+    var result;
     if (match) {
-        return match[1] + encodeURIComponent(value) + match[3];
-    } else if (match.indexOf('?') !== -1) {
-        return location.replace('?', '?' + key + '=' + encodeURIComponent(value) + '&');
+        result = match[1] + encodeURIComponent(value) + match[3];
+    } else if (location.search && location.search.indexOf('?') !== -1) {
+        result = location.search.replace('?', '?' + key + '=' + encodeURIComponent(value) + '&');
     } else {
-        return location + '?' + key + '=' + encodeURIComponent(value);
+        result =  '?' + key + '=' + encodeURIComponent(value);
     }
+    return location.path + location.search + location.hash;
 }
 
 //
