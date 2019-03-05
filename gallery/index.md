@@ -9,9 +9,9 @@ TBD
 
 ## Posting old emails
 
-To post an old email in your gallery (e.g., an email sent using a
-different service), simply attach one or more old emails to a new
-email sent with the ```~post``` instruction to your account (or
+To add old emails into your gallery (e.g., emails sent directly or
+using a different service), simply attach one or more old emails to a
+new email sent with the ```~post``` instruction to your account (or
 sub-group).  For example, for bingotech account, send the email to:
 
 ```
