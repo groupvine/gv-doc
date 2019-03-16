@@ -20,17 +20,17 @@ TBD
 
 <div class="gv">
 
-All group Admins and Editors are permitted to send new emails (or
-replies) to a group.  Additionally, if the **"Allow group members to
-send"** setting is enabled for that group (disabled by default), then
-any member can send.
+Any member designated with the group Admin or Editor role is permitted
+to send new emails (or replies) to a group.  Additionally, if the
+**"Allow group members to send"** setting is enabled for that group
+(disabled by default), then any member can send.
 
 </div>
 
 <div class="adv">
 
 Note that in the case of sub-groups, Admins and Editors of parent (or
-grandparent...) groups are also permitted to send to the group.  This
+grandparent...) group(s) are also permitted to send to the group.  This
 may at times cause some confusion since these members don't
 necessarilly receive the group emails, unless they are also explicit members
 of the group.
