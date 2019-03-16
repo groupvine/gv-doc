@@ -22,7 +22,7 @@ TBD
 
 All group Admins and Editors are permitted to send new emails (or
 replies) to a group.  Additionally, if the **"Allow group members to
-send"** is enabled for that group, then any member can send.
+send"** setting is enabled for that group, then any member can send.
 
 </div>
 
