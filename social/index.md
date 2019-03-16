@@ -37,7 +37,16 @@ of the group.
      
 </div>
 
+<div class="support">
+
+Lastly, regardless of any Admin or Edtitor role, the account owner is also always a valid
+group (or sub-group...) sender.
+
+</div>
+
 <div class="gv">
+
+### Email confirmation
 
 To avoid the risk of spammers sending emails to your group from a
 compromised email account, all emails sent from your own email account
@@ -46,7 +55,7 @@ to the group are confirmed (by clicking on a "Proceed" button in a
 was sent by a group Admin, then the confirmation email is sent
 directly back to the sender for their confirmation.  If the email was
 sent by a group Editor, then the responsibility for confirming the
-email depends on the groups "Enable group moderation" setting.  If
+email depends on the "Group moderation" setting.  If
 disabled (the default), then the confirmation is handled the same way,
 being sent directly back to the sender.  If enabled, then the
 confirmation email is instead sent to all group Admins who, in
@@ -54,12 +63,10 @@ addition to guarding against spammers, can also moderate the group
 emails sent by Editors to deny distribution of any they feel
 are not appropriate for their group membership.
 
-</div>
-
-<div class="support">
-
-Lastly, regardless of any Admin or Edtitor role, the account owner is also always a valid
-group (or sub-group...) sender.
+For group emails generated within your online group account, only
+emails sent by Editors and with the "Group moderation" setting enabled
+involve the above confirmation step.
 
 </div>
+
 
