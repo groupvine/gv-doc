@@ -5,9 +5,16 @@ title: Social Email Options
 
 # Social Email Options
 
-## Commenting on emails
+## Commenting and Reacting to Emails
 
-TBD
+Yes, your GV-SERVICE email recipients can **comment** on and **like**,
+**wow** (**dislike**, etc.), your emails!
+
+...
+
+## Sharing Emails on Social Feeds
+
+...
 
 ## Who can send new emails
 

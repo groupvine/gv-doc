@@ -106,6 +106,8 @@ $(document).ready( function() {
     // the view mode.
     //
 
+    var service = 'GroupVine';
+
     switch(mode) {
     case 'gv':
         $('.trivy').show();
@@ -136,6 +138,8 @@ $(document).ready( function() {
         break;
     case 'trivy':
     default:
+        service = 'Trivy';
+
         $('.trivy').show();
         $('.gv').hide();
         $('.adv').hide();
@@ -154,6 +158,13 @@ $(document).ready( function() {
             $(this).attr("href", "/gv-doc/assets/img/favicon-trivy.png");
         });
     }
+
+    //
+    // Replace GV-SERVICE
+    //
+
+    let newBody = $("body").html().replace(/GV-SERVICE/g, service);
+    $("body").html(newBody);
 
     //
     // Handle view menu.
