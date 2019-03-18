@@ -50,12 +50,14 @@ group (or sub-group...) sender.
 
 To avoid the risk of spammers sending emails to your group from a
 compromised email account, all emails sent from your own email account
-to the group are confirmed (by clicking on a "Proceed" button in a
-"confirmation email") before being sent to the group.  If the email
-was sent by a group Admin, then the confirmation email is sent
-directly back to the sender for their confirmation.  If the email was
-sent by a group Editor, then the responsibility for confirming the
-email depends on the "Group moderation" setting.  
+to the group must be confirmed (by clicking on a "Proceed" button in a
+"confirmation email") before being forwarded to the group.  
+
+For emails sent by group Admins, the confirmation email is sent
+directly back to the sender for their confirmation.
+
+For emails sent by group Editors, the responsibility for confirming
+the email depends on the "Group moderation" setting:
 
 * If "Group moderation" is disabled (the default), then the confirmation 
   is handled the same way, being sent directly back to the sender.  
@@ -67,8 +69,8 @@ email depends on the "Group moderation" setting.
   group membership.
 
 For group emails generated within your online group account, only
-emails sent by Editors and with the "Group moderation" setting enabled
-involve the above confirmation step.
+emails sent by Editors when the "Group moderation" setting is enabled
+require the above confirmation (Admin approval) step.
 
 </div>
 
