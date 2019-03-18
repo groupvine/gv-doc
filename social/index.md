@@ -55,13 +55,16 @@ to the group are confirmed (by clicking on a "Proceed" button in a
 was sent by a group Admin, then the confirmation email is sent
 directly back to the sender for their confirmation.  If the email was
 sent by a group Editor, then the responsibility for confirming the
-email depends on the "Group moderation" setting.  If
-disabled (the default), then the confirmation is handled the same way,
-being sent directly back to the sender.  If enabled, then the
-confirmation email is instead sent to all group Admins who, in
-addition to guarding against spammers, can also moderate the group
-emails sent by Editors to deny distribution of any they feel
-are not appropriate for their group membership.
+email depends on the "Group moderation" setting.  
+
+* If "Group moderation" is disabled (the default), then the confirmation 
+  is handled the same way, being sent directly back to the sender.  
+
+* If "Group moderation" is enabled, then the confirmation email is
+  instead sent to the group Admins who, in addition to guarding
+  against spammers, can also moderate the group emails sent by Editors
+  to deny distribution of any they feel are not appropriate for their
+  group membership.
 
 For group emails generated within your online group account, only
 emails sent by Editors and with the "Group moderation" setting enabled
