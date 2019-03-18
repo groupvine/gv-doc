@@ -106,7 +106,7 @@ $(document).ready( function() {
     // the view mode.
     //
 
-    var service = 'GroupVine';
+    let service = 'GroupVine';
 
     switch(mode) {
     case 'gv':
@@ -163,7 +163,7 @@ $(document).ready( function() {
     // Replace GV-SERVICE
     //
 
-    let newBody = $("body").html().replace(/GV-SERVICE/g, service);
+    let newBody = $("body").html().replace(/GV\-SERVICE/g, service);
     $("body").html(newBody);
 
     //
