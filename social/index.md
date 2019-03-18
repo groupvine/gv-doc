@@ -44,17 +44,21 @@ group (or sub-group...) sender.
 
 </div>
 
-<div class="gv">
 
 ### Email confirmation
 
 To avoid the risk of spammers sending emails to your group from a
-compromised email account, all emails sent from your own email account
-to the group must be confirmed (by clicking on a "Proceed" button in a
-"confirmation email") before being forwarded to the group.  
+possibly compromised email account, all emails sent from your own
+personal email account to the group must be confirmed (by clicking on
+a "Proceed" button in a "confirmation email") before it is forwarded
+to the group.
 
-For emails sent by group Admins, the confirmation email is sent
-directly back to the sender for their confirmation.
+So, when a group Admin sends an email to the group from their personal
+email account, a confirmation email is immediately sent back to this
+Admin for their confirmation before the email is forwarded to the
+group.
+
+<div class="gv">
 
 For emails sent by group Editors, the responsibility for confirming
 the email depends on the "Group moderation" setting:
