@@ -38,8 +38,8 @@ Or, to send to a list, use an email address like:
 Note that you can also send to a specific list of members from your
 own email inbox (and/or to specific new members that haven't yet been
 imported). To do this, create a CSV file in the format of an import
-file (for example, simply a list of email addresses, one per line,
-[see here](../membership/import?view=GV-SET-VIEW) for full options)
+file (such as simply listing email addresses, one per line,
+[see here](../membership/importing?view=GV-SET-VIEW) for full options)
 that lists the members you want to send to.
 Then send the email to an address in the following format:
 
