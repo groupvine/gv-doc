@@ -21,7 +21,7 @@ Identification:
    Editor, or Member (or abbrev. 'x')
 *  **id**   number used internally.
 
-Text notifications::
+Text notifications:
 
 *  **textingNumber**  mobile phone number for receiving text notifications of new group emails,
 *  **textingService** mobile phone service provider
@@ -30,3 +30,6 @@ Text notifications::
     (notifications only sent for emails marked as "urgent"), or "all"
     (notifications sent for all group emails).
 
+System-reserved:
+
+* **sys**, **data**, and **std** are reserved for system use.
