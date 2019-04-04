@@ -27,7 +27,7 @@
       <header>
         <h1>
           <a href="{{ "/" | absolute_url }}?view=GV-SET-VIEW"> 
-            <div class="trivy only html" style="margin:-20px 0 0 -20px">
+            <div class="trivy only html" style="margin:-20px 0 0 -20px; max-height:200px">
              <img src="/gv-doc/assets/img/trivy-by-gv-white.png"/>
             </div>        
             <div class="gv html" style="margin:-20px 0 0 -20px">
@@ -40,21 +40,12 @@
           <img src="{{site.logo | relative_url}}" alt="Logo" />
         {% endif %}
 
-        <div class="trivy only html">
-          <div style="margin:20px 0 10px 0">
-            <div style="margin-left:10px; font-size:18px">
-              <b>Simple<br/>
-                 Social<br/>
-                 Email</b><br/>
-            </div>
-          </div>
-        </div>
-        <div class="gv html">
+        <div>
           <div style="margin:20px 0 10px 0; font-size:18px">
-            <b>Simple Social Email</b>
-              <div style="margin-left:15px; font-size:16px">
-                For people who inform, interact, and inspire
-              </div>
+            <b style="font-family:Futura">Simple Social Email</b>
+            <div  class="gv html" style="margin-left:15px; font-size:16px">
+              For people who inform, interact, and inspire
+            </div>
           </div>
         </div>
 
