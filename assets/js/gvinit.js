@@ -155,7 +155,7 @@ $(document).ready( function() {
 
         // Update the favicon
         $('link[rel="icon"]').each( function() {
-            $(this).attr("href", "/gv-doc/assets/img/favicon-trivy2.png");
+            $(this).attr("href", "/gv-doc/assets/img/favicon-trivy3.png");
         });
     }
 
