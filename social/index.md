@@ -5,6 +5,61 @@ title: Social Email Options
 
 # Social Email Options
 
+## Sending new emails
+
+
+### From your own email inbox
+
+To send an email to your group from your own inbox, simply send it to
+the name of your group '@' groupvine.email name, for example:
+
+```
+bingotech@groupvine.email
+```
+
+<div class="gv">
+
+To send to a specific sub-group, use the full sub-group path, such as:
+
+```
+team.bingotech@groupvine.email
+```
+
+Or, to send to a list, use an email address like:
+
+```
+~list=musiclovers~~bingotech@groupvine.email
+```
+
+</div>
+
+<div class="adv">
+
+Note that you can also send to a specific list of members from your
+own email inbox (and/or to specific new members that haven't yet been
+imported). To do this, create a CSV file in the format of an import
+file (for example, simply a list of email addresses, one per line,
+[see here](../membership/import?view=GV-SET-VIEW) for full options)
+that lists the members you want to send to.
+Then send the email to an address in the following format:
+
+```
+~sendto='[filename]'~~[group name]@groupvine.email
+```
+
+For example:
+
+```
+~sendto='myhelpers.csv'~~bingotech@groupvine.email
+```
+
+</div>
+
+
+### From your online account
+
+...
+
 ## Commenting and Reacting to Emails
 
 Yes, your GV-SERVICE email recipients can **comment** on and **like**,
