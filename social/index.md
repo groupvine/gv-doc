@@ -55,6 +55,20 @@ For example:
 
 </div>
 
+<div class="adv">
+
+If some addresses have failed in a previous send attempt due to a
+temporary problem, you can resend the same email to those addresses
+that have failed thus far simply by sending an email to your group and
+use the "~retry=[message id]" qualifier, like the following (for
+BingoTech's message ID number 100123):
+
+```
+~retry=100123~~bingotech@groupvine.email
+```
+
+</div>
+
 
 ### From your online account
 
