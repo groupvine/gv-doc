@@ -69,6 +69,19 @@ BingoTech's message ID number 100123):
 
 </div>
 
+<div class="adv">
+
+### Scheduling a future send
+
+An email can be scheduled for sending later by adding a "senddate" to
+the email address, for example like the following:
+
+```
+~senddate='2019-04-10T13_30-08'~~bingotech@trivy.email
+```
+
+</div>
+
 
 ### From your online account
 
