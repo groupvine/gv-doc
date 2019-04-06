@@ -71,8 +71,6 @@ BingoTech's message ID number 100123):
 
 <div class="adv">
 
-### Scheduling a future send
-
 An email can be scheduled for sending later by adding a "senddate" to
 the email address, for example like the following:
 
