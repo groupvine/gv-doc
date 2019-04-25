@@ -91,7 +91,7 @@ For example:
 | update      | frontoffice | School Front Office | x           |
 
 
-<div class="adv">
+<div class="adv" id="emailactions-dot-group">
 
 The special group abbreviation "." is used to indicate the top-,
 account-level group.  Actions on this account level are handled as
