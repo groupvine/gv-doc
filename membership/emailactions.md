@@ -93,8 +93,9 @@ For example:
 
 <div class="adv">
 
-The special group abbreviation "." is used to indicate the top-level
-account itself.  Actions on this account level are handled as follows:
+The special group abbreviation "." is used to indicate the top-,
+account-level group.  Actions on this account level are handled as
+follows:
 
 * 'add' is invalid, and ignored.
 * 'update' is handled normally, allowing changes to the account's group-related properties.
