@@ -87,7 +87,7 @@ the email address, for example like the following:
 
 ## Commenting and Reacting to Emails
 
-Yes, your GV-SERVICE email recipients can **comment** on and **like**,
+Yes, your GV-SERVICE community email recipients can **comment** on and **like**,
 **wow** (**dislike**, etc.), your emails!
 
 ...

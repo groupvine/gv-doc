@@ -41,17 +41,17 @@ imported using the following address:
 ~import='[membership file]'~~[account]@groupvine.email
 ```
 
-For example, for bingotech with a membership file named "followers.csv", use:
+For example, for bingotech with a membership file named "bt_members.csv", use:
 
 ```
-~import='followers.csv'~~bingotech@groupvine.email
+~import='bt_members.csv'~~bingotech@groupvine.email
 ```
 
 For importing modifications (rather than just additions), replace
 "~import" with "~importmod", like the following:
 
 ```
-~importmod='followers.csv'~~bingotech@groupvine.email
+~importmod='bt_members.csv'~~bingotech@groupvine.email
 ```
 
 ## Adding, deleting, or modifying sub-groups

@@ -3,7 +3,7 @@ layout: default
 title: Membership
 ---
 
-# Managing your Followers 
+# Managing your Community
 
 <div class="trivy only">
 * [Importing your membershp](./importing?view=GV-SET-VIEW)

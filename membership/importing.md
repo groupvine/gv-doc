@@ -7,7 +7,7 @@ title: Membership Import
 
 ## Recipent addresses-only
 
-An easy way to add a list of recipients to your account is to use a
+An easy way to add a list of community members to your account is to use a
 spreadsheet program (e.g., Excel, Numbers, Google Spreadsheet) to
 create and save a "CSV" file that simply lists your recipient's email
 addresses, like the following:
@@ -95,9 +95,10 @@ member attributes, use the **Import Modifications** button.
 
 <div class="trivy only">   <!-- START TRIVY ONLY -->
 
-Also, the 'role' column can optionally be included to modify membership
-status of your followers.  Members with 'x' indicate a continuing
-member, or an empty field is used to a remove a member.
+Also, the 'role' column can optionally be included to modify
+membership status of your community members.  Those with 'x'
+indicate a continuing member, or an empty field is used to a remove a
+member.
 
 (If the account administrator is included in the import file, "Admin"
 should be entered in the role field for that member.)
@@ -109,7 +110,7 @@ should be entered in the role field for that member.)
 
 ## Membership Roles
 
-By default, new recipients are given the "Member" role, however, you
+By default, new members are given the basic "Member" role, however, you
 can also have an aribtrary number of Administrators and Editors.
 
 * **Member** Receives and can engage with group emails (unless opted-out).
@@ -135,7 +136,7 @@ shown to give a more complete import example, but aren't necessary).
 
 ## Lists
 
-Lists allow you to target emails by certain sub-sets of recipients.
+Lists allow you to target emails by certain sub-sets of community members.
 For example, the following import would specify which members are on
 one of two lists (this time, we've simplified the import, removing the
 custom attributes and role columns, to just update the list

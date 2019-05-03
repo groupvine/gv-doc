@@ -6,7 +6,7 @@ title: Membership Sub-groups
 # Sub-groups
 
 Sub-groups provide additional flexibility in how you manage your
-membership and target email recipients.  Sub-groups can have:
+membership and target your emails.  Sub-groups can have:
 
 * Can have their own Admins and Editors
 * Can be moderated or not
@@ -46,10 +46,10 @@ the team could be easily targetted using the address:
 team.bingotech@groupvine.email
 ```
 
-It may also make sense to further classify your BingoTech followers
-using Lists to identify some of their interests, such as "golfers" and
-"musiclovers".  You could then send an email to all the musiclovers
-using the address:
+It may also make sense to further classify your BingoTech community
+members using Lists to identify some of their interests, such as
+"golfers" and "musiclovers".  You could then send an email to all the
+musiclovers using the address:
 
 ```
 ~list=musiclovers~~bingotech@groupvine.email

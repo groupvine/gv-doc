@@ -18,7 +18,7 @@ sub-set of your membership.  Lists:
 ## Example
 
 For example, for an account named "bingotech", you might wish to
-classify your BingoTech followers using Lists to identify some of
+classify your BingoTech community members using Lists to identify some of
 their interests, such as "golfers" and "musicians".  You could then
 send an email to all the musicians using the address:
 
