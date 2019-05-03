@@ -13,6 +13,7 @@ Email delivery:
 
 *  **email**  member's primary email address,
 *  **emailAltN** alternate addresses, where N is an optional integer (2, 3, ...),
+*  **emailDispName** member's email address display name, if any,
 *  **optedOut** indicates whether the member has opted out (or hasn't yet opted-in) to receiving emails.
 
 Identification:
