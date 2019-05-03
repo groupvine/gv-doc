@@ -29,6 +29,18 @@ here](./emailactions?view=GV-SET-VIEW) for instructions.
 
 </div>  <!-- END ADVANCED -->
 
+<div class="support">  <!-- START ADVANCED -->
+
+The "display name" part of an email address can differ between
+accounts.  When an address is first uploaded with a display name, it
+sets a default display name to use for that address.  If it is a
+primary address, then it also sets (or possibly updates) the
+account-override display name to use for emails sent by the associated
+account member (using this primary address, and any alternate addresses
+the account member may use).
+
+</div>  <!-- END ADVANCED -->
+
 <div class="support">  <!-- START SUPPORT -->
 
 When importing a new member, the imported member's primary ('email')
