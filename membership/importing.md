@@ -36,8 +36,11 @@ accounts.  When an address is first uploaded with a display name, it
 sets a default display name to use for that address.  If it is a
 primary address, then it also sets (or possibly updates) the
 account-override display name to use for emails sent by the associated
-account member (using this primary address, and any alternate addresses
-the account member may use).
+account member.  When an email is sent from an account member, only
+the account member's primary address is used for determining the
+display name to use, if any, regardless of whether the member is
+sending using this primary address or some alternate address (e.g.,
+from their own email inbox).
 
 </div>  <!-- END ADVANCED -->
 
@@ -144,6 +147,27 @@ shown to give a more complete import example, but aren't necessary).
 |beth.blueberry@example.com   | Beth       | Blueberry  | black          |   x     |
 |quiet.quinn@example.com      | Quiet      | Quinn      | red            | Editor  |
 
+<div class="support">  <!-- START SUPPORT -->
+
+Every account (and every sub-group) must have at least one Admin
+member.  When an account (or sub-group) is first created, the user
+that created the account (or sub-group) is initially added as an
+opted-in Administrator member.
+
+In order to demote this member to an Editor or regular Member role, a
+different member first needs to be promoted to Administrator, and then
+that Administrator (or some other Administrator) can then demote the
+original Administrator.  For example, this means that if an
+Administrator tries to demote him/herself in a modify or overwrite
+import, that attempt is ignored.
+
+Note that the user that initially creates an account is also stored as
+the account "owner," but this is for informational purposes only and
+has no effect or relation to the members (or member Administrators) of
+the account, other than the fact that this account creater is the first
+Administrator member of the account.
+
+</div> <!-- END SUPPORT -->
 
 
 ## Lists
