@@ -171,8 +171,8 @@ out of Admininstrator privileges).
 Note that the user that initially creates an account is also stored as
 the account "owner," but this is for informational purposes only and
 has no effect or relation to the members (or member Administrators) of
-the account, other than the fact that this account creater is the first
-Administrator member of the account.
+the account, other than the fact that this account creator is also the
+first Administrator member of the account.
 
 </div>
 
