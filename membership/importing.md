@@ -227,7 +227,7 @@ group:[group name] column.
   lower-case.
 </div>
 
-* Any number of informational-only columns with headers names prefixed
+* Any number of informational-only columns with header names prefixed
   with "ignore:.." can be included in import files and will be
   entirely ignored by the membership import process.  (Also, columns
   with headers names prefixed with "delivery:...", used for
