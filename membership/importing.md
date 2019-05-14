@@ -44,7 +44,7 @@ from their own email inbox).
 
 </div>  <!-- END ADVANCED -->
 
-<div class="support">  <!-- START SUPPORT -->
+<div id="admin-members" class="support">  <!-- START SUPPORT -->
 
 When importing a new member, the imported member's primary ('email')
 address is given a high priority when matching (or not matching)
@@ -151,15 +151,16 @@ shown to give a more complete import example, but aren't necessary).
 
 Every account (and every sub-group) must have at least one Admin
 member.  When an account (or sub-group) is first created, the user
-that created the account (or sub-group) is initially added as an
-opted-in Administrator member.
+that created it is initially added as an opted-in Administrator
+member.
 
 In order to demote this member to an Editor or regular Member role, a
 different member first needs to be promoted to Administrator, and then
-that Administrator (or some other Administrator) can then demote the
-original Administrator.  For example, this means that if an
-Administrator tries to demote him/herself in a modify or overwrite
-import, that attempt is ignored.
+that other Administrator can then demote the original Administrator.
+For example, this means that if an Administrator tries to demote
+him/herself in a modify or overwrite import, that attempt is ignored (to
+avoid the risk of an Administrator accidentally locking him/herself 
+out of Admininstrator privileges).
 
 Note that the user that initially creates an account is also stored as
 the account "owner," but this is for informational purposes only and
@@ -167,7 +168,7 @@ has no effect or relation to the members (or member Administrators) of
 the account, other than the fact that this account creater is the first
 Administrator member of the account.
 
-</div> <!-- END SUPPORT -->
+</div>
 
 
 ## Lists
