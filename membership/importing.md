@@ -44,7 +44,7 @@ from their own email inbox).
 
 </div>  <!-- END ADVANCED -->
 
-<div id="admin-members" class="support">  <!-- START SUPPORT -->
+<div class="support">  <!-- START SUPPORT -->
 
 When importing a new member, the imported member's primary ('email')
 address is given a high priority when matching (or not matching)
@@ -147,7 +147,7 @@ shown to give a more complete import example, but aren't necessary).
 |beth.blueberry@example.com   | Beth       | Blueberry  | black          |   x     |
 |quiet.quinn@example.com      | Quiet      | Quinn      | red            | Editor  |
 
-<div class="support">  <!-- START SUPPORT -->
+<div class="support" id="admin-members">  <!-- START SUPPORT -->
 
 Every account (and every sub-group) must have at least one Admin
 member.  When an account (or sub-group) is first created, the user
