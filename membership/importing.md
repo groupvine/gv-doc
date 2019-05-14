@@ -156,13 +156,12 @@ member.  When an account (or sub-group) is first created, the user
 that created it is initially added as an opted-in Administrator
 member.
 
-In order to demote this member to an Editor or regular Member role, a
-different member first needs to be promoted to Administrator, and then
-that other Administrator can then demote the original Administrator.
-For example, this means that if an Administrator tries to demote
-him/herself in a modify or overwrite import, that attempt is ignored (to
-avoid the risk of an Administrator accidentally locking him/herself 
-out of Admininstrator privileges).
+Also, in order to avoid the risk of an Administrator accidentally
+locking him/herself out of Admininstrator privileges, Admins can't
+demote themselves.  So, In order to demote an Admin member to an
+Editor or regular Member role, a different member first needs to be
+promoted to Administrator, and then that other Administrator can then
+demote the original Administrator.
 
 </div>
 
