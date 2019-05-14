@@ -149,7 +149,7 @@ shown to give a more complete import example, but aren't necessary).
 
 </div>
 
-<div class="support" id="admin-members">  <!-- START SUPPORT -->
+<div class="adv" id="admin-members">  <!-- START ADVANCED -->
 
 Every account (and every sub-group) must have at least one Admin
 member.  When an account (or sub-group) is first created, the user
@@ -163,6 +163,10 @@ For example, this means that if an Administrator tries to demote
 him/herself in a modify or overwrite import, that attempt is ignored (to
 avoid the risk of an Administrator accidentally locking him/herself 
 out of Admininstrator privileges).
+
+</div>
+
+<div class="support">  <!-- START SUPPORT -->
 
 Note that the user that initially creates an account is also stored as
 the account "owner," but this is for informational purposes only and
