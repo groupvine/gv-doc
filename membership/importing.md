@@ -147,6 +147,8 @@ shown to give a more complete import example, but aren't necessary).
 |beth.blueberry@example.com   | Beth       | Blueberry  | black          |   x     |
 |quiet.quinn@example.com      | Quiet      | Quinn      | red            | Editor  |
 
+</div>
+
 <div class="support" id="admin-members">  <!-- START SUPPORT -->
 
 Every account (and every sub-group) must have at least one Admin
@@ -170,6 +172,7 @@ Administrator member of the account.
 
 </div>
 
+<div class="gv">   <!-- START GROUPVINE -->
 
 ## Lists
 
@@ -186,6 +189,9 @@ memberships):
 |beth.blueberry@example.com   | x              | x             |
 |quiet.quinn@example.com      |                | x             |
 
+</div>
+
+<div class="gv">   <!-- START GROUPVINE -->
 
 ## Groups
 
