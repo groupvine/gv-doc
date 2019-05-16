@@ -15,7 +15,7 @@ addresses, like the following:
 ```
 beth.blueberry@example.com
 quiet.quinn@example.com
-"Tim Tangelo" <tim.tangelo@example.com>
+Tim Tangelo <tim.tangelo@example.com>
 ```
 
 Then upload the spreadsheet using the **Import** button on your
