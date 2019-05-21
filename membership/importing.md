@@ -69,7 +69,7 @@ existing user records.
 </div>  <!-- END SUPPORT -->
 
 
-## Member attributes
+## Custom Member attributes
 
 To define attributes (which can then be included in personalized,
 group emails), add a header row to your CSV import file, put the
@@ -98,8 +98,10 @@ bingo board coming to your mail box soon!
 Bingo!
 ```
 
-Note that a small number of attribute names are reserved, such as 'email'.
-You can checkout the full list [here](./reservedatts?view=GV-SET-VIEW).
+Custom member attributes may only consist of alphanumeric and the
+underscore (‘_’) character. Note that a small number of attribute
+names are reserved, such as 'email'.  You can checkout the full list
+[here](./reservedatts?view=GV-SET-VIEW).
 
 
 ## Making Membership Changes
