@@ -35,3 +35,20 @@ System-reserved:
 
 * **sys**, **data**, and **std** are reserved for system use.
 
+<div class="gv">
+
+Miscellanous:
+
+* Note that in addition to member attributes, import files are also
+  used to specify sub-group and list membership, using header field
+  labels prefixed by "list:" for list membership and "group:" for
+  sub-group membership.  See [Membership
+  Lists](./lists?view=GV-SET-VIEW) and [Membership
+  Sub-groups](./groups?view=GV-SET-VIEW) for more information on
+  these.
+
+* Additionally, import columns with header labels prefixed with
+  "delivery:" (used in exports) and "ignore:" are silently ignored
+  during imports.
+
+</div>
