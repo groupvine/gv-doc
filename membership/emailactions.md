@@ -82,7 +82,6 @@ taken as an instruction to change the group's abbreviation.
 
 For example:
 
-
 | action      | abbrev      | title               | isModerated |
 |:------------|:------------|:--------------------|:------------|
 | add         | grade1      | First Grade         | x           |
@@ -100,6 +99,20 @@ follows:
 * 'add' is invalid, and ignored.
 * 'update' is handled normally, allowing changes to the account's group-related properties.
 * 'delete' is also handled normally, except that this account "group" itself is not deleted.
+
+</div>
+
+<div class="support">
+
+A handy way to initialize an account to no members, other than the
+account Admin doing the action, and some set of sub-groups is to
+import a group instrucdtions file like the following:
+
+| action      | abbrev      | title               | isModerated |
+|:------------|:------------|:--------------------|:------------|
+| delete      | .           |                     |             |
+| add         | grade1      | First Grade         | x           |
+| add         | grade2      | Second Grade        |             |
 
 </div>
 
