@@ -106,7 +106,7 @@ follows:
 
 A handy way to initialize an account to no members, other than the
 account Admin doing the action, and some set of sub-groups is to
-import a group instrucdtions file like the following:
+import a group instructions file like the following:
 
 | action      | abbrev      | title               | isModerated |
 |:------------|:------------|:--------------------|:------------|
