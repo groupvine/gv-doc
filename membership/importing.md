@@ -229,9 +229,9 @@ group:[group name] column.
 </div>
 
 * Any number of informational-only columns with header names prefixed
-  with "ignore:.." can be included in import files and will be
+  with "ignore:" can be included in import files and will be
   entirely ignored by the membership import process.  (Also, columns
-  with headers names prefixed with "delivery:...", used for
+  with headers names prefixed with "delivery:", used for
   [exports](./exporting?view=GV-SET-VIEW), will also be ignored in
   imports.)
   
