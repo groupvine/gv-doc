@@ -20,7 +20,8 @@ Identification:
 
 *  **role** Member's role in the account, one of Admininistrator (or abbrev. 'Admin'), 
    Editor, or Member (or abbrev. 'x')
-*  **id**   number used internally.
+*  **id**    number used internally to identify users.
+*  **appId** number used internally to identify member applications.
 
 Text notifications:
 
