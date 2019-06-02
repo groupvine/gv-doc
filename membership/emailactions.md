@@ -31,6 +31,27 @@ For example:
 ~export~~bingotech@groupvine.email
 ```
 
+## Exporting your pending membership applications
+
+To export your the membership applications pending for your account, 
+send an email to:
+
+```
+~exportapps~~[account name]@groupvine.email
+```
+
+For example:
+
+```
+~exportapps~~bingotech@groupvine.email
+```
+
+This export file will be in a form ready to be imported into the
+account (into the accounts's top-level group for accounts with
+sub-groups).  It will also include a reserved "appId" column which is
+used to update the status of the pending application to "approved"
+following the import.
+
 
 ## Importing membership or membership changes
 

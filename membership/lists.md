@@ -37,3 +37,11 @@ in the account.
 
 </div>
 
+<div class="support">
+
+List membership may only occur within the group where the list was defined.  
+For example, to add or remove members from a list in an import file, the
+associated 'list:' header must follow the 'group:' header which owns that list.
+
+</div>
+
