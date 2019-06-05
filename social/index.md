@@ -55,6 +55,19 @@ For example:
 
 </div>
 
+
+<div class="adv">
+
+To send a Draft email that will only go to the Admins and Editors (or
+the group Admins and Editors of a sub-group), use the "~draft" email
+qualifier, like the following:
+
+```
+~draft~~bingotech@groupvine.email
+```
+
+</div>
+
 <div class="adv">
 
 If some addresses have failed in a previous send attempt due to a
