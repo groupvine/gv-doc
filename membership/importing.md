@@ -29,18 +29,16 @@ here](./emailactions?view=GV-SET-VIEW) for instructions.
 
 </div>  <!-- END ADVANCED -->
 
-<div class="support">  <!-- START ADVANCED -->
+<div class="support">  <!-- START SUPPOR -->
 
-The "display name" part of an email address can differ between
-accounts.  When an address is first uploaded with a display name, it
-sets a default display name to use for that address.  If it is a
-primary address, then it also sets (or possibly updates) the
-account-override display name to use for emails sent by the associated
-account member.  When an email is sent from an account member, only
-the account member's primary address is used for determining the
-display name to use, if any, regardless of whether the member is
-sending using this primary address or some alternate address (e.g.,
-from their own email inbox).
+If a "display name" is included in the import with a member's primary
+address, it is used to initialize the member's first and last name
+fields for that account member.  These names are subsequently used to
+construct the email display name used in the "From" address in any
+emails subsequently sent by this member.  Because the firstName and
+lastName fields are stored separately on a per-account basis, a given
+user can have different names (and thus, different email display
+names) in different accounts.
 
 </div>  <!-- END ADVANCED -->
 
