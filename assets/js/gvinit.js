@@ -178,7 +178,7 @@ $(document).ready( function() {
     });
 
     // Now show the page
-    $('.loading').hide(500);
+    $('.loading').hide();
     $('.wrapper').show(500);
 });
 
