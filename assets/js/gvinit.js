@@ -178,8 +178,8 @@ $(document).ready( function() {
     });
 
     // Now show the page
-    $('.loading').hide();
-    $('.wrapper').show(500);
+    $('.loading').fadeOut(500);
+    $('.wrapper').fadeIn(500);
 });
 
 
