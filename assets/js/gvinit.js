@@ -86,7 +86,7 @@ $(document).ready( function() {
 
     let mode = queryStr('view');
     if (!mode || !mode.trim()) {
-        mode = 'trivy';
+        mode = 'gv';
     }
 
     mode = mode.toLowerCase();
