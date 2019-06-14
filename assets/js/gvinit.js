@@ -177,9 +177,11 @@ $(document).ready( function() {
         window.location = locationWithQueryStr('view', $(this).val());
     });
 
-    // Now show the page
-    $('.loading').fadeOut(500);
-    $('.wrapper').fadeIn(500);
+    setTimeout( () => {
+        // Now show the page
+        $('.loading').fadeOut(500);
+        $('.wrapper').fadeIn(500);
+    }, 1000);
 });
 
 
