@@ -22,8 +22,12 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/showdown/1.9.0/showdown.min.js"></script>
 
   </head>
-  <body style="display:none">
-    <div class="wrapper">
+  <body>
+    <div class="loading" style="text-align:center; margin-top:50px; position:absolute">
+      <img style="max-height:200px" src="/assets/img/GroupVine_RGB.png"/>
+      <p>... loading documentation</p>
+    </div>
+    <div class="wrapper" style="display:none; position:absolute">
       <header>
         <h1>
           <a href="{{ "/" | absolute_url }}?view=GV-SET-VIEW"> 

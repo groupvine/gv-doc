@@ -178,6 +178,7 @@ $(document).ready( function() {
     });
 
     // Now show the page
-    ${('body').show();
+    ${('.loading').hide(500);
+    ${('.wrapper').show(500);
 });
 
