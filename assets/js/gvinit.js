@@ -177,5 +177,7 @@ $(document).ready( function() {
         window.location = locationWithQueryStr('view', $(this).val());
     });
 
+    // Now show the page
+    ${('body').show();
 });
 
