@@ -45,6 +45,8 @@ function locationWithQueryStr(key, value) {
 //
 
 $(document).ready( function() {
+    console.log("Document ready");
+
     let converter = new showdown.Converter();
     converter.setFlavor('github');
     converter.setOption('simpleLineBreaks', false);
@@ -177,6 +179,7 @@ $(document).ready( function() {
         window.location = locationWithQueryStr('view', $(this).val());
     });
 
+    console.log("Revealing page");
     // Now show the page
     ${('.loading').hide(500);
     ${('.wrapper').show(500);
