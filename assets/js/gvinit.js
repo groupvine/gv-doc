@@ -177,11 +177,13 @@ $(document).ready( function() {
         window.location = locationWithQueryStr('view', $(this).val());
     });
 
-    setTimeout( () => {
-        // Now show the page
-        $('.loading').fadeOut(500);
-        $('.wrapper').fadeIn(500);
-    }, 1000);
+    $('.wrapper').show();
+
+//    setTimeout( () => {
+//        // Now show the page
+//        $('.loading').fadeOut(500);
+//        $('.wrapper').fadeIn(500);
+//    }, 1000);
 });
 
 
