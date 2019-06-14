@@ -109,15 +109,6 @@ $(document).ready( function() {
     let service = 'GroupVine';
 
     switch(mode) {
-    case 'gv':
-        $('.trivy').show();
-        $('.gv').show();
-        $('.adv').hide();
-        $('.support').hide();
-
-        $('.only').hide();
-        $('.gv.only').show();
-        break;
     case 'adv':
         $('.trivy').show();
         $('.gv').show();
@@ -137,7 +128,6 @@ $(document).ready( function() {
         $('.support.only').show();
         break;
     case 'trivy':
-    default:
         service = 'Trivy';
 
         $('.trivy').show();
@@ -157,6 +147,16 @@ $(document).ready( function() {
         $('link[rel="icon"]').each( function() {
             $(this).attr("href", "/assets/img/favicon-trivy3.png");
         });
+        break;
+    default:
+    case 'gv':
+        $('.trivy').show();
+        $('.gv').show();
+        $('.adv').hide();
+        $('.support').hide();
+
+        $('.only').hide();
+        $('.gv.only').show();
     }
 
     //
