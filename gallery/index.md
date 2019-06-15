@@ -19,5 +19,5 @@ sub-group).  For example, for bingotech account, send the email to:
 ```
 
 To attach your old emails, you'll first need to save them into an email-message file
-(typically a file with a ```.eml``` suffix).  For instance, on gmail, go to the email
+(a file with a ```.eml``` suffix).  For instance, on gmail, go to the email
 that you'd like to post and select the "Download" option the menu for that email.
