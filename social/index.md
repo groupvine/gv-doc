@@ -68,7 +68,7 @@ qualifier, like the following:
 
 </div>
 
-<div class="adv">
+<div class="support">
 
 There are three ways to resend the same email using an action email. 
 
