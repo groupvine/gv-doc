@@ -70,15 +70,27 @@ qualifier, like the following:
 
 <div class="adv">
 
-If some addresses have failed in a previous send attempt due to a
-temporary problem, you can resend the same email to those addresses
-that have failed thus far simply by sending an email to your group and
-use the "~retry=[message id]" qualifier, like the following (for
-BingoTech's message ID number 100123):
+There are three ways to resend the same email using an action email. 
 
-```
-~retry=100123~~bingotech@groupvine.email
-```
+- *Retry* If some addresses have failed in a previous send attempt due to a
+  temporary problem, you can resend the same email to those addresses
+  that have failed thus far simply by sending an action email to the same 
+  group address and add ```~retry=[message id]```, like the following
+  ```~retry=100123~~bingotech@groupvine.email```.  
+
+- *Resend* To resend an email to a new set of recipients, send the
+   action email to the new group address and add ```~resend=[message id]```.
+   For example, ```~resend=100123~~newgroup.bingotech@groupvine.email```.
+   With Resend, recipients which have been targetted for this email
+   before are not included in the resent email recipient list.
+
+- *ResendAll* To resend the same email, send the
+   action email to a group address and add ```~resendall=[message id]```.
+   For example, ```~resendall=100123~~newgroup.bingotech@groupvine.email```.
+   With ResendAll, all recipients of the group address will be resent
+   the email, whether or not they've received it before.
+
+In all cases, the contents of the action email itself are ignored.
 
 </div>
 
