@@ -82,7 +82,10 @@ There are three ways to resend the same email using an action email.
    action email to the new group address and add ```~resend=[message id]```.
    For example, ```~resend=100123~~newgroup.bingotech@groupvine.email```.
    With Resend, recipients which have been targetted for this email
-   before are not included in the resent email recipient list.
+   before are not included in the resent email recipient list.   Resend
+   could be useful, for example, to resend an email with a social engagement
+   widget to new recipients and have their responses included in the same
+   response set as the original email.
 
 - *ResendAll* To resend the same email, send the
    action email to a group address and add ```~resendall=[message id]```.
