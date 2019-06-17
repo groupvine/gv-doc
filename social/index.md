@@ -68,7 +68,18 @@ qualifier, like the following:
 
 </div>
 
-<div class="support">
+<div class="adv">
+
+An email can be scheduled for sending later by adding a "senddate" to
+the email address, for example like the following:
+
+```
+~senddate='2019-04-10T13_30-08'~~bingotech@trivy.email
+```
+
+</div>
+
+<div class="support" id="resend">
 
 There are three ways to resend the same email using an action email. 
 
@@ -97,17 +108,6 @@ In all cases, the contents of the action email itself are ignored.
 
 </div>
 
-<div class="adv">
-
-An email can be scheduled for sending later by adding a "senddate" to
-the email address, for example like the following:
-
-```
-~senddate='2019-04-10T13_30-08'~~bingotech@trivy.email
-```
-
-</div>
-
 
 ### From your online account
 
@@ -115,8 +115,8 @@ the email address, for example like the following:
 
 ## Commenting and Reacting to Emails
 
-Yes, your GV-SERVICE community email recipients can **comment** on and **like**,
-**wow** (**dislike**, etc.), your emails!
+Yes, your GV-SERVICE community email recipients can add **comments**
+and other responses to your emails!
 
 ...
 
