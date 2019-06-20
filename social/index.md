@@ -104,7 +104,8 @@ There are three ways to resend the same email using an action email.
    With ResendAll, all recipients of the group address will be resent
    the email, whether or not they've received it before.
 
-In all cases, the contents of the action email itself are ignored.
+In all cases, the contents and subject field of the action email itself are
+ignored.
 
 </div>
 
