@@ -94,7 +94,7 @@ There are three ways to resend the same email using an action email.
    For example, ```~resend=100123~~newgroup.bingotech@groupvine.email```.
    With Resend, recipients which have been targetted for this email
    before are not included in the resent email recipient list.   Resend
-   could be useful, for example, to resend an email with a social engagement
+   could be useful, for example, to resend an email with a social email
    widget to new recipients and have their responses included in the same
    response set as the original email.
 
@@ -109,6 +109,19 @@ ignored.
 
 </div>
 
+<div class="adv" id="gmail">
+
+Note for gmail users.  If you send to your group from your gmail
+account, you likely will not see the email subsequently appear in
+your gmail inbox, even if you are one of the usual recipients of
+that group address.  Gmail hides the received copy of the email
+because it is recognized as a duplicate of the emai you sent.  
+
+To participate in an email that includes a social email widget,
+you can visit your online email gallery and view the email there.
+
+</div>
+
 
 ### From your online account
 
@@ -119,7 +132,26 @@ ignored.
 Yes, your GV-SERVICE community email recipients can add **comments**
 and other responses to your emails!
 
-...
+This is done through "Social Email Widgets" that can be added to your
+emails to ask questions, solicit comments, and generally, get a pulse
+of your email recipients.  And, unlike other email services,
+recipients will see the updated community responses in the email
+itself, just by opening (or reopening) the email in their inbox.
+
+
+<div class="adv" id="sew-inbox-updates">
+
+When a recipient first opens the email in their inbox, they should see
+the very latest state of the community's responses in the social email
+widget.  (This, by itself, makes it much more likely that the
+recipient will add their comments and responses to the email.)  If the
+recipient later re-opens the email in their inbox, then updating the
+social email widget depends somewhat on the extent that images are
+cached by the recipients email service; some will download the latest 
+right away, others may only download updates after a day or two.
+
+</div>
+
 
 ## Sharing Emails on Social Feeds
 
