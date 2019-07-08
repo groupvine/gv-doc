@@ -147,8 +147,9 @@ widget.  (This, by itself, makes it much more likely that the
 recipient will add their comments and responses to the email.)  If the
 recipient later re-opens the email in their inbox, then updating the
 social email widget depends partly on the extent to which images are
-cached by the recipients email service; some will download the latest 
-right away, others may only download updates after a day or two.
+cached by the recipient's email service; some will present the latest state
+immediately, others may impose some amount of delay before updating
+the images representing the social email widget's state.
 
 </div>
 
