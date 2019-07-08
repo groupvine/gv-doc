@@ -28,12 +28,11 @@ send an email to all the musicians using the address:
 
 <div class="adv">
 
-For an account with sub-groups
-([see information on sub-groups here](./groups?view=GV-SET-VIEW)), you'll be 
-pleased to know that group Administrators can define their own lists, which
-will then apply to that group, as well as any sub-groups of that group.  This
-also means that Lists defined at the account level apply to all sub-groups 
-in the account.
+For an account with sub-groups (see information on sub-groups below),
+you'll be pleased to know that group Administrators can define their
+own lists, which will then apply to that group, as well as any
+sub-groups of that group.  This also means that Lists defined at the
+account level apply to all sub-groups in the account.
 
 </div>
 
@@ -56,7 +55,7 @@ membership and target your emails.  Sub-groups:
 
 Multiple sub-group levels are possible (contact us to allow for more
 than 1 sub-group level).  Members of a sub-group are automatically a
-member of the parent (grand-parent, ..) groups.
+member of the parent (grand-parent, ...) groups.
 
 <div class="support"> 
 Remember that group membership applies "upward" from that group's

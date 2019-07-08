@@ -198,15 +198,29 @@ memberships):
 
 ## Groups
 
-Groups allow ...
+Groups are similar to lists in that they too allow specific targeting
+of community members, but are more powerful in a number of ways such 
+as allowing for delegation of their Administrator and Editor roles to
+to specific users for that sub-group. 
 
 Group columns are in the format group:[group name] with the values
 giving each member's role in that group.  Whereas a member's role for
 the entire account is under the optional "role" column (see above),
-the member's role within a specific sub-group is uncer the 
+the member's role within a specific sub-group is under the 
 group:[group name] column.
 
-... [otherwise like GroupVine v1]
+| email                       | group:eastregion | list:westregion  |
+|:----------------------------|:-----------------|:-----------------|
+|tim.tangelo@example.com      |  Admin           |                  |
+|beth.blueberry@example.com   |  x               |                  |
+|quiet.quinn@example.com      |  Editor          |                  |
+|sue.steeler@example.com      |                  | x                |
+|sam.salsa@example.com        |                  | x                |
+|billy.banjo@example.com      |                  | Admin            |
+
+
+For more information on groups and lists, see the [Groups and
+Lists](./groups_lists?view=GV-SET-VIEW) page.
 
 </div>   <!-- END GROUPVINE -->
 
