@@ -224,12 +224,14 @@ account-wide "musicians" list as well as the "redsox" list defined in
 the eastregion group.  Sue is also a musician as well as a golfer, and
 is in the "giants" list defined in the westregion:
 
-<small>
+<div style="font-size:10px">
+
 | email                       | list:musicians | list:golfers  | group:eastregion | list:redsox    | group:westregion | list:giants    |
 |:----------------------------|:---------------|:--------------|:-----------------|:---------------|:-----------------|:---------------|
 |tim.tangelo@example.com      | x              |               |  Admin           | x              |                  | x              |
 |beth.blueberryr@example.com  | x              | x             |                  |                | x                | x              |
-</small>
+
+</div>
 
 For more information on groups and lists, see the [Groups and
 Lists](./groups_lists?view=GV-SET-VIEW) page.
