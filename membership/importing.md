@@ -189,8 +189,8 @@ memberships):
 | email                       | list:musicians | list:golfers  |
 |:----------------------------|:---------------|:--------------|
 |tim.tangelo@example.com      | x              |               |
-|beth.blueberry@example.com   | x              | x             |
 |quiet.quinn@example.com      |                | x             |
+|beth.blueberry@example.com   | x              | x             |
 
 </div>
 
@@ -209,15 +209,25 @@ the entire account is under the optional "role" column (see above),
 the member's role within a specific sub-group is under the 
 group:[group name] column.
 
-| email                       | group:eastregion | list:westregion  |
+| email                       | group:eastregion | group:westregion |
 |:----------------------------|:-----------------|:-----------------|
 |tim.tangelo@example.com      |  Admin           |                  |
-|beth.blueberry@example.com   |  x               |                  |
+|sue.steeler@example.com      |  x               |                  |
 |quiet.quinn@example.com      |  Editor          |                  |
-|sue.steeler@example.com      |                  | x                |
+|beth.blueberry@example.com   |                  | x                |
 |sam.salsa@example.com        |                  | x                |
 |billy.banjo@example.com      |                  | Admin            |
 
+Note also that sub-groups can define their own lists (but not the
+other way around).  For example, in the following, Tim belongs to the
+account-wide "musicians" list as well as the "redsox" list defined in
+the eastregion group.  Sue is also a musician as well as a golfer, and
+is in the "giants" list defined in the westregion:
+
+| email                       | list:musicians | list:golfers  | group:eastregion | list:redsox    | group:westregion | list:giants    |
+|:----------------------------|:---------------|:--------------|:-----------------|:---------------|:-----------------|:---------------|
+|tim.tangelo@example.com      | x              |               |  Admin           | x              |                  | x              |
+|beth.blueberryr@example.com  | x              | x             |                  |                | x                | x              |
 
 For more information on groups and lists, see the [Groups and
 Lists](./groups_lists?view=GV-SET-VIEW) page.
