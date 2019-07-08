@@ -2,14 +2,8 @@
 layout: default
 ---
 
-<div class="trivy only">
-# Trivy Quick Start
-</div>
-
-<div class="gv">
-# GroupVine Quick Start
-</div>
-
+# Quick Start
+g
 ... do
 
 <div class="support">

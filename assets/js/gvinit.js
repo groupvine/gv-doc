@@ -138,11 +138,6 @@ $(document).ready( function() {
         $('.only').hide();
         $('.trivy.only').show();
 
-        // For the trivy case, need to replacee default "groupvine.email"
-        // domain everywhere with "trivy.email"
-        let newBody = $("body").html().replace(/groupvine\.email/g, 'trivy.email');
-        $("body").html(newBody);
-
         // Update the favicon
         $('link[rel="icon"]').each( function() {
             $(this).attr("href", "/assets/img/favicon-trivy3.png");
@@ -158,6 +153,11 @@ $(document).ready( function() {
         $('.only').hide();
         $('.gv.only').show();
     }
+
+    // For now,  replace all instances of  "groupvine.email"
+    // domain everywhere with "trivy.email"
+    let newBody = $("body").html().replace(/groupvine\.email/g, 'trivy.email');
+    $("body").html(newBody);
 
     //
     // Replace GV-SERVICE
