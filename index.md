@@ -3,13 +3,12 @@ layout: default
 ---
 
 # Quick Start
-g
-... do
+
+... ToDo
 
 <div class="support">
 Note that you're viewing the documentation in GroupVine "support" mode.
 </div>
-
 
 
 <div class="adv">
