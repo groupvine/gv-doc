@@ -106,7 +106,8 @@ $(document).ready( function() {
     // the view mode.
     //
 
-    let service = 'GroupVine';
+    // let service = 'GroupVine';
+    let service = 'Trivy'; // always Trivy service now
 
     switch(mode) {
     case 'adv':
@@ -163,7 +164,7 @@ $(document).ready( function() {
     // Replace GV-SERVICE
     //
 
-    let newBody = $("body").html().replace(/GV\-SERVICE/g, service);
+    newBody = $("body").html().replace(/GV\-SERVICE/g, service);
     $("body").html(newBody);
 
     //
