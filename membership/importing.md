@@ -221,8 +221,9 @@ group:[group name] column.
 Note also that sub-groups can define their own lists (but not the
 other way around).  For example, in the following, Tim belongs to the
 account-wide "musicians" list as well as the "redsox" list defined in
-the eastregion group.  Sue is also a musician as well as a golfer, and
-is in the "giants" list defined in the westregion:
+(and only relevant in) the eastregion group.  Sue is also a musician
+as well as a golfer, and is in the "giants" list defined in the
+westregion:
 
 <div style="font-size:10px">
 
