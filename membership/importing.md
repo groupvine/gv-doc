@@ -222,13 +222,12 @@ Note also that sub-groups can define their own lists (but not the
 other way around).  For example, in the following, Tim belongs to the
 account-wide "musicians" list as well as the "redsox" list defined in
 (and only relevant in) the eastregion group.  Sue is also a musician
-as well as a golfer, and is in the "giants" list defined in the
-westregion group:
+and is in the "giants" list defined in the westregion group:
 
-| email                       | <small>list:musicians</small> | list:golfers  | group:eastregion | list:redsox    | group:westregion | list:giants    |
-|:----------------------------|:---------------|:--------------|:-----------------|:---------------|:-----------------|:---------------|
-|tim.tangelo@example.com      | x              |               |  Admin           | x              |                  | x              |
-|beth.blueberryr@example.com  | x              | x             |                  |                | x                | x              |
+| email                       | list:musicians | group:eastregion | list:redsox    | group:westregion | list:giants    |
+|:----------------------------|:---------------|:-----------------|:---------------|:-----------------|:---------------|
+|tim.tangelo@example.com      | x              |  Admin           | x              |                  | x              |
+|beth.blueberryr@example.com  | x              |                  |                | x                | x              |
 
 For more information on groups and lists, see the [Groups and
 Lists](./groups_lists?view=GV-SET-VIEW) page.
