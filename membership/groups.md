@@ -55,7 +55,7 @@ musiclovers using the address:
 ~list=musiclovers~~bingotech@groupvine.email
 ```
 
-Or, if you only want to send it to musicloving advisors, use:
+Or, if you only want to send it to music-loving advisors, use:
 
 ```
 ~list=musiclovers~~advisors.bingotech@groupvine.email
