@@ -27,8 +27,8 @@ Identification:
 
 Text notifications:
 
-*  **textingNumber**  mobile phone number for receiving text notifications of new group emails,
-*  **textingService** mobile phone service provider
+*  **mobileNumber**  mobile phone number for receiving text notifications of new group emails,
+*  **mobileService** mobile phone service provider
     (e.g., att, verizon, sprint, tmobile, ...),
 *  **textingMode** one of "none" (no notifications sent), "urgent"
     (notifications only sent for emails marked as "urgent"), or "all"
