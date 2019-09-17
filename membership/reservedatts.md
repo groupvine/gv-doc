@@ -5,8 +5,8 @@ title: Reserved Member Attributes
 
 # Reserved Member Attributes
 
-Custom member attributes may only consist of alphanumeric and the
-underscore ('_') character.  Also, they must avoid the following
+Custom member attributes may consist of most characters other than
+colons (':') and a handful of others, and must avoid the following
 reserved member attributes.
 
 Email delivery:
