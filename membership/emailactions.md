@@ -188,8 +188,10 @@ CSV file using an address like:
 
 and some or all of the following columns in the account instructions file:
 
+* **ownerId** - Integer of userId, not typically used
+
 * **orgTypeId** - Integer organization type
-* **orgSubTypeId** - Integer organization sub-type
+* **orgSubTypes** - string
 
 * **address1** 
 * **address2** 
@@ -202,6 +204,8 @@ and some or all of the following columns in the account instructions file:
 * **dmaCode** - Marketing region code
 
 * **isForProfit** - boolean
+* **taxid**
+
 * **dfltOptedIn** - boolean
 * **membersApply** - boolean
 * **supervisoryMode** - Integer code, if site is under Supervisor moderation
