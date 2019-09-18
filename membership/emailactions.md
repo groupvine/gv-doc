@@ -78,6 +78,7 @@ If you'd like to ensure that no modifications are done to settings of existing m
 ```
 </div>
 
+
 ## Adding, deleting, or modifying sub-groups
 
 An account's sub-groups can also be managed by email by creating and
@@ -170,6 +171,45 @@ For example, for the bingotech account and a file named
 ~groups='groupinstrs.csv'~~bingotech@groupvine.email
 ```
 
+## Configuring an account
+
+Account information can be configured by email using an account-instructions
+CSV file using an address like:
+
+```
+~account='accountinstrs.csv'~~bingotech@groupvine.email
+```
+
+and some or all of the following columns in the account instructions file:
+
+* **orgTypeId** - Integer organization type
+* **orgSubTypeId** - Integer organization sub-type
+
+* **address1** 
+* **address2** 
+* **city** 
+* **stateProvinceId** - Integer state/province code
+* **postalCode**
+* **countryId** - Integer country code
+
+* **timezone**
+* **dmaCode** - Marketing region code
+
+* **isForProfit** - boolean
+* **dfltOptedIn** - boolean
+* **membersApply** - boolean
+* **supervisoryMode** - Integer code, if site is under Supervisor moderation
+
+* **accountCreated** - datetime
+* **accountDeleted** - datetime
+
+* **serviceType** - Integer service type code
+* **subscriptionId** - Integer
+* **expires** - datetime
+
+* **attributes** - JSON structured custom attributes
+* **terms** - JSON structured custom terminology
+* **customizations** - JSON structured other customizations
 
 
 
