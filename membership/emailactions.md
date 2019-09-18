@@ -171,7 +171,13 @@ For example, for the bingotech account and a file named
 ~groups='groupinstrs.csv'~~bingotech@groupvine.email
 ```
 
+<div class="support">
+
 ## Configuring an account
+
+[*NOTE:* this email-action (configuring an account) contains very
+little error checking, so is only provided for possible use by GroupVine support
+and for automated tests.]
 
 Account information can be configured by email using an account-instructions
 CSV file using an address like:
@@ -211,6 +217,4 @@ and some or all of the following columns in the account instructions file:
 * **terms** - JSON structured custom terminology
 * **customizations** - JSON structured other customizations
 
-
-
-  
+</div>
