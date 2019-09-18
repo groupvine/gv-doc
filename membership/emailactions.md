@@ -68,12 +68,15 @@ For example, for bingotech with a membership file named "bt_members.csv", use:
 ~import='bt_members.csv'~~bingotech@groupvine.email
 ```
 
-For importing modifications (rather than just additions), replace
-"~import" with "~importmod", like the following:
+<div class="adv">
+
+If you'd like to ensure that no modifications are done to settings of existing members, replace
+"~import" with "~importadd", like the following:
 
 ```
-~importmod='bt_members.csv'~~bingotech@groupvine.email
+~importadd='bt_members.csv'~~bingotech@groupvine.email
 ```
+</div>
 
 ## Adding, deleting, or modifying sub-groups
 
