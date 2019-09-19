@@ -69,9 +69,9 @@ existing user records.
 
 ## Custom Member attributes
 
-To define attributes (which can then be included in personalized,
-group emails), add a header row to your CSV import file, put the
-member email addresses under an "email" column, and then add
+To define text-based member attributes (which can then be included in
+personalized, group emails), add a header row to your CSV import file,
+put the member email addresses under an "email" column, and then add
 "[attribute name]" columns for your custom attributes.
 
 For example:
@@ -82,7 +82,7 @@ For example:
 |beth.blueberry@example.com   | Montecito  |            | black          |
 |quiet.quinn@example.com      | Toronto    | Hockey     | red            |
 
-You can now include these variables in your email surrounded by 
+You can now include these attribute names in your email surrounded by 
 ```{% raw %} {{ {% endraw %} ... {% raw %} }} {% endraw %}```, 
 such as:
 
