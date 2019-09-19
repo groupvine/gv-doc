@@ -76,29 +76,30 @@ member email addresses under an "email" column, and then add
 
 For example:
 
-| email                       | first      | last       | favcolor       |
+| email                       | City       | Sport      | Favorite Color |
 |:----------------------------|:-----------|:-----------|:---------------|
-|tim.tangelo@example.com      | Tim        | Tangelo    | blue           |
-|beth.blueberry@example.com   | Beth       | Blueberry  | black          |
-|quiet.quinn@example.com      | Quiet      | Quinn      | red            |
+|tim.tangelo@example.com      | Boston     | Baseball   | blue           |
+|beth.blueberry@example.com   | Montecito  |            | black          |
+|quiet.quinn@example.com      | Toronto    | Hockey     | red            |
 
 You can now include these variables in your email surrounded by 
 ```{% raw %} {{ {% endraw %} ... {% raw %} }} {% endraw %}```, 
 such as:
 
 ```
-Hello {% raw %}{{{% endraw %} first {% raw %}}}{% endraw %}, 
+Hello {% raw %}{{{% endraw %} sport {% raw %}}}{% endraw %}, 
 
-We see you're a "{% raw %}{{ {% endraw %} favcolor {% raw %} }}{% endraw %}" person,
-so look for your {% raw %} {{ {% endraw %} favcolor {% raw %} }} {% endraw %} BingoTech
+We see you're a "{% raw %}{{ {% endraw %} favoritecolor {% raw %} }}{% endraw %}" person,
+so look for your {% raw %} {{ {% endraw %} favoritecolor {% raw %} }} {% endraw %} BingoTech
 bingo board coming to your mail box soon!
 
 Bingo!
 ```
 
 Custom member attributes may only consist of alphanumeric and the
-underscore (‘_’) character. Note that a small number of attribute
-names are reserved, such as 'email'.  You can checkout the full list
+underscore (‘_’) character, and must contain at least one letter. Note
+that a small number of attribute names are reserved, such as 'email'
+and 'Last Name.'  You can checkout the full list
 [here](./reservedatts?view=GV-SET-VIEW).
 
 
@@ -137,15 +138,16 @@ can also have an aribtrary number of Administrators and Editors.
   group emails (or abbreviation '**Admin**').
 
 To set or change a member's role, specify each member's role in a
-"role" column, like this (the first, last, and favcolor custom attributes are just 
-shown to give a more complete import example, but aren't necessary).
+"role" column, like this (the City, Sport, and Favorit Color custom
+attributes are just shown to give a more complete import example, but
+aren't necessary).
 
 
-| email                       | first      | last       | favcolor       |  role   |
+| email                       | City       | Sport      | Favorite Color |  role   |
 |:----------------------------|:-----------|:-----------|:---------------|:--------|
-|tim.tangelo@example.com      | Tim        | Tangelo    | blue           | Admin   |
-|beth.blueberry@example.com   | Beth       | Blueberry  | black          |   x     |
-|quiet.quinn@example.com      | Quiet      | Quinn      | red            | Editor  |
+|tim.tangelo@example.com      | Boston     | Baseball   | blue           | Admin   |
+|beth.blueberry@example.com   | Montecito  |            | black          |   x     |
+|quiet.quinn@example.com      | Toronto    | Hockey     | red            | Editor  |
 
 </div>
 
