@@ -76,7 +76,7 @@ put the member email addresses under an "email" column, and then add
 
 For example:
 
-| email                       | City       | Sport      | Favorite Color |
+| email                       | City       | Sport      | Fav Color      |
 |:----------------------------|:-----------|:-----------|:---------------|
 |tim.tangelo@example.com      | Boston     | Baseball   | blue           |
 |beth.blueberry@example.com   | Montecito  |            | black          |
@@ -89,8 +89,8 @@ such as:
 ```
 Hello {% raw %}{{{% endraw %} sport {% raw %}}}{% endraw %}, 
 
-We see you're a "{% raw %}{{ {% endraw %} favoritecolor {% raw %} }}{% endraw %}" person,
-so look for your {% raw %} {{ {% endraw %} favoritecolor {% raw %} }} {% endraw %} BingoTech
+We see you're a "{% raw %}{{ {% endraw %} favcolor {% raw %} }}{% endraw %}" person,
+so look for your {% raw %} {{ {% endraw %} favcolor {% raw %} }} {% endraw %} BingoTech
 bingo board coming to your mail box soon!
 
 Bingo!
@@ -143,7 +143,7 @@ attributes are just shown to give a more complete import example, but
 aren't necessary).
 
 
-| email                       | City       | Sport      | Favorite Color |  role   |
+| email                       | City       | Sport      | Fav Color      |  role   |
 |:----------------------------|:-----------|:-----------|:---------------|:--------|
 |tim.tangelo@example.com      | Boston     | Baseball   | blue           | Admin   |
 |beth.blueberry@example.com   | Montecito  |            | black          |   x     |
