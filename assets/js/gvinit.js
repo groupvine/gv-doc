@@ -179,7 +179,11 @@ $(document).ready( function() {
     $('a').each( function () {
         let src = $(this).attr('href');
         if (src) {
-            src = src.replace(/[LINK-QARGS]/i, '?' + qArgStr);
+            if (qArgStr) {
+                src = src.replace(/[LINK-QARGS]/i, '?' + qArgStr);
+            } else {
+                src = src.replace(/[LINK-QARGS]/i, '');
+            }
             $(this).attr('href', src);
         }
     });
