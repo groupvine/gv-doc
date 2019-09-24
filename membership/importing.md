@@ -25,7 +25,7 @@ account's membership page.
 
 If you prefer, you can also email membership additions or
 modifications to your account's server for processing; [see
-here](./emailactions?view=GV-SET-VIEW) for instructions.
+here](./emailactions?view=GV-SET-VIEW&serv=GV-SERVICE) for instructions.
 
 </div>  <!-- END ADVANCED -->
 
@@ -100,7 +100,7 @@ Custom member attributes may only consist of alphanumeric and the
 underscore (‘_’) character, and must contain at least one letter. Note
 that a small number of attribute names are reserved, such as 'email'
 and 'Last Name.'  You can checkout the full list
-[here](./reservedatts?view=GV-SET-VIEW).
+[here](./reservedatts?view=GV-SET-VIEW&serv=GV-SERVICE).
 
 
 ## Making Membership Changes
@@ -109,7 +109,7 @@ By default, an **Import** will only make member additions or fill-in
 information that's missing.  To make modifications of your existing
 member attributes, use the **Import Modifications** button.
 
-<div class="trivy only">   <!-- START TRIVY ONLY -->
+<div class="free only">   <!-- START Free ONLY -->
 
 Also, the 'role' column can optionally be included to modify
 membership status of your community members.  Those with 'x'
@@ -119,7 +119,7 @@ member.
 (If the account administrator is included in the import file, "Admin"
 should be entered in the role field for that member.)
 
-</div>   <!-- END TRIVY ONLY -->
+</div>   <!-- END Free ONLY -->
 
 
 <div class="gv">   <!-- START GROUPVINE -->
@@ -220,8 +220,8 @@ group:[group name] column.
 |sam.salsa@example.com        |                  | x                |
 |billy.banjo@example.com      |                  | Admin            |
 
-Note also that sub-groups can define their own lists (but not the
-other way around).  For example, in the following, Tim belongs to the
+Note also that sub-groups can define their own lists.
+For example, in the following, Tim belongs to the
 account-wide "musicians" list as well as the "redsox" list defined in
 (and only relevant in) the eastregion group.  Sue is also a musician
 and is in the "giants" list defined in the westregion group:
@@ -232,14 +232,14 @@ and is in the "giants" list defined in the westregion group:
 |beth.blueberryr@example.com  | x              |                  |                | x                | x              |
 
 For more information on groups and lists, see the [Groups and
-Lists](./groups_lists?view=GV-SET-VIEW) page.
+Lists](./groups_lists?view=GV-SET-VIEW&serv=GV-SERVICE) page.
 
 </div>   <!-- END GROUPVINE -->
 
 
 ## Other Notes
 
-<div class="trivy only">
+<div class="free only">
 * Custom attributes must only consist of alphanumeric and the
   underscore ('_') character, are treated as case-insensitive, and
   typically handled in lower-case.
@@ -256,7 +256,7 @@ Lists](./groups_lists?view=GV-SET-VIEW) page.
   with "ignore:" can be included in import files and will be
   entirely ignored by the membership import process.  (Also, columns
   with headers names prefixed with "delivery:", used for
-  [exports](./exporting?view=GV-SET-VIEW), will also be ignored in
+  [exports](./exporting?view=GV-SET-VIEW&serv=GV-SERVICE), will also be ignored in
   imports.)
   
   

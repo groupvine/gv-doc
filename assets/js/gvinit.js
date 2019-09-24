@@ -60,7 +60,7 @@ $(document).ready( function() {
     // Do view-specific view changes
     //
 
-    $('.trivy, .gv, .adv, .support').each( function() {
+    $('.free, .gv, .adv, .support').each( function() {
         if ($(this).hasClass('html')) {
             // No convrsion, already in html
             return;
@@ -69,7 +69,7 @@ $(document).ready( function() {
         let md   = $(this).text();
         let html = converter.makeHtml(md);
 
-        if ($(this).hasClass('trivy') || $(this).hasClass('gv')) {
+        if ($(this).hasClass('free') || $(this).hasClass('gv')) {
             $(this).html(html);
         } else if ($(this).hasClass('adv')) {
             $(this).html(advBox);
@@ -91,27 +91,19 @@ $(document).ready( function() {
 
     mode = mode.toLowerCase();
 
-    // Set view mode on all internal links
-
-    $('a').each( function () {
-        let src = $(this).attr('href');
-        if (src) {
-            src = src.replace(/view=GV-SET-VIEW/i, 'view=' + mode);
-            $(this).attr('href', src);
-        }
-    });
+    let service = queryStr('serv');
+    if (!service || !service.trim()) {
+        service = 'groupvine';
+    }
 
     //
     // Hide sections that shouldn't be viewed according to
     // the view mode.
     //
 
-    // let service = 'GroupVine';
-    let service = 'Trivy'; // always Trivy service now
-
     switch(mode) {
     case 'adv':
-        $('.trivy').show();
+        $('.free').show();
         $('.gv').show();
         $('.adv').show();
         $('.support').hide();
@@ -120,7 +112,7 @@ $(document).ready( function() {
         $('.adv.only').show();
         break;
     case 'support':
-        $('.trivy').show();
+        $('.free').show();
         $('.gv').show();
         $('.adv').show();
         $('.support').show();
@@ -128,25 +120,18 @@ $(document).ready( function() {
         $('.only').hide();
         $('.support.only').show();
         break;
-    case 'trivy':
-        service = 'Trivy';
-
-        $('.trivy').show();
+    case 'free':
+        $('.free').show();
         $('.gv').hide();
         $('.adv').hide();
         $('.support').hide();
 
         $('.only').hide();
-        $('.trivy.only').show();
-
-        // Update the favicon
-        $('link[rel="icon"]').each( function() {
-            $(this).attr("href", "/assets/img/favicon-trivy3.png");
-        });
+        $('.free.only').show();
         break;
     case 'gv':
     default:
-        $('.trivy').show();
+        $('.free').show();
         $('.gv').show();
         $('.adv').hide();
         $('.support').hide();
@@ -155,13 +140,36 @@ $(document).ready( function() {
         $('.gv.only').show();
     }
 
-    // For now,  replace all instances of  "groupvine.email"
-    // domain everywhere with "trivy.email"
-    let newBody = $("body").html().replace(/groupvine\.email/g, 'trivy.email');
-    $("body").html(newBody);
+    //
+    // Update service
+    //
+
+    if (service === 'trivy') {
+        // Update the favicon
+        $('link[rel="icon"]').each( function() {
+            $(this).attr("href", "/assets/img/favicon-trivy3.png");
+        });
+
+        // Update all links
+        let newBody = $("body").html().replace(/groupvine\.email/g, 'trivy.email');
+        $("body").html(newBody);
+    }
+
+    // Set view mode on all internal links
+
+    $('a').each( function () {
+        let src = $(this).attr('href');
+        if (src) {
+            src = src.replace(/GV-SET-VIEW/i, mode);
+            src = src.replace(/GV-SERVICE/i,  service);
+            $(this).attr('href', src);
+        }
+    });
 
     //
     // Replace GV-SERVICE
+    // 
+    // TBD: No longer used??
     //
 
     newBody = $("body").html().replace(/GV\-SERVICE/g, service);

@@ -29,7 +29,7 @@ send an email to all the musicians using the address:
 <div class="adv">
 
 For an account with sub-groups
-([see information on sub-groups here](./groups?view=GV-SET-VIEW)), you'll be 
+([see information on sub-groups here](./groups?view=GV-SET-VIEW&serv=GV-SERVICE)), you'll be 
 pleased to know that group Administrators can define their own lists, which
 will then apply to that group, as well as any sub-groups of that group.  This
 also means that Lists defined at the account level apply to all sub-groups 

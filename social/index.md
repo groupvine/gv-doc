@@ -39,7 +39,7 @@ Note that you can also send to a specific list of members from your
 own email inbox (and/or to specific new members that haven't yet been
 imported). To do this, create a CSV file in the format of an import
 file (such as simply listing email addresses, one per line,
-[see here](../membership/importing?view=GV-SET-VIEW) for full options)
+[see here](../membership/importing?view=GV-SET-VIEW&serv=GV-SERVICE) for full options)
 that lists the members you want to send to.
 Then send the email to an address in the following format:
 
@@ -74,7 +74,7 @@ An email can be scheduled for sending later by adding a "senddate" to
 the email address, for example like the following:
 
 ```
-~senddate='2019-04-10T13_30-08'~~bingotech@trivy.email
+~senddate='2019-04-10T13_30-08'~~bingotech@groupvine.email
 ```
 
 </div>
@@ -160,9 +160,9 @@ the images representing the social email widget's state.
 
 ## Who can send new emails
 
-<div class="trivy only">
+<div class="free only">
 
-  With the Trivy service, only the account administrator is permitted to send 
+  With the free service, only the account administrator is permitted to send 
   new emails (or replies) to the group.
 
 </div>

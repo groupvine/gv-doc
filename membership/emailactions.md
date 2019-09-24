@@ -94,6 +94,10 @@ attaching a group-instructions CSV file using the following columns:
   blank for unmoderated.
 * **membersSend** - Optional column, set to 'x' to allow group members to send
   blank for unmoderated.
+* **membersApply** - Optional column, set to 'x' to require new group members to 
+  apply and be admitted by an Admin.  Note: sub-groups can potentially have a
+  more (but not less) restrictive policy here, though not currently, this
+  flag is only meaningful at the account level (top-level group).
 * **imgFilename** - Optional column to provid an URL to an image file
     for the group logo.
 
@@ -207,7 +211,7 @@ and some or all of the following columns in the account instructions file:
 * **taxid**
 
 * **dfltOptedIn** - boolean
-* **membersApply** - boolean
+* **groupAdminRights** - Integer code
 * **supervisoryMode** - Integer code, if site is under Supervisor moderation
 
 * **accountCreated** - datetime
