@@ -153,6 +153,9 @@ $(document).ready( function() {
         // Update all links
         let newBody = $("body").html().replace(/groupvine\.email/g, 'trivy.email');
         $("body").html(newBody);
+
+        $("#gv-logo").hide();
+        $("#trivy-logo").show();
     }
 
     // Set view mode on all internal links
