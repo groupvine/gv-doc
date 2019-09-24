@@ -180,9 +180,9 @@ $(document).ready( function() {
         let src = $(this).attr('href');
         if (src) {
             if (qArgStr) {
-                src = src.replace(/[LINK-QARGS]/i, '?' + qArgStr);
+                src = src.replace(/\[LINK-QARGS\]/i, '?' + qArgStr);
             } else {
-                src = src.replace(/[LINK-QARGS]/i, '');
+                src = src.replace(/\[LINK-QARGS\]/i, '');
             }
             $(this).attr('href', src);
         }
