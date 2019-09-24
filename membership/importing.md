@@ -25,7 +25,7 @@ account's membership page.
 
 If you prefer, you can also email membership additions or
 modifications to your account's server for processing; [see
-here](./emailactions?view=GV-SET-VIEW&serv=GV-SERVICE) for instructions.
+here](./emailactions[LINK-QARGS]) for instructions.
 
 </div>  <!-- END ADVANCED -->
 
@@ -100,7 +100,7 @@ Custom member attributes may only consist of alphanumeric and the
 underscore (‘_’) character, and must contain at least one letter. Note
 that a small number of attribute names are reserved, such as 'email'
 and 'Last Name.'  You can checkout the full list
-[here](./reservedatts?view=GV-SET-VIEW&serv=GV-SERVICE).
+[here](./reservedatts[LINK-QARGS]).
 
 
 ## Making Membership Changes
@@ -232,7 +232,7 @@ and is in the "giants" list defined in the westregion group:
 |beth.blueberryr@example.com  | x              |                  |                | x                | x              |
 
 For more information on groups and lists, see the [Groups and
-Lists](./groups_lists?view=GV-SET-VIEW&serv=GV-SERVICE) page.
+Lists](./groups_lists[LINK-QARGS]) page.
 
 </div>   <!-- END GROUPVINE -->
 
@@ -256,7 +256,7 @@ Lists](./groups_lists?view=GV-SET-VIEW&serv=GV-SERVICE) page.
   with "ignore:" can be included in import files and will be
   entirely ignored by the membership import process.  (Also, columns
   with headers names prefixed with "delivery:", used for
-  [exports](./exporting?view=GV-SET-VIEW&serv=GV-SERVICE), will also be ignored in
+  [exports](./exporting[LINK-QARGS]), will also be ignored in
   imports.)
   
   

@@ -39,7 +39,7 @@ Note that you can also send to a specific list of members from your
 own email inbox (and/or to specific new members that haven't yet been
 imported). To do this, create a CSV file in the format of an import
 file (such as simply listing email addresses, one per line,
-[see here](../membership/importing?view=GV-SET-VIEW&serv=GV-SERVICE) for full options)
+[see here](../membership/importing[LINK-QARGS]) for full options)
 that lists the members you want to send to.
 Then send the email to an address in the following format:
 

@@ -26,6 +26,7 @@ function queryStr(key) {
     return match && decodeURIComponent(match[1].replace(/\+/g, " "));
 }
 
+/*
 function locationWithQueryStr(key, value) {
     // key = key.replace(/[*+?^$.\[\]{}()|\\\/]/g, "\\$&"); // escape RegEx meta chars
     var match = location.search.match(new RegExp("^(.*[?&]"+key+"=)([^&]+)(.*)$"));
@@ -39,6 +40,7 @@ function locationWithQueryStr(key, value) {
     }
     return location.pathname + newQuery + location.hash;
 }
+*/
 
 //
 // Show/hide page content based on mode query arg
@@ -84,16 +86,28 @@ $(document).ready( function() {
     // Get the view query string and set it on all links
     //
 
-    let mode = queryStr('view');
+    let mode = queryStr('vw');
     if (!mode || !mode.trim()) {
         mode = 'gv';
     }
 
     mode = mode.toLowerCase();
 
-    let service = queryStr('serv');
+    let service = queryStr('sv');
     if (!service || !service.trim()) {
         service = 'groupvine';
+    }
+
+    function computeQueryStr() {
+        let res = '';
+        if (mode !== 'gv') {
+            res = 'vw=' + mode;
+        }
+        if (service !== 'groupvine') {
+            if (res) { res += '&'; }
+            res += 'sv=' + service;
+        }
+        return res;
     }
 
     //
@@ -158,13 +172,14 @@ $(document).ready( function() {
         $("#trivy-logo").show();
     }
 
-    // Set view mode on all internal links
+    // Set view mode and service on all internal links
+
+    let qArgStr = computeQueryStr();
 
     $('a').each( function () {
         let src = $(this).attr('href');
         if (src) {
-            src = src.replace(/GV-SET-VIEW/i, mode);
-            src = src.replace(/GV-SERVICE/i,  service);
+            src = src.replace(/[LINK-QARGS]/i, '?' + qArgStr);
             $(this).attr('href', src);
         }
     });
@@ -186,7 +201,18 @@ $(document).ready( function() {
     $("#docview").val(mode);
 
     $("#docview").change( function() {
-        window.location = locationWithQueryStr('view', $(this).val());
+        // Update mode
+        mode = $(this).val();
+
+        // Jump to new mode page
+        let url = window.location.pathname;
+        let qStr = computeQueryStr();
+        if (qStr) {
+            url += '?' + qStr;
+        }
+        window.location = url;
+
+        // window.location = locationWithQueryStr('vw', $(this).val());
     });
 
     $('.wrapper').show();
