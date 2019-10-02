@@ -28,7 +28,7 @@ team.bingotech@groupvine.email
 Or, to send to a list, use an email address like:
 
 ```
-~list=musiclovers~~bingotech@groupvine.email
+musiclovers~~bingotech@groupvine.email
 ```
 
 </div>

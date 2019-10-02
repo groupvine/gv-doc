@@ -23,7 +23,7 @@ their interests, such as "golfers" and "musicians".  You could then
 send an email to all the musicians using the address:
 
 ```
-~list=musiclovers~~bingotech@groupvine.email
+musiclovers~~bingotech@groupvine.email
 ```
 
 <div class="adv">

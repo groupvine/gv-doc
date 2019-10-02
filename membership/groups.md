@@ -52,13 +52,13 @@ members using Lists to identify some of their interests, such as
 musiclovers using the address:
 
 ```
-~list=musiclovers~~bingotech@groupvine.email
+musiclovers~~bingotech@groupvine.email
 ```
 
 Or, if you only want to send it to music-loving advisors, use:
 
 ```
-~list=musiclovers~~advisors.bingotech@groupvine.email
+musiclovers~~advisors.bingotech@groupvine.email
 ```
 
 Don't worry, you can always use the address helper on the site.
