@@ -4,23 +4,27 @@ layout: default
 
 <div id="gv-service-help-topics" class="html" style="width:100%; text-align:center">
   <h1>
-    GV-SERVICE Help Topics
+    Help Topics
   </h1>
 </div>
 
 <div class="html tocTable">
 
   <table style="width:100%">
-    <tr style="vertical-align:top">
-      <td style="width:50%">
-        <h3>Getting Started</h3>
+    <tr>
+      <td>
+        <h3>
+          <a href="#">Getting Started</a>
+        </h3>
         <p>
           Customize your account, add members, send your first email
         </p>
       </td>
 
-      <td style="width:50%">
-        <h3>Managing your Membership</h3>
+      <td>
+        <h3>
+          <a href="#">Managing your Membership</a>
+        </h3>
         <p>
           Add members individually or import a membership file, have members sign up 
           for emails via a link to your account's registration page, group members 
@@ -29,9 +33,11 @@ layout: default
       </td>
     </tr>
 
-    <tr style="vertical-align:top">
+    <tr>
       <td>
-        <h3>Sending Emails</h3>
+        <h3>
+          <a href="#">Sending Emails</a>
+        </h3>
         <p>
           Send email from your online account or your personal email
           account, add images, attach files, personalize content.
@@ -39,7 +45,9 @@ layout: default
       </td>
 
       <td>
-        <h3>Social Email Features</h3>
+        <h3>
+          <a href="#">Social Email Features</a>
+        </h3>
         <p>
           Add social email widgets to emails to solicit ideas, get RSVPs, ask 
           for volunteers, etc., download  responses to a spreadsheet, 
@@ -48,9 +56,11 @@ layout: default
       </td>
     </tr>
 
-    <tr style="vertical-align:top">
+    <tr>
       <td>
-        <h3>Email Delivery & Troubleshooting</h3>
+        <h3>
+          <a href="#">Email Delivery & Troubleshooting</a>
+        </h3>
         <p>
           What to do when members aren't receiving emails, 
           how to deal with bounced emails, how to create email filters
@@ -58,12 +68,28 @@ layout: default
       </td>
 
       <td>
-        <h3>Security & Privacy</h3>
+        <h3>
+          <a href="#">Security & Privacy</a>
+        </h3>
         <p>
           Site policy, use of personal contact information, site security
         </p>
       </td>
     </tr>
+
+    <tr class="support">
+      <td colspan="2" style="width:100%">
+        <h3>
+          Support link shortcuts
+        </h3>
+        <p>
+          <a href="/membership/emailactions[LINK-QARGS]">Email actions;</a>
+          <a href="/membership/reservedatts[LINK-QARGS]">Reserved attributes;</a>
+        </p>
+      </td>
+    </tr>
+
+    <tr>
   </table>
 
 </div>

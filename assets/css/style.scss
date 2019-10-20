@@ -29,7 +29,14 @@
 
 
 .tocTable {
+  h3 {
+    height: 25px;
+  }
+  tr {
+    vertical-align: top;
+  }
   th, td {
+    width: 50%;
     border-bottom: none;
   }
 }
