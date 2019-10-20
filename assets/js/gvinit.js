@@ -241,6 +241,9 @@ $(document).ready( function() {
     newBody = $("body").html().replace(/GV\-SERVICE/g, capService);
     $("body").html(newBody);
 
+    newTitle = $("title").html().replace(/GV\-SERVICE/g, capService);
+    $("title").html(newTitle);
+
     //
     // Handle view menu.
     // Attach event after possibly modifying content above!
