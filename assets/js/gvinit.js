@@ -174,7 +174,7 @@ $(document).ready( () => {
         }
     }
 
-    $("#advCheckbox").change( () => {
+    $("#advCheckbox").click( () => {
         doAdv();
     });
     doAdv();  // initialize
