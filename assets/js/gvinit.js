@@ -46,7 +46,7 @@ function locationWithQueryStr(key, value) {
 // Show/hide page content based on mode query arg
 //
 
-$(document).ready( function() {
+$(document).ready( () => {
     let converter = new showdown.Converter();
     converter.setFlavor('github');
     converter.setOption('simpleLineBreaks', false);
