@@ -87,7 +87,7 @@ layout: default
           <a href="/membership/reservedatts[LINK-QARGS]">Reserved attributes;</a>
         </p>
       </td>
-    <tr>
+    </tr>
 
   </table>
 
