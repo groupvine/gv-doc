@@ -27,7 +27,7 @@ layout: default
         </h3>
         <p>
           Add members individually or import a membership file, have members sign up 
-          via your account's registration page<span class="html trial g4s gv>, 
+          via your account's registration page<span class="html trial g4s gv">, 
           group members together using lists or sub-groups, manage Administrators and Editors</span>.
         </p>
       </td>
