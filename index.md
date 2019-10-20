@@ -80,7 +80,7 @@ layout: default
     <tr class="support">
       <td colspan="2" style="width:100%">
         <h3>
-          Support link shortcuts
+          Support link shortcuts 
         </h3>
         <p>
           <a href="/membership/emailactions[LINK-QARGS]">Email actions;</a>
