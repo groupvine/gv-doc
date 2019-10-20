@@ -129,6 +129,9 @@ $(document).ready( function() {
     // First, hide all
     $('.free, .trial, .gv, .g4s').hide();
 
+    // Show the adv notes checkbox by default
+    $("#adv-checkbox-wrapper").show();
+
     switch(mode) {
     case 'free':
         $('.free').show();
@@ -140,16 +143,13 @@ $(document).ready( function() {
         break;
     case 'trial':
         $('.trial').show();
-        $("#adv-checkbox-wrapper").show();
         break;
     case 'g4s':
         $('.g4s').show();
-        $("#adv-checkbox-wrapper").show();
         break;
     case 'gv':
     default:
         $('.gv').show();
-        $("#adv-checkbox-wrapper").show();
         break;
     }
 
