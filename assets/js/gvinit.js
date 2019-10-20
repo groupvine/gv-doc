@@ -154,6 +154,17 @@ $(document).ready( function() {
     }
 
     //
+    // Show/hide service specific stuff
+    // 
+    if (service === 'trivy') {
+        $(".trivy").show();
+        $(".gv").hide();
+    } else {
+        $(".trivy").hide();
+        $(".gv").show();
+    }
+
+    //
     // Show/hide support doc notes
     //
 

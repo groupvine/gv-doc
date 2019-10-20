@@ -70,7 +70,8 @@ layout: default
         </h3>
         <p>
           What to do when members aren't receiving emails, 
-          how to deal with bounced emails, how to create email filters.
+          how to deal with bounced emails<span class="html trial g4s gv">, 
+          how to create email filters</span>.
         </p>
       </td>
 
