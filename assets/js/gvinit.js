@@ -122,11 +122,13 @@ $(document).ready( function() {
     }
 
     if (queryStr('adv')) {
+        advanced = true;
         setTimeout( () => {
             $("#adv-checkbox").prop("checked", true);
             checkAdv();
         }, 5);
     } else {
+        advanced = false;
         setTimeout( () => {
             $("#adv-checkbox").prop("checked", false);
             checkAdv();
