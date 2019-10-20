@@ -93,7 +93,7 @@ layout: default
           <p>
             <a href="/social[LINK-QARGS]">Social email options</a>;
             <a href="/gallery[LINK-QARGS]">Email gallery</a>;
-            <a href="/membership/importing[LINK-QARGS]">Importing</a>
+            <a href="/membership/importing[LINK-QARGS]">Importing</a>;
             <a href="/membership/exporting[LINK-QARGS]">Exporting</a>;
             <a href="/membership/lists_groups[LINK-QARGS]">Lists &amp; Sub-groups</a>;
             <a href="/membership/emailactions[LINK-QARGS]">Email actions</a>;
