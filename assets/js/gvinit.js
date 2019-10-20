@@ -174,10 +174,10 @@ $(document).ready( function() {
         }
     }
 
-    $('header').on('change', '#adv-checkbox', function() {
+    doAdv();  // initialize
+    $('#adv-checkbox').live('change', function() {
         doAdv();
     });
-    doAdv();  // initialize
 
     //
     // Update service
@@ -229,7 +229,7 @@ $(document).ready( function() {
 
     $("#docview").val(mode);
 
-    $("header").on('change', '#docview', function() {
+    $("#docview").live('change', function() {
         // Update mode
         mode = $(this).val();
 
