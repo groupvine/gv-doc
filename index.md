@@ -8,7 +8,7 @@ layout: default
   </h1>
 </div>
 
-<div class="html">
+<div class="html tocTable">
 
   <table style="width:100%">
     <tr style="vertical-align:top">
