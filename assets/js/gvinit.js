@@ -46,7 +46,7 @@ function locationWithQueryStr(key, value) {
 // Show/hide page content based on mode query arg
 //
 
-$(document).ready( () => {
+$(document).ready( function() {
     let converter = new showdown.Converter();
     converter.setFlavor('github');
     converter.setOption('simpleLineBreaks', false);
@@ -174,7 +174,7 @@ $(document).ready( () => {
         }
     }
 
-    $("#adv-checkbox").click( () => {
+    $("#adv-checkbox").click( function() {
         doAdv();
     });
     doAdv();  // initialize
