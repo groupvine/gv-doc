@@ -84,29 +84,24 @@ layout: default
       </td>
     </tr>
 
-    <tr class="support html">
-      <td colspan="2" style="width:100%">
-        <div class="supportbox">
-          <h3 style="margin:10px 0 0 0">
-            Support link shortcuts 
-          </h3>
-          <p>
-            <a href="/social[LINK-QARGS]">Social email options</a>;
-            <a href="/gallery[LINK-QARGS]">Email gallery</a>;
-            <a href="/membership/importing[LINK-QARGS]">Importing</a>;
-            <a href="/membership/exporting[LINK-QARGS]">Exporting</a>;
-            <a href="/membership/lists_groups[LINK-QARGS]">Lists &amp; Sub-groups</a>;
-            <a href="/membership/emailactions[LINK-QARGS]">Email actions</a>;
-            <a href="/membership/reservedatts[LINK-QARGS]">Reserved attributes</a>;
-          </p>
-        </div>
-      </td>
-    </tr>
-
   </table>
 
 </div>
 
+
+<div class="support">
+
+### Support link shortcuts 
+
+  [Social email options](/social[LINK-QARGS]);
+  [Email gallery](/gallery[LINK-QARGS]);
+  [Importing](/membership/importing[LINK-QARGS]);
+  [Exporting](/membership/exporting[LINK-QARGS]);
+  [Lists & Sub-groups](/membership/lists_groups[LINK-QARGS]);
+  [Email actions](/membership/emailactions[LINK-QARGS]);
+  [Reserved attributes](/membership/reservedatts[LINK-QARGS]);
+
+</div>
 
 
 <div class="adv">
