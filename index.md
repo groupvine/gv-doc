@@ -17,7 +17,7 @@ layout: default
           <a href="#">Getting Started</a>
         </h3>
         <p>
-          Customize your account, add members, send your first email
+          Customize your account, add members, send your first email.
         </p>
       </td>
 
@@ -27,8 +27,8 @@ layout: default
         </h3>
         <p>
           Add members individually or import a membership file, have members sign up 
-          for emails via a link to your account's registration page, group members 
-          together using lists or sub-groups, manage Administrators and Editors.
+          via your account's registration page<span class="html trial g4s gv>, 
+          group members together using lists or sub-groups, manage Administrators and Editors</span>.
         </p>
       </td>
     </tr>
@@ -40,7 +40,7 @@ layout: default
         </h3>
         <p>
           Send email from your online account or your personal email
-          account, add images, attach files, personalize content.
+          account, add images<span class="html trial g4s gv">, attach files, personalize content</span>.
         </p>
       </td>
 
@@ -63,7 +63,7 @@ layout: default
         </h3>
         <p>
           What to do when members aren't receiving emails, 
-          how to deal with bounced emails, how to create email filters
+          how to deal with bounced emails, how to create email filters.
         </p>
       </td>
 
@@ -72,7 +72,7 @@ layout: default
           <a href="#">Security & Privacy</a>
         </h3>
         <p>
-          Site policy, use of personal contact information, site security
+          Site policy, use of personal contact information, site security.
         </p>
       </td>
     </tr>
@@ -80,7 +80,7 @@ layout: default
     <tr class="support html">
       <td colspan="2" style="width:100%">
         <div class="supportbox">
-          <h3 style="height:5px">
+          <h3 style="margin:10px 0 0 0">
             Support link shortcuts 
           </h3>
           <p>
