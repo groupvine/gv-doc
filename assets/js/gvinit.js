@@ -134,6 +134,7 @@ $(document).ready( function() {
         $('.free').show();
         setTimeout( () => {
             $("#adv-checkbox").prop("checked", false);  // uncheck
+            doAdv();
         }, 10);
         $("#adv-checkbox-wrapper").hide();   // hide adv feature checkbox
         break;
@@ -160,6 +161,7 @@ $(document).ready( function() {
         // Also show advanced features by default
         setTimeout( () => {
             $("#adv-checkbox").prop("checked", true);
+            doAdv();
         }, 10);
         $(".support").show();
     } else {
