@@ -177,6 +177,7 @@ $(document).ready( () => {
     $("#advCheckbox").change( () => {
         doAdv();
     });
+    doAdv();  // initialize
 
     //
     // Update service
