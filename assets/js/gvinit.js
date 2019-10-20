@@ -53,7 +53,7 @@ $(document).ready( function() {
 
     // Unfortunately, the github-pages/jekyll converter doesn't
     // operate within html elements like:
-    //    <div class="gv-only"> .. </div>
+    //    <div class="g4s"> .. </div>
     // So, do our own own github-compatible Markdown conversion
     // here for our mode-specific sections.
     
@@ -62,7 +62,7 @@ $(document).ready( function() {
     // Do view-specific view changes
     //
 
-    $('.free, .trial, .gv, .g4s, .adv, .support').each( function() {
+    $('.free, .trial, .sub, .g4s, .adv, .support').each( function() {
         if ($(this).hasClass('html')) {
             // No convrsion, already in html
             return;
@@ -71,7 +71,7 @@ $(document).ready( function() {
         let md   = $(this).text();
         let html = converter.makeHtml(md);
 
-        if ($(this).hasClass('free') || $(this).hasClass('trial') || $(this).hasClass('gv') || $(this).hasClass('g4s')) {
+        if ($(this).hasClass('free') || $(this).hasClass('trial') || $(this).hasClass('sub') || $(this).hasClass('g4s')) {
             $(this).html(html);
         } else if ($(this).hasClass('adv')) {
             $(this).html(advBox);
@@ -88,7 +88,7 @@ $(document).ready( function() {
 
     let mode = queryStr('vw');
     if (!mode || !mode.trim()) {
-        mode = 'gv';
+        mode = 'sub';
     }
 
     mode = mode.toLowerCase();
@@ -107,7 +107,7 @@ $(document).ready( function() {
 
     function computeQueryStr() {
         let res = '';
-        if (mode !== 'gv') {
+        if (mode !== 'sub') {
             res = 'vw=' + mode;
         }
         if (service !== 'groupvine') {
@@ -127,7 +127,7 @@ $(document).ready( function() {
     //
 
     // First, hide all
-    $('.free, .trial, .gv, .g4s').hide();
+    $('.free, .trial, .sub, .g4s').hide();
 
     // Show the adv notes checkbox by default
     $("#adv-checkbox-wrapper").show();
@@ -147,9 +147,9 @@ $(document).ready( function() {
     case 'g4s':
         $('.g4s').show();
         break;
-    case 'gv':
+    case 'sub':
     default:
-        $('.gv').show();
+        $('.sub').show();
         break;
     }
 

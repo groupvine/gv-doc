@@ -27,7 +27,7 @@ layout: default
         </h3>
         <p>
           Add members individually or import a membership file, have members sign up 
-          via your account's registration page<span class="html trial g4s gv">, 
+          via your account's registration page<span class="html trial g4s sub">, 
           group members together using lists or sub-groups, manage Administrators and Editors</span>.
         </p>
       </td>
@@ -40,7 +40,7 @@ layout: default
         </h3>
         <p>
           Send email from your online account or your personal email
-          account, add images<span class="html trial g4s gv">, attach files, personalize content</span>.
+          account, add images<span class="html trial g4s sub">, attach files, personalize content</span>.
         </p>
       </td>
 
@@ -51,13 +51,13 @@ layout: default
         <p>
           Add social email widgets to emails to 
           allow recipients to contribute to your email with their
-          <span class="html trial gv g4s">
+          <span class="html trial sub g4s">
             feedback, RSVPs, votes, volunteered items, etc., 
           </span>
           <span class="html free">
             feedback,
           </span>
-          download responses to a spreadsheet<span class="html trial gv g4s">,
+          download responses to a spreadsheet<span class="html trial sub g4s">,
           send to response-based dynamic email lists</span>.
         </p>
       </td>

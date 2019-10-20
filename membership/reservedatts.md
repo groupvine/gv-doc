@@ -38,7 +38,7 @@ System-reserved:
 
 * **sys**, **data**, and **std** are reserved for system use.
 
-<div class="trial gv g4s">
+<div class="trial sub g4s">
 
 Miscellanous:
 

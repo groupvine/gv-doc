@@ -122,7 +122,7 @@ should be entered in the role field for that member.)
 </div>   <!-- END Free ONLY -->
 
 
-<div class="trial gv g4s">   <!-- START GROUPVINE -->
+<div class="trial sub g4s">   <!-- START GROUPVINE -->
 
 ## Membership Roles
 
@@ -177,7 +177,7 @@ first Administrator member of the account.
 
 </div>
 
-<div class="trial gv g4s">   <!-- START GROUPVINE -->
+<div class="trial sub g4s">   <!-- START GROUPVINE -->
 
 ## Lists
 
@@ -196,7 +196,7 @@ memberships):
 
 </div>
 
-<div class="trial gv g4s">   <!-- START GROUPVINE -->
+<div class="trial sub g4s">   <!-- START GROUPVINE -->
 
 ## Groups
 
@@ -245,7 +245,7 @@ Lists](./groups_lists[LINK-QARGS]) page.
   typically handled in lower-case.
 </div>
 
-<div class="trial gv g4s">
+<div class="trial sub g4s">
 * Custom attributes, list and group names must only consist of
   alphanumeric and the underscore ('_') character.  They are all
   treated as case-insensitive, and are typically handled in
