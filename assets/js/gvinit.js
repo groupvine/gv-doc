@@ -62,7 +62,7 @@ $(document).ready( function() {
     // Do view-specific view changes
     //
 
-    $('.free, .gv, .adv, .support').each( function() {
+    $('.free, .trial, .gv, .g4s, .adv, .support').each( function() {
         if ($(this).hasClass('html')) {
             // No convrsion, already in html
             return;
@@ -71,7 +71,7 @@ $(document).ready( function() {
         let md   = $(this).text();
         let html = converter.makeHtml(md);
 
-        if ($(this).hasClass('free') || $(this).hasClass('gv')) {
+        if ($(this).hasClass('free') || $(this).hasClass('trial') || $(this).hasClass('gv') || $(this).hasClass('g4s')) {
             $(this).html(html);
         } else if ($(this).hasClass('adv')) {
             $(this).html(advBox);
@@ -98,6 +98,13 @@ $(document).ready( function() {
         service = 'groupvine';
     }
 
+    let support = queryStr('support');
+    if (support && !support.trim() == '1') {
+        support = true;
+    } else {
+        support = false;
+    }
+
     function computeQueryStr() {
         let res = '';
         if (mode !== 'gv') {
@@ -107,6 +114,10 @@ $(document).ready( function() {
             if (res) { res += '&'; }
             res += 'sv=' + service;
         }
+        if (support) {
+            if (res) { res += '&'; }
+            res += 'support=1';
+        }
         return res;
     }
 
@@ -115,44 +126,57 @@ $(document).ready( function() {
     // the view mode.
     //
 
+    // First, hide all
+    $('.free, .trial, .gv, .g4s').hide();
+
     switch(mode) {
-    case 'adv':
-        $('.free').show();
-        $('.gv').show();
-        $('.adv').show();
-        $('.support').hide();
-
-        $('.only').hide();
-        $('.adv.only').show();
-        break;
-    case 'support':
-        $('.free').show();
-        $('.gv').show();
-        $('.adv').show();
-        $('.support').show();
-
-        $('.only').hide();
-        $('.support.only').show();
-        break;
     case 'free':
         $('.free').show();
-        $('.gv').hide();
-        $('.adv').hide();
-        $('.support').hide();
-
-        $('.only').hide();
-        $('.free.only').show();
+        $("#advCheckbox").prop("checked", false);  // uncheck
+        $("#advCheckbox").hide();   // hide adv feature checkbox
+        break;
+    case 'trial':
+        $('.trial').show();
+        $("#advCheckbox").show();
+        break;
+    case 'g4s':
+        $('.g4s').show();
+        $("#advCheckbox").show();
         break;
     case 'gv':
     default:
-        $('.free').show();
         $('.gv').show();
-        $('.adv').hide();
-        $('.support').hide();
-
-        $('.only').hide();
-        $('.gv.only').show();
+        $("#advCheckbox").show();
+        break;
     }
+
+    //
+    // Show/hide support doc notes
+    //
+
+    if (support) {
+        // Also show advanced features by default
+        $("#advCheckbox").prop("checked", true);
+        $(".support").show();
+    } else {
+        $(".support").hide();
+    }
+
+    //
+    // Show/hide advanced features
+    //
+
+    function doAdv() {
+        if ( $("#advCheckbox").is(':checked') ) {
+            $(".adv").show();
+        } else {
+            $(".adv").hide();
+        }
+    }
+
+    $("#advCheckbox").change( () => {
+        doAdv();
+    });
 
     //
     // Update service
@@ -220,12 +244,6 @@ $(document).ready( function() {
     });
 
     $('.wrapper').show();
-
-//    setTimeout( () => {
-//        // Now show the page
-//        $('.loading').fadeOut(500);
-//        $('.wrapper').fadeIn(500);
-//    }, 1000);
 });
 
 

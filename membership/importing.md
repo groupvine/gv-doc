@@ -109,7 +109,7 @@ By default, an **Import** will only make member additions or fill-in
 information that's missing.  To make modifications of your existing
 member attributes, use the **Import Modifications** button.
 
-<div class="free only">   <!-- START Free ONLY -->
+<div class="free">   <!-- START Free ONLY -->
 
 Also, the 'role' column can optionally be included to modify
 membership status of your community members.  Those with 'x'
@@ -122,7 +122,7 @@ should be entered in the role field for that member.)
 </div>   <!-- END Free ONLY -->
 
 
-<div class="gv">   <!-- START GROUPVINE -->
+<div class="trial gv g4s">   <!-- START GROUPVINE -->
 
 ## Membership Roles
 
@@ -177,7 +177,7 @@ first Administrator member of the account.
 
 </div>
 
-<div class="gv">   <!-- START GROUPVINE -->
+<div class="trial gv g4s">   <!-- START GROUPVINE -->
 
 ## Lists
 
@@ -196,7 +196,7 @@ memberships):
 
 </div>
 
-<div class="gv">   <!-- START GROUPVINE -->
+<div class="trial gv g4s">   <!-- START GROUPVINE -->
 
 ## Groups
 
@@ -239,13 +239,13 @@ Lists](./groups_lists[LINK-QARGS]) page.
 
 ## Other Notes
 
-<div class="free only">
+<div class="free">
 * Custom attributes must only consist of alphanumeric and the
   underscore ('_') character, are treated as case-insensitive, and
   typically handled in lower-case.
 </div>
 
-<div class="gv">
+<div class="trial gv g4s">
 * Custom attributes, list and group names must only consist of
   alphanumeric and the underscore ('_') character.  They are all
   treated as case-insensitive, and are typically handled in

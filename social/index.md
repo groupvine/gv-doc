@@ -17,7 +17,7 @@ the name of your group '@' groupvine.email name, for example:
 bingotech@groupvine.email
 ```
 
-<div class="gv">
+<div class="trial gv g4s">
 
 To send to a specific sub-group, use the full sub-group path, such as:
 
@@ -160,14 +160,14 @@ the images representing the social email widget's state.
 
 ## Who can send new emails
 
-<div class="free only">
+<div class="free">
 
   With the free service, only the account administrator is permitted to send 
   new emails (or replies) to the group.
 
 </div>
 
-<div class="gv">
+<div class="trial gv g4s">
 
 Any member designated with the group Admin or Editor role is permitted
 to send new emails (or replies) to a group.  Additionally, if the
@@ -207,7 +207,7 @@ email account, a confirmation email is immediately sent back to this
 Admin for their confirmation before the email is forwarded to the
 group.
 
-<div class="gv">
+<div class="trial gv g4s">
 
 For emails sent by group Editors, the responsibility for confirming
 the email depends on the "Group moderation" setting:
