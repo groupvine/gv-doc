@@ -49,8 +49,15 @@ layout: default
           <a href="#">Social Email Features</a>
         </h3>
         <p>
-          Add social email widgets to emails to solicit ideas, get RSVPs, ask 
-          for volunteers, etc., download  responses to a spreadsheet<span class="html trial gv g4s">,
+          Add social email widgets to emails to 
+          allow recipients to contribute to your email with their
+          <span class="html trial gv g4s">
+            feedback, RSVPs, votes, volunteered items, etc., 
+          </span>
+          <span class="html free">
+            feedback,
+          </span>
+          download responses to a spreadsheet<span class="html trial gv g4s">,
           send to response-based dynamic email lists</span>.
         </p>
       </td>
