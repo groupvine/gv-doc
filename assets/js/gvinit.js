@@ -99,7 +99,7 @@ $(document).ready( () => {
     }
 
     let support = queryStr('support');
-    if (support && !support.trim() == '1') {
+    if (support) {
         support = true;
     } else {
         support = false;
@@ -133,20 +133,20 @@ $(document).ready( () => {
     case 'free':
         $('.free').show();
         $("#adv-checkbox").prop("checked", false);  // uncheck
-        $("#adv-checkbox").hide();   // hide adv feature checkbox
+        $("#adv-checkbox-wrapper").hide();   // hide adv feature checkbox
         break;
     case 'trial':
         $('.trial').show();
-        $("#adv-checkbox").show();
+        $("#adv-checkbox-wrapper").show();
         break;
     case 'g4s':
         $('.g4s').show();
-        $("#adv-checkbox").show();
+        $("#adv-checkbox-wrapper").show();
         break;
     case 'gv':
     default:
         $('.gv').show();
-        $("#adv-checkbox").show();
+        $("#adv-checkbox-wrapper").show();
         break;
     }
 
