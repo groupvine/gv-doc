@@ -174,6 +174,7 @@ $(document).ready( function() {
     switch(mode) {
     case 'free':
         $('.free').show();
+        advanced = false;  // turn off advanced if set in query args
         setTimeout( () => {
             $("#adv-checkbox").prop("checked", false);  // uncheck
             checkAdv();
