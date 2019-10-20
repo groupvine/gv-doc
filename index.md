@@ -49,12 +49,14 @@ layout: default
           <a href="#">Social Email Features</a>
         </h3>
         <p>
-          Add social email widgets to emails to 
-          allow recipients to contribute to your email with their
           <span class="html trial sub g4s">
+            Optionally add social email widgets to emails to 
+            allow recipients to contribute with their
             feedback, RSVPs, votes, volunteered items, etc., 
           </span>
           <span class="html free">
+            Social email widgets in your emails
+            allow recipients to contribute with their
             feedback,
           </span>
           download responses to a spreadsheet<span class="html trial sub g4s">,
