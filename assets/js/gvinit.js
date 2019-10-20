@@ -132,21 +132,21 @@ $(document).ready( () => {
     switch(mode) {
     case 'free':
         $('.free').show();
-        $("#advCheckbox").prop("checked", false);  // uncheck
-        $("#advCheckbox").hide();   // hide adv feature checkbox
+        $("#adv-checkbox").prop("checked", false);  // uncheck
+        $("#adv-checkbox").hide();   // hide adv feature checkbox
         break;
     case 'trial':
         $('.trial').show();
-        $("#advCheckbox").show();
+        $("#adv-checkbox").show();
         break;
     case 'g4s':
         $('.g4s').show();
-        $("#advCheckbox").show();
+        $("#adv-checkbox").show();
         break;
     case 'gv':
     default:
         $('.gv').show();
-        $("#advCheckbox").show();
+        $("#adv-checkbox").show();
         break;
     }
 
@@ -156,7 +156,7 @@ $(document).ready( () => {
 
     if (support) {
         // Also show advanced features by default
-        $("#advCheckbox").prop("checked", true);
+        $("#adv-checkbox").prop("checked", true);
         $(".support").show();
     } else {
         $(".support").hide();
@@ -167,14 +167,14 @@ $(document).ready( () => {
     //
 
     function doAdv() {
-        if ( $("#advCheckbox").is(':checked') ) {
+        if ( $("#adv-checkbox").is(':checked') ) {
             $(".adv").show();
         } else {
             $(".adv").hide();
         }
     }
 
-    $("#advCheckbox").click( () => {
+    $("#adv-checkbox").click( () => {
         doAdv();
     });
     doAdv();  // initialize
