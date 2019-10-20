@@ -8,7 +8,7 @@ layout: default
   </h1>
 </div>
 
-<div class="html tocTable">
+<div class="tocTable">
 
   <table style="width:100%">
     <tr>
@@ -77,7 +77,7 @@ layout: default
       </td>
     </tr>
 
-    <tr class="support">
+    <tr class="support html">
       <td colspan="2" style="width:100%">
         <h3>
           Support link shortcuts 
