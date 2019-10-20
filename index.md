@@ -7,15 +7,15 @@ layout: default
 <div class="html">
 
   <table style="width:100%">
-    <tr>
-      <td>
+    <tr style="vertical-align:top">
+      <td style="width:50%">
         <h3>Getting Started</h3>
         <p>
           Customize your account, add members, send your first email
         </p>
       </td>
 
-      <td>
+      <td style="width:50%">
         <h3>Managing your Membership</h3>
         <p>
           Add members individually or import a file of members, have members sign up 
@@ -25,7 +25,7 @@ layout: default
       </td>
     </tr>
 
-    <tr>
+    <tr style="vertical-align:top">
       <td>
         <h3>Sending Emails</h3>
         <p>
@@ -43,7 +43,7 @@ layout: default
       </td>
     </tr>
 
-    <tr>
+    <tr style="vertical-align:top">
       <td>
         <h3>Email Delivery & Troubleshooting</h3>
         <p>
