@@ -105,16 +105,11 @@ $(document).ready( function() {
         support = false;
     }
 
-    let advanced = false;
-    if (queryStr('adv')) {
-        $("#adv-checkbox").prop("checked", true);
-    } else {
-        $("#adv-checkbox").prop("checked", false);
-    }
-
     //
     // Show/hide advanced features and catch changes
     //
+
+    let advanced = false;
 
     function checkAdv() {
         if ( $("#adv-checkbox").is(':checked') ) {
@@ -126,7 +121,18 @@ $(document).ready( function() {
         }
     }
 
-    checkAdv();
+    if (queryStr('adv')) {
+        setTimeout( () => {
+            $("#adv-checkbox").prop("checked", true);
+            checkAdv();
+        }, 5);
+    } else {
+        setTimeout( () => {
+            $("#adv-checkbox").prop("checked", false);
+            checkAdv();
+        }, 5);
+    }
+
     $('body').on('change', '#adv-checkbox', function() {
         checkAdv();
     });
