@@ -79,13 +79,15 @@ layout: default
 
     <tr class="support html">
       <td colspan="2" style="width:100%">
-        <h3>
-          Support link shortcuts 
-        </h3>
-        <p>
-          <a href="/membership/emailactions[LINK-QARGS]">Email actions;</a>
-          <a href="/membership/reservedatts[LINK-QARGS]">Reserved attributes;</a>
-        </p>
+        <div class="supportbox">
+          <h3 style="height:5px">
+            Support link shortcuts 
+          </h3>
+          <p>
+            <a href="/membership/emailactions[LINK-QARGS]">Email actions;</a>
+            <a href="/membership/reservedatts[LINK-QARGS]">Reserved attributes;</a>
+          </p>
+        </div>
       </td>
     </tr>
 
@@ -93,11 +95,6 @@ layout: default
 
 </div>
 
-
-
-<div class="support">
-Note that you're viewing the documentation in GroupVine "support" mode.
-</div>
 
 
 <div class="adv">
