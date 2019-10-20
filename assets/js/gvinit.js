@@ -175,7 +175,7 @@ $(document).ready( function() {
     }
 
     doAdv();  // initialize
-    $('#adv-checkbox').live('change', function() {
+    $('body').on('change', '#adv-checkbox', function() {
         doAdv();
     });
 
@@ -229,7 +229,7 @@ $(document).ready( function() {
 
     $("#docview").val(mode);
 
-    $("#docview").live('change', function() {
+    $('body').on('change', '#docview', function() {
         // Update mode
         mode = $(this).val();
 
