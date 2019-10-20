@@ -189,7 +189,11 @@ $(document).ready( function() {
     // Update service
     //
 
+    let capService = 'GroupVine';
+
     if (service === 'trivy') {
+        capService = 'Trivy';
+
         // Update the favicon
         $('link[rel="icon"]').each( function() {
             $(this).attr("href", "/assets/img/favicon-trivy3.png");
@@ -222,10 +226,8 @@ $(document).ready( function() {
     //
     // Replace GV-SERVICE
     // 
-    // TBD: No longer used??
-    //
 
-    newBody = $("body").html().replace(/GV\-SERVICE/g, service);
+    newBody = $("body").html().replace(/GV\-SERVICE/g, capService);
     $("body").html(newBody);
 
     //

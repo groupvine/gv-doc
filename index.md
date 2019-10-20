@@ -2,7 +2,11 @@
 layout: default
 ---
 
-# GV-SERVICE Help Topics
+<div id="gv-service-help-topics" class="html" style="width:100%; text-align:center">
+  <h1>
+    GV-SERVICE Help Topics
+  </h2>
+</div>
 
 <div class="html">
 
@@ -18,9 +22,9 @@ layout: default
       <td style="width:50%">
         <h3>Managing your Membership</h3>
         <p>
-          Add members individually or import a file of members, have members sign up 
-          for emails via a link to your account's application page, group members 
-          together using lists or sub-groups, transition to new account Administrators
+          Add members individually or import a membership file, have members sign up 
+          for emails via a link to your account's registration page, group members 
+          together using lists or sub-groups, manage Administrators and Editors.
         </p>
       </td>
     </tr>
@@ -29,16 +33,17 @@ layout: default
       <td>
         <h3>Sending Emails</h3>
         <p>
-          Send email from your online account 
-          or your personal email account
+          Send email from your online account or your personal email
+          account, add images, attach files, personalize content.
         </p>
       </td>
 
       <td>
         <h3>Social Email Features</h3>
         <p>
-          Social Email Widgets and 
-          response-based dynamic email lists.
+          Add social email widgets to emails to solicit ideas, get RSVPs, ask 
+          for volunteers, etc., download  responses to a spreadsheet, 
+          send to response-based dynamic email lists.
         </p>
       </td>
     </tr>
@@ -55,7 +60,7 @@ layout: default
       <td>
         <h3>Security & Privacy</h3>
         <p>
-          Site policy, use of Personal Contact Information, site security
+          Site policy, use of personal contact information, site security
         </p>
       </td>
     </tr>
