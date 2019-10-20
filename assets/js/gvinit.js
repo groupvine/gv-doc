@@ -56,13 +56,12 @@ $(document).ready( function() {
     //    <div class="g4s"> .. </div>
     // So, do our own own github-compatible Markdown conversion
     // here for our mode-specific sections.
-    
 
     //
-    // Do view-specific view changes
+    // Process markdown in view-specific elements
     //
 
-    $('.free, .trial, .sub, .g4s, .adv, .support').each( function() {
+    $('.free, .trial, .sub, .g4s, .adv, .support, .gv, .trivy').each( function() {
         if ($(this).hasClass('html')) {
             // No convrsion, already in html
             return;
@@ -71,16 +70,17 @@ $(document).ready( function() {
         let md   = $(this).text();
         let html = converter.makeHtml(md);
 
-        if ($(this).hasClass('free') || $(this).hasClass('trial') || $(this).hasClass('sub') || $(this).hasClass('g4s')) {
-            $(this).html(html);
-        } else if ($(this).hasClass('adv')) {
+        if ($(this).hasClass('adv')) {
             $(this).html(advBox);
             $(this).find('.contents').html(html);
         } else if ($(this).hasClass('support')) {
             $(this).html(supportBox);
             $(this).find('.contents').html(html);
+        } else {
+            $(this).html(html);
         }
     });
+
 
     //
     // Get the view query string and set it on all links
@@ -105,6 +105,33 @@ $(document).ready( function() {
         support = false;
     }
 
+    let advanced = false;
+    if (queryStr('adv')) {
+        $("#adv-checkbox").prop("checked", true);
+    } else {
+        $("#adv-checkbox").prop("checked", false);
+    }
+
+    //
+    // Show/hide advanced features and catch changes
+    //
+
+    function checkAdv() {
+        if ( $("#adv-checkbox").is(':checked') ) {
+            advanced = true;
+            $(".adv").show();
+        } else {
+            advanced = false;
+            $(".adv").hide();
+        }
+    }
+
+    checkAdv();
+    $('body').on('change', '#adv-checkbox', function() {
+        checkAdv();
+    });
+
+
     function computeQueryStr() {
         let res = '';
         if (mode !== 'sub') {
@@ -117,6 +144,10 @@ $(document).ready( function() {
         if (support) {
             if (res) { res += '&'; }
             res += 'support=1';
+        }
+        if (advanced) {
+            if (res) { res += '&'; }
+            res += 'adv=1';
         }
         return res;
     }
@@ -137,7 +168,7 @@ $(document).ready( function() {
         $('.free').show();
         setTimeout( () => {
             $("#adv-checkbox").prop("checked", false);  // uncheck
-            doAdv();
+            checkAdv();
         }, 10);
         $("#adv-checkbox-wrapper").hide();   // hide adv feature checkbox
         break;
@@ -172,29 +203,12 @@ $(document).ready( function() {
         // Also show advanced features by default
         setTimeout( () => {
             $("#adv-checkbox").prop("checked", true);
-            doAdv();
+            checkAdv();
         }, 10);
         $(".support").show();
     } else {
         $(".support").hide();
     }
-
-    //
-    // Show/hide advanced features
-    //
-
-    function doAdv() {
-        if ( $("#adv-checkbox").is(':checked') ) {
-            $(".adv").show();
-        } else {
-            $(".adv").hide();
-        }
-    }
-
-    doAdv();  // initialize
-    $('body').on('change', '#adv-checkbox', function() {
-        doAdv();
-    });
 
     //
     // Update service
