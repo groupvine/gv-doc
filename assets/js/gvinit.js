@@ -132,7 +132,9 @@ $(document).ready( function() {
     switch(mode) {
     case 'free':
         $('.free').show();
-        $("#adv-checkbox").prop("checked", false);  // uncheck
+        setTimeout( () => {
+            $("#adv-checkbox").prop("checked", false);  // uncheck
+        }, 10);
         $("#adv-checkbox-wrapper").hide();   // hide adv feature checkbox
         break;
     case 'trial':
@@ -156,7 +158,9 @@ $(document).ready( function() {
 
     if (support) {
         // Also show advanced features by default
-        $("#adv-checkbox").prop("checked", true);
+        setTimeout( () => {
+            $("#adv-checkbox").prop("checked", true);
+        }, 10);
         $(".support").show();
     } else {
         $(".support").hide();
