@@ -50,8 +50,8 @@ layout: default
         </h3>
         <p>
           Add social email widgets to emails to solicit ideas, get RSVPs, ask 
-          for volunteers, etc., download  responses to a spreadsheet, 
-          send to response-based dynamic email lists.
+          for volunteers, etc., download  responses to a spreadsheet<span class="html trial gv g4s">,
+          send to response-based dynamic email lists</span>.
         </p>
       </td>
     </tr>
