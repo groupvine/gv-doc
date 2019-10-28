@@ -19,7 +19,7 @@ bingotech@groupvine.email
 
 <div class="gv">
 
-To send to a specific sub-group, use the full sub-group path, such as:
+To send to a specific sub-group, use the sub-group's Abbreviation with the account's Abbreviation, for example:
 
 ```
 team.bingotech@groupvine.email
