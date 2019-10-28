@@ -10,8 +10,8 @@ title: Social Email Options
 
 ### From your own email inbox
 
-To send an email to your group from your own inbox, simply send it to
-the name of your group '@' groupvine.email name, for example:
+To send an email to your account from your own inbox, simply send it to
+the account's Abbreviation '@' groupvine.email, for example:
 
 ```
 bingotech@groupvine.email
@@ -19,7 +19,7 @@ bingotech@groupvine.email
 
 <div class="gv">
 
-To send to a specific sub-group, use the full sub-group path, such as:
+To send to a specific sub-group, use the full sub-group path, which uses the sub-group and the account's Abbreviations, for example:
 
 ```
 team.bingotech@groupvine.email
