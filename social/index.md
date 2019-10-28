@@ -11,15 +11,15 @@ title: Social Email Options
 ### From your own email inbox
 
 To send an email to your account from your own inbox, simply send it to
-the account's Abbreviation '@' groupvine.email, for example:
+your account's Abbreviation '@' groupvine.email name, for example:
 
 ```
 bingotech@groupvine.email
 ```
 
-<div class="trial sub g4s">
+<div class="gv">
 
-To send to a specific sub-group, use the full sub-group path, which uses the sub-group and the account's Abbreviations, for example:
+To send to a specific sub-group, use the full sub-group path, such as:
 
 ```
 team.bingotech@groupvine.email
@@ -28,7 +28,7 @@ team.bingotech@groupvine.email
 Or, to send to a list, use an email address like:
 
 ```
-musiclovers~~bingotech@groupvine.email
+~list=musiclovers~~bingotech@groupvine.email
 ```
 
 </div>
@@ -39,7 +39,7 @@ Note that you can also send to a specific list of members from your
 own email inbox (and/or to specific new members that haven't yet been
 imported). To do this, create a CSV file in the format of an import
 file (such as simply listing email addresses, one per line,
-[see here](../membership/importing[LINK-QARGS]) for full options)
+[see here](../membership/importing?view=GV-SET-VIEW) for full options)
 that lists the members you want to send to.
 Then send the email to an address in the following format:
 
@@ -55,15 +55,16 @@ For example:
 
 </div>
 
-
 <div class="adv">
 
-To send a Draft email that will only go to the Admins and Editors (or
-the group Admins and Editors of a sub-group), use the "~draft" email
-qualifier, like the following:
+If some addresses have failed in a previous send attempt due to a
+temporary problem, you can resend the same email to those addresses
+that have failed thus far simply by sending an email to your group and
+use the "~retry=[message id]" qualifier, like the following (for
+BingoTech's message ID number 100123):
 
 ```
-~draft~~bingotech@groupvine.email
+~retry=100123~~bingotech@groupvine.email
 ```
 
 </div>
@@ -74,51 +75,8 @@ An email can be scheduled for sending later by adding a "senddate" to
 the email address, for example like the following:
 
 ```
-~senddate='2019-04-10T13_30-08'~~bingotech@groupvine.email
+~senddate='2019-04-10T13_30-08'~~bingotech@trivy.email
 ```
-
-</div>
-
-<div class="support" id="resend">
-
-There are three ways to resend the same email using an action email. 
-
-- *Retry* If some addresses have failed in a previous send attempt due to a
-  temporary problem, you can resend the same email to those addresses
-  that have failed thus far simply by sending an action email to the same 
-  group address and add ```~retry=[message id]```, like the following
-  ```~retry=100123~~bingotech@groupvine.email```.  
-
-- *Resend* To resend an email to a new set of recipients, send the
-   action email to the new group address and add ```~resend=[message id]```.
-   For example, ```~resend=100123~~newgroup.bingotech@groupvine.email```.
-   With Resend, recipients which have been targetted for this email
-   before are not included in the resent email recipient list.   Resend
-   could be useful, for example, to resend an email with a social email
-   widget to new recipients and have their responses included in the same
-   response set as the original email.
-
-- *ResendAll* To resend the same email, send the
-   action email to a group address and add ```~resendall=[message id]```.
-   For example, ```~resendall=100123~~newgroup.bingotech@groupvine.email```.
-   With ResendAll, all recipients of the group address will be resent
-   the email, whether or not they've received it before.
-
-In all cases, the contents and subject field of the action email itself are
-ignored.
-
-</div>
-
-<div class="adv" id="gmail">
-
-Note for gmail users.  If you send to your group from your gmail
-account, you likely will not see the email subsequently appear in
-your gmail inbox, even if you are one of the usual recipients of
-that group address.  Gmail hides the received copy of the email
-because it is recognized as a duplicate of the emai you sent.  
-
-To participate in an email that includes a social email widget,
-you can visit your online email gallery and view the email there.
 
 </div>
 
@@ -129,30 +87,10 @@ you can visit your online email gallery and view the email there.
 
 ## Commenting and Reacting to Emails
 
-Yes, your GV-SERVICE community email recipients can add **comments**
-and other responses to your emails!
+Yes, your GV-SERVICE community email recipients can **comment** on and **like**,
+**wow** (**dislike**, etc.), your emails!
 
-This is done through "Social Email Widgets" that can be added to your
-emails to ask questions, solicit comments, and generally, get a pulse
-of your email recipients.  And, unlike other email services,
-recipients will see the updated community responses in the email
-itself, just by opening (or reopening) the email in their inbox.
-
-
-<div class="adv" id="sew-inbox-updates">
-
-When a recipient first opens the email in their inbox, they should see
-the very latest state of the community's responses in the social email
-widget.  (This, by itself, makes it much more likely that the
-recipient will add their comments and responses to the email.)  If the
-recipient later re-opens the email in their inbox, then updating the
-social email widget depends partly on the extent to which images are
-cached by the recipient's email service; some will present the latest state
-immediately, others may impose some amount of delay before updating
-the images representing the social email widget's state.
-
-</div>
-
+...
 
 ## Sharing Emails on Social Feeds
 
@@ -160,14 +98,14 @@ the images representing the social email widget's state.
 
 ## Who can send new emails
 
-<div class="free">
+<div class="trivy only">
 
-  With the free service, only the account administrator is permitted to send 
+  With the Trivy service, only the account administrator is permitted to send 
   new emails (or replies) to the group.
 
 </div>
 
-<div class="trial sub g4s">
+<div class="gv">
 
 Any member designated with the group Admin or Editor role is permitted
 to send new emails (or replies) to a group.  Additionally, if the
@@ -207,7 +145,7 @@ email account, a confirmation email is immediately sent back to this
 Admin for their confirmation before the email is forwarded to the
 group.
 
-<div class="trial sub g4s">
+<div class="gv">
 
 For emails sent by group Editors, the responsibility for confirming
 the email depends on the "Group moderation" setting:
