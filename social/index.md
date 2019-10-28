@@ -11,11 +11,13 @@ title: Social Email Options
 ### From your own email inbox
 
 To send an email to your account from your own inbox, simply send it to
-your account's Abbreviation '@' groupvine.email name, for example:
+your account's Abbreviation '@' groupvine.email, for example:
 
 ```
 bingotech@groupvine.email
 ```
+
+Note, Abbreviation can be found by going to Settings->Account Info.
 
 <div class="gv">
 
