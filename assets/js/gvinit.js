@@ -26,6 +26,7 @@ function queryStr(key) {
     return match && decodeURIComponent(match[1].replace(/\+/g, " "));
 }
 
+/*
 function locationWithQueryStr(key, value) {
     // key = key.replace(/[*+?^$.\[\]{}()|\\\/]/g, "\\$&"); // escape RegEx meta chars
     var match = location.search.match(new RegExp("^(.*[?&]"+key+"=)([^&]+)(.*)$"));
@@ -39,6 +40,7 @@ function locationWithQueryStr(key, value) {
     }
     return location.pathname + newQuery + location.hash;
 }
+*/
 
 //
 // Show/hide page content based on mode query arg
@@ -51,16 +53,15 @@ $(document).ready( function() {
 
     // Unfortunately, the github-pages/jekyll converter doesn't
     // operate within html elements like:
-    //    <div class="gv-only"> .. </div>
+    //    <div class="g4s"> .. </div>
     // So, do our own own github-compatible Markdown conversion
     // here for our mode-specific sections.
-    
 
     //
-    // Do view-specific view changes
+    // Process markdown in view-specific elements
     //
 
-    $('.trivy, .gv, .adv, .support').each( function() {
+    $('.free, .trial, .sub, .g4s, .adv, .support, .gv, .trivy').each( function() {
         if ($(this).hasClass('html')) {
             // No convrsion, already in html
             return;
@@ -69,102 +70,202 @@ $(document).ready( function() {
         let md   = $(this).text();
         let html = converter.makeHtml(md);
 
-        if ($(this).hasClass('trivy') || $(this).hasClass('gv')) {
-            $(this).html(html);
-        } else if ($(this).hasClass('adv')) {
+        if ($(this).hasClass('adv')) {
             $(this).html(advBox);
             $(this).find('.contents').html(html);
         } else if ($(this).hasClass('support')) {
             $(this).html(supportBox);
             $(this).find('.contents').html(html);
+        } else {
+            $(this).html(html);
         }
     });
+
 
     //
     // Get the view query string and set it on all links
     //
 
-    let mode = queryStr('view');
+    let mode = queryStr('vw');
     if (!mode || !mode.trim()) {
-        mode = 'trivy';
+        mode = 'sub';
     }
 
     mode = mode.toLowerCase();
 
-    // Set view mode on all internal links
+    let service = queryStr('sv');
+    if (!service || !service.trim()) {
+        service = 'groupvine';
+    }
 
-    $('a').each( function () {
-        let src = $(this).attr('href');
-        if (src) {
-            src = src.replace(/view=GV-SET-VIEW/i, 'view=' + mode);
-            $(this).attr('href', src);
+    let support = queryStr('support');
+    if (support) {
+        support = true;
+    } else {
+        support = false;
+    }
+
+    //
+    // Show/hide advanced features and catch changes
+    //
+
+    let advanced = false;
+
+    function checkAdv() {
+        if ( $("#adv-checkbox").is(':checked') ) {
+            advanced = true;
+            $(".adv").show();
+        } else {
+            advanced = false;
+            $(".adv").hide();
         }
+    }
+
+    if (queryStr('adv')) {
+        advanced = true;
+        setTimeout( () => {
+            $("#adv-checkbox").prop("checked", true);
+            checkAdv();
+        }, 5);
+    } else {
+        advanced = false;
+        setTimeout( () => {
+            $("#adv-checkbox").prop("checked", false);
+            checkAdv();
+        }, 5);
+    }
+
+    $('body').on('change', '#adv-checkbox', function() {
+        checkAdv();
     });
+
+
+    function computeQueryStr() {
+        let res = '';
+        if (mode !== 'sub') {
+            res = 'vw=' + mode;
+        }
+        if (service !== 'groupvine') {
+            if (res) { res += '&'; }
+            res += 'sv=' + service;
+        }
+        if (support) {
+            if (res) { res += '&'; }
+            res += 'support=1';
+        }
+        if (advanced) {
+            if (res) { res += '&'; }
+            res += 'adv=1';
+        }
+        return res;
+    }
 
     //
     // Hide sections that shouldn't be viewed according to
     // the view mode.
     //
 
-    let service = 'GroupVine';
+    // First, hide all
+    $('.free, .trial, .sub, .g4s').hide();
+
+    // Show the adv notes checkbox by default
+    $("#adv-checkbox-wrapper").show();
 
     switch(mode) {
-    case 'gv':
-        $('.trivy').show();
-        $('.gv').show();
-        $('.adv').hide();
-        $('.support').hide();
-
-        $('.only').hide();
-        $('.gv.only').show();
+    case 'free':
+        $('.free').show();
+        advanced = false;  // turn off advanced if set in query args
+        setTimeout( () => {
+            $("#adv-checkbox").prop("checked", false);  // uncheck
+            checkAdv();
+        }, 10);
+        $("#adv-checkbox-wrapper").hide();   // hide adv feature checkbox
         break;
-    case 'adv':
-        $('.trivy').show();
-        $('.gv').show();
-        $('.adv').show();
-        $('.support').hide();
-
-        $('.only').hide();
-        $('.adv.only').show();
+    case 'trial':
+        $('.trial').show();
         break;
-    case 'support':
-        $('.trivy').show();
-        $('.gv').show();
-        $('.adv').show();
-        $('.support').show();
-
-        $('.only').hide();
-        $('.support.only').show();
+    case 'g4s':
+        $('.g4s').show();
         break;
-    case 'trivy':
+    case 'sub':
     default:
-        service = 'Trivy';
-
-        $('.trivy').show();
-        $('.gv').hide();
-        $('.adv').hide();
-        $('.support').hide();
-
-        $('.only').hide();
-        $('.trivy.only').show();
-
-        // For the trivy case, need to replacee default "groupvine.email"
-        // domain everywhere with "trivy.email"
-        let newBody = $("body").html().replace(/groupvine\.email/g, 'trivy.email');
-        $("body").html(newBody);
-
-        // Update the favicon
-        $('link[rel="icon"]').each( function() {
-            $(this).attr("href", "/gv-doc/assets/img/favicon-trivy3.png");
-        });
+        $('.sub').show();
+        break;
     }
 
     //
-    // Replace GV-SERVICE
+    // Show/hide service specific stuff
+    // 
+    if (service === 'trivy') {
+        $(".trivy").show();
+        $(".gv").hide();
+    } else {
+        $(".trivy").hide();
+        $(".gv").show();
+    }
+
+    //
+    // Show/hide support doc notes
     //
 
-    let newBody = $("body").html().replace(/GV\-SERVICE/g, service);
+    if (support) {
+        // Also show advanced features by default
+        setTimeout( () => {
+            $("#adv-checkbox").prop("checked", true);
+            checkAdv();
+        }, 10);
+        $(".support").show();
+    } else {
+        $(".support").hide();
+    }
+
+    //
+    // Update service
+    //
+
+    let capService = 'GroupVine';
+
+    if (service === 'trivy') {
+        capService = 'Trivy';
+
+        // Update the favicon
+        $('link[rel="icon"]').each( function() {
+            $(this).attr("href", "/assets/img/favicon-trivy3.png");
+        });
+
+        // Update all links
+        let newBody = $("body").html().replace(/groupvine\.email/g, 'trivy.email');
+        $("body").html(newBody);
+
+        $("#gv-logo").hide();
+        $("#trivy-logo").show();
+    }
+
+    // Set view mode and service on all internal links
+
+    let qArgStr = computeQueryStr();
+
+    $('a').each( function () {
+        let src = $(this).attr('href');
+        if (src) {
+            if (qArgStr) {
+                src = src.replace(/\[LINK-QARGS\]/i, '?' + qArgStr);
+            } else {
+                src = src.replace(/\[LINK-QARGS\]/i, '');
+            }
+            $(this).attr('href', src);
+        }
+    });
+
+    //
+    // Replace GV-SERVICE
+    // 
+
+    newBody = $("body").html().replace(/GV\-SERVICE/g, capService);
     $("body").html(newBody);
+
+    newTitle = $("title").html().replace(/GV\-SERVICE/g, capService);
+    $("title").html(newTitle);
 
     //
     // Handle view menu.
@@ -173,9 +274,22 @@ $(document).ready( function() {
 
     $("#docview").val(mode);
 
-    $("#docview").change( function() {
-        window.location = locationWithQueryStr('view', $(this).val());
+    $('body').on('change', '#docview', function() {
+        // Update mode
+        mode = $(this).val();
+
+        // Jump to new mode page
+        let url = window.location.pathname;
+        let qStr = computeQueryStr();
+        if (qStr) {
+            url += '?' + qStr;
+        }
+        window.location = url;
+
+        // window.location = locationWithQueryStr('vw', $(this).val());
     });
 
+    $('.wrapper').show();
 });
+
 

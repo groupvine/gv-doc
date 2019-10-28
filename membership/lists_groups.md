@@ -1,18 +1,63 @@
 ---
 layout: default
-title: Membership Sub-groups
+title: Membership Lists & Sub-groups
 ---
 
-# Sub-groups
+# Membership Lists
+
+Lists give you flexibility in how you can target an email's
+receipients list to a specific interest group or classification
+sub-set of your membership.  Key features of lists include the
+following.
+
+* Lists allow cross-account identification of your members,
+* New lists can be added easily using membership imports, and
+* List membership is available to all sub-groups below the group where
+  the list is defined (e.g., a list defined in the main group account
+  are available to all sub-groups).
+
+## Example
+
+For example, for an account named "bingotech", you might wish to
+classify your BingoTech community members using Lists to identify some of
+their interests, such as "golfers" and "musicians".  You could then
+send an email to all the musicians using the address:
+
+```
+musiclovers~~bingotech@groupvine.email
+```
+
+<div class="adv">
+
+For an account with sub-groups (see information on sub-groups below),
+you'll be pleased to know that group Administrators can define their
+own lists, which will then apply to that group, as well as any
+sub-groups of that group.  This also means that Lists defined at the
+account level apply to all sub-groups in the account.
+
+</div>
+
+<div class="support">
+
+List membership may only occur within the group where the list was defined.  
+For example, to add or remove members from a list in an import file, the
+associated 'list:' header must follow the 'group:' header which owns that list.
+
+</div>
+
+# Membership Sub-groups
 
 Sub-groups provide additional flexibility in how you manage your
-membership and target your emails.  Sub-groups can have:
+membership and target your emails.  Key features of sub-groups include
+the following.
 
-* Can have their own Admins and Editors
-* Can be moderated or not
-* Can have their own set of lists
-* Multiple sub-group levels are possible, members of a sub-group are
-  automatically a member of the parent (grand-parent, ..) groups.
+* Sub-groups can be assigned their own set of Administrators and Editors,
+* Sub-groups can either be moderated or not, and
+* Sub-groups can define their own set of lists.
+
+Multiple sub-group levels are possible (contact us to allow for more
+than 1 sub-group level).  Members of a sub-group are automatically a
+member of the parent (grand-parent, ...) groups.
 
 <div class="support"> 
 Remember that group membership applies "upward" from that group's
@@ -75,3 +120,4 @@ Admins for that specific group are are listed under the "group:"
 columns of membership Exports, and only explicit group Admins receive
 the group's moderation request emails.
 </div>
+

@@ -31,6 +31,27 @@ For example:
 ~export~~bingotech@groupvine.email
 ```
 
+## Exporting your pending membership applications
+
+To export your the membership applications pending for your account, 
+send an email to:
+
+```
+~exportapps~~[account name]@groupvine.email
+```
+
+For example:
+
+```
+~exportapps~~bingotech@groupvine.email
+```
+
+This export file will be in a form ready to be imported into the
+account (into the accounts's top-level group for accounts with
+sub-groups).  It will also include a reserved "appId" column which is
+used to update the status of the pending application to "approved"
+following the import.
+
 
 ## Importing membership or membership changes
 
@@ -47,12 +68,16 @@ For example, for bingotech with a membership file named "bt_members.csv", use:
 ~import='bt_members.csv'~~bingotech@groupvine.email
 ```
 
-For importing modifications (rather than just additions), replace
-"~import" with "~importmod", like the following:
+<div class="adv">
+
+If you'd like to ensure that no modifications are done to settings of existing members, replace
+"~import" with "~importadd", like the following:
 
 ```
-~importmod='bt_members.csv'~~bingotech@groupvine.email
+~importadd='bt_members.csv'~~bingotech@groupvine.email
 ```
+</div>
+
 
 ## Adding, deleting, or modifying sub-groups
 
@@ -69,6 +94,10 @@ attaching a group-instructions CSV file using the following columns:
   blank for unmoderated.
 * **membersSend** - Optional column, set to 'x' to allow group members to send
   blank for unmoderated.
+* **membersApply** - Optional column, set to 'x' to require new group members to 
+  apply and be admitted by an Admin.  Note: sub-groups can potentially have a
+  more (but not less) restrictive policy here, though not currently, this
+  flag is only meaningful at the account level (top-level group).
 * **imgFilename** - Optional column to provid an URL to an image file
     for the group logo.
 
@@ -81,7 +110,6 @@ taken as an instruction to change the group's abbreviation.
 </div>
 
 For example:
-
 
 | action      | abbrev      | title               | isModerated |
 |:------------|:------------|:--------------------|:------------|
@@ -100,6 +128,20 @@ follows:
 * 'add' is invalid, and ignored.
 * 'update' is handled normally, allowing changes to the account's group-related properties.
 * 'delete' is also handled normally, except that this account "group" itself is not deleted.
+
+</div>
+
+<div class="support">
+
+A handy way to initialize an account to no members, other than the
+account Admin doing the action, and some set of sub-groups is to
+import a group instructions file like the following:
+
+| action      | abbrev      | title               | isModerated |
+|:------------|:------------|:--------------------|:------------|
+| delete      | .           |                     |             |
+| add         | grade1      | First Grade         | x           |
+| add         | grade2      | Second Grade        |             |
 
 </div>
 
@@ -133,7 +175,54 @@ For example, for the bingotech account and a file named
 ~groups='groupinstrs.csv'~~bingotech@groupvine.email
 ```
 
+<div class="support">
 
+## Configuring an account
 
+[*NOTE:* this email-action (configuring an account) contains very
+little error checking, so is only provided for possible use by GroupVine support
+and for automated tests.]
 
-  
+Account information can be configured by email using an account-instructions
+CSV file using an address like:
+
+```
+~account='accountinstrs.csv'~~bingotech@groupvine.email
+```
+
+and some or all of the following columns in the account instructions file:
+
+* **ownerId** - Integer of userId, not typically used
+
+* **orgTypeId** - Integer organization type
+* **orgSubTypes** - string
+
+* **address1** 
+* **address2** 
+* **city** 
+* **stateProvinceId** - Integer state/province code
+* **postalCode**
+* **countryId** - Integer country code
+
+* **timezone**
+* **dmaCode** - Marketing region code
+
+* **isForProfit** - boolean
+* **taxid**
+
+* **dfltOptedIn** - boolean
+* **groupAdminRights** - Integer code
+* **supervisoryMode** - Integer code, if site is under Supervisor moderation
+
+* **accountCreated** - datetime
+* **accountDeleted** - datetime
+
+* **serviceType** - Integer service type code
+* **subscriptionId** - Integer
+* **expires** - datetime
+
+* **attributes** - JSON structured custom attributes
+* **terms** - JSON structured custom terminology
+* **customizations** - JSON structured other customizations
+
+</div>

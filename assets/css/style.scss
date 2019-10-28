@@ -9,6 +9,10 @@
 // [Note: be sure to leave top 4 lines exactly as is, required by github pages}
 //
 
+#docview {
+  font-size: 1em;
+}
+
 .supportbox,
 .advbox {
   .title { 
@@ -21,6 +25,20 @@
   margin-left: 40px;
   border-left: 3px solid grey;
   padding-left: 20px;
+}
+
+
+.tocTable {
+  h3 {
+    height: 25px;
+  }
+  tr {
+    vertical-align: top;
+  }
+  th, td {
+    width: 50%;
+    border-bottom: none;
+  }
 }
 
 .supportbox {

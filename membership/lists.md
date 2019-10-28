@@ -23,17 +23,25 @@ their interests, such as "golfers" and "musicians".  You could then
 send an email to all the musicians using the address:
 
 ```
-~list=musiclovers~~bingotech@groupvine.email
+musiclovers~~bingotech@groupvine.email
 ```
 
 <div class="adv">
 
 For an account with sub-groups
-([see information on sub-groups here](./groups?view=GV-SET-VIEW)), you'll be 
+([see information on sub-groups here](./groups[LINK-QARGS])), you'll be 
 pleased to know that group Administrators can define their own lists, which
 will then apply to that group, as well as any sub-groups of that group.  This
 also means that Lists defined at the account level apply to all sub-groups 
 in the account.
+
+</div>
+
+<div class="support">
+
+List membership may only occur within the group where the list was defined.  
+For example, to add or remove members from a list in an import file, the
+associated 'list:' header must follow the 'group:' header which owns that list.
 
 </div>
 
