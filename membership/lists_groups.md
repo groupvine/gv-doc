@@ -3,7 +3,7 @@ layout: default
 title: Membership Lists & Sub-groups
 ---
 
-<div id="membership-lists"> </div>
+<div id="membership_lists"> </div>
 # Membership Lists
 
 Lists give you flexibility in how you can target an email's
@@ -46,7 +46,7 @@ associated 'list:' header must follow the 'group:' header which owns that list.
 
 </div>
 
-<div id="membership-subgroups"> </div>
+<div id="membership_subgroups"> </div>
 # Membership Sub-groups
 
 Sub-groups provide additional flexibility in how you manage your

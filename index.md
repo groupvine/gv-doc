@@ -21,7 +21,7 @@ layout: default
             Add members with an import file,
           </a>
           or one member at a time; 
-          <a href="/social#email-from-inbox[LINK-QARGS]">
+          <a href="/social[LINK-QARGS]#email_from_inbox">
             send an email from a personal email account,
           </a>
           or from your online account.
@@ -41,10 +41,10 @@ layout: default
             exporting your current membership;
           </a>
           <span class="html trial g4s sub">, 
-            <a href="/membership/lists_groups#membership-lists[LINK-QARGS]">
+            <a href="/membership/lists_groups[LINK-QARGS]#membership_lists">
               use lists to target an interest group or classification
             </a>
-            <a href="/membership/lists_groups#membership-subgroups[LINK-QARGS]">
+            <a href="/membership/lists_groups[LINK-QARGS]#membership_subgroups">
               sub-groups can provide more structure and delegation to groups of members;
             </a>
           </span>
@@ -56,31 +56,35 @@ layout: default
     <tr>
       <td>
         <h3>
-          <a href="#">Sending Emails</a>
+          Sending Emails
         </h3>
         <p>
-          Send email from your online account or your personal email
-          account, add images<span class="html trial g4s sub">, attach files, personalize content</span>.
+          Send email from your online acount,
+          <a href="/social[LINK-QARGS]#email_from_inbox">
+            or from your personal email account;
+          </a>
+          <span class="html trial g4s sub">
+            moderating emails;
+          </span>
+          <a href="/gallery[LINK-QARGS]">
+            your email gallery
+          </a>
+          add images <span class="html trial g4s sub">, attach files, personalize content</span>.
         </p>
       </td>
 
       <td>
         <h3>
-          <a href="#">Social Email Features</a>
+          Social Email options
         </h3>
         <p>
+          emails with social email widgets allow recipients to add responses
+          and comments to your emails;
+          sharing emails on social feeds;
           <span class="html trial sub g4s">
-            Optionally add social email widgets to emails to 
-            allow recipients to contribute with their
-            feedback, RSVPs, votes, volunteered items, etc., 
+            send to response-based dynamic email lists; 
           </span>
-          <span class="html free">
-            Social email widgets in your emails
-            allow recipients to contribute with their
-            feedback,
-          </span>
-          download responses to a spreadsheet<span class="html trial sub g4s">,
-          send to response-based dynamic email lists</span>.
+          download responses to a spreadsheet.
         </p>
       </td>
     </tr>
@@ -88,21 +92,24 @@ layout: default
     <tr>
       <td>
         <h3>
-          <a href="#">Email Delivery & Troubleshooting</a>
+          Email Delivery & Troubleshooting
         </h3>
         <p>
-          What to do when members aren't receiving emails, 
-          how to deal with bounced emails<span class="html trial g4s gv">, 
-          how to create email filters</span>.
+          Members aren't getting emails;
+          bounced emails;
+          who opened my email?;
+          "problem" email addresses;
+          view email delivery stats;
         </p>
       </td>
 
       <td>
         <h3>
-          <a href="#">Security & Privacy</a>
+          Security & Privacy
         </h3>
         <p>
-          Site policy, use of personal contact information, site security.
+          Site policy including use of personal contact information, 
+          and information security.
         </p>
       </td>
     </tr>
@@ -114,16 +121,9 @@ layout: default
 
 <div class="support">
 
-### Support link shortcuts 
-
-  [Social email options](/social[LINK-QARGS]);
-  [Email gallery](/gallery[LINK-QARGS]);
-  [Importing](/membership/importing[LINK-QARGS]);
-  [Exporting](/membership/exporting[LINK-QARGS]);
-  [Lists & Sub-groups](/membership/lists_groups[LINK-QARGS]);
+### Other support link shortcuts 
   [Email actions](/membership/emailactions[LINK-QARGS]);
   [Reserved attributes](/membership/reservedatts[LINK-QARGS]);
-
 </div>
 
 

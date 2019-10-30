@@ -8,7 +8,7 @@ title: Social Email Options
 ## Sending new emails
 
 
-<div id="email-from-inbox">
+<div id="email_from_inbox">
 </div>
 
 ### From your own email inbox
