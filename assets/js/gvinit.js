@@ -83,19 +83,19 @@ $(document).ready( function() {
 
 
     //
-    // Get the view query string and set it on all links
+    // Get the service query string and set it on all links
     //
 
-    let mode = queryStr('vw');
+    let mode = queryStr('sv');
     if (!mode || !mode.trim()) {
         mode = 'sub';
     }
 
     mode = mode.toLowerCase();
 
-    let service = queryStr('sv');
-    if (!service || !service.trim()) {
-        service = 'groupvine';
+    let brand = queryStr('br');
+    if (!brand || !brand.trim()) {
+        brand = 'groupvine';
     }
 
     let support = queryStr('support');
@@ -132,6 +132,9 @@ $(document).ready( function() {
         setTimeout( () => {
             $("#adv-checkbox").prop("checked", false);
             checkAdv();
+
+
+
         }, 5);
     }
 
@@ -139,15 +142,14 @@ $(document).ready( function() {
         checkAdv();
     });
 
-
     function computeQueryStr() {
         let res = '';
         if (mode !== 'sub') {
-            res = 'vw=' + mode;
+            res = 'sv=' + mode;
         }
-        if (service !== 'groupvine') {
+        if (brand !== 'groupvine') {
             if (res) { res += '&'; }
-            res += 'sv=' + service;
+            res += 'br=' + brand;
         }
         if (support) {
             if (res) { res += '&'; }
@@ -162,7 +164,7 @@ $(document).ready( function() {
 
     //
     // Hide sections that shouldn't be viewed according to
-    // the view mode.
+    // the service mode.
     //
 
     // First, hide all
@@ -189,14 +191,17 @@ $(document).ready( function() {
         break;
     case 'sub':
     default:
-        $('.sub').show();
+        
+
+
+$('.sub').show();
         break;
     }
 
     //
-    // Show/hide service specific stuff
+    // Show/hide brand specific stuff
     // 
-    if (service === 'trivy') {
+    if (brand === 'trivy') {
         $(".trivy").show();
         $(".gv").hide();
     } else {
@@ -220,13 +225,13 @@ $(document).ready( function() {
     }
 
     //
-    // Update service
+    // Update brand
     //
 
-    let capService = 'GroupVine';
+    let capBrand = 'GroupVine';
 
-    if (service === 'trivy') {
-        capService = 'Trivy';
+    if (brand === 'trivy') {
+        capBrand = 'Trivy';
 
         // Update the favicon
         $('link[rel="icon"]').each( function() {
@@ -241,7 +246,7 @@ $(document).ready( function() {
         $("#trivy-logo").show();
     }
 
-    // Set view mode and service on all internal links
+    // Set service  mode and brand on all internal links
 
     let qArgStr = computeQueryStr();
 
@@ -258,17 +263,17 @@ $(document).ready( function() {
     });
 
     //
-    // Replace GV-SERVICE
+    // Replace GV-BRAND
     // 
 
-    newBody = $("body").html().replace(/GV\-SERVICE/g, capService);
+    newBody = $("body").html().replace(/GV\-BRAND/g, capBrand);
     $("body").html(newBody);
 
-    newTitle = $("title").html().replace(/GV\-SERVICE/g, capService);
+    newTitle = $("title").html().replace(/GV\-BRAND/g, capBrand);
     $("title").html(newTitle);
 
     //
-    // Handle view menu.
+    // Handle service menu.
     // Attach event after possibly modifying content above!
     //
 
@@ -286,7 +291,7 @@ $(document).ready( function() {
         }
         window.location = url;
 
-        // window.location = locationWithQueryStr('vw', $(this).val());
+        // window.location = locationWithQueryStr('sv', $(this).val());
     });
 
     $('.wrapper').show();

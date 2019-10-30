@@ -89,7 +89,7 @@ the email address, for example like the following:
 
 ## Commenting and Reacting to Emails
 
-Yes, your GV-SERVICE community email recipients can **comment** on and **like**,
+Yes, your GV-BRAND community email recipients can **comment** on and **like**,
 **wow** (**dislike**, etc.), your emails!
 
 ...
@@ -100,7 +100,7 @@ Yes, your GV-SERVICE community email recipients can **comment** on and **like**,
 
 ## Who can send new emails
 
-<div class="trivy only">
+<div class="trivy">
 
   With the Trivy service, only the account administrator is permitted to send 
   new emails (or replies) to the group.
