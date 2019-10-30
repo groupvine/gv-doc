@@ -8,6 +8,9 @@ title: Social Email Options
 ## Sending new emails
 
 
+<div id="email-from-inbox">
+</div>
+
 ### From your own email inbox
 
 To send an email to your account from your own inbox, simply send it to

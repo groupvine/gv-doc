@@ -14,10 +14,13 @@ layout: default
     <tr>
       <td>
         <h3>
-          <a href="#">Getting Started</a>
+          Getting Started
         </h3>
         <p>
-          Customize your account, add members, send your first email.
+          [Add members with an import file](/membership/importing[LINK-QARGS]),
+          or one member at a time; 
+          [send an email from a personal email account](/social#email-from-inbox[LINK-QARGS]),
+          or from your online account.
         </p>
       </td>
 
@@ -26,9 +29,14 @@ layout: default
           <a href="#">Managing your Membership</a>
         </h3>
         <p>
-          Add members individually or import a membership file, have members sign up 
-          via your account's registration page<span class="html trial g4s sub">, 
-          group members together using lists or sub-groups, manage Administrators and Editors</span>.
+          [Add members with an import file](/membership/importing[LINK-QARGS]),
+          or one member at a time; 
+          [exporting your current membership](/membership/exporting[LINK-QARGS]); 
+          <span class="html trial g4s sub">, 
+            [use lists to target an interest group or classification](/membership/lists_groups#membership-lists[LINK-QARGS]);
+            [sub-groups can provide more structure and delegation to groups of members](/membership/lists_groups#membership-subgroups[LINK-QARGS]);
+          </span>
+          use a public registration page to sign up new subscribers.
         </p>
       </td>
     </tr>
