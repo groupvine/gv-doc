@@ -24,6 +24,7 @@ Identification:
    Editor, or Member (or abbrev. 'x')
 *  **id**    number used internally to identify users.
 *  **appId** number used internally to identify member applications.
+*  **appStatus** used internally to identify member application status.
 
 Text notifications:
 

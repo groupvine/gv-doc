@@ -48,9 +48,9 @@ For example:
 
 This export file will be in a form ready to be imported into the
 account (into the accounts's top-level group for accounts with
-sub-groups).  It will also include a reserved "appId" column which is
-used to update the status of the pending application to "approved"
-following the import.
+sub-groups).  It will also include reserved "appId" and "appStatus"
+columns which are used to identify any Pending appications to be
+imported.
 
 
 ## Importing membership or membership changes
