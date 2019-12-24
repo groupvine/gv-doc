@@ -94,6 +94,7 @@ attaching a group-instructions CSV file using the following columns:
   blank for unmoderated.
 * **membersSend** - Optional column, set to 'x' to allow group members to send
   blank for unmoderated.
+* **membersRequest** - Optional column, set to 'x' to include sub-group on profile page
 * **membersApply** - Optional column, set to 'x' to require new group members to 
   apply and be admitted by an Admin.  Note: sub-groups can potentially have a
   more (but not less) restrictive policy here, though not currently, this

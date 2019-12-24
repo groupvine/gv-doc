@@ -35,8 +35,8 @@ If a "display name" is included in the import with a member's primary
 address, it is used to initialize the member's first and last name
 fields for that account member.  These names are subsequently used to
 construct the email display name used in the "From" address in any
-emails subsequently sent by this member.  Because the firstName and
-lastName fields are stored separately on a per-account basis, a given
+emails subsequently sent by this member.  Because the 'First Name' and
+'Last Name' fields are stored separately on a per-account basis, a given
 user can have different names (and thus, different email display
 names) in different accounts.
 
@@ -76,7 +76,7 @@ put the member email addresses under an "email" column, and then add
 
 For example:
 
-| email                       | City       | Sport      | Fav Color      |
+| Email                       | City       | Sport      | Fav Color      |
 |:----------------------------|:-----------|:-----------|:---------------|
 |tim.tangelo@example.com      | Boston     | Baseball   | blue           |
 |beth.blueberry@example.com   | Montecito  |            | black          |
@@ -143,7 +143,7 @@ attributes are just shown to give a more complete import example, but
 aren't necessary).
 
 
-| email                       | City       | Sport      | Fav Color      |  role   |
+| Email                       | City       | Sport      | Fav Color      |  Role   |
 |:----------------------------|:-----------|:-----------|:---------------|:--------|
 |tim.tangelo@example.com      | Boston     | Baseball   | blue           | Admin   |
 |beth.blueberry@example.com   | Montecito  |            | black          |   x     |
@@ -188,7 +188,7 @@ custom attributes and role columns, to just update the list
 memberships):
 
 
-| email                       | list:musicians | list:golfers  |
+| Email                       | list:musicians | list:golfers  |
 |:----------------------------|:---------------|:--------------|
 |tim.tangelo@example.com      | x              |               |
 |quiet.quinn@example.com      |                | x             |
@@ -211,7 +211,7 @@ the entire account is under the optional "role" column (see above),
 the member's role within a specific sub-group is under the 
 group:[group name] column.
 
-| email                       | group:eastregion | group:westregion |
+| Email                       | group:eastregion | group:westregion |
 |:----------------------------|:-----------------|:-----------------|
 |tim.tangelo@example.com      |  Admin           |                  |
 |sue.steeler@example.com      |  x               |                  |
@@ -226,7 +226,7 @@ account-wide "musicians" list as well as the "redsox" list defined in
 (and only relevant in) the eastregion group.  Sue is also a musician
 and is in the "giants" list defined in the westregion group:
 
-| email                       | list:musicians | group:eastregion | list:redsox    | group:westregion | list:giants    |
+| Email                       | list:musicians | group:eastregion | list:redsox    | group:westregion | list:giants    |
 |:----------------------------|:---------------|:-----------------|:---------------|:-----------------|:---------------|
 |tim.tangelo@example.com      | x              |  Admin           | x              |                  | x              |
 |beth.blueberryr@example.com  | x              |                  |                | x                | x              |

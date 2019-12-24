@@ -11,16 +11,16 @@ reserved member attributes.
 
 Email delivery:
 
-*  **email**  member's primary email address,
-*  **emailAltN** alternate addresses, where N is an optional integer (2, 3, ...),
-*  **optedOut** indicates whether the member has opted out (or hasn't yet opted-in) to receiving emails.
-*  **firstName** member's first name
-*  **lastName** member's last name
-*  **photoUrl** web address of member's profile photo
+*  **Email**  member's primary email address,
+*  **Email AltN** alternate addresses, where N is an optional integer (2, 3, ...),
+*  **Opted Out** indicates whether the member has opted out (or hasn't yet opted-in) to receiving emails.
+*  **First Name** member's first name
+*  **Last Name** member's last name
+*  **Photo URL** web address of member's profile photo
 
 Identification:
 
-*  **role** Member's role in the account, one of Admininistrator (or abbrev. 'Admin'), 
+*  **Role** Member's role in the account, one of Admininistrator (or abbrev. 'Admin'), 
    Editor, or Member (or abbrev. 'x')
 *  **id**    number used internally to identify users.
 *  **appId** number used internally to identify member applications.
@@ -28,10 +28,10 @@ Identification:
 
 Text notifications:
 
-*  **mobileNumber**  mobile phone number for receiving text notifications of new group emails,
-*  **mobileService** mobile phone service provider
+*  **Mobile Number**  mobile phone number for receiving text notifications of new group emails,
+*  **Mobile Service** mobile phone service provider
     (e.g., att, verizon, sprint, tmobile, ...),
-*  **textingMode** one of "none" (no notifications sent), "urgent"
+*  **Texting Mode** one of "none" (no notifications sent), "urgent"
     (notifications only sent for emails marked as "urgent"), or "all"
     (notifications sent for all group emails).
 
