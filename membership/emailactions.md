@@ -223,6 +223,7 @@ and some or all of the following columns in the account instructions file:
 * **expires** - datetime
 
 * **attributes** - JSON structured custom attributes
+* **behavior** - JSON structured account behavior overrides
 * **terms** - JSON structured custom terminology
 * **customizations** - JSON structured other customizations
 
