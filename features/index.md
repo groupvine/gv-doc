@@ -47,7 +47,8 @@ title: Comparison of GroupVine v1 and v20
    ```www.groupvine.com/centralvalley```.
 
 *  Cleaner rewritten from addresses of the form 
-   ```sue.smith{gmail.com}@groupvine.com```.
+   ```sue.smith{gmail.com}@groupvine.com``` rather than
+   ```sue.smith-at-gmail.com.user@groupvine.com``` rather than
 
 *  Cleaner targetted email addresses for list-, attribute-, 
    and EW-response based email addresses, of the form
@@ -62,9 +63,9 @@ title: Comparison of GroupVine v1 and v20
 *  Secure API to permit multiple accounts to be managed by a 
    3rd party
 
+## Backup Notes:
 
-
-## Migration Notes:
+### Migration:
 
 * use ```<community>.groupvine.com``` rather than
   ```www.groupvine.com/<community>``` for web pages.  Main account and
@@ -78,9 +79,11 @@ title: Comparison of GroupVine v1 and v20
   fixed attributes.
 
 
-## Consolidated, state-of-the-art development and production platforms
+### Scalable & State-of-the-art:
 
-*  More scalable email engine and EW archictures
+ * More scalable EW and email engine architecture
+
+*  Consolidated, state-of-the-art development and production platforms
 
 *  Comprehensive suite of automated end-to-end tests of all major
    functions of email engine.
@@ -88,13 +91,13 @@ title: Comparison of GroupVine v1 and v20
 *  Key web UI and EW servers client code in Angular / Typescript, 
    mobile-responsive, single-page web apps
 
-*  All server running in node.js-Express / Typescript
+*  All server running in node.js v10 / Express / Typescript
 
 *  All code stored as npm packages on github
 
 *  All email files shared using Amazon elastic network file system
 
-*  Database consolidated in PostgreSQL 10.0
+*  Database consolidated in PostgreSQL 10.6
 
 
 
