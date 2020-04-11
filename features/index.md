@@ -7,25 +7,21 @@ title: Comparison of GroupVine v1 and v20
 
  *  New Email Feed "Gallery" view in addition to familiar "Listing" view.
 
- *  Can add multiple, Email Widgets into a single email and download
-    consolidated spreadsheet with results.
-
  *  Pages that members and the public can reach (your subscribe page,
     your email feed, and member profile pages) are themed to use
-    colors based on your account's primary color.
+    colors based on your account's custom primary color.
 
- *  Easily define customized, reusable email "templates"
+ *  Add multiple, Email Widgets into a single email and download
+    consolidated spreadsheet with results.
 
  *  Trivial to add standard Email Widgets for Feedback, RSVPs, and Counts
 
- *  Emails can be archived to keep your Email Feed tidy
-
  *  Easily embed a member sign-up form in your own website
+
+ *  Emails can be archived to keep your Email Feed tidy
 
  *  Email Widgets and personalization variables can be inserted into
     emails composed in and sent from sender's familiar inbox
-
- *  Easier management of email file attachments
 
  *  Define exactly the information you'd like to track for each member
     by adding custom attributes which can even be used like lists to 
@@ -34,24 +30,28 @@ title: Comparison of GroupVine v1 and v20
  *  Customize the account description in your main email feed, your
     member sign-up page, and your member's profile page
 
- *  Upgraded, mobile-friendly and more responsive state-of-the-art UI
-
  *  Friendlier, more natural and flexible membership import and export 
     file format, including the customizeable member attributes.
+
+ *  Easily define customized, reusable email "templates"
+
+ *  Easier management of email file attachments
+
+ *  Upgraded, mobile-friendly and more responsive state-of-the-art UI
 
 
 ## Other advanced features:
 
-*  Cleaner rewritten from addresses of the form 
-   ```sue.smith{gmail.com}@groupvine.com```.
-
-*  Cleaner qualifier email addresses for list-, attribute-, 
-   and EW-response based email addresses, of the form
-   ```volunteer=yes.maybe+staff~~cve@groupvine.com```.
-
 *  Simpler site name for your accounts of the form 
    ```centralvalley.groupvine.com``` rather than 
    ```www.groupvine.com/centralvalley```.
+
+*  Cleaner rewritten from addresses of the form 
+   ```sue.smith{gmail.com}@groupvine.com```.
+
+*  Cleaner targetted email addresses for list-, attribute-, 
+   and EW-response based email addresses, of the form
+   ```volunteer=yes.maybe+staff~~cve@groupvine.com```.
 
 *  From address always rewritten, DKIM keys always added, so all
    emails should now pass all SPF, DKIM, and DMARC security checks.
