@@ -65,5 +65,3 @@ title: Comparison of GroupVine v1 and v20
 
 
 
-https://www.groupvine.com/objLookup?objId=4243872&viewName=@@email&pageTicket=600e8c0f16395f0e87cb03c0cfb2c6af&userEmail=arubashaheen@yahoo.com&dateSeed=02Apr20-11:52:50-1187&pageId=4243872&userId=83573
-
