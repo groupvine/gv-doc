@@ -5,10 +5,39 @@ title: Comparison of GroupVine v1 and v20
 
 # New Features:
 
-## Archiving emails
-## Custom attributes
-## Better-integrated email widgets [need to be more precise here]
-## keep listing...
+## New Email Feed "Gallery" view in addition to familiar "Listing" view.
+## Can add multiple, Email Widgets into a single email and download
+   consolidated spreadsheet with results.
+## Pages that members and the public can reach (your subscribe page,
+   your email feed, and member profile pages) are themed to use
+   colors based on your account's primary color.
+## Easily define customized, reusable email "templates"
+## Trivial to add standard Email Widgets for Feedback, RSVPs, and Counts
+## Emails can be archived to keep your Email Feed tidy
+## Easily embed a member sign-up form in your own website
+## Easier management of email file attachments
+## Define exactly the information you'd like to track for each member
+   by adding custom attributes which can even be used like lists to 
+   address a set of members.
+## Customize the account description in your main email feed, your
+   member sign-up page, and your member's profile page
+## Upgraded, mobile-friendly and more responsive state-of-the-art UI
+
+
+# Other advanced features:
+
+## Cleaner rewritten from addresses of the form 
+   ```sue.smith{gmail.com}@groupvine.com```
+## Cleaner qualifier email addresses for list-, attribute-, 
+   and EW-response based email addresses, of the form
+   ```volunteer=yes.maybe+staff~~cve@groupvine.com```
+## Simpler site name for your accounts of the form 
+   ```centralvalley.groupvine.com``` rather than 
+   ```www.groupvine.com/centralvalley```.
+## Secure API to permit multiple accounts to be managed by a 
+   3rd party
+## From address always rewritten, DKIM keys always added, so all
+   emails should now pass all SPF, DKIM, and DMARC security checks.
 
 
 # Migration Notes:
@@ -24,4 +53,17 @@ title: Comparison of GroupVine v1 and v20
    imported, exported, and otherwise managed just like any of the old
    fixed attributes.
 
+
+# Consolidated, state-of-the-art development and production platforms
+
+## Key web UI and EW servers client code in Angular / Typescript, 
+   mobile-responsive, single-page web apps
+## All server running in node.js-Express / Typescript
+## All code stored as npm packages on github
+## All email files shared using Amazon elastic network file system
+## All in PostgreSQL 10.0
+
+
+
+https://www.groupvine.com/objLookup?objId=4243872&viewName=@@email&pageTicket=600e8c0f16395f0e87cb03c0cfb2c6af&userEmail=arubashaheen@yahoo.com&dateSeed=02Apr20-11:52:50-1187&pageId=4243872&userId=83573
 
