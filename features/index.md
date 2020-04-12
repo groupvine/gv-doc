@@ -40,7 +40,7 @@ title: Comparison of GroupVine v1 and v20
  *  Upgraded, mobile-friendly and more responsive state-of-the-art UI
 
 
-## Other advanced features:
+## Other technical changes and advanced features:
 
 *  Simpler site name for your accounts of the form 
    ```centralvalley.groupvine.com``` rather than 
