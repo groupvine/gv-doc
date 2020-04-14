@@ -40,7 +40,19 @@ title: Comparison of GroupVine v1 and v20
  *  Upgraded, mobile-friendly and more responsive state-of-the-art UI
 
 
-## Other technical changes and advanced features:
+## New advanced features:
+
+*  All membership management and a number of other 
+   operations can be performed via email with attached spreadsheets.
+
+*  Secure API to permit multiple accounts to be managed by a 
+   3rd party
+
+
+
+## Backup Notes:
+
+## Other technical changes:
 
 *  Simpler site name for your accounts of the form 
    ```centralvalley.groupvine.com``` rather than 
@@ -48,7 +60,7 @@ title: Comparison of GroupVine v1 and v20
 
 *  Cleaner rewritten from addresses of the form 
    ```sue.smith{gmail.com}@groupvine.com``` rather than
-   ```sue.smith-at-gmail.com.user@groupvine.com``` rather than
+   ```sue.smith-at-gmail.com.user@groupvine.com```.
 
 *  Cleaner targetted email addresses for list-, attribute-, 
    and EW-response based email addresses, of the form
@@ -57,13 +69,11 @@ title: Comparison of GroupVine v1 and v20
 *  From address always rewritten, DKIM keys always added, so all
    emails should now pass all SPF, DKIM, and DMARC security checks.
 
-*  All membership management and a number of other 
-   operations can be performed via email with attached spreadsheets.
+*  Increased security for user passwords using Argon2 standard (selected
+   winner of 2015 Password Hashing competition).
 
-*  Secure API to permit multiple accounts to be managed by a 
-   3rd party
+*  Increased security of ticketed links using SHA256 hashing function.
 
-## Backup Notes:
 
 ### Migration:
 
@@ -95,9 +105,9 @@ title: Comparison of GroupVine v1 and v20
 
 *  All code stored as npm packages on github
 
-*  All email files shared using Amazon elastic network file system
+*  Common email files shared across servers using Amazon elastic network file system
 
-*  Database consolidated in PostgreSQL 10.6
+*  Consolidated relational & json-object-capable database using PostgreSQL v10.6.
 
 
 
