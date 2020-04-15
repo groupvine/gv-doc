@@ -14,7 +14,8 @@ title: Comparison of GroupVine v1 and v20
  *  Add multiple, Email Widgets into a single email and download
     consolidated spreadsheet with results.
 
- *  Trivial to add standard Email Widgets for Feedback, RSVPs, and Counts
+ *  Trivial to add standard Email Widgets for Feedback, RSVPs, Counts, 
+    and Checkboxes.
 
  *  Easily embed a member sign-up form in your own website
 
@@ -67,10 +68,11 @@ title: Comparison of GroupVine v1 and v20
    ```volunteer=yes.maybe+staff~~cve@groupvine.com```.
 
 *  From address always rewritten, DKIM keys always added, so all
-   emails should now pass all SPF, DKIM, and DMARC security checks.
+   emails should now pass all SPF, DKIM, and DMARC email integrity 
+   checks.
 
-*  Increased security for user passwords using Argon2 standard (selected
-   winner of 2015 Password Hashing competition).
+*  Increased security for user passwords using Argon2 standard 
+   (winner of 2015 Password Hashing competition).
 
 *  Increased security of ticketed links using SHA256 hashing function.
 
