@@ -40,7 +40,7 @@ layout: default
           <a href="/membership/exporting[LINK-QARGS]">
             exporting your current membership;
           </a>
-          <span class="html trial g4s sub">, 
+          <span class="html g4s sub">, 
             <a href="/membership/lists_groups[LINK-QARGS]#membership_lists">
               use lists to target an interest group or classification
             </a>
@@ -63,13 +63,13 @@ layout: default
           <a href="/social[LINK-QARGS]#email_from_inbox">
             or from your personal email account;
           </a>
-          <span class="html trial g4s sub">
+          <span class="html g4s sub">
             moderating emails;
           </span>
           <a href="/gallery[LINK-QARGS]">
             your email gallery
           </a>
-          add images <span class="html trial g4s sub">, attach files, personalize content</span>.
+          add images <span class="html g4s sub">, attach files, personalize content</span>.
         </p>
       </td>
 
@@ -81,7 +81,7 @@ layout: default
           emails with social email widgets allow recipients to add responses
           and comments to your emails;
           sharing emails on social feeds;
-          <span class="html trial sub g4s">
+          <span class="html sub g4s">
             send to response-based dynamic email lists; 
           </span>
           download responses to a spreadsheet.

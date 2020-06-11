@@ -36,6 +36,8 @@ title: Comparison of GroupVine v1 and v20
 
  *  Easily define customized, reusable email "templates"
 
+ *  Supports copy and paste from MS Office and from a Google doc
+
  *  Easier management of email file attachments
 
  *  Upgraded, mobile-friendly and more responsive state-of-the-art UI
@@ -107,7 +109,10 @@ title: Comparison of GroupVine v1 and v20
 
 *  All code stored as npm packages on github
 
-*  Common email files shared across servers using Amazon elastic network file system
+*  Common email files shared across servers using Amazon elastic network file
+
+*  Single shared status.json fiel for activating maintenance mode,
+   sending real-time notices to apps, and notifying apps of version updates.
 
 *  Consolidated relational & json-object-capable database using PostgreSQL v10.6.
 

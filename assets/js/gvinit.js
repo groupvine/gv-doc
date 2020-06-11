@@ -61,7 +61,7 @@ $(document).ready( function() {
     // Process markdown in view-specific elements
     //
 
-    $('.free, .trial, .sub, .g4s, .adv, .support, .gv, .trivy').each( function() {
+    $('.free, .sub, .g4s, .adv, .support, .gv, .trivy').each( function() {
         if ($(this).hasClass('html')) {
             // No convrsion, already in html
             return;
@@ -168,7 +168,7 @@ $(document).ready( function() {
     //
 
     // First, hide all
-    $('.free, .trial, .sub, .g4s').hide();
+    $('.free, .sub, .g4s').hide();
 
     // Show the adv notes checkbox by default
     $("#adv-checkbox-wrapper").show();
@@ -182,9 +182,6 @@ $(document).ready( function() {
             checkAdv();
         }, 10);
         $("#adv-checkbox-wrapper").hide();   // hide adv feature checkbox
-        break;
-    case 'trial':
-        $('.trial').show();
         break;
     case 'g4s':
         $('.g4s').show();

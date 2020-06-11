@@ -10,7 +10,7 @@ title: Membership
 * [Exporting your memberhip](./exporting[LINK-QARGS])
 </div>
 
-<div class="trial sub g4s">
+<div class="sub g4s">
 * [Importing your membershp](./importing[LINK-QARGS])
 * [Exporting your memberhip](./exporting[LINK-QARGS])
 * [Lists](./lists[LINK-QARGS])
