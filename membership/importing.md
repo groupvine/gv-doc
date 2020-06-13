@@ -83,15 +83,14 @@ For example:
 |quiet.quinn@example.com      | Toronto    | Hockey     | red            |
 
 You can now include these attribute names in your email surrounded by 
-```{% raw %} {{ {% endraw %} ... {% raw %} }} {% endraw %}```, 
+```{{  ... }}```, 
 such as:
 
 ```
-Hello {% raw %}{{{% endraw %} sport {% raw %}}}{% endraw %}, 
+Hello {{ City }} resident,
 
-We see you're a "{% raw %}{{ {% endraw %} favcolor {% raw %} }}{% endraw %}" person,
-so look for your {% raw %} {{ {% endraw %} favcolor {% raw %} }} {% endraw %} BingoTech
-bingo board coming to your mail box soon!
+We see you're a "{{ Fav Color }}" person, so look for your
+{{ Fav Color }} BingoTech bingo board coming to your mail box soon!
 
 Bingo!
 ```
