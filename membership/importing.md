@@ -231,7 +231,7 @@ and is in the "giants" list defined in the westregion group:
 |beth.blueberryr@example.com  | x              |                  |                | x                | x              |
 
 For more information on groups and lists, see the [Groups and
-Lists](./groups_lists[LINK-QARGS]) page.
+Lists](./lists_groups[LINK-QARGS]) page.
 
 </div>   <!-- END GROUPVINE -->
 
