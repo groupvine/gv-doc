@@ -1,10 +1,5 @@
----
-title: Lists and Subgroups
----
-
-<div id="gv-membership-lists"></div>
-
 # Membership Lists
+<div id="gv-membership-lists"></div>
 
 Lists give you flexibility in how you can target an email's
 receipients list to a specific interest group or classification
@@ -47,6 +42,7 @@ associated 'list:' header must follow the 'group:' header which owns that list.
 </div>
 
 <div id="gv-membership-sub-groups"></div>
+
 # Membership Sub-groups
 
 Sub-groups provide additional flexibility in how you manage your
