@@ -1,17 +1,9 @@
----
-layout: default
-title: Social Email Options
----
-
 # Social Email Options
 
 ## Sending new emails
 
-
-<div id="email_from_inbox">
-</div>
-
 ### From your own email inbox
+<div id="gv-email-from-inbox"></div>
 
 To send an email to your account from your own inbox, simply send it to
 your account's Abbreviation '@' groupvine.email, for example:

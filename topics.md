@@ -1,7 +1,3 @@
----
-title: Help Topics
----
-
 <div id="gv-service-help-topics" class="html" style="width:100%; text-align:center">
   <h1>
     Topics
@@ -21,7 +17,7 @@ title: Help Topics
             Add members with an import file,
           </a>
           or one member at a time; 
-          <a href="/social[LINK-QARGS]#email_from_inbox">
+          <a href="/social[LINK-QARGS]#gv-email-from-inbox">
             send an email from a personal email account,
           </a>
           or from your online account.
@@ -60,7 +56,7 @@ title: Help Topics
         </h3>
         <p>
           Send email from your online acount,
-          <a href="/social[LINK-QARGS]#email_from_inbox">
+          <a href="/social[LINK-QARGS]#gv-email-from-inbox">
             or from your personal email account;
           </a>
           <span class="html g4s sub">
