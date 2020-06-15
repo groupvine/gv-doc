@@ -41,9 +41,8 @@ associated 'list:' header must follow the 'group:' header which owns that list.
 
 </div>
 
-<div id="gv-membership-sub-groups"></div>
-
 # Membership Sub-groups
+<div id="gv-membership-sub-groups"></div>
 
 Sub-groups provide additional flexibility in how you manage your
 membership and target your emails.  Key features of sub-groups include
