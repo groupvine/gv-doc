@@ -1,7 +1,3 @@
----
-layout: default
----
-
 <div id="gv-service-help-topics" class="html" style="width:100%; text-align:center">
   <h1>
     Topics
@@ -41,10 +37,10 @@ layout: default
             exporting your current membership;
           </a>
           <span class="html g4s sub">, 
-            <a href="/membership/lists_groups[LINK-QARGS]#membership_lists">
+            <a href="/membership/lists_groups[LINK-QARGS]#gv-membership-lists">
               use lists to target an interest group or classification
             </a>
-            <a href="/membership/lists_groups[LINK-QARGS]#membership-sub-groups">
+            <a href="/membership/lists_groups[LINK-QARGS]#gv-membership-sub-groups">
               sub-groups can provide more structure and delegation to groups of members;
             </a>
           </span>
