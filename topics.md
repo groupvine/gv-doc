@@ -44,7 +44,7 @@ layout: default
             <a href="/membership/lists_groups[LINK-QARGS]#membership_lists">
               use lists to target an interest group or classification
             </a>
-            <a href="/membership/lists_groups[LINK-QARGS]#membership_subgroups">
+            <a href="/membership/lists_groups[LINK-QARGS]#membership-sub-groups">
               sub-groups can provide more structure and delegation to groups of members;
             </a>
           </span>
