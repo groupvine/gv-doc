@@ -3,6 +3,7 @@ title: Lists and Subgroups
 ---
 
 <div id="gv-membership-lists"></div>
+
 # Membership Lists
 
 Lists give you flexibility in how you can target an email's
