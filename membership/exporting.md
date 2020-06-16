@@ -1,7 +1,5 @@
 <h1>Membership Export</h1>
 
-# Membership Export
-
 To get your current account membership, use the **Export** button on
 your membership page.
 
