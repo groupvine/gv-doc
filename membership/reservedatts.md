@@ -1,7 +1,4 @@
----
-layout: default
-title: Reserved Member Attributes
----
+<h1>Reserved Member Attributes</h1>
 
 # Reserved Member Attributes
 

@@ -1,7 +1,4 @@
----
-layout: default
-title: Advanced - Email Actions
----
+<h1>Advanced - Email Actions</h1>
 
 # Email Actions
 

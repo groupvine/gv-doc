@@ -1,6 +1,4 @@
----
-layout: default
-title: Email Gallery
+<h1>Email Gallery</h1>
 ---
 
 # Published Email Gallery

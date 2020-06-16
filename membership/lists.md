@@ -1,7 +1,4 @@
----
-layout: default
-title: Membership Lists
----
+<h1>Membership Lists</h1>
 
 # Membership Lists
 

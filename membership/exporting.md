@@ -1,8 +1,4 @@
----
-layout: default
-title: Membership Export
----
-
+<h1>Membership Export</h1>
 
 # Membership Export
 

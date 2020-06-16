@@ -1,7 +1,4 @@
----
-layout: default
-title: Membership Sub-groups
----
+<h1>Membership Sub-groups</h1>
 
 # Sub-groups
 
