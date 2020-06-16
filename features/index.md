@@ -1,7 +1,4 @@
----
-layout: default
-title: Comparison of GroupVine v1 and v20
----
+<h1>Comparison of GroupVine v1 and v20</h1>
 
 ## New Features:
 
