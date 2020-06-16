@@ -1,7 +1,4 @@
-<h1>Email Gallery</h1>
----
-
-# Published Email Gallery
+<h1>Published Email Gallery</h1>
 
 TBD
 

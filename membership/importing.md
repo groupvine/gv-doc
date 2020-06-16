@@ -1,6 +1,4 @@
-title: <h1>Membership Import</h1>
-
-# Membership Import
+<h1>Membership Import</h1>
 
 ## Recipent addresses-only
 
