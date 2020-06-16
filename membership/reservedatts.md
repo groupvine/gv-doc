@@ -1,5 +1,3 @@
-<h1>Reserved Member Attributes</h1>
-
 # Reserved Member Attributes
 
 Custom member attributes may consist of most characters other than

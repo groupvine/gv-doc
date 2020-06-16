@@ -1,6 +1,4 @@
-<h1>Advanced - Email Actions</h1>
-
-# Email Actions
+# Advanced - Email Actions
 
 A number of operations can be conducted without visiting your online
 account at all, but simply by emailing instructions to your account

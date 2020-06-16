@@ -1,5 +1,3 @@
-<h1>Membership Lists</h1>
-
 # Membership Lists
 
 Lists give you flexibility in how you can target an email's

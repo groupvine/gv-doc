@@ -1,6 +1,4 @@
-<h1>Membership Sub-groups</h1>
-
-# Sub-groups
+# Membership Sub-groups
 
 Sub-groups provide additional flexibility in how you manage your
 membership and target your emails.  Sub-groups can have:

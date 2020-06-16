@@ -1,5 +1,3 @@
-<h1>Membership</h1>
-
 # Managing your Community
 
 <div class="free">
