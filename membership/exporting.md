@@ -7,7 +7,7 @@ your membership page.
 <div class="adv">  <!-- START ADVANCED -->
 
 Memberships exports can also be performed by emailing instructions to
-your account server; [see here](./emailactions[LINK-QARGS]) for
+your account server; [see here](./emailactions[LINK-QARGS-DOC]) for
 instructions.
 
 </div>  <!-- END ADVANCED -->

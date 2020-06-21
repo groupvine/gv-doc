@@ -13,11 +13,11 @@
           Getting Started
         </h3>
         <p>
-          <a href="/membership/importing[LINK-QARGS]">
+          <a href="/membership/importing[LINK-QARGS-DOC]">
             Add members with an import file,
           </a>
           or one member at a time; 
-          <a href="/social[LINK-QARGS]#gv-email-from-inbox">
+          <a href="/social[LINK-QARGS-DOC]#gv-email-from-inbox">
             send an email from a personal email account,
           </a>
           or from your online account.
@@ -29,18 +29,18 @@
           Managing your Membership
         </h3>
         <p>
-          <a href="/membership/importing[LINK-QARGS]">
+          <a href="/membership/importing[LINK-QARGS-DOC]">
             Add members with an import file,
           </a>
           or one member at a time; 
-          <a href="/membership/exporting[LINK-QARGS]">
+          <a href="/membership/exporting[LINK-QARGS-DOC]">
             exporting your current membership;
           </a>
           <span class="html g4s sub">, 
-            <a href="/membership/lists_groups[LINK-QARGS]#gv-membership-lists">
+            <a href="/membership/lists_groups[LINK-QARGS-DOC]#gv-membership-lists">
               use lists to target an interest group or classification
             </a>
-            <a href="/membership/lists_groups[LINK-QARGS]#gv-membership-sub-groups">
+            <a href="/membership/lists_groups[LINK-QARGS-DOC]#gv-membership-sub-groups">
               sub-groups can provide more structure and delegation to groups of members;
             </a>
           </span>
@@ -56,13 +56,13 @@
         </h3>
         <p>
           Send email from your online acount,
-          <a href="/social[LINK-QARGS]#gv-email-from-inbox">
+          <a href="/social[LINK-QARGS-DOC]#gv-email-from-inbox">
             or from your personal email account;
           </a>
           <span class="html g4s sub">
             moderating emails;
           </span>
-          <a href="/gallery[LINK-QARGS]">
+          <a href="/gallery[LINK-QARGS-DOC]">
             your email gallery
           </a>
           add images <span class="html g4s sub">, attach files, personalize content</span>.
@@ -118,8 +118,8 @@
 <div class="support">
 
 ### Other support link shortcuts 
-  [Email actions](/membership/emailactions[LINK-QARGS]);
-  [Reserved attributes](/membership/reservedatts[LINK-QARGS]);
+  [Email actions](/membership/emailactions[LINK-QARGS-DOC]);
+  [Reserved attributes](/membership/reservedatts[LINK-QARGS-DOC]);
 </div>
 
 
