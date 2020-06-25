@@ -7,9 +7,7 @@
 
       <tr>
 	<td>
-	  <a href="/1-start[LINK-QARGS-DOC]">
-	    Getting Started
-	  </a>
+	  Getting Started
 	  <ul>
 	    <li>
 	      <a href="/1-start/1-startMembers[LINK-QARGS-DOC]">
@@ -32,9 +30,7 @@
 
       <tr>
 	<td>
-	  <a href="/2-members[LINK-QARGS-DOC]">
-	    Managing your Membership
-	  </a>
+	  Managing your Membership
 	  <ul>
 	    <li>
 	      <a href="/2-members/1-membersAdd[LINK-QARGS-DOC]">
@@ -67,9 +63,7 @@
 
       <tr>
 	<td>
-	  <a href="/3-send[LINK-QARGS-DOC]">
-	    Sending Emails
-	  </a>
+          Sending Emails
 	  <ul>
 	    <li>
 	      <a href="/3-send/1-sendOnline[LINK-QARGS-DOC]#Sending-email-from-your-online">
@@ -97,9 +91,7 @@
 
       <tr>
 	<td>
-	  <a href="/4-feed[LINK-QARGS-DOC]">
-	    Email Feed
-	  </a>
+	  Email Feed
 	  <ul>
 	    <li>
 	      <a href="/4-feed/1-feedIntro[LINK-QARGS-DOC]">
@@ -138,9 +130,7 @@
 
       <tr>
 	<td>
-	  <a href="/5-widgets[LINK-QARGS-DOC]">
-	    Email Widgets (a Patented GroupVine Technology)
-	  </a>
+          Email Widgets (a Patented GroupVine Technology)
 	  <ul>
 	    <li>
 	      <a href="/5-widgets/1-ewIntro[LINK-QARGS-DOC]">
@@ -173,9 +163,7 @@
 
       <tr>
 	<td>
-	  <a href="/6-delivery[LINK-QARGS-DOC]">
-	    Email Delivery & Troubleshooting
-	  </a>
+	  Email Delivery & Troubleshooting
 	  <ul>
 	    <li>
 	      <a href="/6-delivery/1-delivMissing[LINK-QARGS-DOC]">
@@ -209,9 +197,7 @@
       <div class="adv">
 	<tr>
 	  <td>
-	    <a href="/7-advanced[LINK-QARGS-DOC]">
-	      if advanced Advanced info
-	    </a>
+            JHJHJH if advanced Advanced info
 	    <ul>
 	      <li>
 		<a href="/7-advActions/1-advActions[LINK-QARGS-DOC]">
