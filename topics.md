@@ -100,7 +100,7 @@
 	    </li>
 	    <li>
 	      <a href="/4-feed/2-feedVisibility[LINK-QARGS-DOC]">
-		if subscription/g4s Public or Private?
+		**if subscription/g4s JHJHJH** Public or Private?
 	      </a>
 	    </li>
 	    <li>
