@@ -1,11 +1,12 @@
-# Getting Started
+# Email Widgets
 
-## Email Widgets
+## What are Email Widgets?
 
-### 5-widgets/1-ewIntro (placeholder)
+### In short, questions and recipient responses, all within an email.
+<div id="gv-in-short-questions"></div>
 
-* What are Email Widgets?
-* Adding Email Wiodgets to your emails
-* Managing Email Widgets
-* Other details
-* Targeting Response-specific Emails
+### Recipients respond and comment on Email Widgets right from their email.
+<div id="gv-recipients-respond"></div>
+
+### Recipients see up-to-date images that summarize Email Widget response in their email.
+<div id="gv-recipients-see"></div>

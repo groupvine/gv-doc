@@ -1,4 +1,3 @@
-<div class=”free”>
-    “Not available with free service”
-</div>
-    
+# Getting Started
+
+## if subscription/g4s Public or Private?

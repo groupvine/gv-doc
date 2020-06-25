@@ -1,5 +1,3 @@
-# Getting Started
+# Managing your Membership
 
-## Managing your Membership
-
-### Use lists to target an interest group
+## Use lists to target an interest group
