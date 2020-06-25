@@ -1,4 +1,25 @@
 # Help Topics
+
+<table>
+  <tr>
+    <td>
+      <a href="/1-start/1-startMembers[LINK-QARGS-DOC]">
+	Getting Started
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <a href="/2-members/1-membersAdd[LINK-QARGS-DOC]">
+	Managing your Membership
+      </a>
+    </td>
+  </tr>
+
+</table>
+
+<!-- putting aside html approach
 <div id="gv-service-help-topics">
 
   Topics
@@ -66,3 +87,5 @@
   </div>
 
 </div>
+
+-->
