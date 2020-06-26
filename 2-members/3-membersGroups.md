@@ -3,7 +3,54 @@
 ## Use Sub-groups for groups that can work independently from the main group
 <div id="gv-use-sub-groups"></div>
 
-<div id="support">
-TBD
-</div>
-012345678901234567890123456789012345678901234567890123456789012345678901
+<div class="sub g4s">
+### Sub-groups
+
+Sub-groups provide additional flexibility in how you manage your
+membership and target your emails.
+Here are a sub-group’s key features:
+
+* Sub-groups have their own membership that is selected from members of
+the parent group and independent from other sub-groups.
+
+* Sub-groups have their own group email address which can be used to
+send email from a personal email account.
+
+* Sub-groups have their own Email Feed that can be visible to the
+public, sub-group members only, or account members only.
+
+* Sub-groups have their own color theme and logo.
+
+* Sub-groups can create their own lists and can send to a list defined
+in a parent group which will send an email to their sub-group members
+on that parent list.
+
+* Sub-groups have their own group administrator(s) and editor(s) with
+capabilities local to their group. 
+
+* Sub-groups can allow its general members to send email using the
+group email address.
+**Can general members also send group emails?** can be set on the
+Gear’s **Sub-group Settings** tab.
+
+* Sub-groups can be moderated where the group administrators are
+emailed emails sent from a personal email account to review and either
+approve or deny the email’s release.
+**Is group moderated?** can be set on the Gear’s **Sub-group Settings**
+tab.
+
+JHJHJH678901234567890123456789012345678901234567890123456789012345678901
+
+To allow subscribers to join sub-groups from their profile page, select
+the sub-groups to be visible to the subscriber from the account Gear’s
+**Site Customizations** tab.
+Click **here JHJHJHlink-needed** for more information on profile pages.
+
+Also, multiple sub-group levels are possible (contact
+**GV-BRAND JHJHJHlink-needed-or-text-needed?** to allow for more than
+one sub-group level). 
+
+Click **here JHJHJHlink-needed** for details on sending to a sub-group
+from your online account or from your personal email account.
+
+</div> <!--class-->
