@@ -3,7 +3,6 @@
 ## Send email from a personal account
 <div id="gv-3send-send-email-from-a-personal-account"></div>
 
-**JHJHJHbox-needed**
 <div class="box">
     To avoid the risk of spammers sending emails to a group from a possibly
     compromised email account, after an email is sent from a personal email,
@@ -15,14 +14,14 @@ To send an email to your account from your own inbox, simply send it
 to your account’s abbreviation `‘@’ groupvine.com` (is this correct??
 Also example images below use groupvine.com too), for example:
 
-<box-email> JHJHJH?
+<box-email>
 bingotech@groupvine.com
 </box-email>
 
 To send to a specific sub-group, use the sub-group's Abbreviation with
 the account's Abbreviation, for example:
 
-<box-email> JHJHJH?
+<box-email>
 team.bingotech@groupvine.com
 </box-email>
 
@@ -33,7 +32,7 @@ tab on the respective **Gear** page.
 Need the email address to target your emails more specifically?
 Simply select **New Email** and then **Send email from your own
 inbox**, select your options on the **Addressing** tab and
-copy the updated email address to the “To” JHJHJH? field in your email
+copy the updated email address to the “To” JHJHJHstyle? field in your email
 account.
 
 To personalize your email using attribute values, view the
