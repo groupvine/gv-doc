@@ -1,14 +1,15 @@
 # Email Feed
 
-<div class="subscription g4s">
+<div class="sub g4s">
 
-## Public or Private?
+## Public or Private?  **JHJHJH why does turn out screwy?
 <div id="gv-public-or-private"/></div>
 
 Visitors or non-members can navigate to an account’s Email Feed,
 but only emails in a public feed or emails that are individually set to
 public will show up in the feed.
-</div> <!-- subscription g4s -->
+
+</div> <!-- sub g4s -->
 
 <div class=”g4s”>
 
@@ -20,11 +21,11 @@ additional option to be private to their sub-group members only.
 
 </div> <!-- g4s -->
 
-<div class=”subscription”>
+<div class=”sub”>
 
 By default, Subscription account feeds are public, and their sub-groups default to their parent group’s visibility when they are created.  Sub-group feeds can be set independently from their parent and have the additional option to be private to their sub-group members only.
 
-</div> <!-- subscription -->
+</div> <!-- sub -->
 
 To change the visibility of an account feed, set the **Email feed
 visibility** on the **Account Settings** style tab to

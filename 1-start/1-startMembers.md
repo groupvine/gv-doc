@@ -37,7 +37,7 @@ their profile page.
 
 </div> <!-- g4s -->
 
-** If  FREE OR SUBSCRIPTION { JHJHJHmagic **
+<div class="free sub">
 
 When a new member is added this way, they are sent an email
 where **JHJHJHgrammar?** they need to click a button to accept the
@@ -46,7 +46,7 @@ their profile page where they can set attributes and join available
 lists and sub-groups.
 Once they accept, they are opted-in and ready to receive email.
 
-**}JHJHJHmagic **
+</div>
 
 ### Have Subscribers sign up
 <div id="gv-have-subscribers-sign-up"></div>
@@ -69,7 +69,7 @@ in subscribing and to verify their email address.
 Then depending on your **Membership settings** on the **Gear’s
 JHJHJHGear? Account Settings** tab:
 
-<div class=”subscription g4s”>
+<div class=”subs g4s”>
 
 * If an Administrator approval is required to admit a new subscriber to
 your account, then the subscriber’s application will appear on the
@@ -90,9 +90,10 @@ links to the group’s **Email Feed JHJHJHlink?** and their
 profile JHJHJHlink?page where they can set attributes and join
 available lists and sub-groups.
 
-</div> <!-- subscription g4s>
+</div> <!-- sub g4s>
 
-**IF FREE { JHJHJHmagic**
+<div class="free">
+
 If "Welcome" emails are sent, new subscribers are sent an email with
 inks to the group’s **Email Feed** and their profile page where they can
 set attributes and join available lists and sub-groups.  

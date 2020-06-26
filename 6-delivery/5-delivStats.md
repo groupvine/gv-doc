@@ -3,6 +3,6 @@
 ## view email delivery stats
 <div id="gv-view-email-delivery-stats"></div>
 
-<div class="support">
+<div class="TBD">
 TBD
 </div>

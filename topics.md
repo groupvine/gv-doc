@@ -98,13 +98,13 @@
 		Email Feed for Published Emails
 	      </a>
 	    </li>
-	    <div class="subscription g4s">
+	    <div class="sub g4s">
 	      <li>
 	        <a href="/4-feed/2-feedVisibility[LINK-QARGS-DOC]">
 		  Public or Private?
  		</a>
 	      </li>
-            </div> <!-- subscription g4s -->
+            </div> <!-- sub g4s -->
 	    <li>
 	      <a href="/4-feed/3-feedTheme[LINK-QARGS-DOC]">
 		The Look of your Feed - Color, Logo, and Design
@@ -112,7 +112,7 @@
 	    </li>
 	    <li>
 	      <a href="/4-feed/4-feedViews[LINK-QARGS-DOC]">
-		Gallery View, Listing View & Email Actions
+		Gallery View, Listing View, and Email Actions
 	      </a>
 	    </li>
 	    <li>
@@ -202,7 +202,7 @@
             Advanced info
 	    <ul>
 	      <li>
-		<a href="/7-advActions/1-advActions[LINK-QARGS-DOC]">
+		<a href="/7-advanced/1-advActions[LINK-QARGS-DOC]">
 		  Email Actions
 		</a>
 	      </li>

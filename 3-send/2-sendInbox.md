@@ -3,11 +3,13 @@
 ## Send email from a personal account
 <div id="gv-3send-send-email-from-a-personal-account"></div>
 
-  JHJHJH box-text
-  To avoid the risk of spammers sending emails to a group from a possibly
-  compromised email account, after an email is sent from a personal email,
-  a confirmation mail is sent to the sender where the sender must confirm
-  the email before it can be forwarded to the group.
+**JHJHJHbox-needed**
+<div class="box">
+    To avoid the risk of spammers sending emails to a group from a possibly
+    compromised email account, after an email is sent from a personal email,
+    a confirmation mail is sent to the sender where the sender must confirm
+    the email before it can be forwarded to the group.
+</div>
  
 To send an email to your account from your own inbox, simply send it
 to your account’s abbreviation `‘@’ groupvine.email` (is this correct??
