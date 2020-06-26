@@ -17,7 +17,8 @@ email’s ellipsis **(three vertical dots) JHJHJHicon-needed?** and select
 **Archive** from the menu.
 
 To unarchive an email and return it to the Email Feed, view your feed
-in Listing View, then click the archived email’s ellipsis
-**JHJHJHicon-needed?** and select **Unarchive** from the menu.
+in Listing View, then click the archived email’s **ellipsis (three
+vertical dots) JHJHJHicon-needed?** and select **Unarchive** from the
+menu.
 
 JHJHJHJH678901234567890123456789012345678901234567890123456789012345678901

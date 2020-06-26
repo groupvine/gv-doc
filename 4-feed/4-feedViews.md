@@ -15,10 +15,11 @@ clicking the **JHJHJHicon-needed** in the Email Feed header to switch to
 Listing View.
 You’ll then see each email has a **JHJHJHicon-needed** icon to toggle
 through and change an email’s visibility setting.
-Each email also has an **ellipsis (three vertical dots) JHJHJHicon-needed**
-to a menu of these additional email actions (these actions are also
-available from a live email’s “hamburger” **JHJHJHicon-needed** icon menu
-located in the top right corner).
+Each email also has an **ellipsis (three vertical dots)
+JHJHJHicon-needed** to a menu of these additional email actions (these
+actions are also available from a live email’s “hamburger”
+**JHJHJHicon-needed** icon menu located in the top right corner
+**JHJHJHof-what?).
 
 **JHJHJHtext-needed to introduce these bullets below:**
 
