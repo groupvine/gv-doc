@@ -129,8 +129,6 @@ If you find an email there, click on its checkbox and click "Not Spam".
     Thank you!
     <YOUR NAME>
     
-JHJHJH678901234567890123456789012345678901234567890123456789012345678901
-
 **JHJHJHicon-needed?**
 
 **Employee JHJHJHicon-needed?**

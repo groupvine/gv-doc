@@ -33,5 +33,3 @@ email and then clicking **My Profile**.
  
 * Entering their information on the account’s subscription page and
 clicking the profile link in the email to confirm their interest.
-
-JHJHJH678901234567890123456789012345678901234567890123456789012345678901

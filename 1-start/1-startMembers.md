@@ -100,5 +100,3 @@ inks to the group’s **Email Feed** and their profile page where they can
 set attributes and join available lists and sub-groups.  
 
 </div>
-
-012345678901234567890123456789012345678901234567890123456789012345678901

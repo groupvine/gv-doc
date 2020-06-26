@@ -39,8 +39,6 @@ approve or deny the email’s release.
 **Is group moderated?** can be set on the Gear’s **Sub-group Settings**
 tab.
 
-JHJHJH678901234567890123456789012345678901234567890123456789012345678901
-
 To allow subscribers to join sub-groups from their profile page, select
 the sub-groups to be visible to the subscriber from the account Gear’s
 **Site Customizations** tab.

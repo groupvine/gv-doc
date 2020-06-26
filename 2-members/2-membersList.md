@@ -3,8 +3,6 @@
 ## Use lists to target an interest group
 <div id="gv-use-lists-to-target"></div>
 
-JHJHJH678901234567890123456789012345678901234567890123456789012345678901
-
 Lists give you the flexibility to target an email to a sub-set of your
 membership.
 Key features of lists include the following:
@@ -17,8 +15,6 @@ when importing.  Click here **JHJHJHlink-needed** for details.
 
 * Sub-groups can view which of their members are on a list that was
 defined in a parent group, and email their members who are on that list.
-
-JHJHJH678901234567890123456789012345678901234567890123456789012345678901
 
 To allow subscribers to join lists from their profile page, select the
 lists to be visible to the subscriber from the account Gear’s **Site

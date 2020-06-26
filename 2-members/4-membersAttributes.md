@@ -50,5 +50,3 @@ There are a handful of predefined attributes that can be found on the
 Gear’s **Member Attributes** tab.
 These attributes can be used in your emails just like the custom
 attributes described above and are always available on the profile page.
-
-012345678901234567890123456789012345678901234567890123456789012345678901
