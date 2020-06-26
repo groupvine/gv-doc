@@ -2,7 +2,7 @@
 
 <div class="sub g4s">
 
-## Public or Private?  **JHJHJH why does turn out screwy?
+## Public or Private?  **JHJHJH why does this turn out screwy?**
 <div id="gv-public-or-private"/></div>
 
 Visitors or non-members can navigate to an account’s Email Feed,

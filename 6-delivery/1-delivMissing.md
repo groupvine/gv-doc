@@ -27,7 +27,8 @@ folder so that users can mark them as "not spam".
 Once the provider processes this information, subsequent emails should
 start getting delivered to the user's inbox.
 
-* For Comcast users, **click here and follow the steps under Change Spam Filter preference JHJHJHlink-needed**.
+* For Comcast users, **click here JHJHJHlink-needed**and follow the
+steps under **Change Spam Filter** preference **JHJHJHgrammar?**.
 **Note: At step 3 JHJHJHunderline?**, click both the checkboxes **Enable
 spam filter of my account** and **Save a copy of emails marked as spam**
 that appear.
@@ -107,7 +108,7 @@ If you find an email there, click on its checkbox and click "Not Spam".
     DOMAIN>, e.g. `mycompany.org domain`.
     
     GroupVine (**http://www.groupvine.com**), which provides the
-     **JHJHJHour?** group email services, just informed us that to
+    **JHJHJHour?** group email services, just informed us that to
     increase the robustness and performance of their email delivery
     service, they are adding additional servers to send email for
     `groupvine.com`, and thus have introduced two new IP addresses.
@@ -116,8 +117,8 @@ If you find an email there, click on its checkbox and click "Not Spam".
     
         54.241.130.69 mailer-02.groupvine.com
         54.241.131.129 mailer-03.groupvine.com
-        54.219.172.113 mailer-04.groupvine.com (new)  **JHJHJHstyle-for-'new'
-        54.219.154.88 mailer-05.groupvine.com (new)   **JHJHJHstyle-for-'new'
+        54.219.172.113 mailer-04.groupvine.com (new)  **JHJHJHstyle-for-'new'**
+        54.219.154.88 mailer-05.groupvine.com (new)   **JHJHJHstyle-for-'new'**
 
     We appreciate your quick action on this to ensure our emails
     continue to be delivered successfully!
@@ -182,7 +183,7 @@ address or Alternate email address.
 Note that if the username may also need updating to match-up with the
 new email address.
 After pressing Save, use the **Back** button in the upper right to return
-to the recipients **JHJHJH? page.
+to the **recipients JHJHJHcapitalize-and-bold?** page.
 
 If there are no errors being reported for these recipients then please check to see if your email is landing in the spam or junk mail folders. If so, please ask them to add your sender email address to their safe senders and/or contact lists or add a "To" filter in their personal email for "groupvine.com" (see here for details).
 
@@ -263,7 +264,7 @@ On the **User Profile** page you can update the user’s Primary email
 address or Alternate email address.
 Note that if the username may also need updating to match-up with the new
 email address.
-After pressing Save use the Back button in the upper right **JHJHJH?** to
+After pressing Save use the Back button in the upper right **JHJHJHwhere?** to
 return to the **Recipients** page.
 
 If there are no errors being reported for these recipients then please check to see if your email is landing in the spam or junk mail folders. If so, please ask them to add your sender email address to their safe senders and/or contact lists.
@@ -309,7 +310,7 @@ As you are probably aware, we're constantly fighting the battle to keep emails f
 The content in your email also has a big impact on the likelihood your email will be categorized as spam. Here are a couple references that provide good tips on avoiding spam filters:
 
 
-http://www.internetbasedmoms.com/ezin..
-http://www.interspire.com/content/200..
+**http://www.internetbasedmoms.com/ezin..**
+**http://www.interspire.com/content/200..**
 
 

@@ -6,7 +6,7 @@
 <div class="sub g4s">
 Email settings can be found on the **Account Settings** or **Sub-group 
 Settings** on their respective **Gear** page.
-Note that settings with an `*` mark  in **Account Settings* can be
+Note that settings with an `*` mark  in **Account Settings** can be
 overridden in the **Sub-group Settings**.
 </div> <!-- sub g4s">
 
@@ -57,7 +57,7 @@ Feed**, **subscription** page, and in templates that include the logo.
 
 Here are the two options for the account’s **Default email layout**,
 although the layout can be overridden by making a Layout selection
-from **Options** in the email’s Compose header.  **JHJHJH not sure what
+from **Options** in the email’s **Compose** header.  **JHJHJH not sure what
 two options means given each is qualified by further class divs, and so
 they might not both be visible.
 
@@ -90,7 +90,7 @@ its delivery.
 <div class="free">
 
 Only the Account Administrator can send emails to its
-**JHJHJHgroup? members.
+**JHJHJHgroup?** members.
 If you need additional senders, you can upgrade to a
 Subscription service, which also offers other expanded services.
 Click **here JHJHJHlink-needed** for information and comparisons

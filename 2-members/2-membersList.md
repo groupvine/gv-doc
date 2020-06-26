@@ -30,9 +30,8 @@ lists and list recipients can only reply to the sender.
 **class="sub g4s" Not sure how to apply "class=sub g4s"" to this
 next sentence without detaching it from the previous sentence. Using a
 div forces a new paragraph**
-If you are interested in allowing general members to send email, then we suggest using sub-groups. }
-
-**</div class>**
+<span class="sub g4s">If you are interested in allowing general members
+to send email, then we suggest using sub-groups.</span>
 
 Click **here JHJHJHlink-needed** for details on sending to a list from
 your online account or from your personal email account.

@@ -19,7 +19,7 @@ Each email also has an **ellipsis (three vertical dots)
 JHJHJHicon-needed** to a menu of these additional email actions (these
 actions are also available from a live email’s “hamburger”
 **JHJHJHicon-needed** icon menu located in the top right corner
-**JHJHJHof-what?).
+**JHJHJHof-what?**).
 
 **JHJHJHtext-needed to introduce these bullets below:**
 

@@ -15,7 +15,7 @@ Administrators and Editors will also have an Options filter in the Email
 Feed header to include archived emails or sub-group emails, if they are
 on the account feed:
 
-<div class=”support”>
+<div class=”TBD”>
 TBD
-JHJHJHimage-needed
+**JHJHJHimage-needed**
 </div>

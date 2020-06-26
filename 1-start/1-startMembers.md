@@ -21,14 +21,14 @@ For information on importing a membership file,
 
 To add a new member to your account, you can enter their information on
 the **Add New Member** tab on your **Membership** page, and then click
-**Add** JHJHJHlink-needed?.
+**Add JHJHJHlink-needed**.
 
 <div class=”g4s”>
 
-When a new member is added this way, they are ready **JHJHJH already?**
+When a new member is added this way, they are ready **JHJHJH s/b already?**
 opted-in and ready to receive email.
 
-If Welcome emails are sent (set on the Gear’s JHJHJHGear? **Account
+If Welcome emails are sent (set on the Gear’s **JHJHJHGear?** **Account
 Settings** tab), new members are sent an email with links to the
 **Email Feed** and to their profile page where they can set attributes
 and join available lists and sub-groups.
@@ -88,7 +88,7 @@ and then turning this setting on.
 
 * If "Welcome" emails are sent, new subscribers are sent an email with
 links to the group’s **Email Feed JHJHJHlink?** and their
-profile JHJHJHlink?page where they can set attributes and join
+profile **JHJHJHlinklink-needed?** where they can set attributes and join
 available lists and sub-groups.
 
 </div> <!-- sub g4s>

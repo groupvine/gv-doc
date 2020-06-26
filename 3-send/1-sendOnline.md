@@ -41,7 +41,7 @@ To your email is added a placeholder which will be translated to the
 subscriber’s value in their received email.
 For example, in your email if you type “Hi “ and then select “First
 Name” from the Personalization menu, the `placeholder
-JHJHJHicon-needed?` is added to your email.
+**JHJHJHicon-needed?**` is added to your email.
 When you Preview your email, you’ll see the attribute placeholder was
 replaced with your First Name as you have it set in your profile.
 For more information about Member Attributes, **click here
@@ -65,7 +65,7 @@ Without making any selections before sending, your email will be sent
 as not urgent to the entire group.
 You can also:
 
-* Select the Mark email as **urgent JHJHJHcapitalize?  checkbox to
+* Select the Mark email as **urgent JHJHJHcapitalize?**  checkbox to
 have a text notification sent to recipients who specifically chose to
 be notified of urgent emails.
 

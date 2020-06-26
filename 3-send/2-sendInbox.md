@@ -38,15 +38,15 @@ account.
 To personalize your email using attribute values, view the
 instructions on the **Personalize** tab for emails sent from your
 personal email account.
-For more information about Member Attributes, click **here**
-JHJHJHlink-needed.
+For more information about Member Attributes, click **here
+JHJHJHlink-needed**.
 
 To add Email Widgets to ask questions or gather information, follow
 the instructions on the **Widgets** tab for email sent from your
 personal email account to add any of the four types of Email Widgets
 (Text, Count, RSVP, Yes-No).
-For more information about Email Widgets, **click here**
-JHJHJHlink-needed.
+For more information about Email Widgets, **click here
+JHJHJHlink-needed**.
 
 Note, in general when sending from your personal email account,
 your email will be “From” your display name, which is your
@@ -54,6 +54,6 @@ First Name and Last Name attributes as they are set in your profile
 page, but your email handler may preset the “From” to the name
 you have previously used to send email.
 
-These emails will show up in the Email Feed with
-JHJHJHicon-needed to identify that the email was sent from a
+These emails will show up in the **Email Feed** with
+**JHJHJHicon-needed** to identify that the email was sent from a
 personal email account.

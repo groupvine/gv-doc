@@ -98,13 +98,13 @@
 		Email Feed for Published Emails
 	      </a>
 	    </li>
-	    <div class="sub g4s">
-	      <li>
+	    <li>
+	      <span class="sub g4s">
 	        <a href="/4-feed/2-feedVisibility[LINK-QARGS-DOC]">
-		  Public or Private?
+		  Public or Private? **JHJHJH Why does this not appear as a bullet?**
  		</a>
-	      </li>
-            </div> <!-- sub g4s -->
+              </span> <!-- sub g4s -->
+	    </li>
 	    <li>
 	      <a href="/4-feed/3-feedTheme[LINK-QARGS-DOC]">
 		The Look of your Feed - Color, Logo, and Design

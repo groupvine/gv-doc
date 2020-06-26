@@ -8,8 +8,18 @@ using a different service, simply attach one or more old emails to a new
 email sent with the `~post` instruction to your account or sub-group.
 For example, for bingotech account, send the email to:
 
-    `~post~~bingotech@trivy.email`
+** JHJHJH Three ways to emphasize email addresses, which looks better? This: **
+    
+`~post~~bingotech@trivy.email`
 
+OR this:
+    
+```~post~~bingotech@trivy.email```
+    
+OR this:
+
+    ~post~~bingotech@trivy.email
+** JHJHJH the 3rd/last option has a faint hightlight box with a little indent**
 To attach old emails, you'll first need to save them into an
 email-message file (a file with a `.eml` suffix).
 For instance, on Gmail, go to the email that you'd like to post and
