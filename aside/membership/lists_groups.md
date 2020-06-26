@@ -20,7 +20,7 @@ their interests, such as "golfers" and "musicians".  You could then
 send an email to all the musicians using the address:
 
 ```
-musiclovers~~bingotech@groupvine.email
+musiclovers~~bingotech@groupvine.com
 ```
 
 <div class="adv">
@@ -85,7 +85,7 @@ have sub-groups named "team", "advisors", and "investors".  Emails to
 the team could be easily targetted using the address:
 
 ```
-team.bingotech@groupvine.email
+team.bingotech@groupvine.com
 ```
 
 It may also make sense to further classify your BingoTech community
@@ -94,13 +94,13 @@ members using Lists to identify some of their interests, such as
 musiclovers using the address:
 
 ```
-musiclovers~~bingotech@groupvine.email
+musiclovers~~bingotech@groupvine.com
 ```
 
 Or, if you only want to send it to music-loving advisors, use:
 
 ```
-musiclovers~~advisors.bingotech@groupvine.email
+musiclovers~~advisors.bingotech@groupvine.com
 ```
 
 Don't worry, you can always use the address helper on the site.

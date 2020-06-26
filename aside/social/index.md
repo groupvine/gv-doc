@@ -6,10 +6,10 @@
 <div id="gv-email-from-inbox"></div>
 
 To send an email to your account from your own inbox, simply send it to
-your account's Abbreviation '@' groupvine.email, for example:
+your account's Abbreviation '@' groupvine.com, for example:
 
 ```
-bingotech@groupvine.email
+bingotech@groupvine.com
 ```
 
 Note, Abbreviation can be found by going to Settings->Account Info.
@@ -19,13 +19,13 @@ Note, Abbreviation can be found by going to Settings->Account Info.
 To send to a specific sub-group, use the sub-group's Abbreviation with the account's Abbreviation, for example:
 
 ```
-team.bingotech@groupvine.email
+team.bingotech@groupvine.com
 ```
 
 Or, to send to a list, use an email address like:
 
 ```
-~list=musiclovers~~bingotech@groupvine.email
+~list=musiclovers~~bingotech@groupvine.com
 ```
 
 </div>
@@ -41,13 +41,13 @@ that lists the members you want to send to.
 Then send the email to an address in the following format:
 
 ```
-~sendto='[filename]'~~[group name]@groupvine.email
+~sendto='[filename]'~~[group name]@groupvine.com
 ```
 
 For example:
 
 ```
-~sendto='myhelpers.csv'~~bingotech@groupvine.email
+~sendto='myhelpers.csv'~~bingotech@groupvine.com
 ```
 
 </div>
@@ -61,7 +61,7 @@ use the "~retry=[message id]" qualifier, like the following (for
 BingoTech's message ID number 100123):
 
 ```
-~retry=100123~~bingotech@groupvine.email
+~retry=100123~~bingotech@groupvine.com
 ```
 
 </div>

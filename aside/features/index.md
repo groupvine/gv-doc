@@ -33,6 +33,10 @@
 
  *  Easily define customized, reusable email "templates"
 
+ *  Improved protection against hacked member accounts sending
+    group emails in the case where moderation is not enabled.
+    In this case, emails must at least be confirmed by the sender.
+
  *  Supports copy and paste from MS Office and from a Google doc
 
  *  Easier management of email file attachments

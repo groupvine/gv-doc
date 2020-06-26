@@ -10,7 +10,7 @@ new email sent with the ```~post``` instruction to your account (or
 sub-group).  For example, for bingotech account, send the email to:
 
 ```
-   ~post~~bingotech@groupvine.email
+   ~post~~bingotech@groupvine.com
 ```
 
 To attach your old emails, you'll first need to save them into an email-message file
