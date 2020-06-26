@@ -1,7 +1,7 @@
 # Email Feed
 
 ## Add Other Emails to your Feed
-<div id="add-other-emails-to-your-feed"></div>
+<div id="gv-add-other-emails-to-your-feed"></div>
 
 To add other or old emails into your feed, e.g., emails sent directly or
 using a different service, simply attach one or more old emails to a new

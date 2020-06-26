@@ -1,7 +1,3 @@
-# Managing your Membership
+**should be no file here because this should just be a duplicate of what's in ../xxx/1-startMembers.md
 
-## Add new Members/Subscribers
-
-### Upload a file
-### Add new members from the Membership page
-### Have Subscribers sign up
+*However, if we link to that file elsewhere, it might have the from header1 (i.e., Getting Started) whereas we would like to see "Managing you membership"?

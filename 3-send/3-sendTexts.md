@@ -1,7 +1,7 @@
 # Sending Emails
 
 ## Text notifications for new or "urgent" emails
-<div id="text-notifications"></div>
+<div id="gv-text-notifications"></div>
 
 Members can optionally receive text notifications with a link to the
 ive email for either all emails or just ones the sender has tagged as
@@ -15,10 +15,10 @@ especially if it's urgent and needs their attention.
 
 Accounts are already set up to send text notifications for members who
 have provided the following mobile information on their
-JHJHJHlink-needed profile page.
-JHJHJHsuggestion Maybe some text indicating what the following bullets
+**JHJHJHlink-needed** profile page.
+**JHJHJHsuggestion Maybe some text indicating what the following bullets
 are (e.g., The following items need to be specified for text
-notifications ... :)
+notifications ... :)**
 
   * Mobile phone number, including area code
 

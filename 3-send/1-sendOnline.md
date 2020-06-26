@@ -1,8 +1,8 @@
 # Sending Emails
-<div id="Sending-emails"></div>
+<div id="gv-Sending-emails"></div>
 
 ## Send email from your online account
-<div id="Send-email-from-your-online"></div>
+<div id="gv-Send-email-from-your-online"></div>
 
 To compose and send an email from your online account, select New
 Email in the header and then select Prepare email online.  

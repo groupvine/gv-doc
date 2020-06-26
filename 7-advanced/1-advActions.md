@@ -1,8 +1,11 @@
+<div class="adv">
+
 # Getting Started
 
 ## Advanced Info
+<div id="gv-advanced-info"></div>
 
-### 7-advanced/1-advActions (placeholder)
-
-* (IF ADVANCED) Advanced info
+* (IF ADVANCED) Advanced info **JHJHJH this IF does not reconcile with the div class specification in topics.md because we should never arrive here **
 * Security & Privacy
+
+</div> <!-- adv -->

@@ -33,7 +33,7 @@
 	  Managing your Membership
 	  <ul>
 	    <li>
-	      <a href="/2-members/1-membersAdd[LINK-QARGS-DOC]">
+	      <a href="/1-start/1-startMembers[LINK-QARGS-DOC]">
 		Add new Members/Subscribers
 	      </a>
 	    </li>
@@ -98,11 +98,13 @@
 		Email Feed for Published Emails
 	      </a>
 	    </li>
-	    <li>
-	      <a href="/4-feed/2-feedVisibility[LINK-QARGS-DOC]">
-		**if subscription/g4s JHJHJH** Public or Private?
-	      </a>
-	    </li>
+	    <div class="subscription g4s">
+	      <li>
+	        <a href="/4-feed/2-feedVisibility[LINK-QARGS-DOC]">
+		  Public or Private?
+ 		</a>
+	      </li>
+            </div> <!-- subscription g4s -->
 	    <li>
 	      <a href="/4-feed/3-feedTheme[LINK-QARGS-DOC]">
 		The Look of your Feed - Color, Logo, and Design
@@ -197,7 +199,7 @@
       <div class="adv">
 	<tr>
 	  <td>
-            JHJHJH if advanced Advanced info
+            Advanced info
 	    <ul>
 	      <li>
 		<a href="/7-advActions/1-advActions[LINK-QARGS-DOC]">

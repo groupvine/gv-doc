@@ -1,9 +1,8 @@
 # Email Widgets
 
 ## Adding Email Widgets to your emails
+<div id="gv-adding-email-widgets"></div>
 
-### Online emails
-<div id="gv-online-emails">
+* Online emails
 
-### Emails from your inbox
-<div id="gv-emails-from-your-inbox">
+* Emails from your inbox

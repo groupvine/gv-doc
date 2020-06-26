@@ -1,7 +1,7 @@
 # Sending Emails
 
 ## Send email from a personal account
-<div id="Sending-email-from-a-personal-account"></div>
+<div id="gv-3send-send-email-from-a-personal-account"></div>
 
   JHJHJH box-text
   To avoid the risk of spammers sending emails to a group from a possibly
