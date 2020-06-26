@@ -43,7 +43,7 @@ from an email program like Outlook.
 (Please do this soon after you're expecting an email since your provider
 could be clearing your spam folder automatically for you within a few to
 several days).
-If you find an email there, click on its checkbox and click "Not Spam".
+If you find an email there, click on its checkbox and click **Not Spam**.
 
 **JHJHJHicon-needed?**
 
@@ -210,10 +210,12 @@ Example email/flyer text
 IMPORTANT
 We need your help to ensure our communications reach your inbox!
 
-To make sure our emails don’t end up in your spam/junk folder, simply add these email addresses to your contact list in your email tool:
-aaa@bbb.com
-ccc@ddd.com
-...
+To make sure our emails don’t end up in your spam/junk folder, simply add these email
+addresses to your contact list in your email tool:
+
+    aaa@bbb.com
+    ccc@ddd.com
+    ...
 
 That’s it! Done! Thank you for your cooperation!
 
@@ -292,10 +294,12 @@ Example email/flyer text
 IMPORTANT
 We need your help to ensure our communications reach your inbox!
 
-To make sure our emails don’t end up in your spam/junk folder, simply add these email addresses to your contact list in your email tool:
-aaa@bbb.com
-ccc@ddd.com
-...
+To make sure our emails don’t end up in your spam/junk folder, simply add these
+email addresses to your contact list in your email tool:
+
+    aaa@bbb.com
+    ccc@ddd.com
+    ...
 
 That’s it! Done! Thank you for your cooperation!
 

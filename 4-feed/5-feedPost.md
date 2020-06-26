@@ -19,7 +19,8 @@ OR this:
 OR this:
 
     ~post~~bingotech@trivy.email
-** JHJHJH the 3rd/last option has a faint hightlight box with a little indent**
+    ** JHJHJH this option has a faint hightlight box with a little indent**
+
 To attach old emails, you'll first need to save them into an
 email-message file (a file with a `.eml` suffix).
 For instance, on Gmail, go to the email that you'd like to post and
