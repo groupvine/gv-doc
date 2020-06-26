@@ -5,7 +5,7 @@
 
 <div class="sub g4s">
 Email settings can be found on the **Account Settings** or **Sub-group 
-Settings** on their respective Gear page.
+Settings** on their respective **Gear** page.
 Note that settings with an `*` mark  in **Account Settings* can be
 overridden in the **Sub-group Settings**.
 </div> <!-- sub g4s">
@@ -21,8 +21,8 @@ page.
 <div class="sub g4s">
 Theme colors and logo can be chosen for your account and sub-groups to
 give each group their own unique feel.
-Shades of the theme’s primary color are used for the group’s Email Feed
-page and the account’s subscribe page.  
+Shades of the theme’s primary color are used for the group’s
+**Email Feed** page and the account’s **Subscribe** page.  
 
 Also if you are using an email template with a header, then the header
 will use your primary color, and in the editor Titles and Subsections
@@ -31,23 +31,23 @@ will use the primary color and sections will use the secondary color.
 If sub-group colors are not set, then their colors will default to the
 account’s theme colors.
 
-Each group can upload a logo which will appear on the group’s Email
-Feed, subscription page and in templates that include the logo.
+Each group can upload a logo which will appear on the group’s **Email
+Feed**, **Subscription** page and in templates that include the logo.
 </div> <!-- sub g4s -->
 
 <div class="free">
 Theme colors and logo can be chosen for your account to give it its
 own unique feel.
-Shades of the theme’s primary color are used for the Email Feed page
-and subscribe page.  
+Shades of the theme’s primary color are used for the **Email Feed** page
+and **Subscribe** page.  
 
 Also if you are using an email template with a header, then the
 header will use your primary color, and in the editor Titles and
 Subsections will use the primary color and sections will use the
 secondary color.
 
-You can upload a logo which will appear on the account’s Email Feed,
-subscription page and in templates that include the logo.
+You can upload a logo which will appear on the account’s **Email
+Feed**, **subscription** page, and in templates that include the logo.
 </div> <!-- free -->
 
 <div class="sub g4s">
@@ -115,7 +115,7 @@ are not authorized to send to that group.
 However, Administrators can allow general members in the group to send
 email from their personal email account by setting **Can general members
 also send account emails?** on the **Account Settings** tab or on each
-**Sub-group Settings** tab on their respective Gear page.  
+**Sub-group Settings** tab on their respective **Gear** page.
 
 </div> <!-- sub g4s -->
 

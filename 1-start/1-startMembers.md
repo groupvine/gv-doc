@@ -7,7 +7,7 @@ New members can be added to your account or sub-group in the following
 ways:
 
 * Upload an import file
-* Add new members from the Membership page
+* Add new members from the **Membership** page
 * Have Subscribers sign up
 
 ### Upload an import file
@@ -20,8 +20,8 @@ For information on importing a membership file,
 <div id="gv-add-new-members-from-the-membership"></div>
 
 To add a new member to your account, you can enter their information on
-the **Add New Member** tab on your **Membership page**, and then click
-**Add**.
+the **Add New Member** tab on your **Membership** page, and then click
+**Add** JHJHJHlink-needed?.
 
 <div class=”g4s”>
 
@@ -54,7 +54,7 @@ Once they accept, they are opted-in and ready to receive email.
 All accounts are equipped with a public page where people can sign up to
 subscribe to your emails.
 You can find your sign up page’s URL on the **Add New Member** tab on
-your **Membership page**.
+your **Membership** page.
 Also, at the bottom of the **Add New Member** tab, we’ve provided HTML
 code that you can add to your own website so people can sign up from
 there.
@@ -62,7 +62,8 @@ there.
 Your sign up page will be customized with your account theme that
 includes shades of its primary color and logo.
 You can also replace the default text on your sign-up page by editing
-the **Subscription Sign-up Page* on the **Gear’s JHJHJHGear? Site Customizations** tab.
+the **Subscription Sign-up** page on the **Gear’s JHJHJHGear? Site
+Customizations** tab.
 
 Once a subscriber signs up, they are emailed to confirm their interest
 in subscribing and to verify their email address.

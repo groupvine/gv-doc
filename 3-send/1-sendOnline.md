@@ -7,10 +7,10 @@
 To compose and send an email from your online account, select New
 Email in the header and then select Prepare email online.  
 
-By default the New tab is selected to create a new email from
+By default the **New** tab is selected to create a new email from
 scratch (Note, for your very first email, you’ll start by entering the
-email’s subject).  You may also have a Drafts, Templates and Published
-tabs.  
+email’s subject).  You may also have a **Drafts**, **Templates**,
+and **Published** tabs.  
 
 * A Draft email is “under construction” and may have been emailed as a
 draft to the Administrators and Editors in the group, but has yet to be
@@ -72,7 +72,7 @@ be notified of urgent emails.
 * Make selections on the **Addressing** tab to change the recipients
 to list(s) or to specific Choice or Checkbox attribute values. 
 
-* Use the Select Individuals tab to change the recipients to be specific
+* Use the **Select Individuals* tab to change the recipients to be specific
 recipients selected from your membership.  
 
 * Review your recipient addresses on the **Recipient Addresses** tab

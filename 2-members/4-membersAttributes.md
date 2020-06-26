@@ -8,8 +8,8 @@
 Use Member Attributes to save subscriber information that is specific to
 your account needs.
 You can define attributes on your account Gear’s **JHJHJHGear?**
-**Member Attributes** tab and here are the four types **of attribues**:
-Text, Number, Checkbox, and Single/Multiple Choice.   
+**Member Attributes** tab and here are the four types of attribues:
+**Text**, **Number**, **Checkbox**, and **Single/Multiple Choice**.
 
 Attributes also provide these additional email options:
 

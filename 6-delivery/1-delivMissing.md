@@ -144,7 +144,7 @@ JHJHJH678901234567890123456789012345678901234567890123456789012345678901
 There are a number of reasons why members may not be receiving your emails. To begin the process of diagnosing why users are not receiving your emails, please do the following:
 
 
-Click View email archive on your home page.
+Click View email archive on your **Home** page.
 Locate an email you have previously sent and click on its Stats icon ( ).
 If you have delivery failures, click the link "X Email Address Delivery Failures and Delays". The two possible errors are "bounced” and “delayed”.
 
@@ -177,15 +177,23 @@ Scenario 2: Members with an email address from one of the Email Service Provider
 If you see “bounced” or “delayed” in the list of delivery failures for these users then most likely their email address is not valid, either due to a typo or perhaps their account no longer exists. Please confirm the email address and update their member profile as needed. To update a recipient’s email address:
 
 
-In the list of delivery failures, click on the recipient's email address that needs to be updated to reach their User Profile page.
-On the User Profile page you can update the user’s Primary email address or Alternate email address. Note that if the username may also need updating to match-up with the new email address.
-After pressing Save use the Back button in the upper right to return to the recipients page.
+In the list of delivery failures, click on the recipient's email address
+that needs to be updated to reach their **User Profile** page.
+On the **User Profile** page you can update the user’s Primary email
+address or Alternate email address.
+Note that if the username may also need updating to match-up with the
+new email address.
+After pressing Save, use the **Back** button in the upper right to return
+to the recipients **JHJHJH? page.
 
 If there are no errors being reported for these recipients then please check to see if your email is landing in the spam or junk mail folders. If so, please ask them to add your sender email address to their safe senders and/or contact lists or add a "To" filter in their personal email for "groupvine.com" (see here for details).
 
 Scenario 3: Members with an email address from Hotmail (including Administrators or Editors) are not receiving their own emails when it’s sent from their Hotmail address.
 
-If members with Hotmail email addresses are not receiving their own emails they likely need to set-up filters in Hotmail to remedy the problem. Here’s a support page to pass along to your members with simple step-by-step instructions on setting up Hotmail filters.
+If members with Hotmail email addresses are not receiving their own emails
+they likely need to set-up filters in Hotmail to remedy the problem.
+Here’s a support page to pass along to your members with simple
+step-by-step instructions on setting up Hotmail filters.
 
 Scenario 4: Members with an email address from AOL (including Administrators or Editors) are not receiving their own emails when it’s sent from their AOL address.
 
@@ -219,9 +227,11 @@ GroupVine Support (Official Rep) over 9 years ago
 There are a number of reasons why members may not be receiving your emails. To begin the process of diagnosing why users are not receiving your emails, please do the following:
 
 
-Click on View email archive from your home page.
+Click on View email archive from your **Home** page.
 Locate an email you have previously sent and click on its Stats icon ().
-On the Recipient Information page you can click to see delivery failures and delays. The two errors that are possible are “Bounced” and “Delayed”.
+On the **Recipient Information** page you can click to see delivery failures
+and delays.
+The two errors that are possible are “Bounced” and “Delayed”.
 
 After you have completed the above steps please identify which scenarios match your current situation and scroll down to get answers.
 
@@ -248,15 +258,24 @@ Scenario 2: Members with an email address from one of the Email Service Provider
 If you see “Bounced” or “Delayed” in the Errors column for these users then most likely their email address is not valid, either due to a typo or perhaps their account no longer exists. Please confirm the email address and update their member profile as needed. To update a recipient’s email address:
 
 
-On the Recipients page for a previously sent email, click on the email address of the recipient that needs to be updated to reach their User Profile page.
-On the User Profile page you can update the user’s Primary email address or Alternate email address. Note that if the username may also need updating to match-up with the new email address.
-After pressing Save use the Back button in the upper right to return to the recipients page.
+On the **Recipients** page for a previously sent email, click on the
+email address of the recipient that needs to be updated to reach their
+**User Profile** page.
+On the **User Profile** page you can update the user’s Primary email
+address or Alternate email address.
+Note that if the username may also need updating to match-up with the new
+email address.
+After pressing Save use the Back button in the upper right **JHJHJH?** to
+return to the **Recipients** page.
 
 If there are no errors being reported for these recipients then please check to see if your email is landing in the spam or junk mail folders. If so, please ask them to add your sender email address to their safe senders and/or contact lists.
 
 Scenario 3: Members with an email address from Hotmail (including Administrators or Editors) are not receiving their own emails when it’s sent from their Hotmail address.
 
-If members with Hotmail email addresses are not receiving their own emails they likely need to set-up filters in Hotmail to remedy the problem. Here’s a support page to pass along to your members with simple step-by-step instructions on setting up Hotmail filters.
+If members with Hotmail email addresses are not receiving their own emails
+they likely need to set-up filters in Hotmail to remedy the problem.
+Here’s a support page to pass along to your members with simple
+step-by-step instructions on setting up Hotmail filters.
 
 Scenario 4: Members with an email address from AOL (including Administrators or Editors) are not receiving their own emails when it’s sent from their AOL address.
 If you’re an AOL user then most likely you will not be able to receive emails that you send because of AOL’s security settings. You may want to consider creating a new email address for your account to send emails so that you can also receive them properly in your AOL account. Instructions for creating a new email address can be found here.

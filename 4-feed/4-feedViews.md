@@ -33,9 +33,9 @@ This is useful to keep all widget data together in case a recipient
 responses in person. 
 
 * **Reply all** creates a new Draft email for a reply email and
-navigates you to the email’s Compose page. 
+navigates you to the email’s **Compose** page. 
 
-* **Resend email** navigates you to the New Email page with the
+* **Resend email** navigates you to the **New Email** page with the
 published email selected and the resend option set to Copy.
 
 * **Email Widget settings** allows you to change the email’s
