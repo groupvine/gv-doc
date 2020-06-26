@@ -28,6 +28,7 @@ notifications ... :)**
   * Text mode - No text (default), text only for emails marked
 **Urgent**, or text for all emails
 
-JHJHJHtext-box needed here
+<div class="box-text">
 Note, all three pieces of information must be provided to receive text
 notifications.
+</div>

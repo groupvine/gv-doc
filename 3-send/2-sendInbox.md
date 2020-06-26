@@ -14,16 +14,16 @@ To send an email to your account from your own inbox, simply send it
 to your account’s abbreviation `‘@’ groupvine.com` (is this correct??
 Also example images below use groupvine.com too), for example:
 
-<box-email>
+<div class="box-email">
 bingotech@groupvine.com
-</box-email>
+</div>
 
 To send to a specific sub-group, use the sub-group's Abbreviation with
 the account's Abbreviation, for example:
 
-<box-email>
+<div class="box-email">
 team.bingotech@groupvine.com
-</box-email>
+</div>
 
 The abbreviation to send to all addresses in your account or sub-group
 can be found on the **Account Settings** or **Sub-group Settings**
