@@ -31,7 +31,12 @@ folder so that users can mark them as "not spam".
 Once the provider processes this information, subsequent emails should
 start getting delivered to the user's inbox.
 
-* For Comcast users, **click here JHJHJHlink-needed**and follow the
+
+<span class="todo">
+  link needed for Comcast users below
+</span>
+
+* For Comcast users, **click here** and follow the
 steps under **Change Spam Filter** preference **JHJHJHgrammar?**.
 **Note: At step 3 JHJHJHunderline?**, click both the checkboxes **Enable
 spam filter of my account** and **Save a copy of emails marked as spam**
