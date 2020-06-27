@@ -2,7 +2,7 @@
 
 <span class="sub g4s">
 
-## Public or Private?  **JHJHJH why does this turn out screwy?**
+## Public or Private?
 <span id="gv-public-or-private"/></span>
 
 Visitors or non-members can navigate to an account’s Email Feed,
