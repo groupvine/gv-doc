@@ -52,7 +52,8 @@ divs, after pre-processing the contents.
 
 <span class="g4s sub">
 
-... Conditionally-included Markdown documentation
+Conditionally-included Markdown documentation that's only shown in
+GroupVine 4 School and Subscription documentation modes.
 
 </span>
 
