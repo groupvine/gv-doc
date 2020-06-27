@@ -4,6 +4,7 @@
 <span id="gv-use-sub-groups"></span>
 
 <span class="sub g4s">
+
 ### Sub-groups
 
 Sub-groups provide additional flexibility in how you manage your
