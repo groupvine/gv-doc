@@ -79,7 +79,18 @@ divs, after pre-processing the contents.
   elements (like div or tr) for conditional code, but only if all the
   enclosed content is in pure HTML (generally frowned-on),
   since these blocks will be ignored by the Markdown converter.
-  
+
+## Brand-related notes
+
+* Web and email addresses in the documentation to GroupVine should use
+  the groupvine.com domain.  Examples include support@groupvine.com or
+  the bingotech@groupvine.com example site.  If the help pages are
+  being reached by a trivy.email address, then all "groupvine.com"
+  references will be changed to "trivy.email"
+
+* Similarly, to insert "GroupVine" or "Trivy" depending on the domain 
+  used to reach the help site, insert "GV-BRAND" and it will be
+  changed to the appropriate brand.  
 
 ## Updating Online Documentation
 
