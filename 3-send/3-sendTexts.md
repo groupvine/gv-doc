@@ -1,7 +1,7 @@
 # Sending Emails
 
 ## Text notifications for new or "urgent" emails
-<div id="gv-text-notifications"></div>
+<span id="gv-text-notifications"></span>
 
 Members can optionally receive text notifications with a link to the
 ive email for either all emails or just ones the sender has tagged as
@@ -27,7 +27,5 @@ notifications ... :)**
   * Text mode - No text (default), text only for emails marked
 **Urgent**, or text for all emails
 
-<div class="box-text">
-Note, all three pieces of information must be provided to receive text
-notifications.
-</div>
+**Note, all three pieces of information must be provided to receive text
+notifications.**

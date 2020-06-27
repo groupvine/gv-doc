@@ -3,7 +3,7 @@
 ## Sending new emails
 
 ### From your own email inbox
-<div id="gv-email-from-inbox"></div>
+<span id="gv-email-from-inbox"></span>
 
 To send an email to your account from your own inbox, simply send it to
 your account's Abbreviation '@' groupvine.com, for example:
@@ -14,7 +14,7 @@ bingotech@groupvine.com
 
 Note, Abbreviation can be found by going to Settings->Account Info.
 
-<div class="g4s sub">
+<span class="g4s sub">
 
 To send to a specific sub-group, use the sub-group's Abbreviation with the account's Abbreviation, for example:
 
@@ -28,9 +28,9 @@ Or, to send to a list, use an email address like:
 ~list=musiclovers~~bingotech@groupvine.com
 ```
 
-</div>
+</span>
 
-<div class="adv">
+<span class="adv">
 
 Note that you can also send to a specific list of members from your
 own email inbox (and/or to specific new members that haven't yet been
@@ -50,9 +50,9 @@ For example:
 ~sendto='myhelpers.csv'~~bingotech@groupvine.com
 ```
 
-</div>
+</span>
 
-<div class="adv">
+<span class="adv">
 
 If some addresses have failed in a previous send attempt due to a
 temporary problem, you can resend the same email to those addresses
@@ -64,9 +64,9 @@ BingoTech's message ID number 100123):
 ~retry=100123~~bingotech@groupvine.com
 ```
 
-</div>
+</span>
 
-<div class="adv">
+<span class="adv">
 
 An email can be scheduled for sending later by adding a "senddate" to
 the email address, for example like the following:
@@ -75,7 +75,7 @@ the email address, for example like the following:
 ~senddate='2019-04-10T13_30-08'~~bingotech@trivy.email
 ```
 
-</div>
+</span>
 
 
 ### From your online account
@@ -95,23 +95,23 @@ Yes, your GV-BRAND community email recipients can **comment** on and **like**,
 
 ## Who can send new emails
 
-<div class="free">
+<span class="free">
 
   With the Free service, only the account administrator is permitted to send 
   new emails (or replies) to the group.
 
-</div>
+</span>
 
-<div class="g4s sub">
+<span class="g4s sub">
 
 Any member designated with the group Admin or Editor role is permitted
 to send new emails (or replies) to a group.  Additionally, if the
 **"Allow group members to send"** setting is enabled for that group
 (disabled by default), then any member can send.
 
-</div>
+</span>
 
-<div class="adv">
+<span class="adv">
 
 Note that in the case of sub-groups, Admins and Editors of parent (or
 grandparent...) group(s) are also permitted to send to the group.  This
@@ -119,14 +119,14 @@ may at times cause some confusion since these members don't
 necessarilly receive the group emails, unless they are also explicit members
 of the group.
      
-</div>
+</span>
 
-<div class="support">
+<span class="support">
 
 Lastly, regardless of any Admin or Edtitor role, the account owner is also always a valid
 group (or sub-group...) sender.
 
-</div>
+</span>
 
 
 ### Email confirmation
@@ -142,7 +142,7 @@ email account, a confirmation email is immediately sent back to this
 Admin for their confirmation before the email is forwarded to the
 group.
 
-<div class="g4s sub">
+<span class="g4s sub">
 
 For emails sent by group Editors, the responsibility for confirming
 the email depends on the "Group moderation" setting:
@@ -160,6 +160,6 @@ For group emails generated within your online group account, only
 emails sent by Editors when the "Group moderation" setting is enabled
 require the above confirmation (Admin approval) step.
 
-</div>
+</span>
 
 

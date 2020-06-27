@@ -1,7 +1,7 @@
 # Managing your Membership
 
 ## What's on the Member's Profile Page OR Subscriber Profile Page JHJHJHwhich?
-<div id="gv-whats-on-the-members"></div>
+<span id="gv-whats-on-the-members"></span>
 
 The profile page is a way for subscribers to set and join the following
 on their own, which frees up the administrator from having to manage all

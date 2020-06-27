@@ -4,13 +4,13 @@ To get your current account membership, use the **Export** button on
 your membership page.
 
 
-<div class="adv">  <!-- START ADVANCED -->
+<span class="adv">  <!-- START ADVANCED -->
 
 Memberships exports can also be performed by emailing instructions to
 your account server; [see here](./emailactions[LINK-QARGS-DOC]) for
 instructions.
 
-</div>  <!-- END ADVANCED -->
+</span>  <!-- END ADVANCED -->
 
 
 ## Recipient delivery statistics

@@ -1,7 +1,7 @@
 # Managing your Membership
 
 ## Use lists to target an interest group
-<div id="gv-use-lists-to-target"></div>
+<span id="gv-use-lists-to-target"></span>
 
 Lists give you the flexibility to target an email to a sub-set of your
 membership.

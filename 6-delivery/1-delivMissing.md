@@ -1,7 +1,7 @@
 # Email Delivery & Troubleshooting
 
 ## Members are not getting emails
-<div id="gv-Members-are-not-getting"></div>
+<span id="gv-Members-are-not-getting"></span>
 
 ### Some of our members are not receiving their email, or they don't realize they landed in spam/junk folders. What can we do?
 

@@ -1,8 +1,8 @@
 # Email Delivery & Troubleshooting
 
 ## "problem" email addresses
-<div id="gv-problem-email-addresses"></div>
+<span id="gv-problem-email-addresses"></span>
 
-<div class="TBD">
+<span class="todo">
 TBD
-</div>
+</span>

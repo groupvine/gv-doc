@@ -1,8 +1,8 @@
 # Email Delivery & Troubleshooting
 
 ## who opened my email?
-<div id="gv-who-opened-my-email"></div>
+<span id="gv-who-opened-my-email"></span>
 
-<div class="TBD">
+<span class="todo">
 TBD
-</div>
+</span>

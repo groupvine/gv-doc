@@ -1,7 +1,7 @@
 # Email Widgets
 
 ## Other details
-<div id="gv-email-widgets-other-details"></div>
+<span id="gv-email-widgets-other-details"></span>
 
 * Future recipients can respond when they’re added to the
 recipient list of a published email with Email Widgets.

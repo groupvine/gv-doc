@@ -1,6 +1,6 @@
 # GroupVine and Trivy Terms of Use Policy
-<div id="gv-site-policy"></div>
+<span id="gv-site-policy"></span>
 
-<div class="TBD">
+<span class="todo">
 TBD
-</div>
+</span>

@@ -1,29 +1,27 @@
 # Sending Emails
 
 ## Send email from a personal account
-<div id="gv-3send-send-email-from-a-personal-account"></div>
+<span id="gv-3send-send-email-from-a-personal-account"></span>
 
-<div class="box">
-    To avoid the risk of spammers sending emails to a group from a possibly
-    compromised email account, after an email is sent from a personal email,
-    a confirmation mail is sent to the sender where the sender must confirm
-    the email before it can be forwarded to the group.
-</div>
+** To avoid the risk of spammers sending emails to a group from a possibly
+   compromised email account, after an email is sent from a personal email,
+   a confirmation mail is sent to the sender where the sender must confirm
+   the email before it can be forwarded to the group.**
  
 To send an email to your account from your own inbox, simply send it
 to your account’s abbreviation `‘@’ groupvine.com` (is this correct??
 Also example images below use groupvine.com too), for example:
 
-<div class="box-email">
+```
 bingotech@groupvine.com
-</div>
+```
 
 To send to a specific sub-group, use the sub-group's Abbreviation with
 the account's Abbreviation, for example:
 
-<div class="box-email">
+```
 team.bingotech@groupvine.com
-</div>
+```
 
 The abbreviation to send to all addresses in your account or sub-group
 can be found on the **Account Settings** or **Sub-group Settings**

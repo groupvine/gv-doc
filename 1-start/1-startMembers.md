@@ -1,7 +1,7 @@
 # Getting Started
 
 ## Add new Members/Subscribers
-<div id="gv-add-new-members"></div>
+<span id="gv-add-new-members"></span>
 
 New members can be added to your account or sub-group in the following
 ways:
@@ -11,19 +11,22 @@ ways:
 * Have Subscribers sign up
 
 ### Upload an import file
-<div id="gv-upload-an-import-file"></div>
+<span id="gv-upload-an-import-file"></span>
 
 For information on importing a membership file,
+
+<span class="todo">
 **click here JHJHJHlink-needed**.
+</span>
 
 ### Add new members from the Membership page
-<div id="gv-add-new-members-from-the-membership"></div>
+<span id="gv-add-new-members-from-the-membership"></span>
 
 To add a new member to your account, you can enter their information on
 the **Add New Member** tab on your **Membership** page, and then click
 **Add JHJHJHlink-needed**.
 
-<div class=”g4s”>
+<span class=”g4s”>
 
 When a new member is added this way, they are ready **JHJHJH s/b already?**
 opted-in and ready to receive email.
@@ -35,9 +38,9 @@ and join available lists and sub-groups.
 We recommend sending "Welcome" emails to give new members access to
 their profile page.
 
-</div> <!-- g4s -->
+</span> <!-- g4s -->
 
-<div class="free sub">
+<span class="free sub">
 
 When a new member is added this way, they are sent an email
 where **JHJHJHgrammar?** they need to click a button to accept the
@@ -46,10 +49,10 @@ their profile page where they can set attributes and join available
 lists and sub-groups.
 Once they accept, they are opted-in and ready to receive email.
 
-</div>
+</span>
 
 ### Have Subscribers sign up
-<div id="gv-have-subscribers-sign-up"></div>
+<span id="gv-have-subscribers-sign-up"></span>
 
 All accounts are equipped with a public page where people can sign up to
 subscribe to your emails.
@@ -70,7 +73,7 @@ in subscribing and to verify their email address.
 Then depending on your **Membership settings** on the **Gear’s
 JHJHJHGear? Account Settings** tab:
 
-<div class=”subs g4s”>
+<span class=”subs g4s”>
 
 * If an Administrator approval is required to admit a new subscriber to
 your account, then the subscriber’s application will appear on the
@@ -91,12 +94,12 @@ links to the group’s **Email Feed JHJHJHlink?** and their
 profile **JHJHJHlinklink-needed?** where they can set attributes and join
 available lists and sub-groups.
 
-</div> <!-- sub g4s>
+</span> <!-- sub g4s>
 
-<div class="free">
+<span class="free">
 
 If "Welcome" emails are sent, new subscribers are sent an email with
 inks to the group’s **Email Feed** and their profile page where they can
 set attributes and join available lists and sub-groups.  
 
-</div>
+</span>

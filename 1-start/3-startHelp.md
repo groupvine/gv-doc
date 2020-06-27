@@ -1,8 +1,8 @@
 # Getting Started
 
 ## How to find help (below, help bubbles, contacting us)
-<div id="gv-how-to-find-help"></div>
+<span id="gv-how-to-find-help"></span>
 
-<div id="TBD">
+<span class="todo">
 **TBD JHJHJH I couldn't find relevant text in the Google doc **
-</div>
+</span>

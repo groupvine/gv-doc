@@ -1,5 +1,5 @@
 # Membership Lists
-<div id="gv-membership-lists"></div>
+<span id="gv-membership-lists"></span>
 
 Lists give you flexibility in how you can target an email's
 receipients list to a specific interest group or classification
@@ -23,7 +23,7 @@ send an email to all the musicians using the address:
 musiclovers~~bingotech@groupvine.com
 ```
 
-<div class="adv">
+<span class="adv">
 
 For an account with sub-groups (see information on sub-groups below),
 you'll be pleased to know that group Administrators can define their
@@ -31,18 +31,18 @@ own lists, which will then apply to that group, as well as any
 sub-groups of that group.  This also means that Lists defined at the
 account level apply to all sub-groups in the account.
 
-</div>
+</span>
 
-<div class="support">
+<span class="support">
 
 List membership may only occur within the group where the list was defined.  
 For example, to add or remove members from a list in an import file, the
 associated 'list:' header must follow the 'group:' header which owns that list.
 
-</div>
+</span>
 
 # Membership Sub-groups
-<div id="gv-membership-sub-groups"></div>
+<span id="gv-membership-sub-groups"></span>
 
 Sub-groups provide additional flexibility in how you manage your
 membership and target your emails.  Key features of sub-groups include
@@ -56,7 +56,7 @@ Multiple sub-group levels are possible (contact us to allow for more
 than 1 sub-group level).  Members of a sub-group are automatically a
 member of the parent (grand-parent, ...) groups.
 
-<div class="support"> 
+<span class="support"> 
 Remember that group membership applies "upward" from that group's
 sub-groups (or sub-sub-groups).  So a group Member (or Editor or
 Admin) in a child sub-group will automatically be a Member in the
@@ -65,16 +65,16 @@ current group.
 For example, if you're an Editor of the "classclowns" sub-group of the
 "2ndgrade" group in the "central valley" account, then you'll be at
 least a Member of the "2ndgrade".
-</div>
+</span>
 
-<div class="adv">  <!-- START ADVANCED -->
+<span class="adv">  <!-- START ADVANCED -->
 
 Additions, modifications, and deletions of new or existing sub-groups
 can also be performed by emailing instructions to your account server; 
 [see here](./emailactions[LINK-QARGS-DOC]) for instructions.
 
 
-</div>  <!-- END ADVANCED -->
+</span>  <!-- END ADVANCED -->
 
 
 
@@ -105,7 +105,7 @@ musiclovers~~advisors.bingotech@groupvine.com
 
 Don't worry, you can always use the address helper on the site.
 
-<div class="adv">
+<span class="adv">
 Note that role privileges apply "downward." So an
 Administrator at the account level will have Admin privileges
 throughtout all sub-groups in the account, or an Administrator of a
@@ -116,5 +116,5 @@ However, one sidenote is that only Administrators that are explicit
 Admins for that specific group are are listed under the "group:"
 columns of membership Exports, and only explicit group Admins receive
 the group's moderation request emails.
-</div>
+</span>
 

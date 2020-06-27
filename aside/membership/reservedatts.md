@@ -34,7 +34,7 @@ System-reserved:
 
 * **sys**, **data**, and **std** are reserved for system use.
 
-<div class="sub g4s">
+<span class="sub g4s">
 
 Miscellanous:
 
@@ -50,4 +50,4 @@ Miscellanous:
   "delivery:" (used in exports) and "ignore:" are silently ignored
   during imports.
 
-</div>
+</span>

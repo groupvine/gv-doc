@@ -1,7 +1,7 @@
 # Email Widgets
 
 ## Adding Email Widgets to your emails
-<div id="gv-adding-email-widgets"></div>
+<span id="gv-adding-email-widgets"></span>
 
 * Online emails
 

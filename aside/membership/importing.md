@@ -16,15 +16,15 @@ Tim Tangelo <tim.tangelo@example.com>
 Then upload the spreadsheet using the **Import** button on your
 account's membership page.
 
-<div class="adv">  <!-- START ADVANCED -->
+<span class="adv">  <!-- START ADVANCED -->
 
 If you prefer, you can also email membership additions or
 modifications to your account's server for processing; [see
 here](./emailactions[LINK-QARGS-DOC]) for instructions.
 
-</div>  <!-- END ADVANCED -->
+</span>  <!-- END ADVANCED -->
 
-<div class="support">  <!-- START SUPPOR -->
+<span class="support">  <!-- START SUPPOR -->
 
 If a "display name" is included in the import with a member's primary
 address, it is used to initialize the member's first and last name
@@ -35,9 +35,9 @@ emails subsequently sent by this member.  Because the 'First Name' and
 user can have different names (and thus, different email display
 names) in different accounts.
 
-</div>  <!-- END ADVANCED -->
+</span>  <!-- END ADVANCED -->
 
-<div class="support">  <!-- START SUPPORT -->
+<span class="support">  <!-- START SUPPORT -->
 
 When importing a new member, the imported member's primary ('email')
 address is given a high priority when matching (or not matching)
@@ -59,7 +59,7 @@ existing user records.
   match any existing user's addresses (the ones that do match existing
   user records will be ignored).
 
-</div>  <!-- END SUPPORT -->
+</span>  <!-- END SUPPORT -->
 
 
 ## Custom Member attributes
@@ -103,7 +103,7 @@ By default, an **Import** will only make member additions or fill-in
 information that's missing.  To make modifications of your existing
 member attributes, use the **Import Modifications** button.
 
-<div class="free">   <!-- START Free ONLY -->
+<span class="free">   <!-- START Free ONLY -->
 
 Also, the 'role' column can optionally be included to modify
 membership status of your community members.  Those with 'x'
@@ -113,10 +113,10 @@ member.
 (If the account administrator is included in the import file, "Admin"
 should be entered in the role field for that member.)
 
-</div>   <!-- END Free ONLY -->
+</span>   <!-- END Free ONLY -->
 
 
-<div class="sub g4s">   <!-- START GROUPVINE -->
+<span class="sub g4s">   <!-- START GROUPVINE -->
 
 ## Membership Roles
 
@@ -143,9 +143,9 @@ aren't necessary).
 |beth.blueberry@example.com   | Montecito  |            | black          |   x     |
 |quiet.quinn@example.com      | Toronto    | Hockey     | red            | Editor  |
 
-</div>
+</span>
 
-<div class="adv" id="admin-members">  <!-- START ADVANCED -->
+<span class="adv" id="admin-members">  <!-- START ADVANCED -->
 
 Every account (and every sub-group) must have at least one Admin
 member.  When an account (or sub-group) is first created, the user
@@ -159,9 +159,9 @@ Editor or regular Member role, a different member first needs to be
 promoted to Administrator, and then that other Administrator can then
 demote the original Administrator.
 
-</div>
+</span>
 
-<div class="support">  <!-- START SUPPORT -->
+<span class="support">  <!-- START SUPPORT -->
 
 Note that the user that initially creates an account is also stored as
 the account "owner," but this is for informational purposes only and
@@ -169,9 +169,9 @@ has no effect or relation to the members (or member Administrators) of
 the account, other than the fact that this account creator is also the
 first Administrator member of the account.
 
-</div>
+</span>
 
-<div class="sub g4s">   <!-- START GROUPVINE -->
+<span class="sub g4s">   <!-- START GROUPVINE -->
 
 ## Lists
 
@@ -188,9 +188,9 @@ memberships):
 |quiet.quinn@example.com      |                | x             |
 |beth.blueberry@example.com   | x              | x             |
 
-</div>
+</span>
 
-<div class="sub g4s">   <!-- START GROUPVINE -->
+<span class="sub g4s">   <!-- START GROUPVINE -->
 
 ## Groups
 
@@ -228,23 +228,23 @@ and is in the "giants" list defined in the westregion group:
 For more information on groups and lists, see the [Groups and
 Lists](./lists_groups[LINK-QARGS-DOC]) page.
 
-</div>   <!-- END GROUPVINE -->
+</span>   <!-- END GROUPVINE -->
 
 
 ## Other Notes
 
-<div class="free">
+<span class="free">
 * Custom attributes must only consist of alphanumeric and the
   underscore ('_') character, are treated as case-insensitive, and
   typically handled in lower-case.
-</div>
+</span>
 
-<div class="sub g4s">
+<span class="sub g4s">
 * Custom attributes, list and group names must only consist of
   alphanumeric and the underscore ('_') character.  They are all
   treated as case-insensitive, and are typically handled in
   lower-case.
-</div>
+</span>
 
 * Any number of informational-only columns with header names prefixed
   with "ignore:" can be included in import files and will be

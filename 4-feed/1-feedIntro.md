@@ -1,7 +1,7 @@
 # Email Feed
 
 ## Email Feed for Published Emails
-<div id="gv-email-feed-for-published"/></div>
+<span id="gv-email-feed-for-published"/></span>
 
 The **Email Feed** is your account’s **Home** page that visitors
 will navigate to with the opportunity to subscribe.
@@ -15,7 +15,7 @@ Administrators and Editors will also have an Options filter in the Email
 Feed header to include archived emails or sub-group emails, if they are
 on the account feed:
 
-<div class=”TBD”>
+<span class=”tbd”>
 TBD
 **JHJHJHimage-needed**
-</div>
+</span>

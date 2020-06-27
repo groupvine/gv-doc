@@ -1,7 +1,7 @@
 # Email Widgets
 
 ## What are Email Widgets?
-<div id="gv-what-are-email-widgets"></div>
+<span id="gv-what-are-email-widgets"></span>
 
 In short:
 

@@ -1,14 +1,14 @@
 # Managing your Community
 
-<div class="free">
+<span class="free">
 * [Importing your membershp](./importing[LINK-QARGS-DOC])
 * [Exporting your memberhip](./exporting[LINK-QARGS-DOC])
-</div>
+</span>
 
-<div class="sub g4s">
+<span class="sub g4s">
 * [Importing your membershp](./importing[LINK-QARGS-DOC])
 * [Exporting your memberhip](./exporting[LINK-QARGS-DOC])
 * [Lists](./lists[LINK-QARGS-DOC])
 * [Sub-groups](./groups[LINK-QARGS-DOC])
-</div>
+</span>
 

@@ -1,8 +1,8 @@
 # Email Delivery & Troubleshooting
 
 ## view email delivery stats
-<div id="gv-view-email-delivery-stats"></div>
+<span id="gv-view-email-delivery-stats"></span>
 
-<div class="TBD">
+<span class="todo">
 TBD
-</div>
+</span>

@@ -1,7 +1,7 @@
 # Managing your Membership
 
 ## Member Attributes
-<div id="gv-member-attributes"></div>
+<span id="gv-member-attributes"></span>
 
 ## We use a header line further below, don't we need one here? JHJHJH
 
