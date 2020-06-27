@@ -19,22 +19,26 @@
 
 ## Approach
 
-* Use ```<span class="xxx">``` blocks to surround conditionnal sections.
+* Use ```<span class="xxx">``` blocks to surround conditional sections.
 ```<div>``` elements can't be used for this since Markdown skips over all
 block-level elements, so default presentation, e.g., on GitHub, would have
-just the raw text within these elements.
+just the raw text within these ```<div>```elements.
 
-* In GroupVine documentation, use Javascript to show/hide span sections as
-appropriate, and here these are converted to divs, after pre-processing
-the contents.
+* In GroupVine documentation, use Javascript to show/hide ```<span>```
+sections as appropriate, and then these sections are converted to
+divs, after pre-processing the contents.
 
 ## Documentation Guide
 
-* Use Markdown for **all** styling (except for styling added to conditional "adv"
-"support", and "todo" blocks).  E.g., see [here](https://guides.github.com/features/mastering-markdown/) for GitHub-style Markdown guide.
+* Use Markdown for (nearly) all styling (except for styling added to
+  conditional "adv" "support", and "todo" blocks, and possibly the
+  initial Topics page).  E.g., see
+  [here](https://guides.github.com/features/mastering-markdown/) for
+  GitHub-style Markdown guide.
 
-* To permit automatically scrolling to section and subsection headings (# and ## headings in Markdown), each such heading
-  should be immediately followed by an id tag, like:
+* To permit automatically scrolling to section and sub-section headings
+  (# and ## headings in Markdown), each such heading should be
+  immediately followed by an id tag, like:
 
 ```
 # Introduction to Sub-Groups
@@ -42,8 +46,7 @@ the contents.
 ```
 
 * For conditional sections, enclose the conditional Markdown with
-  ```<span>``` elements, like the following, including the blank lines before
-  and after the opening and closing ```<span>``` tags:
+  ```<span>``` elements, like the following:
 
 ```
 
@@ -56,7 +59,7 @@ the contents.
 
 ```
 
-* The following tags are available for the conditionals related to account service levels:
+* The conditional tags related to account service levels are:
 
     * **free**  Free Service accounts
     * **g4s**  GroupVine 4 School accounts
@@ -65,17 +68,17 @@ the contents.
 * The following "depth" related tags are also available:
 
     * **adv**  If the user has checked the "advanced features" checkbox.
-    * **support** GroupVine support notes, if "support=1" is added as a
-      query arg.  (Still, should **NOT** include any information we
-      wouldn't want to show to user, in case they add this support=1
+    * **support** GroupVine support notes, displayed if "support=1" is added as a
+      query arg.  (Should **NOT** include any information we
+      wouldn't want to show to users, in case they add this support=1
       query arg themself ... may add security to this later.)
     * **todo** TODO blocks, currently always shown, but
       will later be hidden unless in support mode.
 
-* Note that if these class tags may also be used on block-level
-  elements (like div or tr) for conditional code, but only if all
-  content is already in HTML (frowned-on except possibly for Topics
-  page), since these blocks will be ignored by the Markdown converter.
+* Note that these class tags may also be used on block-level
+  elements (like div or tr) for conditional code, but only if all the
+  enclosed content is in pure HTML (generally frowned-on),
+  since these blocks will be ignored by the Markdown converter.
   
 
 ## Updating Online Documentation
