@@ -73,7 +73,7 @@ in subscribing and to verify their email address.
 Then depending on your **Membership settings** on the **Gear’s
 JHJHJHGear? Account Settings** tab:
 
-<span class=”subs g4s”>
+<span class=”sub g4s”>
 
 * If an Administrator approval is required to admit a new subscriber to
 your account, then the subscriber’s application will appear on the
