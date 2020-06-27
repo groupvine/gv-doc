@@ -78,3 +78,7 @@ the contents.
   page), since these blocks will be ignored by the Markdown converter.
   
 
+## Updating Online Documentation
+
+To update the test or production servers, go to the admin-help page, e.g.,
+[https://admin.trivy.email/help](https://admin.trivy.email/help).
