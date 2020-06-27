@@ -94,7 +94,7 @@ links to the group’s **Email Feed JHJHJHlink?** and their
 profile **JHJHJHlinklink-needed?** where they can set attributes and join
 available lists and sub-groups.
 
-</span> <!-- sub g4s>
+</span> <!-- sub g4s -->
 
 <span class="free">
 
