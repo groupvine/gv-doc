@@ -1,9 +1,9 @@
 # Managing your Membership
 
 ## Use Sub-groups for groups that can work independently from the main group
-<div id="gv-use-sub-groups"></div>
+<span id="gv-use-sub-groups"></span>
 
-<div class="sub g4s">
+<span class="sub g4s">
 ### Sub-groups
 
 Sub-groups provide additional flexibility in how you manage your
@@ -51,4 +51,4 @@ one sub-group level).
 Click **here JHJHJHlink-needed** for details on sending to a sub-group
 from your online account or from your personal email account.
 
-</div> <!--class-->
+</span> <!--class-->
