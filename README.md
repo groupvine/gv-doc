@@ -79,7 +79,8 @@ GroupVine 4 School and Subscription documentation modes.
 * Note that these class tags may also be used on block-level
   elements (like div or tr) for conditional code, but only if all the
   enclosed content is in pure HTML (generally frowned-on),
-  since these blocks will be ignored by the Markdown converter.
+  since these blocks will be ignored by the Markdown converter when
+  viewed on GitHub.
 
 ## Brand-related notes
 
