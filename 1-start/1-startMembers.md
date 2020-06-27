@@ -78,6 +78,7 @@ JHJHJHGear? Account Settings** tab:
 * If an Administrator approval is required to admit a new subscriber to
 your account, then the subscriber’s application will appear on the
 **Pending Applications** tab on the **Membership** page.
+
 * If the Administrator approves, then the new subscriber will be
 opted-in to receive email.
 If Administrator approval is not required, then once the new subscriber
