@@ -14,7 +14,7 @@ bingotech@groupvine.com
 
 Note, Abbreviation can be found by going to Settings->Account Info.
 
-<div class="gv">
+<div class="g4s sub">
 
 To send to a specific sub-group, use the sub-group's Abbreviation with the account's Abbreviation, for example:
 
@@ -95,14 +95,14 @@ Yes, your GV-BRAND community email recipients can **comment** on and **like**,
 
 ## Who can send new emails
 
-<div class="trivy">
+<div class="free">
 
-  With the Trivy service, only the account administrator is permitted to send 
+  With the Free service, only the account administrator is permitted to send 
   new emails (or replies) to the group.
 
 </div>
 
-<div class="gv">
+<div class="g4s sub">
 
 Any member designated with the group Admin or Editor role is permitted
 to send new emails (or replies) to a group.  Additionally, if the
@@ -142,7 +142,7 @@ email account, a confirmation email is immediately sent back to this
 Admin for their confirmation before the email is forwarded to the
 group.
 
-<div class="gv">
+<div class="g4s sub">
 
 For emails sent by group Editors, the responsibility for confirming
 the email depends on the "Group moderation" setting:

@@ -1,14 +1,5 @@
-# Advanced Info  **JHJHJH from google doc**
-<div id="gv-advanced-info"></div>
-
-## Email Actions
-<div id="gv-email-actions"></div>
-
-**Advanced info JHJHJH this IF does not reconcile with the div
-class specification in topics.md because we should never arrive
-here**
-
-# Advanced - Email Actions **JHJHJH from aside**
+# Advanced - Email Actions
+<span id="gv-email-actions"></span>
 
 A number of operations can be conducted without visiting your online
 account at all, but simply by emailing instructions to your account
@@ -21,6 +12,7 @@ For the examples below, we're using the fictitious "bingotech"
 account, which you should replace with your account name.
 
 ## Exporting your membership
+<span id="gv-export-membership-action"></span>
 
 To have your full membership sent to you, along with delivery
 statistics, any list and sub-group memberships, etc., send an email
@@ -37,6 +29,7 @@ For example:
 ```
 
 ## Exporting your pending membership applications
+<span id="gv-export-apps-action"></span>
 
 To export your the membership applications pending for your account, 
 send an email to:
@@ -59,6 +52,7 @@ imported.
 
 
 ## Importing membership or membership changes
+<span id="gv-importing-membership-action"></span>
 
 You can email your membership file to your account's server to be
 imported using the following address:
@@ -73,7 +67,7 @@ For example, for bingotech with a membership file named "bt_members.csv", use:
 ~import='bt_members.csv'~~bingotech@groupvine.com
 ```
 
-<div class="adv">
+<span class="adv">
 
 If you'd like to ensure that no modifications are done to settings of existing members, replace
 "~import" with "~importadd", like the following:
@@ -81,10 +75,11 @@ If you'd like to ensure that no modifications are done to settings of existing m
 ```
 ~importadd='bt_members.csv'~~bingotech@groupvine.com
 ```
-</div>
+</span>
 
 
 ## Adding, deleting, or modifying sub-groups
+<span id="gv-modifying-groups-action"></span>
 
 An account's sub-groups can also be managed by email by creating and
 attaching a group-instructions CSV file using the following columns:
@@ -107,13 +102,13 @@ attaching a group-instructions CSV file using the following columns:
 * **imgFilename** - Optional column to provid an URL to an image file
     for the group logo.
 
-<div class="support">
+<span class="support">
 
 An optional column is the "id" for the groupId.  For update
 operations, if the "id" is specified as well as an "abbrev", then it's
 taken as an instruction to change the group's abbreviation.
 
-</div>
+</span>
 
 For example:
 
@@ -124,8 +119,7 @@ For example:
 | delete      | test-group  |                     |             |
 | update      | frontoffice | School Front Office | x           |
 
-
-<div class="adv" id="emailactions-dot-group">
+<span class="adv" id="emailactions-dot-group">
 
 The special group abbreviation "." is used to indicate the top-,
 account-level group.  Actions on this account level are handled as
@@ -135,9 +129,9 @@ follows:
 * 'update' is handled normally, allowing changes to the account's group-related properties.
 * 'delete' is also handled normally, except that this account "group" itself is not deleted.
 
-</div>
+</span>
 
-<div class="support">
+<span class="support">
 
 A handy way to initialize an account to no members, other than the
 account Admin doing the action, and some set of sub-groups is to
@@ -149,9 +143,9 @@ import a group instructions file like the following:
 | add         | grade1      | First Grade         | x           |
 | add         | grade2      | Second Grade        |             |
 
-</div>
+</span>
 
-<div class="adv">
+<span class="adv">
 
 In accounts with multiple levels of sub-groups, the abbreviated group
 name should give the full abbreviated name path to the sub-group,
@@ -164,7 +158,7 @@ for example, to add a "skit" sub-group of the "grade1" group:
 Also note that when deleting a group that has it's own sub-groups,
 those sub-groups will also be deleted.
 
-</div>
+</span>
 
 
 Then, to process the group instruction file, send the file to your
@@ -181,13 +175,14 @@ For example, for the bingotech account and a file named
 ~groups='groupinstrs.csv'~~bingotech@groupvine.com
 ```
 
-<div class="support">
+<span class="support">
 
 ## Configuring an account
+<span id="gv-configuring-acccount-action"></span>
 
-[*NOTE:* this email-action (configuring an account) contains very
+**NOTE:** this email-action (configuring an account) contains very
 little error checking, so is only provided for possible use by GroupVine support
-and for automated tests.]
+and for automated tests.
 
 Account information can be configured by email using an account-instructions
 CSV file using an address like:
@@ -232,4 +227,4 @@ and some or all of the following columns in the account instructions file:
 * **terms** - JSON structured custom terminology
 * **customizations** - JSON structured other customizations
 
-</div>
+</span>
