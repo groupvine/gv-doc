@@ -9,6 +9,10 @@ Some of our members don't receive our emails, but most often, they don't
 realize that the emails have landed in their spam or junk folders.
 How can we get our emails to not be classified as junk or spam?
 
+<span class="todo">
+  Following sections needed
+</span>
+
 * **JHJHJHicon-needed**
 * **JHJHJHsomething-needed? EMPLOYEE**
 * **GroupVine Support (Official Rep) over 4 years ago JHJHJHthis-probably-not-needed**

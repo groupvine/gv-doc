@@ -24,7 +24,10 @@ For information on importing a membership file,
 
 To add a new member to your account, you can enter their information on
 the **Add New Member** tab on your **Membership** page, and then click
+
+<span class="todo">
 **Add JHJHJHlink-needed**.
+</span>
 
 <span class=”g4s”>
 
