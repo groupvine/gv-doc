@@ -86,7 +86,7 @@ GroupVine 4 School and Subscription documentation modes.
 
 * Web and email addresses in the documentation to GroupVine should use
   the groupvine.com domain.  Examples include support@groupvine.com or
-  the bingotech@groupvine.com example site.  If the help pages are
+  the bingotech.groupvine.com example site.  If the help pages are
   being reached by a trivy.email address, then all "groupvine.com"
   references will be changed to "trivy.email"
 
