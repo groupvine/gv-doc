@@ -1,3 +1,12 @@
+<span class="not:adv">
+<span class="todo">
+**Not Advanced!**
+
+Need a friendly "no such page" or "permission-denied" or something message
+</span> <!-- todo -->
+</span> <!-- not:adv -->
+
+<span class="adv">
 # Advanced - Email Actions
 <span id="gv-email-actions"></span>
 
@@ -228,3 +237,5 @@ and some or all of the following columns in the account instructions file:
 * **customizations** - JSON structured other customizations
 
 </span>
+
+</span> <!-- class="adv">

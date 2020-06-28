@@ -44,4 +44,3 @@ then clicking the email’s icon
 **JHJHJHicon-needed JHJHlink-needed?**
 </span>
 to toggle through and set its visibilty.
-}
