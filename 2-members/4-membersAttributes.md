@@ -33,7 +33,11 @@ are made available to them by the Administrator on the account Gear’s
 **Site Customizations** tab.  
 
 Attribute values can be set using an import file or by clicking on a
-subscriber's ellipsis **(3 vertical dots) JHJHJHicon-needed** from
+subscriber's ellipsis
+<span class="todo">
+**(3 vertical dots) JHJHJHicon-needed**
+</span>
+from
 the **Member Listing** tab on the **Membership** page.
 For more information about importing, click **here JHJHJHneed-link**.
 

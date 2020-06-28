@@ -43,8 +43,11 @@ spam filter of my account** and **Save a copy of emails marked as spam**
 that appear.
 The steps on Comcast's site are slightly out of date.
 
-* For Verizon users, **click here JHJHJHlink-needed** and follow the
-steps to view messages that Verizon's Spam Detector filters.
+* For Verizon users,
+<span class="todo">
+**click here JHJHJHlink-needed**
+</span>
+and follow the steps to view messages that Verizon's Spam Detector filters.
 
 Once your spam folder is set up, be sure to check it by signing directly
 to your provider's site, e.g. `comcast.net` or `verizon.net`, instead of

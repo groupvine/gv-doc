@@ -15,10 +15,15 @@ especially if it's urgent and needs their attention.
 
 Accounts are already set up to send text notifications for members who
 have provided the following mobile information on their
-**JHJHJHlink-needed** profile page.
+<span class="todo">
+**JHJHJHlink-needed** profile page?.
+</span>
+
+<span class="todo">
 **JHJHJHsuggestion Maybe some text indicating what the following bullets
 are (e.g., The following items need to be specified for text
 notifications ... :)**
+</span>
 
   * Mobile phone number, including area code
 

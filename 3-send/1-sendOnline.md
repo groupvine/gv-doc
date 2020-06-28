@@ -41,17 +41,26 @@ To your email is added a placeholder which will be translated to the
 subscriber’s value in their received email.
 For example, in your email if you type “Hi “ and then select “First
 Name” from the Personalization menu, the `placeholder
-**JHJHJHicon-needed?**` is added to your email.
+<span class="todo">
+**JHJHJHicon-needed?**`
+</span>
+is added to your email.
 When you Preview your email, you’ll see the attribute placeholder was
 replaced with your First Name as you have it set in your profile.
-For more information about Member Attributes, **click here
-JHJHJHJHlink-needed**?.
+For more information about Member Attributes,
+
+<span class="todo">
+ **click here JHJHJHJHlink-needed**?.
+</span>
 
 Use Email Widgets to ask questions or gather information with these
 five types of Email Widgets (Text, Count, RSVP, Yes-No,
 Single/Multi-Choice) that can be added directly into your email using
 the **Widget** menu.
-For more information about Email Widgets, **click here JHJHJHlink-needed**.
+For more information about Email Widgets,
+<span class="todo">
+**click here JHJHJHlink-needed**.
+</span>
 
 Note, your email will be “From” your display name, which is your
 First Name and Last Name attributes as they are set in your profile
@@ -59,7 +68,11 @@ page.
 For online emails we suggest previewing your email and sending it as a
 draft to make sure images, links and files are behaving as you expect.
 Note that links in the Preview have been deactivated.
-When you’re ready, **click Send JHJHJHlink-needed** to select your
+When you’re ready,
+<span class="todo">
+**click Send JHJHJHlink-needed**
+</span>
+to select your
 recipients and send your email.
 Without making any selections before sending, your email will be sent
 as not urgent to the entire group.

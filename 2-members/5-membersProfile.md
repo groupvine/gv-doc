@@ -21,7 +21,10 @@ Customization** tab.  (Predefined attributes are listed at the bottom
 of the account Gear’s **Member Attributes** tab.)
 
 Administrators can update subscriber profiles too by selecting the
-subscriber’s ellipsis **(three vertical dots) JHJHJHicon-needed**
+subscriber’s ellipsis
+<span class="todo">
+**(three vertical dots) JHJHJHicon-needed**
+</span>
 on the **Member Listing** tab on the **Membership** page.
 However, only the subscriber can change their Opt-out status or password
 (if they are an Administrator or Editor) from their profile page.

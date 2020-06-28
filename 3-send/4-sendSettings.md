@@ -62,11 +62,15 @@ two options means given each is qualified by further class divs, and so
 they might not both be visible.
 
 <span class="sub">
+<span class="todo">
 **JHJHJHimage-needed Layout options Image for Subscription or Trial**
+</span>
 </span>
 
 <span class="g4s">
+<span class="todo">
 **JHJHJHimage-needed Layout options Image for G4S**
+</span>
 </span>
 
 </span> <!-- sub g4s -->
@@ -93,8 +97,15 @@ Only the Account Administrator can send emails to its
 **JHJHJHgroup?** members.
 If you need additional senders, you can upgrade to a
 Subscription service, which also offers other expanded services.
-Click **here JHJHJHlink-needed** for information and comparisons
-of our service offerings or upgrade your account **here JHJHJHlink-needed**.
+<span class="todo">
+Click **here JHJHJHlink-needed**
+</span>
+for information and comparisons
+of our service offerings or upgrade your account
+
+<span class="todo">
+ **here JHJHJHlink-needed**.
+</span>
 
 Note, Administrators and Editors are authorized senders in an account where
 Administrators can also manage the account’s membership and settings.  

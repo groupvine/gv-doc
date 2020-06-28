@@ -11,17 +11,35 @@ Images add interest and encourage visitors to open emails to learn about
 your account and hopefully subscribe! 
 
 For Administrators and Editors, there is also a more condensed view by
-clicking the **JHJHJHicon-needed** in the Email Feed header to switch to
+clicking the
+<span class="todo">
+**JHJHJHicon-needed**
+</span>
+in the Email Feed header to switch to
 Listing View.
-You’ll then see each email has a **JHJHJHicon-needed** icon to toggle
+You’ll then see each email has a
+<span class="todo">
+**JHJHJHicon-needed** icon
+</span>
+to toggle
 through and change an email’s visibility setting.
-Each email also has an **ellipsis (three vertical dots)
-JHJHJHicon-needed** to a menu of these additional email actions (these
+Each email also has an
+<span class="todo">
+**ellipsis (three vertical dots)
+JHJHJHicon-needed**
+</span>
+to a menu of these additional email actions (these
 actions are also available from a live email’s “hamburger”
-**JHJHJHicon-needed** icon menu located in the top right corner
+<span class="todo">
+**JHJHJHicon-needed**
+</span>
+ icon menu located in the top right corner
 **JHJHJHof-what?**).
 
-**JHJHJHtext-needed to introduce these bullets below:**
+<span class="todo">
+**JHJHJHtext-needed
+</span>
+to introduce these bullets below:**
 
 * Download responses downloads email’s Email Widget data to a spreadsheet.
 

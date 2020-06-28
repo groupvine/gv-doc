@@ -95,8 +95,10 @@ and then turning this setting on.
 
 * If "Welcome" emails are sent, new subscribers are sent an email with
 links to the group’s **Email Feed JHJHJHlink?** and their
-profile **JHJHJHlinklink-needed?** where they can set attributes and join
-available lists and sub-groups.
+<span class="todo">
+profile **JHJHJHlinklink-needed?**
+</span>
+where they can set attributes and join available lists and sub-groups.
 
 </span> <!-- sub g4s -->
 

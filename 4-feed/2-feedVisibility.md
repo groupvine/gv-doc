@@ -35,7 +35,13 @@ there’s also the option “Sub-group members only.”
 
 Individual emails can also be made public from the Email Feed
 regardless of your feed’s visibility by first clicking
-**JHJHJHicon-needed JHJHlink-needed?** to change to Listing view and
-then clicking the email’s icon **JHJHJHicon-needed JHJHlink-needed?** to
-toggle through and set its visibilty.
+<span class="todo">
+**JHJHJHicon-needed JHJHlink-needed?**
+</span>
+to change to Listing view and
+then clicking the email’s icon
+<span class="todo">
+**JHJHJHicon-needed JHJHlink-needed?**
+</span>
+to toggle through and set its visibilty.
 }
