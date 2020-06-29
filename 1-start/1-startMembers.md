@@ -23,11 +23,10 @@ For information on importing a membership file,
 <span id="gv-add-new-members-from-the-membership"></span>
 
 To add a new member to your account, you can enter their information on
-the **Add New Member** tab on your **Membership** page, and then click
+the **Add New Member** tab on your **Membership** page, and then click **Add**.
 
-<span class="todo">
-**Add JHJHJHlink-needed**.
-</span>
+![Add New Member](/docimages/add-new-member.png)
+
 
 <span class=”g4s”>
 
