@@ -15,9 +15,11 @@ especially if it's urgent and needs their attention.
 
 Accounts are already set up to send text notifications for members who
 have provided the following mobile information on their
+profile
 <span class="todo">
-**JHJHJHlink-needed** profile page?.
+**JHJHJHstyle**
 </span>
+page?.
 
 <span class="todo">
 **JHJHJHsuggestion Maybe some text indicating what the following bullets

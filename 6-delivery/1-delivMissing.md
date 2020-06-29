@@ -13,9 +13,14 @@ How can we get our emails to not be classified as junk or spam?
   Following sections needed
 </span>
 
-* **JHJHJHicon-needed**
-* **JHJHJHsomething-needed? EMPLOYEE**
+**EMPLOYEE**
+<span class="todo">
+**JHJHJHsomething-needed (icon?) for EMPLOYEE as shown in google doc
+</span>
+
+<span class="todo">
 * **GroupVine Support (Official Rep) over 4 years ago JHJHJHthis-probably-not-needed**
+</span>
 * Another possibility that we found with Comcast and Verizon users in
 particular is that, by default, emails marked as spam by these providers
 were not being saved to the user's spam folder.
@@ -37,8 +42,16 @@ start getting delivered to the user's inbox.
 </span>
 
 * For Comcast users, **click here** and follow the
-steps under **Change Spam Filter** preference **JHJHJHgrammar?**.
-**Note: At step 3 JHJHJHunderline?**, click both the checkboxes **Enable
+steps under **Change Spam Filter** preference 
+<span class="todo">
+**JHJHJHgrammar?**.
+</span>
+
+**Note: At step 3
+<span class="todo">
+JHJHJHunderline?**
+</span>
+, click both the checkboxes **Enable
 spam filter of my account** and **Save a copy of emails marked as spam**
 that appear.
 The steps on Comcast's site are slightly out of date.
@@ -57,9 +70,15 @@ could be clearing your spam folder automatically for you within a few to
 several days).
 If you find an email there, click on its checkbox and click **Not Spam**.
 
+<span class="todo">
 **JHJHJHicon-needed?**
+</span>
 
+<span class="todo">
 **Employee JHJHJHicon-needed?**
+</span>
+
+<span class="support">
 
 ** the text 'Groupvine Support' from the doc is probably not needed here **
 
@@ -72,6 +91,8 @@ If you find an email there, click on its checkbox and click **Not Spam**.
  -- here, so trying indent with four spaces. The downside of this approach
  -- causes the text to be in 'code' format (font not so pleasing)
  
+</span>
+
     Hi Everyone,
      
     If you didn't experience email delivery problems in the past that
@@ -100,7 +121,10 @@ If you find an email there, click on its checkbox and click **Not Spam**.
     Just replace the highlights with your specific information.
     
     If you have any questions or need any assistance, please
-    contact us at `support@groupvine.com` **JHJHJHmailto-link needed?**.
+    contact us at `support@groupvine.com` 
+    <span class="todo" markdown-1>
+    **JHJHJHmailto-link needed?**
+    </span>.
     
 ---
 !-- Note to Groupvine Staff: limiting to some number of columns,
@@ -120,12 +144,12 @@ If you find an email there, click on its checkbox and click **Not Spam**.
     DOMAIN>, e.g. `mycompany.org domain`.
     
     GroupVine (**http://www.groupvine.com**), which provides the
-    **JHJHJHour?** group email services, just informed us that to
-    increase the robustness and performance of their email delivery
-    service, they are adding additional servers to send email for
-    `groupvine.com`, and thus have introduced two new IP addresses.
-    Here is the list of the updated IP addresses for the GroupVine email
-    servers that we need whitelisted:
+    group's email services, just informed us that to increase the
+    robustness and performance of their email delivery service, they
+    are adding additional servers to send email for `groupvine.com`,
+    and thus have introduced two new IP addresses.  Here is the list
+    of the updated IP addresses for the GroupVine email servers that
+    we need whitelisted:
     
         54.241.130.69 mailer-02.groupvine.com
         54.241.131.129 mailer-03.groupvine.com
@@ -142,9 +166,14 @@ If you find an email there, click on its checkbox and click **Not Spam**.
     Thank you!
     <YOUR NAME>
     
+<span class="todo">
 **JHJHJHicon-needed?**
+</span>
 
-**Employee JHJHJHicon-needed?**
+**Employee**
+<span class="todo">
+**JHJHJHicon-needed?**
+</span>
 
 ** the text 'Groupvine Support' from the doc is probably not needed here **
 
@@ -195,7 +224,11 @@ address or Alternate email address.
 Note that if the username may also need updating to match-up with the
 new email address.
 After pressing Save, use the **Back** button in the upper right to return
-to the **recipients JHJHJHcapitalize-and-bold?** page.
+to the **recipients
+<span class="todo">
+**JHJHJHcapitalize-and-bold?**
+</span>
+page.
 
 If there are no errors being reported for these recipients then please check to see if your email is landing in the spam or junk mail folders. If so, please ask them to add your sender email address to their safe senders and/or contact lists or add a "To" filter in their personal email for "groupvine.com" (see here for details).
 
@@ -278,7 +311,11 @@ On the **User Profile** page you can update the user’s Primary email
 address or Alternate email address.
 Note that if the username may also need updating to match-up with the new
 email address.
-After pressing Save use the Back button in the upper right **JHJHJHwhere?** to
+After pressing Save use the Back button in the upper right
+<span class="todo">
+**JHJHJHeditorial upper right of what?**
+</div>
+ to
 return to the **Recipients** page.
 
 If there are no errors being reported for these recipients then please check to see if your email is landing in the spam or junk mail folders. If so, please ask them to add your sender email address to their safe senders and/or contact lists.

@@ -17,8 +17,9 @@ to signify it’s filed away.
 
 To archive an email, view your Email Feed in Listing View, select the
 email’s ellipsis
+**(three vertical dots)**
 <span class="todo">
-**(three vertical dots) JHJHJHicon-needed?**
+**JHJHJHicon-needed?**
 </span>
 and select
 **Archive** from the menu.
@@ -27,7 +28,7 @@ To unarchive an email and return it to the Email Feed, view your feed
 in Listing View, then click the archived email’s **ellipsis (three
 vertical dots)
 <span class="todo">
-JHJHJHicon-needed?** and
+JHJHJHicon-needed?**
 </span>
-select **Unarchive** from the
+and select **Unarchive** from the
 menu.

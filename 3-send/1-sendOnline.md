@@ -47,20 +47,21 @@ Name” from the Personalization menu, the `placeholder
 is added to your email.
 When you Preview your email, you’ll see the attribute placeholder was
 replaced with your First Name as you have it set in your profile.
-For more information about Member Attributes,
-
+For more information about Member Attributes, **click here**
 <span class="todo">
- **click here JHJHJHJHlink-needed**?.
+**JHJHJHJHlink-needed** for click here?**
 </span>
+.
 
 Use Email Widgets to ask questions or gather information with these
 five types of Email Widgets (Text, Count, RSVP, Yes-No,
 Single/Multi-Choice) that can be added directly into your email using
 the **Widget** menu.
-For more information about Email Widgets,
+For more information about Email Widgets, **click here**
 <span class="todo">
-**click here JHJHJHlink-needed**.
+**JHJHJHlink-needed for click here**
 </span>
+.
 
 Note, your email will be “From” your display name, which is your
 First Name and Last Name attributes as they are set in your profile
@@ -69,8 +70,9 @@ For online emails we suggest previewing your email and sending it as a
 draft to make sure images, links and files are behaving as you expect.
 Note that links in the Preview have been deactivated.
 When you’re ready,
+click **Send**
 <span class="todo">
-**click Send JHJHJHlink-needed**
+**JHJHJHlink-needed for Send?**
 </span>
 to select your
 recipients and send your email.
@@ -78,7 +80,11 @@ Without making any selections before sending, your email will be sent
 as not urgent to the entire group.
 You can also:
 
-* Select the Mark email as **urgent JHJHJHcapitalize?**  checkbox to
+* Select the Mark email as **urgent**
+<span class="todo">
+JHJHJHcapitalize?
+</span>
+checkbox to
 have a text notification sent to recipients who specifically chose to
 be notified of urgent emails.
 

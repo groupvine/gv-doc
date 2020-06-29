@@ -3,11 +3,13 @@
 ## Member Attributes
 <span id="gv-member-attributes"></span>
 
+<span class="todo">
 ## We use a header line further below, don't we need one here? JHJHJH
+</span>
 
 Use Member Attributes to save subscriber information that is specific to
 your account needs.
-You can define attributes on your account Gear’s **JHJHJHGear?**
+You can define attributes on your account Gear’s
 **Member Attributes** tab and here are the four types of attribues:
 **Text**, **Number**, **Checkbox**, and **Single/Multiple Choice**.
 
@@ -26,7 +28,11 @@ For example, you can choose your recipients to be subscribers who
 selected the checkbox attribute for `Can you help with planning for
 XYZ?`
 
-Click **here JHJHJHlink** for more information about sending email
+Click **here**
+<span class="todo">
+JHJHJHlink**
+</span>
+for more information about sending email
 using attributes.
 From their profile page, subscribers can set attribute values that
 are made available to them by the Administrator on the account Gear’s
@@ -34,12 +40,17 @@ are made available to them by the Administrator on the account Gear’s
 
 Attribute values can be set using an import file or by clicking on a
 subscriber's ellipsis
+(3 vertical dots) 
 <span class="todo">
-**(3 vertical dots) JHJHJHicon-needed**
+JHJHJHicon-needed?
 </span>
 from
 the **Member Listing** tab on the **Membership** page.
-For more information about importing, click **here JHJHJHneed-link**.
+For more information about importing, click **here 
+<span class="todo">
+JHJHJHneed-link**
+</span>
+.
 
 Note, editing an attribute’s definition is not allowed since
 subscribers may have set values to that attribute.

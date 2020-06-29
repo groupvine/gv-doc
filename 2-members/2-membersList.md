@@ -12,6 +12,7 @@ email from a personal email account.
 
 * New lists can be created and members can be assigned to those lists
 when importing.  
+Click here
 <span class="todo">
 Click here **JHJHJHlink-needed**
 </span>
@@ -27,8 +28,9 @@ Note, from their profile page, subscribers can only join lists defined
 in the account level.
 Group Administrators will need to add sub-group members to their local
 lists.
+Click ** here **
 <span class="todo">
-Click ** here JHJHJHlink-needed**
+JHJHJHlink-needed
 </span>
 for more information on profile pages.
 
@@ -40,8 +42,9 @@ div forces a new paragraph**
 <span class="sub g4s">If you are interested in allowing general members
 to send email, then we suggest using sub-groups.</span>
 
+Click **here**
 <span class="todo">
-Click **here JHJHJHlink-needed**
+JHJHJHlink-needed
 </span>
 for details on sending to a list from
 your online account or from your personal email account.

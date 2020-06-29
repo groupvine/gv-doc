@@ -30,24 +30,28 @@ tab on the respective **Gear** page.
 Need the email address to target your emails more specifically?
 Simply select **New Email** and then **Send email from your own
 inbox**, select your options on the **Addressing** tab and
-copy the updated email address to the “To” JHJHJHstyle? field in your email
+copy the updated email address to the “To” 
+<span class="todo">
+JHJHJHstyle?
+</span>
+field in your email
 account.
 
 To personalize your email using attribute values, view the
 instructions on the **Personalize** tab for emails sent from your
 personal email account.
-For more information about Member Attributes, 
+For more information about Member Attributes, click here
 <span class="todo">
-**click here JHJHJHlink-needed**.
+**JHJHJHlink-needed**.
 </span>
 
 To add Email Widgets to ask questions or gather information, follow
 the instructions on the **Widgets** tab for email sent from your
 personal email account to add any of the four types of Email Widgets
 (Text, Count, RSVP, Yes-No).
-For more information about Email Widgets,
+For more information about Email Widgets, click here
 <span class="todo">
-**click here JHJHJHlink-needed**.
+**JHJHJHlink-needed**.
 </span>
 
 Note, in general when sending from your personal email account,
@@ -57,5 +61,8 @@ page, but your email handler may preset the “From” to the name
 you have previously used to send email.
 
 These emails will show up in the **Email Feed** with
-**JHJHJHicon-needed** to identify that the email was sent from a
+<span class="todo">
+**JHJHJHicon-needed**
+</span>
+to identify that the email was sent from a
 personal email account.

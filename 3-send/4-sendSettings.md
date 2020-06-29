@@ -57,20 +57,25 @@ Feed**, **subscription** page, and in templates that include the logo.
 
 Here are the two options for the account’s **Default email layout**,
 although the layout can be overridden by making a Layout selection
-from **Options** in the email’s **Compose** header.  **JHJHJH not sure what
+from **Options** in the email’s **Compose** header.
+<span class="todo">
+**JHJHJH not sure what
 two options means given each is qualified by further class divs, and so
 they might not both be visible.
+</span>
 
 <span class="sub">
 <span class="todo">
-**JHJHJHimage-needed Layout options Image for Subscription or Trial**
+JHJHJHimage-needed for this part?
 </span>
+**Layout options Image for Subscription or Trial**
 </span>
 
 <span class="g4s">
 <span class="todo">
-**JHJHJHimage-needed Layout options Image for G4S**
+**JHJHJHimage-needed?**
 </span>
+**Layout options Image for G4S**
 </span>
 
 </span> <!-- sub g4s -->
@@ -94,18 +99,24 @@ its delivery.
 <span class="free">
 
 Only the Account Administrator can send emails to its
-**JHJHJHgroup?** members.
+<span class="todo">
+**JHJHJHeditorial group?**
+</span>
+members.
 If you need additional senders, you can upgrade to a
 Subscription service, which also offers other expanded services.
+Click
 <span class="todo">
-Click **here JHJHJHlink-needed**
+**here JHJHJHlink-needed**
 </span>
 for information and comparisons
 of our service offerings or upgrade your account
 
+**here**
 <span class="todo">
- **here JHJHJHlink-needed**.
+ **JHJHJHlink-needed**.
 </span>
+.
 
 Note, Administrators and Editors are authorized senders in an account where
 Administrators can also manage the account’s membership and settings.  

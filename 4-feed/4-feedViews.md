@@ -19,14 +19,14 @@ in the Email Feed header to switch to
 Listing View.
 You’ll then see each email has a
 <span class="todo">
-**JHJHJHicon-needed** icon
+**JHJHJHicon-needed**
 </span>
-to toggle
+icon to toggle
 through and change an email’s visibility setting.
 Each email also has an
-<span class="todo">
 **ellipsis (three vertical dots)
-JHJHJHicon-needed**
+<span class="todo">
+JHJHJHicon-needed?**
 </span>
 to a menu of these additional email actions (these
 actions are also available from a live email’s “hamburger”
@@ -34,12 +34,15 @@ actions are also available from a live email’s “hamburger”
 **JHJHJHicon-needed**
 </span>
  icon menu located in the top right corner
-**JHJHJHof-what?**).
+<span class="todo">
+**JHJHJH top right corner of what?**
+</span?
+.
 
 <span class="todo">
 **JHJHJHtext-needed
-</span>
 to introduce these bullets below:**
+</span>
 
 * Download responses downloads email’s Email Widget data to a spreadsheet.
 
@@ -48,7 +51,11 @@ option to respond to an email’s Email Widgets as if they were the
 recipient or to email a link specifically for the recipient to respond
 to the widgets.
 This is useful to keep all widget data together in case a recipient
-**“misplaces” JHJHJHedit-remove-quotes**? the email or conveys their
+**“misplaces”**
+<span class="todo">
+JHJHJHeditorial removequotes from misplaces?
+</span>
+the email or conveys their
 responses in person. 
 
 * **Reply all** creates a new Draft email for a reply email and

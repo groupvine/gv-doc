@@ -31,10 +31,17 @@ the **Add New Member** tab on your **Membership** page, and then click
 
 <span class=”g4s”>
 
-When a new member is added this way, they are ready **JHJHJH s/b already?**
+When a new member is added this way, they are ready 
+<span class="todo">
+**JHJHJH s/b "they are already...?**
+</span>
 opted-in and ready to receive email.
 
-If Welcome emails are sent (set on the Gear’s **JHJHJHGear?** **Account
+If Welcome emails are sent (set on the Gear’s
+<span class="todo">
+**JHJHJHwhat is Gear??**
+</span>
+ **Account
 Settings** tab), new members are sent an email with links to the
 **Email Feed** and to their profile page where they can set attributes
 and join available lists and sub-groups.
@@ -46,7 +53,11 @@ their profile page.
 <span class="free sub">
 
 When a new member is added this way, they are sent an email
-where **JHJHJHgrammar?** they need to click a button to accept the
+where 
+<span class="todo">
+**JHJHJHgrammar?**
+</span>
+they need to click a button to accept the
 invitation to join and which contains links to the Email Feed and to
 their profile page where they can set attributes and join available
 lists and sub-groups.
@@ -68,13 +79,13 @@ there.
 Your sign up page will be customized with your account theme that
 includes shades of its primary color and logo.
 You can also replace the default text on your sign-up page by editing
-the **Subscription Sign-up** page on the **Gear’s JHJHJHGear? Site
+the **Subscription Sign-up** page on the Gear’s **Site
 Customizations** tab.
 
 Once a subscriber signs up, they are emailed to confirm their interest
 in subscribing and to verify their email address.
-Then depending on your **Membership settings** on the **Gear’s
-JHJHJHGear? Account Settings** tab:
+Then depending on your **Membership settings** on the Gear’s
+**Account Settings** tab:
 
 <span class=”sub g4s”>
 
@@ -94,9 +105,14 @@ Applications** tab often until you notice new applications slowing,
 and then turning this setting on.
 
 * If "Welcome" emails are sent, new subscribers are sent an email with
-links to the group’s **Email Feed JHJHJHlink?** and their
+links to the group’s
+**Email Feed 
 <span class="todo">
-profile **JHJHJHlinklink-needed?**
+JHJHJHlink-needed?**
+</span>
+and their profile
+<span class="todo">
+**JHJHJHlink-needed?**
 </span>
 where they can set attributes and join available lists and sub-groups.
 

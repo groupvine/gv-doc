@@ -1,6 +1,10 @@
 # Managing your Membership
 
-## What's on the Member's Profile Page OR Subscriber Profile Page JHJHJHwhich?
+<span class="todo">
+What's on the Member's Profile Page OR Subscriber Profile Page JHJHJHwhich?
+</span>
+
+## What's on the Member's Profile Page
 <span id="gv-whats-on-the-members"></span>
 
 The profile page is a way for subscribers to set and join the following
@@ -22,8 +26,9 @@ of the account Gear’s **Member Attributes** tab.)
 
 Administrators can update subscriber profiles too by selecting the
 subscriber’s ellipsis
+**(three vertical dots)**
 <span class="todo">
-**(three vertical dots) JHJHJHicon-needed**
+JHJHJHicon-needed
 </span>
 on the **Member Listing** tab on the **Membership** page.
 However, only the subscriber can change their Opt-out status or password

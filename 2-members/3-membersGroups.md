@@ -43,19 +43,22 @@ tab.
 To allow subscribers to join sub-groups from their profile page, select
 the sub-groups to be visible to the subscriber from the account Gear’s
 **Site Customizations** tab.
+Click **here**
 <span class="todo">
-Click **here JHJHJHlink-needed**
+JHJHJHlink-needed
 </span>
 for more information on profile pages.
 
 Also, multiple sub-group levels are possible (contact
+**GV-BRAND**
 <span class="todo">
-**GV-BRAND JHJHJHlink-needed-or-text-needed?**
+JHJHJHlink-needed-or-text-needed?**
 </span>
 to allow for more than one sub-group level). 
 
+Click **here**
 <span class="todo">
-Click **here JHJHJHlink-needed**
+JHJHJHlink-needed
 </span>
 for details on sending to a sub-group
 from your online account or from your personal email account.
