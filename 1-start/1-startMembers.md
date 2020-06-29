@@ -44,16 +44,11 @@ new members access to their profile page.
 
 <span class="free sub">
 
-When a new member is added this way, they are sent an email
-where 
-<span class="todo">
-**JHJHJHgrammar?**
-</span>
-they need to click a button to accept the
-invitation to join and which contains links to the Email Feed and to
-their profile page where they can set attributes and join available
-lists and sub-groups.
-Once they accept, they are opted-in and ready to receive email.
+When a new member is added this way, they are sent an invitation email
+with a Confirm button they need to click to join, and which contains
+links to the Email Feed and to their profile page where they can set
+attributes and join available lists and sub-groups.  Once they confirm,
+they are opted-in and ready to receive email.
 
 </span>
 
@@ -97,16 +92,8 @@ Applications** tab often until you notice new applications slowing,
 and then turning this setting on.
 
 * If "Welcome" emails are sent, new subscribers are sent an email with
-links to the group’s
-**Email Feed 
-<span class="todo">
-JHJHJHlink-needed?**
-</span>
-and their profile
-<span class="todo">
-**JHJHJHlink-needed?**
-</span>
-where they can set attributes and join available lists and sub-groups.
+links to the group’s **Email Feed** and their profile page where they
+can set attributes and join available lists and sub-groups.
 
 </span> <!-- sub g4s -->
 
