@@ -30,18 +30,13 @@ the **Add New Member** tab on your **Membership** page, and then click **Add**.
 
 <span class=”g4s”>
 
-When a new member is added this way, they are ready 
-<span class="todo">
-**JHJHJH s/b "they are already...?**
-</span>
+When a new member is added this way, they are already
+opted-in and 
 opted-in and ready to receive email.
 
-If Welcome emails are sent (set on the Gear’s
-<span class="todo">
-**JHJHJHwhat is Gear??**
-</span>
- **Account
-Settings** tab), new members are sent an email with links to the
+If Welcome emails are sent (set in the **Account Settings**
+![Account Settings](/docimages/gear-icon.png)),
+new members are sent an email with links to the
 **Email Feed** and to their profile page where they can set attributes
 and join available lists and sub-groups.
 We recommend sending "Welcome" emails to give new members access to
