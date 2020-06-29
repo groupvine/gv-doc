@@ -25,20 +25,17 @@ For information on importing a membership file,
 To add a new member to your account, you can enter their information on
 the **Add New Member** tab on your **Membership** page, and then click **Add**.
 
-![Add New Member](/docimages/add-new-member.png)
-
+![Add New Member](/docimages/add-new-member.png | width=600)
 
 <span class=”g4s”>
 
-When a new member is added this way, they are already
-opted-in and 
+When a new member is added this way, they are already opted-in and
 opted-in and ready to receive email.
 
-If Welcome emails are sent (set in the **Account Settings**
-![Account Settings](/docimages/gear-icon.png)),
-new members are sent an email with links to the
-**Email Feed** and to their profile page where they can set attributes
-and join available lists and sub-groups.
+If Welcome emails are sent (as set in the **Account Settings**
+![Account Settings](/docimages/gear-icon.png | height=22)), new members are sent
+an email with links to the **Email Feed** and to their profile page
+where they can set attributes and join available lists and sub-groups.
 We recommend sending "Welcome" emails to give new members access to
 their profile page.
 
