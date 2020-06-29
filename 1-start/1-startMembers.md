@@ -27,8 +27,7 @@ the **Add New Member** tab on your **Membership** page, and then click **Add**.
 
 <img src="/docimages/add-new-member.png" width="600">
 
-
-<span class=”g4s”>
+<span class="g4s">
 
 When a new member is added this way, they are already opted-in and
 opted-in and ready to receive email.
@@ -74,7 +73,7 @@ in subscribing and to verify their email address.
 Then depending on your **Membership settings** on the Gear’s
 **Account Settings** tab:
 
-<span class=”sub g4s”>
+<span class="sub g4s">
 
 * If an Administrator approval is required to admit a new subscriber to
 your account, then the subscriber’s application will appear on the
