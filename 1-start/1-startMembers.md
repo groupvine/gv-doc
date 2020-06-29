@@ -27,6 +27,7 @@ the **Add New Member** tab on your **Membership** page, and then click **Add**.
 
 <img src="/docimages/add-new-member.png" width="600">
 
+
 <span class=”g4s”>
 
 When a new member is added this way, they are already opted-in and
