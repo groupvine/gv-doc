@@ -10,8 +10,8 @@
 thinking we might make them links**
 </span> <!-- todo -->
 
-### Send email from your online account
 <span id="gv-1start-2startsend-online"></span>
+### Send email from your online account
 
 To compose and send an email from your online account, select New
 dEmail in the header and then select **Prepare email online**.
