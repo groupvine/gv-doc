@@ -12,7 +12,7 @@ ways:
 ### Upload an import file
 <span id="gv-1start-1startMembers"></span>
 
-For information on importing a membership file, click [**here**](./2-startSend?[LINK-QARGS-DOC])
+For information on importing a membership file, click [**here**](./2-startSend.md?[LINK-QARGS-DOC])
 
 <span class="todo">
 **JHJHJH fix link**
