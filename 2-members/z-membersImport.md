@@ -1,7 +1,7 @@
 # Membership Import
 
 ## How Importing Membership
-<span id="gv-how-importing-impacts"></span>
+<span id="gv-2members-zmembersimport"></span>
 
 Importing will change a member’s attributes, roles, and membership
 to lists and sub-groups to reflect how this information is set in
@@ -38,8 +38,6 @@ attribute value, can have their values set or removed by adding the
 attribute name to a column header and the member’s value for that
 attribute in their row. A “blank” cell will remove the attribute’s
 value for that member.
-
-JHJHJH678901234567890123456789012345678901234567890123456789012345678901
 
 Note
 
@@ -99,9 +97,6 @@ To set or change a member's role, specify their role in a "Role"
 column, like this (the City, Sport, and Fav Color custom attributes are
 just shown to give a more complete import example necessary).  
  
-**JHJHJH Not sure what I'm doing wrong here but there's a span class
-box just below this line, and it doesn't seem to be showing up**
-
 <span class="box">
 Uploading a blank cell for a member’s Role will remove the member from
 the account, and similarly for sub-groups and their sub-group column.
@@ -132,7 +127,9 @@ when the import was complete.
 New lists can be created using an import file simply by adding
 list:[list name] to a new column header in your import file.
 For more information about lists, **click here**
-**JHJHJHJHlink-needed for click here. After fixing class todo, rewrap with span**
+<span class="todo">
+**JHJHJHJHlink-needed for click here.**
+</span>
 .
 
 ## Uploading to Groups
@@ -144,7 +141,9 @@ of ways such as allowing groups to have their own Administrators
 and Editors.  for delegation of their Administrator and Editor
 roles to to specific users for that sub-group.  For more information
 about sub-groups, **click here**
-**JHJHJHJHlink-needed for click here. After fixing class todo, rewrap with span**
+<span class="todo">
+**JHJHJHJHlink-needed for click here.**
+</span>
 .
 
 Where new lists can be created using an import file, groups need

@@ -1,7 +1,7 @@
 # Email Delivery & Troubleshooting
 
 ## Members are not getting emails
-<span id="gv-Members-are-not-getting"></span>
+<span id="gv-6delivery-1delivmissing"></span>
 
 ### Some of our members are not receiving their email, or they don't realize they landed in spam/junk folders. What can we do?
 
@@ -37,12 +37,10 @@ Once the provider processes this information, subsequent emails should
 start getting delivered to the user's inbox.
 
 
-<span class="todo">
-  link needed for Comcast users below
-</span>
-
 * For Comcast users, **click here**
-**JHJHJHJHlink-needed for click here. After fixing class todo, rewrap with span**
+<span class="todo">
+**JHJHJHJHlink-needed for click here**
+</span> <!-- todo">
 and follow the
 steps under **Change Spam Filter** preference 
 <span class="todo">
@@ -60,7 +58,11 @@ The steps on Comcast's site are slightly out of date.
 
 * For Verizon users,
 **click here**
-**JHJHJHJHlink-needed for click here. After fixing class todo, rewrap with span**
+
+<span class="todo">
+**JHJHJHJHlink-needed for click here**
+</span> <!-- todo">
+
 and follow the steps to view messages that Verizon's Spam Detector filters.
 
 Once your spam folder is set up, be sure to check it by signing directly
@@ -82,7 +84,7 @@ If you find an email there, click on its checkbox and click **Not Spam**.
 <span class="support">
 
 ** the text 'Groupvine Support' from the doc is probably not needed here **
-
+<span class="todo">
 !-- JHJHJH Note to Groupvine Staff: limiting to some number of columns,
  -- perhaps 72, maybe even a lot less, is important here because the text
  -- is essentially quoted/indented
@@ -91,6 +93,7 @@ If you find an email there, click on its checkbox and click **Not Spam**.
 !-- Note to Groupvine Staff: couldn't get markdown blockquotes ('>') to work
  -- here, so trying indent with four spaces. The downside of this approach
  -- causes the text to be in 'code' format (font not so pleasing)
+</span> <!-- todo">
  
 </span>
 
@@ -300,7 +303,9 @@ If you’re sure the email address for your recipient is valid then their organi
 Most likely they need to whitelist the GroupVine email server listed above to allow your emails to be forwarded along to the recipients.
 
 If there are no errors being reported for these recipients then please check to see if your email is landing in the spam or junk mail folders. If so, please ask them to add your sender email address to their safe senders and/or contact lists. For more information on how to add email addresses to a safe sender list or address book **click here**
-**JHJHJHJHlink-needed for click here. After fixing class todo, rewrap with span**
+<span class="todo">
+**JHJHJHJHlink-needed for click here.**
+</span>
 .
 
 Scenario 2: Members with an email address from one of the Email Service Providers (eg. Gmail, Yahoo, AOL, etc). are reporting they are not receiving my emails.

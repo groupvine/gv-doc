@@ -1,7 +1,7 @@
 # Sending Emails
 
 ## Text notifications for new or "urgent" emails
-<span id="gv-text-notifications"></span>
+<span id="gv-2members-3membersgroups"></span>
 
 Members can optionally receive text notifications with a link to the
 ive email for either all emails or just ones the sender has tagged as

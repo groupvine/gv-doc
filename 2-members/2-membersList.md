@@ -13,7 +13,9 @@ email from a personal email account.
 * New lists can be created and members can be assigned to those lists
 when importing.  
 **Click here**
-**JHJHJHJHlink-needed for click here. After fixing class todo, rewrap with span**
+<span class="todo">
+**JHJHJHJHlink-needed for click here.
+</span>
 for details.
 
 * Sub-groups can view which of their members are on a list that was
@@ -28,23 +30,28 @@ Group Administrators will need to add sub-group members to their local
 lists.
 
 Click ** here **
-**JHJHJH link-needed and todo not working here.
-After todo is fixed, rewrap with span**
+<span class="todo">
+**JHJHJH link-needed**
+</span>
+
 for more information on profile pages.
 
 Normally, the group’s Administrators and Editors send email to member
 lists and list recipients can only reply to the sender.
-**class="sub g4s" Not sure how to apply "class=sub g4s"" to this
-next sentence without detaching it from the previous sentence. Using a
-div forces a new paragraph**
-**Also, span sub g4s seems to not be working here. Rewrap after fixing**
+
+<span class="todo">
+**Not sure how to apply "class=sub g4s" to this next sentence without
+detaching it from the previous sentence.**
+</span> <!-- todo -->
+
+<span class="sub g4s">
 If you are interested in allowing general members
 to send email, then we suggest using sub-groups.
+</span>
 
 Click **here**
+<span class="todo">
 **JHJHJHlink-needed**
-**Also, span sub g4s seems to not be working here. Rewrap after fixing todo**
+</span>
 for details on sending to a list from
 your online account or from your personal email account.
-
-**Also, span sub g4s seems to not be working here. Rewrap after fixing**

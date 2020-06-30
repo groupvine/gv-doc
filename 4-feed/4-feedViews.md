@@ -1,7 +1,7 @@
 # Email Feed
 
 ## Gallery View, Listing View, and Email Actions
-<span id="gv-gallery-view"/></span>
+<span id="gv-4feed-4feedviews"/></span>
 
 By default, Email Feeds appear in Gallery View with each email showing
 either Email Widget summary images if the email has Email Widgets, an

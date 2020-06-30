@@ -1,7 +1,7 @@
 # Managing your Membership
 
 ## Use Sub-groups for groups that can work independently from the main group
-<span id="gv-2members-3-membersGroups"></span>
+<span id="gv-2members-3membersGroups"></span>
 
 <span class="sub g4s">
 
@@ -44,18 +44,22 @@ To allow subscribers to join sub-groups from their profile page, select
 the sub-groups to be visible to the subscriber from the account Gear’s
 **Site Customizations** tab.
 Click **here**
-**JHJHJHlink-needed, and span todo broken. Rewrap when todo is fixed**
+<span class="todo">
+**JHJHJHlink-needed**
+</span>
 for more information on profile pages.
 
 Also, multiple sub-group levels are possible (contact
 **GV-BRAND**
-**JHJHJHlink-needed or text-needed, and span todo broken. Rewrap when
-todo is fixed**
+<span class="todo">
+**JHJHJHlink-needed or text-needed**
+</span>
 to allow for more than one sub-group level). 
 
 Click **here**
-**JHJHJHlink-needed or text-needed, and span todo broken. Rewrap when
-todo is fixed**
+<span class="todo">
+**JHJHJHlink-needed or text-needed**
+</span>
 for details on sending to a sub-group
 from your online account or from your personal email account.
 

@@ -1,7 +1,7 @@
 # Sending Emails
 
 ## Email settings
-<span id="gv-email-settings"></span>
+<span id="gv-2members-sendsettings"></span>
 
 <span class="sub g4s">
 Email settings can be found on the **Account Settings** or **Sub-group 
@@ -59,9 +59,8 @@ Here are the two options for the account’s **Default email layout**,
 although the layout can be overridden by making a Layout selection
 from **Options** in the email’s **Compose** header.
 <span class="todo">
-**JHJHJH not sure what
-two options means given each is qualified by further class divs, and so
-they might not both be visible.
+**JHJHJH not sure what two options here means given that each is
+qualified by further class divs, and so they might not both be visible.
 </span>
 
 <span class="sub">

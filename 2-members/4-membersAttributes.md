@@ -1,7 +1,7 @@
 # Managing your Membership
 
 ## Member Attributes
-<span id="gv-member-attributes"></span>
+<span id="gv-2members-4membersattributes"></span>
 
 <span class="todo">
 ## We use a header line further below, don't we need one here? JHJHJH
@@ -30,7 +30,9 @@ XYZ?`
 
 **Click here**
 
-**JHJHJH link-needed, and todo broken. Rewrap in todo when todo fixed **
+<span class="todo">
+**JHJHJH link-needed**
+</span>
 
 for more information about sending email using attributes.
 From their profile page, subscribers can set attribute values that
@@ -39,10 +41,14 @@ are made available to them by the Administrator on the account Gear’s
 
 Attribute values can be set using an import file or by clicking on a
 subscriber's ellipsis **(3 vertical dots)**
-**JHJHJH icon-needed? and todo is broken, rewrap after todo fixed**
+<span class="todo">
+**JHJHJH icon-needed?**
+</span>
 from the **Member Listing** tab on the **Membership** page.
 For more information about importing, click **here**
-**JHJHJH link-needed? and todo is broken, rewrap after todo fixed**
+<span class="todo">
+**JHJHJH link-needed**
+</span>
 .
 
 Note, editing an attribute’s definition is not allowed since

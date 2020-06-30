@@ -73,8 +73,9 @@ GroupVine 4 School and Subscription documentation modes.
       query arg.  (Should **NOT** include any information we
       wouldn't want to show to users, in case they add this support=1
       query arg themself ... may add security to this later.)
-    * **todo** TODO blocks, currently always shown, but
-      will later be hidden unless in support mode.
+<span class="todo">
+    * **todo** "hidden unless in support mode."
+</span>
 
 * Note that these class tags may also be used on block-level
   elements (like div or tr) for conditional code, but only if all the

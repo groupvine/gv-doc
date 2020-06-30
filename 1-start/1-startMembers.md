@@ -1,7 +1,7 @@
 # Getting Started
 
 ## Add new Members/Subscribers
-<span id="gv-add-new-members"></span>
+<span id="gv-1start-1startmembers"></span>
 
 New members can be added to your account or sub-group in the following
 ways:
@@ -10,11 +10,10 @@ ways:
 * Have Subscribers sign up
 
 ### Upload an import file
-<span id="gv-upload-an-import-file"></span>
+<span id="gv-1start-1startMembers"></span>
 
 For information on importing a membership file, click **here**
 
-**JHJHJH todo span link click not working**
 <span class="todo">
 **JHJHJHlink-needed**.
 </span>
@@ -22,17 +21,11 @@ For information on importing a membership file, click **here**
 ### Add new members from the Membership page
 <span id="gv-add-new-members-from-the-membership"></span>
 
-012345678901234567890123456789012345678901234567890123456789012345678901
 To add a new member to your account, you can enter their information on
 the **Add New Member** tab on your **Membership** page, and then click
 **Add**.
 
 <img src="/docimages/add-new-member.png" width="600">
-
-**JHJHJH There is g4s block of two paragraphs that is not appearing
-here. It begins with "When a new member is added this way, they are
-already opted-in and ready to receive email." as well as showing
-an image**
 
 <span class="g4s">
 
@@ -48,10 +41,6 @@ new members access to their profile page.
 
 </span> <!-- g4s -->
 
-**JHJHJH The following is the free sub block following the g4s block
-which did not show. Originally I added this comment inside of a class
-class todo, but it did not show. So, added directly here**
-
 <span class="free sub">
 
 When a new member is added this way, they are sent an email where they
@@ -60,9 +49,8 @@ contains links to the Email Feed and to their profile page where they
 can set attributes and join available lists and sub-groups.  Once they
  accept, they are opted-in and ready to receive email.
 
-</span>
+</span> <!--free sub -->
 
-012345678901234567890123456789012345678901234567890123456789012345678901
 ### Have Subscribers sign up
 <span id="gv-have-subscribers-sign-up"></span>
 
@@ -75,9 +63,8 @@ code that you can add to your own website so people can sign up from
 there.
 
 Your sign up page will be customized with your **account theme**
-
-*JHJHJH link-needed**
 <span class="todo">
+*JHJHJH link-needed**
 </span>
 that includes shades of its primary color and logo.
 You can also replace the default text on your sign-up page by editing

@@ -3,7 +3,7 @@
 <span class="sub g4s">
 
 ## Public or Private?
-<span id="gv-public-or-private"/></span>
+<span id="gv-4feed-2feedvisibility"/></span>
 
 Visitors or non-members can navigate to an account’s Email Feed,
 but only emails in a public feed or emails that are individually set to

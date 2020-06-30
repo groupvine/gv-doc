@@ -1,7 +1,7 @@
 # Email Feed
 
 ## The Look of your Feed - Color, Logo, and Design
-<span id="gv-the-look-of-your-feed"/></span>
+<span id="gv-4feed-3feedtheme"/></span>
 
 Your **Email Feed** page is shown with shades of its theme’s primary
 color and logo that are both set on the **Account Settings** or

@@ -1,7 +1,7 @@
 # Email Feed
 
 ## Email Feed for Published Emails
-<span id="gv-email-feed-for-published"/></span>
+<span id="gv-4feed-1feedintro"/></span>
 
 The **Email Feed** is your account’s **Home** page that visitors
 will navigate to with the opportunity to subscribe.

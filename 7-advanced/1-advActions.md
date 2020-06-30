@@ -1,14 +1,7 @@
-<span class="not:adv">
-<span class="todo">
-**Not Advanced!**
-
-Need a friendly "no such page" or "permission-denied" or something message
-</span> <!-- todo -->
-</span> <!-- not:adv -->
-
 <span class="adv">
+
 # Advanced - Email Actions
-<span id="gv-email-actions"></span>
+<span id="gv-7advanced-1-advActions"></span>
 
 A number of operations can be conducted without visiting your online
 account at all, but simply by emailing instructions to your account

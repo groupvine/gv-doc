@@ -1,7 +1,7 @@
 # Email Delivery & Troubleshooting
 
 ## bounced emails
-<span id="gv-bounced-emails"></span>
+<span id="gv-6delivery-2delivbounce-emails"></span>
 
 <span class="todo">
 TBD

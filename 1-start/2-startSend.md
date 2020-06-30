@@ -48,15 +48,18 @@ If you are sending from your online account, use the Pers… (short for
 “Personalization”) menu in the email editor.
 To your email is added a placeholder which will be translated to the
 subscriber’s value in their received email.
-**JHJHJH Maybe "First Name" should be an img or icon? When class todo
-is working again, rewrap comment with <span class="todo"> ... </span>**
+<span class="todo">
+**JHJHJH Maybe "First Name" should be an img or icon?
+</span> <!-- todo -->
 For example, in your email if you type “Hi “ and then select “First
 Name” from the Personalization menu, the placeholder "First Name"
 is added to your
 email.  When you Preview your email, you’ll see the attribute placeholder
 was replaced with your First Name as you have it set in your profile.
 For more information about Member Attributes, **click here**
-**JHJHJHJHlink-needed for click here. After fixing class todo, rewrap with span**
+<span class="todo">
+**HJHJHJHlink-needed for click here**
+</span> <!-- todo -->
 .
 
 * Use Email Widgets to ask questions or gather information with these
@@ -64,7 +67,9 @@ five types of Email Widgets (Text, Count, RSVP, Yes-No,
 Single/Multi-Choice) that can be added directly into your email using
 the **Widget** menu.
 For more information about Email Widgets, **click here**
-**JHJHJHJHlink-needed for click here. After fixing class todo, rewrap with span**
+<span class="todo">
+**JHJHJHJHlink-needed for click here**
+</span> <!-- todo -->
 .
 
 Note, your email will be “From” your display name, which is your
@@ -108,8 +113,9 @@ refresh your feed.
  
 To send an email to your account from your own inbox, simply send it
 to your account’s abbreviation `‘@’ groupvine.com`
+<span class="todo">
 **JHJHJH (is this correct?? Also example images below use groupvine.com too)
-After fixing class todo, rewrap with span**
+</span> <!-- todo -->
 , for example:
 
 ```
@@ -137,7 +143,9 @@ To personalize your email using attribute values, view the
 instructions on the **Personalize** tab for emails sent from your
 personal email account.
 For more information about Member Attributes, click **here**
-**JHJHJHJHlink-needed for click here. After fixing class todo, rewrap with span**
+<span class="todo">
+**JHJHJHJHlink-needed for click here.**
+</span> <!-- todo -->
 .
 
 To add Email Widgets to ask questions or gather information, follow
@@ -145,7 +153,9 @@ the instructions on the **Widgets** tab for email sent from your
 personal email account to add any of the four types of Email Widgets
 (Text, Count, RSVP, and Yes-No).
 For more information about Email Widgets, **click here**
-**JHJHJHJHlink-needed for click here. After fixing class todo, rewrap with span**
+<span class="todo">
+**JHJHJHJHlink-needed for click here.
+</span> <!-- todo -->
 .
 
 Note, in general when sending from your personal email account,
@@ -155,8 +165,7 @@ page, but your email handler may preset the “From” to the name
 you have previously used to send email.
 
 These emails will show up in the **Email Feed** with
-**JHJHJHJH inbox tray icon-needed for click here. After fixing class
-todo, rewrap with span**
+<span class="todo">
+**JHJHJHJH inbox tray icon-needed for click here.**
+</span> <!-- todo -->
 to identify that the email was sent from a personal email account.
-
-012345678901234567890123456789012345678901234567890123456789012345678901
