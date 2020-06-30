@@ -15,11 +15,12 @@ ways:
 For information on importing a membership file, click **here**
 
 <span class="todo">
-**JHJHJHlink-needed**.
+**JHJHJHlink-needed**
 </span>
+.
 
 ### Add new members from the Membership page
-<span id="gv-add-new-members-from-the-membership"></span>
+<span id="gv-5widgets-1startmembers-add-new-members-from-the-membership"></span>
 
 To add a new member to your account, you can enter their information on
 the **Add New Member** tab on your **Membership** page, and then click
@@ -52,7 +53,7 @@ can set attributes and join available lists and sub-groups.  Once they
 </span> <!--free sub -->
 
 ### Have Subscribers sign up
-<span id="gv-have-subscribers-sign-up"></span>
+<span id="gv-5widgets-1startmembers-have-subscribers-sign-up"></span>
 
 All accounts are equipped with a public page where people can sign up to
 subscribe to your emails.

@@ -14,7 +14,7 @@ For the examples below, we're using the fictitious "bingotech"
 account, which you should replace with your account name.
 
 ## Exporting your membership
-<span id="gv-export-membership-action"></span>
+<span id="gv-7advanced-1advactions-sexport-membership-action"></span>
 
 To have your full membership sent to you, along with delivery
 statistics, any list and sub-group memberships, etc., send an email
@@ -31,7 +31,7 @@ For example:
 ```
 
 ## Exporting your pending membership applications
-<span id="gv-export-apps-action"></span>
+<span id="gv-7advanced-1advactions-export-apps-action"></span>
 
 To export your the membership applications pending for your account, 
 send an email to:
@@ -54,7 +54,7 @@ imported.
 
 
 ## Importing membership or membership changes
-<span id="gv-importing-membership-action"></span>
+<span id="gv-7advanced-1advactions-importing-membership-action"></span>
 
 You can email your membership file to your account's server to be
 imported using the following address:
@@ -81,7 +81,7 @@ If you'd like to ensure that no modifications are done to settings of existing m
 
 
 ## Adding, deleting, or modifying sub-groups
-<span id="gv-modifying-groups-action"></span>
+<span id="gv-7advanced-1advactions-modifying-groups-action"></span>
 
 An account's sub-groups can also be managed by email by creating and
 attaching a group-instructions CSV file using the following columns:
@@ -180,7 +180,7 @@ For example, for the bingotech account and a file named
 <span class="support">
 
 ## Configuring an account
-<span id="gv-configuring-acccount-action"></span>
+<span id="gv-7advanced-1advactions-configuring-acccount-action"></span>
 
 **NOTE:** this email-action (configuring an account) contains very
 little error checking, so is only provided for possible use by GroupVine support

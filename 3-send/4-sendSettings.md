@@ -1,14 +1,14 @@
 # Sending Emails
 
 ## Email settings
-<span id="gv-2members-sendsettings"></span>
+<span id="gv-2members-4sendsettings"></span>
 
 <span class="sub g4s">
 Email settings can be found on the **Account Settings** or **Sub-group 
 Settings** on their respective **Gear** page.
 Note that settings with an `*` mark  in **Account Settings** can be
 overridden in the **Sub-group Settings**.
-</span> <!-- sub g4s">
+</span> <!-- sub g4s"-->
 
 <span class="free">
 Email settings can be found in the **Account Settings** on the Gear
@@ -16,7 +16,7 @@ page.
 <!span> <!-- free -->
 
 ### Theme Colors & Logo
-<span id="gv-theme-colors-and-logo"></span>
+<span id="gv-2members-4sendsettings-theme-colors-and-logo"></span>
      
 <span class="sub g4s">
 Theme colors and logo can be chosen for your account and sub-groups to
@@ -53,7 +53,7 @@ Feed**, **subscription** page, and in templates that include the logo.
 <span class="sub g4s">
 
 ### Default Email Layout
-<span id="gv-default-email-layout"></span>
+<span id="gv-2members-4sendsettings-default-email-layout"></span>
 
 Here are the two options for the account’s **Default email layout**,
 although the layout can be overridden by making a Layout selection
@@ -82,7 +82,7 @@ JHJHJHimage-needed for this part?
 <span class="sub g4s">
 
 ### Use Moderation to review emails before they are sent
-<span id="gv-use-moderation"></span>
+<span id="gv-2members-4sendsettings-use-moderation"></span>
 
 Moderation adds an additional level of security to avoid the risk
 of unwanted or inappropriate emails sent to a group.
@@ -90,10 +90,10 @@ When **Is account moderated?** is set to `Yes`, the Administrators
 are sent the pending email to review and can either approve or deny
 its delivery.
 
-</span> <!-- sub g4s">
+</span> <!-- sub g4s"-->
 
 ### Who can send emails
-<span id="gv-who-can-send-emails"></span>
+<span id="gv-2members-4sendsettings-who-can"></span>
 
 <span class="free">
 
