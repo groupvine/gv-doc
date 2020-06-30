@@ -140,6 +140,8 @@ also send account emails?** on the **Account Settings** tab or on each
 
 </span> <!-- sub g4s -->
 
+<span class="adv">
+     
 Emails to new group subscribers/members, i.e. "Welcome" emails, "Accept
 Invitation" emails, and "Confirm Interest" emails, where Administrators
 do not need to approve of the new subscriber, include instructions on
@@ -147,8 +149,10 @@ how to send email to the group.
 Only the "Confirm Interest" emails where an Administrator approval of
 new subscribers does not include this information.  
 
-
+</span>
+     
 **To avoid the risk of spammers sending emails to a group from a possibly
 compromised email account, after an email is sent from a personal
 email, a confirmation mail is sent to the sender where the sender must
 confirm the email before it can be forwarded to the group.**
+
