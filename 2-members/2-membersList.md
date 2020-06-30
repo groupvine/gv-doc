@@ -12,7 +12,9 @@ email from a personal email account.
 
 * New lists can be created and members can be assigned to those lists
 when importing.  
-Click here
+Click **here**
+
+**JHJHJH todo not working here**
 <span class="todo">
 Click here **JHJHJHlink-needed**
 </span>
@@ -28,7 +30,9 @@ Note, from their profile page, subscribers can only join lists defined
 in the account level.
 Group Administrators will need to add sub-group members to their local
 lists.
+
 Click ** here **
+**JHJHJH todo not working here**
 <span class="todo">
 JHJHJHlink-needed
 </span>
