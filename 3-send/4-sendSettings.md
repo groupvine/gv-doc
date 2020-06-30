@@ -13,7 +13,7 @@ overridden in the **Sub-group Settings**.
 <span class="free">
 Email settings can be found in the **Account Settings** on the Gear
 page.
-<!span> <!-- free -->
+</span> <!-- free -->
 
 ### Theme Colors & Logo
 <span id="gv-2members-4sendsettings-theme-colors-and-logo"></span>
