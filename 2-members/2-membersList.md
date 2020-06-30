@@ -14,7 +14,7 @@ email from a personal email account.
 when importing.  
 **Click here**
 <span class="todo">
-**JHJHJHJHlink-needed for click here.
+**JHJHJHJHlink-needed
 </span>
 for details.
 

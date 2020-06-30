@@ -4,11 +4,11 @@
 <span id="gv-2members-4sendsettings"></span>
 
 <span class="sub g4s">
-Email settings can be found on the **Account Settings** or **Sub-group 
+Email settings can be found in the **Account Settings** or **Sub-group 
 Settings** on their respective **Gear** page.
 Note that settings with an `*` mark  in **Account Settings** can be
 overridden in the **Sub-group Settings**.
-</span> <!-- sub g4s"-->
+</span> <!-- sub g4s -->
 
 <span class="free">
 Email settings can be found in the **Account Settings** on the Gear
@@ -113,7 +113,7 @@ of our service offerings or upgrade your account
 
 **here**
 <span class="todo">
- **JHJHJHlink-needed**.
+**JHJHJHlink-needed**
 </span>
 .
 

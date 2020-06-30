@@ -128,7 +128,7 @@ New lists can be created using an import file simply by adding
 list:[list name] to a new column header in your import file.
 For more information about lists, **click here**
 <span class="todo">
-**JHJHJHJHlink-needed for click here.**
+**JHJHJHJHlink-needed for click here**
 </span>
 .
 
@@ -142,7 +142,7 @@ and Editors.  for delegation of their Administrator and Editor
 roles to to specific users for that sub-group.  For more information
 about sub-groups, **click here**
 <span class="todo">
-**JHJHJHJHlink-needed for click here.**
+**JHJHJHJHlink-needed for click here**
 </span>
 .
 

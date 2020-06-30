@@ -144,7 +144,7 @@ instructions on the **Personalize** tab for emails sent from your
 personal email account.
 For more information about Member Attributes, click **here**
 <span class="todo">
-**JHJHJHJHlink-needed for click here.**
+**JHJHJHJHlink-needed for click here**
 </span> <!-- todo -->
 .
 
@@ -154,7 +154,7 @@ personal email account to add any of the four types of Email Widgets
 (Text, Count, RSVP, and Yes-No).
 For more information about Email Widgets, **click here**
 <span class="todo">
-**JHJHJHJHlink-needed for click here.
+**JHJHJHJHlink-needed for click here**
 </span> <!-- todo -->
 .
 

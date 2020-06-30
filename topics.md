@@ -33,7 +33,7 @@
           Managing your Membership
           <ul>
             <li>
-              <a href="/1-start/1-startMembers[LINK-QARGS-DOC]">
+              <a href="/1-start/1-startMembers[LINK-QARGS-DOC]#gv-1start-1startmembers">
                 Add new Members/Subscribers
               </a>
             </li>

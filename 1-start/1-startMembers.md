@@ -12,10 +12,10 @@ ways:
 ### Upload an import file
 <span id="gv-1start-1startMembers"></span>
 
-For information on importing a membership file, click **here**
+For information on importing a membership file, click [**here**](./etc[LINK-QARGS-DOC])
 
 <span class="todo">
-**JHJHJHlink-needed**
+**JHJHJH fix link**
 </span>
 .
 

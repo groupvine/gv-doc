@@ -304,7 +304,7 @@ Most likely they need to whitelist the GroupVine email server listed above to al
 
 If there are no errors being reported for these recipients then please check to see if your email is landing in the spam or junk mail folders. If so, please ask them to add your sender email address to their safe senders and/or contact lists. For more information on how to add email addresses to a safe sender list or address book **click here**
 <span class="todo">
-**JHJHJHJHlink-needed for click here.**
+**JHJHJHJHlink-needed for click here**
 </span>
 .
 
