@@ -10,17 +10,17 @@
           Getting Started
           <ul>
             <li>
-              <a href="/1-start/1-startMembers[LINK-QARGS-DOC]">
+              <a href="/1-start/1-startMembers[LINK-QARGS-DOC]]#gv-1start-1startmembers">
                 Add new Members/Subscribers
               </a>
             </li>
             <li>
-              <a href="/1-start/2-startSend[LINK-QARGS-DOC]">
+              <a href="/1-start/2-startSend[LINK-QARGS-DOC]#gv-1start-2startsend">
                 Send from a personal email account or your online account
               </a>
             </li>
             <li>
-              <a href="/1-start/3-startHelp[LINK-QARGS-DOC]">
+              <a href="/1-start/3-startHelp[LINK-QARGS-DOC]]#gv-1start-3starthelp">
                 How to find help (below, help bubbles, contacting us)
               </a>
             </li>

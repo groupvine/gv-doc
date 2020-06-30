@@ -129,8 +129,11 @@ Looking just at Tim, if Tim was on the golfers list before this file
 was imported, then he would have been removed from the golfers list
 when the import was complete.
 
-New lists can be created using an import file simply by adding list:[list name] to a new column header in your import file.
-For more information about lists, click here.
+New lists can be created using an import file simply by adding
+list:[list name] to a new column header in your import file.
+For more information about lists, **click here**
+**JHJHJHJHlink-needed for click here. After fixing class todo, rewrap with span**
+.
 
 ## Uploading to Groups
 <div id="gv-uploading-to-groups"></div>
@@ -140,11 +143,9 @@ targeting of community members, but are more powerful in a number
 of ways such as allowing groups to have their own Administrators
 and Editors.  for delegation of their Administrator and Editor
 roles to to specific users for that sub-group.  For more information
-about sub-groups, click here.
-
-<span class="todo">
-**JHJHJHlink-needed**
-</span>
+about sub-groups, **click here**
+**JHJHJHJHlink-needed for click here. After fixing class todo, rewrap with span**
+.
 
 Where new lists can be created using an import file, groups need
 to be created in your account before referencing them in an import

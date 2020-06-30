@@ -28,28 +28,21 @@ For example, you can choose your recipients to be subscribers who
 selected the checkbox attribute for `Can you help with planning for
 XYZ?`
 
-Click **here**
-<span class="todo">
-JHJHJHlink**
-</span>
-for more information about sending email
-using attributes.
+**Click here**
+
+**JHJHJH link-needed, and todo broken. Rewrap in todo when todo fixed **
+
+for more information about sending email using attributes.
 From their profile page, subscribers can set attribute values that
 are made available to them by the Administrator on the account Gear’s
 **Site Customizations** tab.  
 
 Attribute values can be set using an import file or by clicking on a
-subscriber's ellipsis
-(3 vertical dots) 
-<span class="todo">
-JHJHJHicon-needed?
-</span>
-from
-the **Member Listing** tab on the **Membership** page.
-For more information about importing, click **here 
-<span class="todo">
-JHJHJHneed-link**
-</span>
+subscriber's ellipsis **(3 vertical dots)**
+**JHJHJH icon-needed? and todo is broken, rewrap after todo fixed**
+from the **Member Listing** tab on the **Membership** page.
+For more information about importing, click **here**
+**JHJHJH link-needed? and todo is broken, rewrap after todo fixed**
 .
 
 Note, editing an attribute’s definition is not allowed since

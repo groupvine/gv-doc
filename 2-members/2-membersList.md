@@ -1,7 +1,7 @@
 # Managing your Membership
 
 ## Use lists to target an interest group
-<span id="gv-use-lists-to-target"></span>
+<span id="gv-2members-2memberslist"></span>
 
 Lists give you the flexibility to target an email to a sub-set of your
 membership.
@@ -12,9 +12,8 @@ email from a personal email account.
 
 * New lists can be created and members can be assigned to those lists
 when importing.  
-<span class="todo">
-Click here
-</span>
+**Click here**
+**JHJHJHJHlink-needed for click here. After fixing class todo, rewrap with span**
 for details.
 
 * Sub-groups can view which of their members are on a list that was
@@ -29,10 +28,8 @@ Group Administrators will need to add sub-group members to their local
 lists.
 
 Click ** here **
-**JHJHJH todo not working here**
-<span class="todo">
-JHJHJHlink-needed
-</span>
+**JHJHJH link-needed and todo not working here.
+After todo is fixed, rewrap with span**
 for more information on profile pages.
 
 Normally, the group’s Administrators and Editors send email to member
@@ -40,12 +37,14 @@ lists and list recipients can only reply to the sender.
 **class="sub g4s" Not sure how to apply "class=sub g4s"" to this
 next sentence without detaching it from the previous sentence. Using a
 div forces a new paragraph**
-<span class="sub g4s">If you are interested in allowing general members
-to send email, then we suggest using sub-groups.</span>
+**Also, span sub g4s seems to not be working here. Rewrap after fixing**
+If you are interested in allowing general members
+to send email, then we suggest using sub-groups.
 
 Click **here**
-<span class="todo">
-JHJHJHlink-needed
-</span>
+**JHJHJHlink-needed**
+**Also, span sub g4s seems to not be working here. Rewrap after fixing todo**
 for details on sending to a list from
 your online account or from your personal email account.
+
+**Also, span sub g4s seems to not be working here. Rewrap after fixing**
