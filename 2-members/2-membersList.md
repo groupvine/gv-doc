@@ -12,11 +12,8 @@ email from a personal email account.
 
 * New lists can be created and members can be assigned to those lists
 when importing.  
-Click **here**
-
-**JHJHJH todo not working here**
 <span class="todo">
-Click here **JHJHJHlink-needed**
+Click here
 </span>
 for details.
 
