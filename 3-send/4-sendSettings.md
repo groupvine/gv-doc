@@ -151,13 +151,9 @@ new subscribers does not include this information.
 
 </span>
 
-<span style="display:block; border:3px solid grey; padding:10px;">
      
-To avoid the risk of spammers sending emails to a group from a possibly
+**To avoid the risk of spammers sending emails to a group from a possibly
 compromised email account, after an email is sent from a personal
 email, a confirmation mail is sent to the sender where the sender must
-confirm the email before it can be forwarded to the group.
-
-</span>
-
+confirm the email before it can be forwarded to the group.**
 
