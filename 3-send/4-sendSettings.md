@@ -151,7 +151,7 @@ new subscribers does not include this information.
 
 </span>
 
-<span style="border:3px solid grey; padding:10px;">
+<span style="display:block; border:3px solid grey; padding:10px;">
      
 To avoid the risk of spammers sending emails to a group from a possibly
 compromised email account, after an email is sent from a personal
