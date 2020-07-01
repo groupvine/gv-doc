@@ -16,7 +16,7 @@ For information on importing a membership file, click
 [**here**](/1-start/2-startSend.md?[LINK-QARGS-DOC]#gv-1start-2startsend-online)
 
 <span class="todo">
-**JHJHJH fix link**
+**Does that link work?**
 </span>
 .
 
