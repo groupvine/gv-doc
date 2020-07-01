@@ -28,14 +28,9 @@ For example, you can choose your recipients to be subscribers who
 selected the checkbox attribute for `Can you help with planning for
 XYZ?`
 
-Click [**here**](./robinpage.md?[LINK-QARGS-DOC]#robinhash)
+Click [**here**](/1-start/2-startSend.md?[LINK-QARGS-DOC]#gv-1start-2startsend)
 <span class="todo">
-**robin: fix link**
-</span>
-.
-
-<span class="todo">
-**JHJHJH link-needed**
+Does that link work?
 </span>
 
 for more information about sending email using attributes.
@@ -50,9 +45,9 @@ subscriber's ellipsis **(3 vertical dots)**
 </span>
 from the **Member Listing** tab on the **Membership** page.
 For more information about importing,
-click [**here**](./robinpage.md?[LINK-QARGS-DOC]#robinhash)
+click [**here**](/2-members/z-membersImport.md?[LINK-QARGS-DOC]#gv-2members-zmembersimport)
 <span class="todo">
-**robin: fix link**
+**does that link work?**
 </span>
 .
 
