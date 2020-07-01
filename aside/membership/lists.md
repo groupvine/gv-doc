@@ -24,7 +24,7 @@ musiclovers~~bingotech@groupvine.com
 <span class="adv">
 
 For an account with sub-groups
-([see information on sub-groups here](./groups[LINK-QARGS-DOC])), you'll be 
+([see information on sub-groups here](./groups?[LINK-QARGS-DOC])), you'll be 
 pleased to know that group Administrators can define their own lists, which
 will then apply to that group, as well as any sub-groups of that group.  This
 also means that Lists defined at the account level apply to all sub-groups 
