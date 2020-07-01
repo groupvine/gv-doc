@@ -1,7 +1,7 @@
 # Email Feed
 
-## Gallery View, Listing View, and Email Actions
 <span id="gv-4feed-4feedviews"/></span>
+## Gallery View, Listing View, and Email Actions
 
 By default, Email Feeds appear in Gallery View with each email showing
 either Email Widget summary images if the email has Email Widgets, an
@@ -29,7 +29,7 @@ Each email also has an
 JHJHJHicon-needed?**
 </span>
 to a menu of these additional email actions (these
-actions are also available from a live email’s “hamburger”
+actions are also available from a live email’s "hamburger"
 <span class="todo">
 **JHJHJHicon-needed**
 </span>
@@ -51,7 +51,7 @@ option to respond to an email’s Email Widgets as if they were the
 recipient or to email a link specifically for the recipient to respond
 to the widgets.
 This is useful to keep all widget data together in case a recipient
-**“misplaces”**
+**"misplaces"**
 <span class="todo">
 JHJHJHeditorial removequotes from misplaces?
 </span>

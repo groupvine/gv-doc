@@ -1,7 +1,7 @@
 # Sending Emails
 
-## Email settings
 <span id="gv-2members-4sendsettings"></span>
+## Email settings
 
 <span class="sub g4s">
 Email settings can be found in the **Account Settings** or **Sub-group 
@@ -15,8 +15,8 @@ Email settings can be found in the **Account Settings** on the Gear
 page.
 </span> <!-- free -->
 
-### Theme Colors & Logo
 <span id="gv-2members-4sendsettings-theme-colors-and-logo"></span>
+### Theme Colors & Logo
      
 <span class="sub g4s">
 Theme colors and logo can be chosen for your account and sub-groups to
@@ -52,8 +52,8 @@ Feed**, **subscription** page, and in templates that include the logo.
 
 <span class="sub g4s">
 
-### Default Email Layout
 <span id="gv-2members-4sendsettings-default-email-layout"></span>
+### Default Email Layout
 
 Here are the two options for the account’s **Default email layout**,
 although the layout can be overridden by making a Layout selection
@@ -81,8 +81,8 @@ JHJHJHimage-needed for this part?
 
 <span class="sub g4s">
 
-### Use Moderation to review emails before they are sent
 <span id="gv-2members-4sendsettings-use-moderation"></span>
+### Use Moderation to review emails before they are sent
 
 Moderation adds an additional level of security to avoid the risk
 of unwanted or inappropriate emails sent to a group.
@@ -92,8 +92,8 @@ its delivery.
 
 </span> <!-- sub g4s"-->
 
-### Who can send emails
 <span id="gv-2members-4sendsettings-who-can"></span>
+### Who can send emails
 
 <span class="free">
 
@@ -104,16 +104,16 @@ Only the Account Administrator can send emails to its
 members.
 If you need additional senders, you can upgrade to a
 Subscription service, which also offers other expanded services.
-Click
+Click [**here**](./robinpage.md?[LINK-QARGS-DOC]#robinhash)
 <span class="todo">
-**here JHJHJHlink-needed**
+**robin: fix link**
 </span>
 for information and comparisons
 of our service offerings or upgrade your account
 
-**here**
+[**here**](./robinpage.md?[LINK-QARGS-DOC]#robinhash)
 <span class="todo">
-**JHJHJHlink-needed**
+**robin: fix link**
 </span>
 .
 

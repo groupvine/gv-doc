@@ -1,7 +1,7 @@
 # Email Widgets
 
-## Managing Email Widgets
 <span id="gv-5widgets-3ewmanage"></span>
+## Managing Email Widgets
 
 * Latest responses and comments can be downloaded to a spreadsheet by Administrators and Editors.
 

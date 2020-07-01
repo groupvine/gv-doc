@@ -1,7 +1,7 @@
 # Managing your Membership
 
-## Use lists to target an interest group
 <span id="gv-2members-2memberslist"></span>
+## Use lists to target an interest group
 
 Lists give you the flexibility to target an email to a sub-set of your
 membership.
@@ -12,9 +12,9 @@ email from a personal email account.
 
 * New lists can be created and members can be assigned to those lists
 when importing.  
-**Click here**
+Click [**here**](./robinpage.md?[LINK-QARGS-DOC]#robinhash)
 <span class="todo">
-**JHJHJHJHlink-needed
+**robin: fix link**
 </span>
 for details.
 
@@ -29,11 +29,10 @@ in the account level.
 Group Administrators will need to add sub-group members to their local
 lists.
 
-Click ** here **
+Click [**here**](./robinpage.md?[LINK-QARGS-DOC]#robinhash)
 <span class="todo">
-**JHJHJH link-needed**
+**robin: fix link**
 </span>
-
 for more information on profile pages.
 
 Normally, the group’s Administrators and Editors send email to member
@@ -49,9 +48,9 @@ If you are interested in allowing general members
 to send email, then we suggest using sub-groups.
 </span>
 
-Click **here**
+Click [**here**](./robinpage.md?[LINK-QARGS-DOC]#robinhash)
 <span class="todo">
-**JHJHJHlink-needed**
+**robin: fix link**
 </span>
 for details on sending to a list from
 your online account or from your personal email account.

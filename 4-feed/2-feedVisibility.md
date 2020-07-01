@@ -2,8 +2,8 @@
 
 <span class="sub g4s">
 
-## Public or Private?
 <span id="gv-4feed-2feedvisibility"/></span>
+## Public or Private?
 
 Visitors or non-members can navigate to an account’s Email Feed,
 but only emails in a public feed or emails that are individually set to
@@ -29,18 +29,15 @@ By default, Subscription account feeds are public, and their sub-groups default 
 
 To change the visibility of an account feed, set the **Email feed
 visibility** on the **Account Settings** style tab to
-“Public” or “Account members only.”
+"Public" or "Account members only."
 This setting is also on the **Sub-group Settings** tab where
-there’s also the option “Sub-group members only.”
+there’s also the option "sub-group members only."
 
 Individual emails can also be made public from the Email Feed
-regardless of your feed’s visibility by first clicking
+regardless of your feed’s visibility by first
+clicking [**here**](./robinpage.md?[LINK-QARGS-DOC]#robinhash)
 <span class="todo">
-**JHJHJHicon-needed JHJHlink-needed?**
+**robin: fix link**
 </span>
-to change to Listing view and
-then clicking the email’s icon
-<span class="todo">
-**JHJHJHicon-needed JHJHlink-needed?**
-</span>
+to change to Listing view and then clicking the email’s icon
 to toggle through and set its visibilty.

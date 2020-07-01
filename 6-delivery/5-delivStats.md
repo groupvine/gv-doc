@@ -1,7 +1,7 @@
 # Email Delivery & Troubleshooting
 
-## view email delivery stats
 <span id="gv-6delivery-5delivstats"></span>
+## view email delivery stats
 
 <span class="todo">
 TBD

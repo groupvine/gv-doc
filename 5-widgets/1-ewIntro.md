@@ -1,7 +1,7 @@
 # Email Widgets
 
-## What are Email Widgets?
 <span id="gv-5widgets-1ewintro"></span>
+## What are Email Widgets?
 
 In short:
 

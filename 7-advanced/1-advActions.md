@@ -1,7 +1,7 @@
 <span class="adv">
 
+<span id="gv-7advanced-1advActions"></span>
 # Advanced - Email Actions
-<span id="gv-7advanced-1-advActions"></span>
 
 A number of operations can be conducted without visiting your online
 account at all, but simply by emailing instructions to your account
@@ -13,8 +13,8 @@ the action is processed, and the results emailed to you.
 For the examples below, we're using the fictitious "bingotech"
 account, which you should replace with your account name.
 
+<span id="gv-7advanced-1advactions-exporting-your"></span>
 ## Exporting your membership
-<span id="gv-7advanced-1advactions-sexport-membership-action"></span>
 
 To have your full membership sent to you, along with delivery
 statistics, any list and sub-group memberships, etc., send an email
@@ -30,8 +30,8 @@ For example:
 ~export~~bingotech@groupvine.com
 ```
 
+<span id="gv-7advanced-1advactions-exporting-your-pending"></span>
 ## Exporting your pending membership applications
-<span id="gv-7advanced-1advactions-export-apps-action"></span>
 
 To export your the membership applications pending for your account, 
 send an email to:
@@ -53,8 +53,8 @@ columns which are used to identify any Pending appications to be
 imported.
 
 
+<span id="gv-7advanced-1advactions-importing-membership"></span>
 ## Importing membership or membership changes
-<span id="gv-7advanced-1advactions-importing-membership-action"></span>
 
 You can email your membership file to your account's server to be
 imported using the following address:
@@ -80,8 +80,8 @@ If you'd like to ensure that no modifications are done to settings of existing m
 </span>
 
 
+<span id="gv-7advanced-1advactions-adding-deleting-or-modifying"></span>
 ## Adding, deleting, or modifying sub-groups
-<span id="gv-7advanced-1advactions-modifying-groups-action"></span>
 
 An account's sub-groups can also be managed by email by creating and
 attaching a group-instructions CSV file using the following columns:
@@ -179,8 +179,8 @@ For example, for the bingotech account and a file named
 
 <span class="support">
 
-## Configuring an account
 <span id="gv-7advanced-1advactions-configuring-acccount-action"></span>
+## Configuring an account
 
 **NOTE:** this email-action (configuring an account) contains very
 little error checking, so is only provided for possible use by GroupVine support

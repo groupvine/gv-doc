@@ -1,24 +1,24 @@
 # Membership Import
 
-## How Importing Membership
 <span id="gv-2members-zmembersimport"></span>
+## How Importing Membership
 
 Importing will change a member’s attributes, roles, and membership
 to lists and sub-groups to reflect how this information is set in
-the import file.  A “blank” cell will remove an attribute value or
+the import file.  A "blank" cell will remove an attribute value or
 remove the member from the specific lists or sub-groups.  For the
-“Role” column, which defines account membership, a blank will
+"Role" column, which defines account membership, a blank will
 remove the member from the group.
 
 Columns not included in your import file are unaffected by an import.
 
+<span id="gv-2members-zmembersimport-uploading-recipient-addresses"></span>
 ## Uploading Recipient addresses-only
-<span id="gv-uploading-recipient-addresses"></span>
 
 An easy way to add a list of community members to your account is to
 use a spreadsheet program (e.g., Excel, Numbers, Google Spreadsheet) to
-create and save a “CSV” file that simply lists your recipient’s email
-addresses in a column with an “Email” header, like the following: 
+create and save a "CSV" file that simply lists your recipient’s email
+addresses in a column with an "Email" header, like the following: 
 
 | Email                       |
 |:----------------------------|
@@ -36,7 +36,7 @@ Attributes, which can be used to save additional member information,
 and then personalize emails or target recipients based on their
 attribute value, can have their values set or removed by adding the
 attribute name to a column header and the member’s value for that
-attribute in their row. A “blank” cell will remove the attribute’s
+attribute in their row. A "blank" cell will remove the attribute’s
 value for that member.
 
 Note
@@ -74,8 +74,8 @@ For more information, visit the **Member Attributes** page.
 
 <span class="sub g4s">
 
+<span id="gv-2members-zmembersimport-uploading-membership"></span>
 ## Uploading Membership Roles
-<span id="gv-uploading-membership-roles"></span>
 
 By default, new members are given the basic "Member" role, however, you
 can also have an arbitrary number of Administrators and Editors.  Here
@@ -126,9 +126,10 @@ when the import was complete.
 
 New lists can be created using an import file simply by adding
 list:[list name] to a new column header in your import file.
-For more information about lists, **click here**
+For more information about lists,
+click [**here**](./robinpage.md?[LINK-QARGS-DOC]#robinhash)
 <span class="todo">
-**JHJHJHJHlink-needed for click here**
+**robin: fix link**
 </span>
 .
 
@@ -140,9 +141,10 @@ targeting of community members, but are more powerful in a number
 of ways such as allowing groups to have their own Administrators
 and Editors.  for delegation of their Administrator and Editor
 roles to to specific users for that sub-group.  For more information
-about sub-groups, **click here**
+about sub-groups,
+click [**here**](./robinpage.md?[LINK-QARGS-DOC]#robinhash)
 <span class="todo">
-**JHJHJHJHlink-needed for click here**
+**robin: fix link**
 </span>
 .
 

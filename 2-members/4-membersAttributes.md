@@ -1,7 +1,7 @@
 # Managing your Membership
 
-## Member Attributes
 <span id="gv-2members-4membersattributes"></span>
+## Member Attributes
 
 <span class="todo">
 ## We use a header line further below, don't we need one here? JHJHJH
@@ -18,7 +18,7 @@ Attributes also provide these additional email options:
 * Personalize your emails by inserting a placeholder for the recipient’s
 attribute value.
 If you are sending from your online account, use the **Pers…** (short
-for “Personalization”) menu in the email editor.
+for "Personalization") menu in the email editor.
 If you are sending from your personal email account, then follow the
 instructions on the **Personalize** tab when you select **Send email**
 from your own inbox on the **New Email** page.
@@ -28,7 +28,11 @@ For example, you can choose your recipients to be subscribers who
 selected the checkbox attribute for `Can you help with planning for
 XYZ?`
 
-**Click here**
+Click [**here**](./robinpage.md?[LINK-QARGS-DOC]#robinhash)
+<span class="todo">
+**robin: fix link**
+</span>
+.
 
 <span class="todo">
 **JHJHJH link-needed**
@@ -45,9 +49,10 @@ subscriber's ellipsis **(3 vertical dots)**
 **JHJHJH icon-needed?**
 </span>
 from the **Member Listing** tab on the **Membership** page.
-For more information about importing, click **here**
+For more information about importing,
+click [**here**](./robinpage.md?[LINK-QARGS-DOC]#robinhash)
 <span class="todo">
-**JHJHJH link-needed**
+**robin: fix link**
 </span>
 .
 

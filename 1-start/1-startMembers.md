@@ -9,8 +9,8 @@ ways:
 * Add new members from the **Membership** page
 * Have Subscribers sign up
 
-### Upload an import file
 <span id="gv-1start-1startMembers"></span>
+### Upload an import file
 
 For information on importing a membership file, click [**here**](./2-startSend.md?[LINK-QARGS-DOC]#gv-1start-2startsend-online)
 
@@ -19,8 +19,8 @@ For information on importing a membership file, click [**here**](./2-startSend.m
 </span>
 .
 
+<span id="gv-1start-1startmembers-add-new-members"></span>
 ### Add new members from the Membership page
-<span id="gv-5widgets-1startmembers-add-new-members-from-the-membership"></span>
 
 To add a new member to your account, you can enter their information on
 the **Add New Member** tab on your **Membership** page, and then click
@@ -52,8 +52,8 @@ can set attributes and join available lists and sub-groups.  Once they
 
 </span> <!--free sub -->
 
+<span id="gv-1start-1startmembers-have-subscribers"></span>
 ### Have Subscribers sign up
-<span id="gv-5widgets-1startmembers-have-subscribers-sign-up"></span>
 
 All accounts are equipped with a public page where people can sign up to
 subscribe to your emails.
@@ -63,9 +63,10 @@ Also, at the bottom of the **Add New Member** tab, we’ve provided HTML
 code that you can add to your own website so people can sign up from
 there.
 
-Your sign up page will be customized with your **account theme**
+Your sign up page will be customized with your
+[**account theme**](./robinpage.md?[LINK-QARGS-DOC]#robinhash)
 <span class="todo">
-*JHJHJH link-needed**
+**robin: fix link**
 </span>
 that includes shades of its primary color and logo.
 You can also replace the default text on your sign-up page by editing

@@ -1,7 +1,7 @@
 # Email Delivery & Troubleshooting
 
-## Members are not getting emails
 <span id="gv-6delivery-1delivmissing"></span>
+## Members are not getting emails
 
 ### Some of our members are not receiving their email, or they don't realize they landed in spam/junk folders. What can we do?
 
@@ -37,14 +37,15 @@ Once the provider processes this information, subsequent emails should
 start getting delivered to the user's inbox.
 
 
-* For Comcast users, **click here**
+* For Comcast users,
+click [**here**](./robinpage.md?[LINK-QARGS-DOC]#robinhash)
 <span class="todo">
-**JHJHJHJHlink-needed for click here**
-</span> <!-- todo">
+**robin: fix link**
+</span>
 and follow the
-steps under **Change Spam Filter** preference 
+steps under **Change Spam Filter** preference.
 <span class="todo">
-**JHJHJHgrammar?**.
+**JHJHJHgrammar?**
 </span>
 
 **Note: At step 3
@@ -57,11 +58,11 @@ that appear.
 The steps on Comcast's site are slightly out of date.
 
 * For Verizon users,
-**click here**
-
+click [**here**](./robinpage.md?[LINK-QARGS-DOC]#robinhash)
 <span class="todo">
-**JHJHJHJHlink-needed for click here**
-</span> <!-- todo">
+**robin: fix link**
+</span>
+.
 
 and follow the steps to view messages that Verizon's Spam Detector filters.
 
@@ -190,20 +191,20 @@ There are a number of reasons why members may not be receiving your emails. To b
 
 Click View email archive on your **Home** page.
 Locate an email you have previously sent and click on its Stats icon ( ).
-If you have delivery failures, click the link "X Email Address Delivery Failures and Delays". The two possible errors are "bounced” and “delayed”.
+If you have delivery failures, click the link "X Email Address Delivery Failures and Delays". The two possible errors are "bounced" and "delayed".
 
 After you have completed the above steps please identify which scenarios match your current situation and scroll down to get answers.
 
 Scenarios:
 
 
-I’m seeing “bounced” or “delayed” for one or more recipients in the list of delivery failures and they do NOT have an email address from one of the big Email Service Providers (eg. Gmail, Yahoo, AOL, or Hotmail). In this case you may find a number of recipients with addresses in the same domain (eg. xxx@k-5school.us) which are bouncing or being delayed or there could be no errors for these addresses but a number of people are reporting not receiving your email.
+I’m seeing "bounced" or "delayed" for one or more recipients in the list of delivery failures and they do NOT have an email address from one of the big Email Service Providers (eg. Gmail, Yahoo, AOL, or Hotmail). In this case you may find a number of recipients with addresses in the same domain (eg. xxx@k-5school.us) which are bouncing or being delayed or there could be no errors for these addresses but a number of people are reporting not receiving your email.
 Members with an email address from one of the Email Service Providers (eg. Gmail, Yahoo, AOL, etc). are reporting they are not receiving my emails.
 Members with an email address from Hotmail (including Administrators or Editors) are not receiving their own emails when it’s sent from their Hotmail address.
 Members with an email address from AOL (including Administrators or Editors) are not receiving their own emails when it’s sent from their AOL address.
 
 
-Scenario 1: I’m seeing “bounced” or “delayed” for one or more recipients in the list of delivery failures and they do NOT have an email address from one of the big Email Service Providers (eg. Gmail, Yahoo, AOL, or Hotmail). In this case you may find a number of recipients with addresses in the same domain (eg. xxx@k-5school.us) which are bouncing or being delayed or there could be no errors for these addresses but a number of people are reporting not receiving your email.
+Scenario 1: I’m seeing "bounced” or "delayed” for one or more recipients in the list of delivery failures and they do NOT have an email address from one of the big Email Service Providers (eg. Gmail, Yahoo, AOL, or Hotmail). In this case you may find a number of recipients with addresses in the same domain (eg. xxx@k-5school.us) which are bouncing or being delayed or there could be no errors for these addresses but a number of people are reporting not receiving your email.
 
 If you’re sure the email address for your recipient is valid then their organization’s email server is probably bouncing or delaying email from GroupVine due to the organization’s email security settings. Please contact the IT department and ask them to investigate how their mail server is handling incoming email from the groupvine.com web domain. Most likely they need to whitelist the GroupVine email server IP addresses listed below to their safe senders or exception list to allow your emails to be forwarded along to the recipients.
 
@@ -218,7 +219,7 @@ If there are no errors being reported for these recipients then please check to 
 
 Scenario 2: Members with an email address from one of the Email Service Providers (eg. Gmail, Yahoo, AOL, etc). are reporting they are not receiving my emails.
 
-If you see “bounced” or “delayed” in the list of delivery failures for these users then most likely their email address is not valid, either due to a typo or perhaps their account no longer exists. Please confirm the email address and update their member profile as needed. To update a recipient’s email address:
+If you see "bounced” or "delayed” in the list of delivery failures for these users then most likely their email address is not valid, either due to a typo or perhaps their account no longer exists. Please confirm the email address and update their member profile as needed. To update a recipient’s email address:
 
 
 In the list of delivery failures, click on the recipient's email address
@@ -281,7 +282,7 @@ Click on View email archive from your **Home** page.
 Locate an email you have previously sent and click on its Stats icon ().
 On the **Recipient Information** page you can click to see delivery failures
 and delays.
-The two errors that are possible are “Bounced” and “Delayed”.
+The two errors that are possible are "Bounced” and "Delayed”.
 
 After you have completed the above steps please identify which scenarios match your current situation and scroll down to get answers.
 
@@ -289,7 +290,7 @@ After you have completed the above steps please identify which scenarios match y
 Scenarios:
 
 
-I’m seeing “Bounced” or “Delayed” for one or more recipients in the Errors column and they do NOT have an email address from one of the big Email Service Providers (eg. Gmail, Yahoo, AOL, or Hotmail). In this case you may find a number of recipients with addresses in the same domain (eg. xxx@k-5school.us) which are bouncing or being delayed. Or perhaps there are no errors for these addresses but a number of people are reporting not receiving your email.
+I’m seeing "Bounced" or "Delayed" for one or more recipients in the Errors column and they do NOT have an email address from one of the big Email Service Providers (eg. Gmail, Yahoo, AOL, or Hotmail). In this case you may find a number of recipients with addresses in the same domain (eg. xxx@k-5school.us) which are bouncing or being delayed. Or perhaps there are no errors for these addresses but a number of people are reporting not receiving your email.
 Members with an email address from one of the Email Service Providers (eg. Gmail, Yahoo, AOL, etc). are reporting they are not receiving my emails.
 Members with an email address from Hotmail (including Administrators or Editors) are not receiving their own emails when it’s sent from their Hotmail address.
 Members with an email address from AOL (including Administrators or Editors) are not receiving their own emails when it’s sent from their AOL address.
@@ -302,9 +303,10 @@ If you’re sure the email address for your recipient is valid then their organi
 
 Most likely they need to whitelist the GroupVine email server listed above to allow your emails to be forwarded along to the recipients.
 
-If there are no errors being reported for these recipients then please check to see if your email is landing in the spam or junk mail folders. If so, please ask them to add your sender email address to their safe senders and/or contact lists. For more information on how to add email addresses to a safe sender list or address book **click here**
+If there are no errors being reported for these recipients then please check to see if your email is landing in the spam or junk mail folders. If so, please ask them to add your sender email address to their safe senders and/or contact lists. For more information on how to add email addresses to a safe sender list or address book
+click [**here**](./robinpage.md?[LINK-QARGS-DOC]#robinhash)
 <span class="todo">
-**JHJHJHJHlink-needed for click here**
+**robin: fix link**
 </span>
 .
 

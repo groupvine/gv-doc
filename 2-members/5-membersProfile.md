@@ -5,8 +5,8 @@ What's on the Member's Profile Page OR Subscriber Profile Page,
 JHJHJH which should be used?
 </span>
 
+<span id="gv-2members-5membersprofile"></span>
 ## What's on the Member's Profile Page
-<span id="gv-2members-4membersprofile"></span>
 
 The profile page is a way for subscribers to set and join the following
 on their own, which frees up the administrator from having to manage all
@@ -37,7 +37,7 @@ However, only the subscriber can change their Opt-out status or password
 
 General members can access their profile page by either:
 
-* Clicking the “View live email” link at the top of any community
+* Clicking the "View live email" link at the top of any community
 email and then clicking **My Profile**.
  
 * Entering their information on the account’s subscription page and

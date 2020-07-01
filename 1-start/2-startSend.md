@@ -1,13 +1,14 @@
-# Sending Emails
 <span id="gv-1start-2startsend"></span>
+# Sending Emails
 
 ## Sending Emails
 * Send email from your online account
 * Send email from a personal account
+
 <span class="todo">
 **Seemed kind of weird to arrive here and just be showing the
-"Send email from your online account", so I added these subbullets
-thinking we might make them links**
+"Send email from your online account", so I added those
+subbullets above, thinking we might make them links**
 </span> <!-- todo -->
 
 <span id="gv-1start-2startsend-online"></span>
@@ -21,7 +22,7 @@ scratch (Note, for your very first email, you’ll start by entering the
 email’s subject).  You may also have a **Drafts**, **Templates**,
 and **Published** tabs.  
 
-* A Draft email is “under construction” and may have been emailed as a
+* A Draft email is "under construction" and may have been emailed as a
 draft to the Administrators and Editors in the group, but has yet to be
 sent/published to its intended recipients.  
 
@@ -32,11 +33,11 @@ have been saved either in the current group or in a parent group.
 * Published emails have been sent and published to the group, and show
 up in the group’s Feed.
 From your online account, published emails can be
-resent by either copying it to a new email or resending “as is”.
+resent by either copying it to a new email or resending "as is".
 A new copied email can be edited and its Email Widget responses will be
 independent and separate from the original email.
-Resending “as is” does not allow any changes, but the resent email
-keeps Email Widget responses of the original email and any “as is”
+Resending "as is" does not allow any changes, but the resent email
+keeps Email Widget responses of the original email and any "as is"
 resends collectively together, which may be needed if you’re emailing
 additional or forgotten recipients.
 
@@ -45,34 +46,36 @@ features to consider adding to personalize and customize your emails:
 
 * Personalize your email with attributes.
 If you are sending from your online account, use the Pers… (short for
-“Personalization”) menu in the email editor.
+"Personalization") menu in the email editor.
 To your email is added a placeholder which will be translated to the
 subscriber’s value in their received email.
 <span class="todo">
 **JHJHJH Maybe "First Name" should be an img or icon?
 </span> <!-- todo -->
-For example, in your email if you type “Hi “ and then select “First
+For example, in your email if you type "Hi " and then select “First
 Name” from the Personalization menu, the placeholder "First Name"
 is added to your
 email.  When you Preview your email, you’ll see the attribute placeholder
 was replaced with your First Name as you have it set in your profile.
-For more information about Member Attributes, **click here**
+For more information about Member Attributes,
+[**here**](./robinpage.md?[LINK-QARGS-DOC]#robinhash)
 <span class="todo">
-**HJHJHJHlink-needed for click here**
-</span> <!-- todo -->
+**robin: fix link**
+</span>
 .
 
 * Use Email Widgets to ask questions or gather information with these
 five types of Email Widgets (Text, Count, RSVP, Yes-No,
 Single/Multi-Choice) that can be added directly into your email using
 the **Widget** menu.
-For more information about Email Widgets, **click here**
+For more information about Email Widgets,
+click[**here**](./robinpage.md?[LINK-QARGS-DOC]#robinhash)
 <span class="todo">
-**JHJHJHJHlink-needed for click here**
-</span> <!-- todo -->
+**robin: fix link**
+</span>
 .
 
-Note, your email will be “From” your display name, which is your
+Note, your email will be "From" your display name, which is your
 First Name and Last Name attributes as they are set in your profile
 page.
 
@@ -103,8 +106,8 @@ After sending your email, you’ll be redirected to your group’s Email
 Feed.  If your email isn’t listed at the top, wait a few minutes and
 refresh your feed.
 
+<span id="gv-1start-2startsend-send-email-from-personal"></span>
 ### Send email from a personal email account
-<span id="gv-1start-2startsend-personal"></span>
 
 ** To avoid the risk of spammers sending emails to a group from a possibly
    compromised email account, after an email is sent from a personal email,
@@ -136,32 +139,34 @@ tab on the respective **Gear** page.
 Need the email address to target your emails more specifically?
 Simply select **New Email** and then **Send email from your own
 inbox**, select your options on the **Addressing** tab and
-copy the updated email address to the “To” field in your email
+copy the updated email address to the "To" field in your email
 account.
 
 To personalize your email using attribute values, view the
 instructions on the **Personalize** tab for emails sent from your
 personal email account.
-For more information about Member Attributes, click **here**
+For more information about Member Attributes,
+click [**here**](./robinpage.md?[LINK-QARGS-DOC]#robinhash)
 <span class="todo">
-**JHJHJHJHlink-needed for click here**
-</span> <!-- todo -->
+**robin: fix link**
+</span>
 .
 
 To add Email Widgets to ask questions or gather information, follow
 the instructions on the **Widgets** tab for email sent from your
 personal email account to add any of the four types of Email Widgets
 (Text, Count, RSVP, and Yes-No).
-For more information about Email Widgets, **click here**
+For more information about Email Widgets,
+click [**here**](./robinpage.md?[LINK-QARGS-DOC]#robinhash)
 <span class="todo">
-**JHJHJHJHlink-needed for click here**
-</span> <!-- todo -->
+**robin: fix link**
+</span>
 .
 
 Note, in general when sending from your personal email account,
-your email will be “From” your display name, which is your
+your email will be "From" your display name, which is your
 First Name and Last Name attributes as they are set in your profile
-page, but your email handler may preset the “From” to the name
+page, but your email handler may preset the "From" to the name
 you have previously used to send email.
 
 These emails will show up in the **Email Feed** with

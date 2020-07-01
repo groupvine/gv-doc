@@ -1,9 +1,9 @@
 # Email Feed
 
-## Tidy Up your Feed by Archiving Emails
 <span id="gv-4feed-6feedarchive"></span>
+## Tidy Up your Feed by Archiving Emails
 
-Archiving emails helps “tidy up” your Email Feed by removing extraneous
+Archiving emails helps "tidy up" your Email Feed by removing extraneous
 emails that no longer need to be viewable by your general membership or
 the public.
 

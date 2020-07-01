@@ -1,7 +1,7 @@
 # Email Feed
 
-## Add Other Emails to your Feed
 <span id="gv-4feed-5feedpost"></span>
+## Add Other Emails to your Feed
 
 To add other or old emails into your feed, e.g., emails sent directly or
 using a different service, simply attach one or more old emails to a new
