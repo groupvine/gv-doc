@@ -10,7 +10,7 @@
           Getting Started
           <ul>
             <li>
-              <a href="/1-start/1-startMembers.md?[LINK-QARGS-DOC]]#gv-1start-1startmembers">
+              <a href="/1-start/1-startMembers.md?[LINK-QARGS-DOC]#gv-1start-1startmembers">
                 Add new Members/Subscribers
               </a>
             </li>
@@ -20,7 +20,7 @@
               </a>
             </li>
             <li>
-              <a href="/1-start/3-startHelp.md?[LINK-QARGS-DOC]]#gv-1start-3starthelp">
+              <a href="/1-start/3-startHelp.md?[LINK-QARGS-DOC]#gv-1start-3starthelp">
                 How to find help (below, help bubbles, contacting us)
               </a>
             </li>
