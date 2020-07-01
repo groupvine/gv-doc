@@ -31,10 +31,14 @@ divs, after pre-processing the contents.
 ## Documentation Guide
 
 * Use Markdown for (nearly) all styling (except for styling added to
-  conditional "adv" "support", and "todo" blocks, and possibly the
+  conditional "adv" "support", and "todo" blocks, "highlight"
+  boxes mentioned below, and possibly the
   initial Topics page).  E.g., see
   [here](https://guides.github.com/features/mastering-markdown/) for
   GitHub-style Markdown guide.
+
+* Certain sentences or paragraphs can be highlighted (enclosed in
+  a box) by surrounding with ```<span class="highlight"> ... </span>```.
 
 * To permit automatically scrolling to section and sub-section headings
   (# and ## headings in Markdown), each such heading should be
@@ -73,9 +77,7 @@ GroupVine 4 School and Subscription documentation modes.
       query arg.  (Should **NOT** include any information we
       wouldn't want to show to users, in case they add this support=1
       query arg themself ... may add security to this later.)
-<span class="todo">
     * **todo** "hidden unless in support mode."
-</span>
 
 * Note that these class tags may also be used on block-level
   elements (like div or tr) for conditional code, but only if all the
@@ -93,7 +95,17 @@ GroupVine 4 School and Subscription documentation modes.
 
 * Similarly, to insert "GroupVine" or "Trivy" depending on the domain 
   used to reach the help site, insert "GV-BRAND" and it will be
-  changed to the appropriate brand.  
+  changed to the appropriate brand.
+
+## "Internal" links to other doc pages or within home site
+
+To ensure that the documentation mode (including the service level,
+account id, advanced and support mode settings) are carried along to
+the new page, each internal link should include a special query arg of
+the form either [LINK-QARGS-DOC] or [LINK-QARGS] (if to a non-doc home
+page).  E.g.,
+
+
 
 ## Updating Online Documentation
 
