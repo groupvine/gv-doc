@@ -106,7 +106,7 @@ the form either [LINK-QARGS-DOC] or [LINK-QARGS] (if to a non-doc home
 page).  E.g., like:
 
 ```
-<a href="/membership/importing?[LINK-QARGS-DOC]">
+<a href="/membership/importing.md?[LINK-QARGS-DOC]">
 ```
 
 
