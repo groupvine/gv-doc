@@ -12,7 +12,8 @@ ways:
 <span id="gv-1start-1startMembers"></span>
 ### Upload an import file
 
-For information on importing a membership file, click [**here**](./2-startSend.md?[LINK-QARGS-DOC]#gv-1start-2startsend-online)
+For information on importing a membership file, click
+[**here**](/1-start/2-startSend.md?[LINK-QARGS-DOC]#gv-1start-2startsend-online)
 
 <span class="todo">
 **JHJHJH fix link**
@@ -64,10 +65,7 @@ code that you can add to your own website so people can sign up from
 there.
 
 Your sign up page will be customized with your
-[**account theme**](./robinpage.md?[LINK-QARGS-DOC]#robinhash)
-<span class="todo">
-**robin: fix link**
-</span>
+[**account theme**](/3-send/4-sendSettings.md?[LINK-QARGS-DOC]#gv-3send-4sendsettings-theme-colors)
 that includes shades of its primary color and logo.
 You can also replace the default text on your sign-up page by editing
 the **Subscription Sign-up** page on the Gear’s **Site

@@ -50,18 +50,21 @@ If you are sending from your online account, use the Pers… (short for
 "Personalization") menu in the email editor.
 To your email is added a placeholder which will be translated to the
 subscriber’s value in their received email.
+
 <span class="todo">
 **JHJHJH Maybe "First Name" should be an img or icon?
 </span> <!-- todo -->
+
 For example, in your email if you type "Hi " and then select “First
 Name” from the Personalization menu, the placeholder "First Name"
 is added to your
 email.  When you Preview your email, you’ll see the attribute placeholder
 was replaced with your First Name as you have it set in your profile.
 For more information about Member Attributes,
-[**here**](./robinpage.md?[LINK-QARGS-DOC]#robinhash)
+[**here**](/2-members/4-membersAttributes.md?[LINK-QARGS-DOC]#gv-2members-4membersattributes)
+
 <span class="todo">
-**robin: fix link**
+still something wrong with this link**
 </span>
 .
 
@@ -70,9 +73,9 @@ five types of Email Widgets (Text, Count, RSVP, Yes-No,
 Single/Multi-Choice) that can be added directly into your email using
 the **Widget** menu.
 For more information about Email Widgets,
-click[**here**](./robinpage.md?[LINK-QARGS-DOC]#robinhash)
+click [**here**](/5-widgets/1-ewIntro.md?[LINK-QARGS-DOC])
 <span class="todo">
-**robin: fix link**
+**fix link**
 </span>
 .
 
@@ -147,9 +150,9 @@ To personalize your email using attribute values, view the
 instructions on the **Personalize** tab for emails sent from your
 personal email account.
 For more information about Member Attributes,
-click [**here**](./robinpage.md?[LINK-QARGS-DOC]#robinhash)
+click [**here**](./gv-2members-4membersattributes.md?[LINK-QARGS-DOC]#gv-2members-4membersattributes)
 <span class="todo">
-**robin: fix link**
+**john: fix link**
 </span>
 .
 
@@ -158,9 +161,9 @@ the instructions on the **Widgets** tab for email sent from your
 personal email account to add any of the four types of Email Widgets
 (Text, Count, RSVP, and Yes-No).
 For more information about Email Widgets,
-click [**here**](./robinpage.md?[LINK-QARGS-DOC]#robinhash)
+click [**here**](/5-widgets/1-ewIntro.md?[LINK-QARGS-DOC])
 <span class="todo">
-**robin: fix link**
+**john: fix link**
 </span>
 .
 

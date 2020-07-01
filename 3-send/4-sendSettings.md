@@ -1,6 +1,6 @@
 # Sending Emails
 
-<span id="gv-2members-4sendsettings"></span>
+<span id="gv-3send-4sendsettings"></span>
 ## Email Settings
 
 <span class="sub g4s">
@@ -15,7 +15,7 @@ Email settings can be found in the **Account Settings** on the Gear
 page.
 </span> <!-- free -->
 
-<span id="gv-2members-4sendsettings-theme-colors-and-logo"></span>
+<span id="gv-2members-4sendsettings-theme-colors"></span>
 ### Theme Colors & Logo
      
 <span class="sub g4s">
