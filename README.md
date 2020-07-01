@@ -103,8 +103,11 @@ To ensure that the documentation mode (including the service level,
 account id, advanced and support mode settings) are carried along to
 the new page, each internal link should include a special query arg of
 the form either [LINK-QARGS-DOC] or [LINK-QARGS] (if to a non-doc home
-page).  E.g.,
+page).  E.g., like:
 
+```
+<a href="/membership/importing?[LINK-QARGS-DOC]">
+```
 
 
 ## Updating Online Documentation
