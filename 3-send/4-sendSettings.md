@@ -1,7 +1,7 @@
 # Sending Emails
 
 <span id="gv-2members-4sendsettings"></span>
-## Email settings
+## Email Settings
 
 <span class="sub g4s">
 Email settings can be found in the **Account Settings** or **Sub-group 

@@ -1,9 +1,10 @@
 <span id="gv-1start-2startsend"></span>
 # Sending Emails
 
-## Sending Emails
-* Send email from your online account
-* Send email from a personal account
+## Sending Emails - Online vs Personal
+<span id="gv-1start-2startsend-online-vs"></span>
+* [Send email from your online account](#gv-1start-2startsend-online)
+* [Send email from a personal account](#gv-1start-2startsend-personal)
 
 <span class="todo">
 **Seemed kind of weird to arrive here and just be showing the
@@ -106,7 +107,7 @@ After sending your email, you’ll be redirected to your group’s Email
 Feed.  If your email isn’t listed at the top, wait a few minutes and
 refresh your feed.
 
-<span id="gv-1start-2startsend-send-email-from-personal"></span>
+<span id="gv-1start-2startsend-personal"></span>
 ### Send email from a personal email account
 
 ** To avoid the risk of spammers sending emails to a group from a possibly

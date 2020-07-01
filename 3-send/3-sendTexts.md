@@ -1,6 +1,6 @@
 # Sending Emails
 
-<span id="gv-2members-3sendtexts"></span>
+<span id="gv-2members-3sendTexts"></span>
 ## Text notifications for new or "urgent" emails
 
 Members can optionally receive text notifications with a link to the

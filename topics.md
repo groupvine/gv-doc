@@ -15,7 +15,7 @@
               </a>
             </li>
             <li>
-              <a href="/1-start/2-startSend[LINK-QARGS-DOC]#gv-1start-2startsend">
+              <a href="/1-start/2-startSend[LINK-QARGS-DOC]#gv-1start-2startsend-online-vs"></span>
                 Send from a personal email account or your online account
               </a>
             </li>
@@ -66,12 +66,12 @@
           Sending Emails
           <ul>
             <li>
-              <a href="/3-send/1-sendOnline[LINK-QARGS-DOC]#Sending-email-from-your-online">
+              <a href="/1-start/2-startSend[LINK-QARGS-DOC]#gv-1start-2startsend-online">
                 Send email from your online account
               </a>
             </li>
             <li>
-              <a href="/3-send/2-sendInbox[LINK-QARGS-DOC]#Sending-email-from-a-personal-account">
+              <a href="/1-start/2-startSend[LINK-QARGS-DOC]#gv-1start-2startsend-personal">
                 Send email from a personal account
               </a>
             </li>
