@@ -35,9 +35,9 @@ there’s also the option "sub-group members only."
 
 Individual emails can also be made public from the Email Feed
 regardless of your feed’s visibility by first
-clicking [**here**](./robinpage.md?[LINK-QARGS-DOC]#robinhash)
+clicking 
 <span class="todo">
-**robin: fix link**
+**JHJHJH icon-needed**
 </span>
 to change to Listing view and then clicking the email’s icon
 to toggle through and set its visibilty.

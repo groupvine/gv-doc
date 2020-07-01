@@ -1,7 +1,7 @@
+<span id="gv-2members-zmembersimport"></span>
 # Membership Import
 
-<span id="gv-2members-zmembersimport"></span>
-## How Importing Membership
+## How Importing Impacts Membership
 
 Importing will change a member’s attributes, roles, and membership
 to lists and sub-groups to reflect how this information is set in
@@ -119,6 +119,12 @@ which members are on one of two lists the musicians and/or golfers
 lists (this time, we've simplified the import, removing the custom
 attributes and role columns, to just update the list memberships):
 
+| Email                     | list:musicians | list:golfers |
+|:--------------------------|:---------------|:-------------|
+|tim.tangelo@example.com    | x              |              |
+|quiet.quinn@example.com    |                | x            |
+|beth.blueberry@example.com | x              | x            |
+
 * Notes
 Looking just at Tim, if Tim was on the golfers list before this file
 was imported, then he would have been removed from the golfers list
@@ -126,10 +132,11 @@ when the import was complete.
 
 New lists can be created using an import file simply by adding
 list:[list name] to a new column header in your import file.
+
 For more information about lists,
-click [**here**](./robinpage.md?[LINK-QARGS-DOC]#robinhash)
+click [**here**](/2-members/2-membersList.md?[LINK-QARGS-DOC]#gv-2members-2memberslist)
 <span class="todo">
-**robin: fix link**
+Did that link work?
 </span>
 .
 
@@ -150,18 +157,32 @@ click [**here**](./robinpage.md?[LINK-QARGS-DOC]#robinhash)
 
 Where new lists can be created using an import file, groups need
 to be created in your account before referencing them in an import
-file.  Group columns are in the format group:[group name] with the
-value in this column representing values giving each member's role
+file.
+
+Group columns are in the format group:[group name] with the
+value in this column representing each member's role
 in that group.  Whereas a member's role for the entire account is
-under the optional "Role" column (see Membership Roles section
+under the "Role" column (see Membership Roles section
 above), the member's role within a specific sub-group is under the
 group:[group name] column.
 
-Note also that Sub-groups can define their own lists, whose columns
-immediately follow their group:[group name] column and before the
-next group column.  In the following example For example, in the
-following, Tim belongs to the account-wide "musicians" list as well
-as the "redsox" list defined in (and only relevant in) the
-eastregion group. Sue is also a musician and is in the "giants"
-list defined in the westregion group:
+| Email                       | group:eastregion | group:westregion |
+|:----------------------------|:-----------------|:-----------------|
+|tim.tangelo@example.com      |  Admin           |                  |
+|sue.steeler@example.com      |  x               |                  |
+|quiet.quinn@example.com      |  Editor          |                  |
+|beth.blueberry@example.com   |                  | x                |
+|sam.salsa@example.com        |                  | x                |
+|billy.banjo@example.com      |                  | Admin            |
 
+Sub-groups can define their own lists, whose columns
+immediately follow their group:[group name] column and before the
+next group column.  In the following example, Tim belongs to the
+ account-wide "musicians" list as well as the "redsox" list defined in
+(and only relevant in) the eastregion group. Sue is also a musician and
+is in the "giants" list defined in the westregion group:
+
+| Email                       | list:musicians | group:eastregion | list:redsox    | group:westregion | list:giants |
+|:--------------------        |:---------------|:-----------------|:---------------|:-----------------|:---------------|
+|tim.tangelo@example.com      | x              |  Admin           | x              |                  | x              |
+|beth.blueberryr@example.com  | x              |                  |                | x                | x              |
