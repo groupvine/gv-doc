@@ -1,6 +1,6 @@
 # Sending Emails
 
-<span id="gv-3send-4sendsettings"></span>
+<span id="gv-3send-4sendsetting"></span>
 ## Email Settings
 
 <span class="sub g4s">

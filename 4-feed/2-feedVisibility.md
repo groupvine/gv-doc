@@ -2,7 +2,7 @@
 
 <span class="sub g4s">
 
-<span id="gv-4feed-2feedvisibility"/></span>
+<span id="gv-4feed-2feedvisibility"></span>
 ## Public or Private?
 
 Visitors or non-members can navigate to an account's Email Feed,
@@ -11,7 +11,7 @@ public will show up in the feed.
 
 </span> <!-- sub g4s -->
 
-<span class=”g4s”>
+<span class="g4s">
 
 By default, GroupVine 4 School account feeds are private to account
 members, and their sub-groups default to the account's visibility when
@@ -21,7 +21,7 @@ additional option to be private to their sub-group members only.
 
 </span> <!-- g4s -->
 
-<span class=”sub”>
+<span class="sub">
 
 By default, Subscription account feeds are public, and their sub-groups
 default to their parent group's visibility when they are created. 

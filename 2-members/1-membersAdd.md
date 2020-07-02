@@ -1,5 +1,8 @@
-<span id="gv-1start-1startmembers"></span>
-# Add new Members/Subscribers
+# Managing your Membership
+
+
+<span id="gv-2members-1membersAdd"></span>
+## Add new Members/Subscribers
 
 New members can be added to your account or sub-group in the following
 ways:
@@ -7,20 +10,20 @@ ways:
 * Add new members from the **Membership** page
 * Have Subscribers sign up
 
-<span id="gv-1start-1startMembers"></span>
-## Upload an import file
+<span id="gv-2members-1membersAdd-upload-import"></span>
+### Upload an import file
 
 For information on importing a membership file, click
 [**here**](/2-members/z-membersImport.md?[LINK-QARGS-DOC])
 
 <span class="todo">
 ** Needs to point to Membership Import**
-**Does that link work?**
+**Does that link work?**   DB: John, link works for me, I'll let you remove TODO.
 </span>
 .
 
-<span id="gv-1start-1startmembers-add-new-members"></span>
-## Add new members from the Membership page
+<span id="gv-2members-1membersAdd-add-new-members"></span>
+### Add new members from the Membership page
 
 To add a new member to your account, you can enter their information on
 the **Add New Member** tab on your **Membership** page, and then click
@@ -52,8 +55,8 @@ can set attributes and join available lists and sub-groups.  Once they
 
 </span> <!--free sub -->
 
-<span id="gv-1start-1startmembers-have-subscribers"></span>
-## Have Subscribers sign up
+<span id="gv-2members-1membersAdd--have-subscribers"></span>
+### Have Subscribers sign up
 
 All accounts are equipped with a public page where people can sign up to
 subscribe to your emails.

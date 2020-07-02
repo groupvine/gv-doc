@@ -15,7 +15,7 @@ If you would like to include more recipients, there are a few ways to do this.  
 
 When ready, send an email either from your online account or your personal email account.
 
-Easy peasy.  And now you can check your [Email Feed](/4-feed/1-feedIntro.md) for your new email.
+Easy peasy.  And now you can check your [Email Feed](/4-feed/1-feedIntro.md?[LINK-QARGS-DOC]#gv-4feeed-1feedInto) for your new email.
 
 ## Where to get more help
 

@@ -1,5 +1,7 @@
-G<span id="gv-1start-2startsend-online"></span>
-# Send email from your online account
+# Sending Emails
+
+<span id="gv-3send-1sendOnline"></span>
+## Send email from your online account
 
 To compose and send an email from your online account, select New
 dEmail in the header and then select **Prepare email online**.
@@ -50,20 +52,20 @@ For more information about Member Attributes,
 [**here**](/2-members/4-membersAttributes.md?[LINK-QARGS-DOC]#gv-2members-4membersattributes)
 
 <span class="todo">
-still something wrong with this link**
+still something wrong with this link.  DB: John, the above link works
+for me, I'll let you remove TODO
 </span>
-.
 
 * Use Email Widgets to ask questions or gather information with these
 five types of Email Widgets (Text, Count, RSVP, Yes-No,
 Single/Multi-Choice) that can be added directly into your email using
 the **Widget** menu.
 For more information about Email Widgets,
-click [**here**](/5-widgets/1-ewIntro.md?[LINK-QARGS-DOC])
+click [**here**](/5-widgets/1-ewIntro.md?[LINK-QARGS-DOC]#gv-5widgets-1ewIntro)
 <span class="todo">
-**fix link**
+**fix link**  DB: JOhn, works for me, I'll let you remove TODO
 </span>
-.
+
 
 Note, your email will be "From" your display name, which is your
 First Name and Last Name attributes as they are set in your profile

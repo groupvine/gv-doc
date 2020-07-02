@@ -1,6 +1,6 @@
 # Email Feed
 
-<span id="gv-4feed-1feedintro"/></span>
+<span id="gv-4feed-1feedIntro"></span>
 ## Email Feed for Published Emails
 
 The **Email Feed** is your account's **Home** page that visitors

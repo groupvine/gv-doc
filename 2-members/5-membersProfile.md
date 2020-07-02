@@ -1,8 +1,10 @@
 # Managing your Membership
 
 <span class="todo">
-What's on the Member's Profile Page OR Subscriber Profile Page,
-JHJHJH which should be used?
+What's on the Member's Profile Page OR Subscriber Profile Page, JHJHJH
+which should be used?  DB: John, not sure of the precise question, but fyi,
+"members" and "member subscribers" (and sometimes "subscribers") can
+be used interchangeably depending on context.
 </span>
 
 <span id="gv-2members-5membersprofile"></span>

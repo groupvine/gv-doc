@@ -28,10 +28,7 @@ For example, you can choose your recipients to be subscribers who
 selected the checkbox attribute for `Can you help with planning for
 XYZ?`
 
-Click [**here**](/1-start/2-startSend.md?[LINK-QARGS-DOC]#gv-1start-2startsend)
-<span class="todo">
-Does that link work?
-</span>
+Click [**here**](/3-send/1-sendOnline.md?[LINK-QARGS-DOC]#gv-3send-1sendOnline)
 
 for more information about sending email using attributes.
 From their profile page, subscribers can set attribute values that

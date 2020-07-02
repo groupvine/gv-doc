@@ -1,5 +1,8 @@
-<span id="gv-1start-2startsend-personal"></span>
-# Send email from a personal email account
+# Sending Emails
+
+
+<span id="gv-3send-2sendInbox"></span>
+## Send email from a personal email account
 
 To send an email to your account from your own inbox, simply send it
 to your account's abbreviation ```@groupvine.com```, for example:
