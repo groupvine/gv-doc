@@ -1,5 +1,3 @@
-<span class="adv">
-
 <span id="gv-7advanced-1advActions"></span>
 # Advanced - Email Actions
 
@@ -230,5 +228,3 @@ and some or all of the following columns in the account instructions file:
 * **customizations** - JSON structured other customizations
 
 </span>
-
-</span> <!-- class="adv">
