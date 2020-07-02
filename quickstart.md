@@ -1,6 +1,7 @@
 # Quick Start
+
 <span class="todo">
-Links needed:  send email, add to membership.  Those doc files may be moving so waiting until they have their final place.  Check if Email Feed link is correct.
+** TODO Links needed:  send email, add to membership.  Those doc files may be moving so waiting until they have their final place
 </span>
 
 ## Add email addresses
