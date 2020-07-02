@@ -14,7 +14,7 @@ ways:
 ### Upload an import file
 
 For information on importing a membership file, click
-[**here**](/2-members/z-membersImport.md?[LINK-QARGS-DOC])
+[**here**](/2-members/1_2-membersImport.md?[LINK-QARGS-DOC])
 
 <span class="todo">
 ** Needs to point to Membership Import**

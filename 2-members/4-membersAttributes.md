@@ -44,7 +44,7 @@ subscriber's ellipsis **(3 vertical dots)**
 </span>
 from the **Member Listing** tab on the **Membership** page.
 For more information about importing,
-click [**here**](/2-members/z-membersImport.md?[LINK-QARGS-DOC]#gv-2members-zmembersimport)
+click [**here**](/2-members/1_2-membersImport.md?[LINK-QARGS-DOC]#gv-2members-zmembersimport)
 <span class="todo">
 **does that link work?**
 </span>

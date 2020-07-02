@@ -1,7 +1,9 @@
-<span id="gv-2members-zmembersimport"></span>
-# Membership Import
+# Managing your Membership
 
-## How Importing Impacts Membership
+<span id="gv-2members-12membersAdd"></span>
+## Import a Membership FIle
+
+### How Importing Impacts Membership
 
 Importing will change a member's attributes, roles, and membership
 to lists and sub-groups to reflect how this information is set in
@@ -13,7 +15,7 @@ remove the member from the group.
 Columns not included in your import file are unaffected by an import.
 
 <span id="gv-2members-zmembersimport-uploading-recipient-addresses"></span>
-## Uploading Recipient addresses-only
+### Uploading Recipient addresses-only
 
 An easy way to add a list of community members to your account is to
 use a spreadsheet program (e.g., Excel, Numbers, Google Spreadsheet) to
@@ -29,7 +31,7 @@ addresses in a column with an "Email" header, like the following:
 Then select this file to import on the Membership's Import & Export
 page.
 
-## Uploading Member Attributes
+### Uploading Member Attributes
 <div id="gv-uploading-member-attributes"></div>
 
 Attributes, which can be used to save additional member information,
@@ -77,7 +79,7 @@ For more information, visit the **Member Attributes** page.
 <span class="sub g4s">
 
 <span id="gv-2members-zmembersimport-uploading-membership"></span>
-## Uploading Membership Roles
+### Uploading Membership Roles
 
 By default, new members are given the basic "Member" role, however, you
 can also have an arbitrary number of Administrators and Editors.  Here
@@ -112,7 +114,7 @@ the account, and similarly for sub-groups and their sub-group column.
 |beth.blueberry@example.com | Montecito |           | black     |   x   |
 |quiet.quinn@example.com    | Toronto   | Hockey    | red       | Editor|
 
-## Uploading to Member Lists
+### Uploading to Member Lists
 <div id="gv-uploading-to-member-lists"></div>
 
 Lists allow you to target emails by certain sub-sets to a subset of
@@ -142,7 +144,7 @@ Did that link work?
 </span>
 .
 
-## Uploading to Groups
+### Uploading to Groups
 <div id="gv-uploading-to-groups"></div>
 
 Groups are similar to lists in that they too allow specific
