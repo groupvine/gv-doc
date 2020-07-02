@@ -3,19 +3,35 @@
 <span id="gv-2members-12membersAdd"></span>
 ## Import a Membership FIle
 
-### How Importing Impacts Membership
+* [How Importing Impacts Your Membership](/2-members/1_2-membersAdd.md?[LINK-QARGS-DOC]#gv-2members-12membersAdd-impactMem)
+* [Uploading Recipient Addresses-only](/2-members/1_2-membersAdd.md?[LINK-QARGS-DOC]#gv-2members-12membersAdd-uploading-recipient-addresses)
+* [Uploading Member Attributes](#gv-uploading-member-attributes)
+* [Uploading Membership Roles]
+* [Uploading to Member Lists]
+* [Uploading to Groups]
 
-Importing will change a member's attributes, roles, and membership
-to lists and sub-groups to reflect how this information is set in
-the import file.  A "blank" cell will remove an attribute value or
-remove the member from the specific lists or sub-groups.  For the
-"Role" column, which defines account membership, a blank will
-remove the member from the group.
+<span id="gv-2members-12membersAdd-impactMem"></span>
+### How Importing Impacts Your Membership
+
+<span class="sub g4s">
+
+Importing will change a member's attribute values, role, and memberships to lists and sub-groups based on how these are set in the import file.  An empty cell will remove an attribute value or remove the member from a list or sub-group.  An empty cell in the "Role" column will remove the member from the account.
+
+</span> <!-- sub g4s -->
+
+<span class="free">
+
+Importing will change a member's attribute values, role, and memberships
+to lists based on how these are set in the import file.  An empty cell will remove an attribute value or
+remove the member from a list.  An empty cell in the 
+"Role" column will remove the member from the account.
+
+</span> <!-- free -->
 
 Columns not included in your import file are unaffected by an import.
 
-<span id="gv-2members-zmembersimport-uploading-recipient-addresses"></span>
-### Uploading Recipient addresses-only
+<span id="gv-2members-12membersAdd-uploading-recipient-addresses"></span>
+### Uploading Recipient Addresses-only
 
 An easy way to add a list of community members to your account is to
 use a spreadsheet program (e.g., Excel, Numbers, Google Spreadsheet) to
@@ -31,8 +47,8 @@ addresses in a column with an "Email" header, like the following:
 Then select this file to import on the Membership's Import & Export
 page.
 
-### Uploading Member Attributes
-<div id="gv-uploading-member-attributes"></div>
+<span id="gv-upload-member-attributes"></span>
+### Upload Member Attributes
 
 Attributes, which can be used to save additional member information,
 and then personalize emails or target recipients based on their
@@ -78,7 +94,7 @@ For more information, visit the **Member Attributes** page.
 
 <span class="sub g4s">
 
-<span id="gv-2members-zmembersimport-uploading-membership"></span>
+<span id="gv-2members-zmembersimport-uploading-membership-roles"></span>
 ### Uploading Membership Roles
 
 By default, new members are given the basic "Member" role, however, you
@@ -106,7 +122,6 @@ Uploading a blank cell for a member's Role will remove the member from
 the account, and similarly for sub-groups and their sub-group column.
 </span>
  
-</span> <!-- sub g4s -->
 
 | Email                     | City      | Sport     | Fav Color | Role  |
 |:--------------------------|:----------|:----------|:----------|:------|
@@ -114,8 +129,10 @@ the account, and similarly for sub-groups and their sub-group column.
 |beth.blueberry@example.com | Montecito |           | black     |   x   |
 |quiet.quinn@example.com    | Toronto   | Hockey    | red       | Editor|
 
+</span> <!-- sub g4s -->
+
+<span id="gv-uploading-to-member-lists"></span>
 ### Uploading to Member Lists
-<div id="gv-uploading-to-member-lists"></div>
 
 Lists allow you to target emails by certain sub-sets to a subset of
 community members. For example, the following import would specify
@@ -142,10 +159,11 @@ click [**here**](/2-members/2-membersList.md?[LINK-QARGS-DOC]#gv-2members-2membe
 <span class="todo">
 Did that link work?
 </span>
-.
 
+<span class="sub g4s">
+
+<span id="gv-uploading-to-groups"></span>
 ### Uploading to Groups
-<div id="gv-uploading-to-groups"></div>
 
 Groups are similar to lists in that they too allow specific
 targeting of community members, but are more powerful in a number
@@ -190,3 +208,5 @@ is in the "giants" list defined in the westregion group:
 |:--------------------        |:---------------|:-----------------|:---------------|:-----------------|:---------------|
 |tim.tangelo@example.com      | x              |  Admin           | x              |                  | x              |
 |beth.blueberryr@example.com  | x              |                  |                | x                | x              |
+
+</span> <!-- sub g4s -->
