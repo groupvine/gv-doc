@@ -1,6 +1,7 @@
+<span id=" id="gv-service-help-topics"></span>
 # Help Topics
 
-<div id="gv-service-help-topics">
+<div>
 
   <div class="tocTable">
     <table style="width:100%">
