@@ -1,379 +1,357 @@
 # Email Delivery & Troubleshooting
 
 <span id="gv-6delivery-1delivmissing"></span>
-## Members are not getting emails
+## Members aren't getting emails
 
-### Some of our members are not receiving their email, or they don't realize they landed in spam/junk folders. What can we do?
+* [Tips to help ensure recipients receive your emails](#gv-6delivery-1delivMissing-tips-to)
+* [Information to whitelist GroupVine servers](foo.md?[#gv-6delivery-1delivMissing)
 
-Some of our members don't receive our emails, but most often, they don't
-realize that the emails have landed in their spam or junk folders.
-How can we get our emails to not be classified as junk or spam?
+There are several reasons why recipients might not be receiving emails. 
+A couple of common reasons can be easily resolved by looking up to see
+if the recipient's email address is listed on the **Delivery Issues**
+tab on the **Membership** page.
 
-<span class="todo">
-  Following sections needed
+* If the recipient has a "problem" email address, then confirm their
+correct address and update their email address in their membership.
+
+<span class="highlight">
+Once a member's email address has bounced twice, it is considered an
+invalid address and we no longer attempt to deliver emails to the
+address.  This is done to keep us in good standing with email providers
+so that they don't consider us spammers and will continue deliver our
+emails to inboxes.  
 </span>
 
-**EMPLOYEE**
+<span class="g4s">
+* If the recipient is opted-out, click their email address to jump
+to the member's settings and uncheck the **Opted out?** checkbox in
+the Membership status section. 
+</span> <!-- g4s -->
+
+<span class="sub">
+If the recipient is opted-out, have them re-submit their information on
+your subscription page and confirm their interest in the confirmation
+email sent to them.  (Your subscription page's URL is on the Add New
+Member tab on the Membership page.) 
+
+Note, if **Admin approval required for new subscribers?** is set to
+**Yes** on your **Account Settings** tab, then an Administrator will
+need to approve of the application before they are opted-in.
+</span> <!-- sub -->
+
+<span class="free">
+* If the recipient is opted-out, have them re-submit their information
+on your subscription page and then confirm their interest in the
+confirmation email sent to them.  (Your subscription page's URL is
+on the **Add New Member** tab on the **Membership** page.) 
+</span> <!-- free -->
+
+For other possible reasons, 
+[view your email's detailed delivery data](etc) 
 <span class="todo">
-**JHJHJHsomething-needed (icon?) for EMPLOYEE as shown in google doc
+**Fix the link above**
 </span>
 
+and based on the email address domain or bounce reason, here are some
+scenarios that may match your situation.
+
+* If you see "bounced" or "delayed" in the list of delivery failures,
+then it is most likely that the email address is not valid, either due
+to a typo, their account no longer exists or their email service
+provider happened to be "down" at the time of the send.  Confirm the
+correctness of the email address and update the member's profile as
+needed. 
+
+* Comcast or Verizon may drop an email if they think it is spam
+instead of saving it to the user's spam folder.  This will make it
+appear as if the email was never delivered even though our records
+show a successful status from the provider. (Note: We only receive
+a status about whether the provider successfully receives an email
+without additional information about whether the email was
+delivered to the user's inbox, spam folder or if the provider
+dropped the email entirely.)
+
+ It is important to have emails marked as spam delivered to your
+ spam folder so they can be marked as "not spam".  Then, subsequent
+ emails should get delivered to the user's inbox.
+
+ For Comcast users,
+ click [**here**](etc?[...])
+ <span class=todo">
+ **does the above link work?**
+ </span>
+ and follow the steps under **Change Spam Filter** preference.
+ Note: At step 3, click both the checkboxes **Enable spam filter**
+ of my
+ <span class="todo">
+ **my? or their?**
+ </span>
+ account and **Save a copy of emails marked as spam that
+ appear**. The
+ steps on Comcast's site are slightly out of date.
+
+ For Verizon users, contact your Verizon support to get help
+ setting up your
+ <span class="todo">
+  **your? or their?**
+  </span>
+ own spam filters.
+
+ <span class="highlight">
+ Once your spam preferences are set up, be sure to check them by
+ signing directly in to your provider's site, e.g.
+ `comcast.net` or `verizon.net`, instead of from an email
+ program like  Outlook. If you find an email
+ <span class="todo">
+ ** any email? **
+ </span>
+ there, set it
+ <span class="todo">
+ ** what is "it"? **
+ </span>
+ to "Not Spam." (Do this soon after you expect an email since
+ your provider  may automatically clear your spam folder within
+ days.)
+ </span> <!-- highlight -->
+
+* If several delivery failures are from the same domain, the
+  provider may be preventing deliveries and you may need to ask
+  them to [**whitelist the IP addresses of GroupVine's email
+  servers**](foopage]?#foohash)
+  <span class="todo">
+  ** does the above link work? **
+  </span>
+  .
+
+* If no errors are being reported, ask the recipient to check
+  their spam or junk mail folder.  If the email is not there,
+  ask them to add an email filter to their personal email
+  account to filter emails "To" groupvine.com to their inbox.
+
+If there are questions, please contact us at
+[support@groupvine.com](mailto:support@groupvine.com).
+
+<span id="gv-6delivery-1delivMissing-tips-to"></span>
+## Tips to help ensure recipients receive your email
+
+To ensure emails reach recipients, we suggest emailing the
+following from an existing, already established address or
+by creating a paper flyer to send home to all members (see
+example text below):
+
+* Add all community senders' email addresses to their
+  email account's contact list.
+* Set up a "To" filter in their email account so all emails
+  sent to "anything `@groupvine.com`" will be saved in their
+  inbox. Members should consult their email service's help
+  pages for instructions.
+
+Below is an example email message, with bolded text
+indicating appropriate information as it pertains to your
+specific account.
 <span class="todo">
-* **GroupVine Support (Official Rep) over 4 years ago JHJHJHthis-probably-not-needed**
-</span>
-* Another possibility that we found with Comcast and Verizon users in
-particular is that, by default, emails marked as spam by these providers
-were not being saved to the user's spam folder.
-This made it appear as if the email was never delivered, even though our
-records showed that we delivered the email to the provider and received
-a successful status back. Note: once the provider successfully receives
-the email, we don't receive additional status information as to whether
-the email was delivered to the user's inbox, spam folder or if the
-provider dropped the email entirely.
-
-* It's important to have emails marked as spam delivered to your spam
-folder so that users can mark them as "not spam".
-Once the provider processes this information, subsequent emails should
-start getting delivered to the user's inbox.
-
-
-* For Comcast users,
-click [**here**](./robinpage.md?[LINK-QARGS-DOC]#robinhash)
-<span class="todo">
-**robin: fix link**
-</span>
-and follow the
-steps under **Change Spam Filter** preference.
-<span class="todo">
-**JHJHJHgrammar?**
-</span>
-
-**Note: At step 3
-<span class="todo">
-JHJHJHunderline?**
-</span>
-, click both the checkboxes **Enable
-spam filter of my account** and **Save a copy of emails marked as spam**
-that appear.
-The steps on Comcast's site are slightly out of date.
-
-* For Verizon users,
-click [**here**](./robinpage.md?[LINK-QARGS-DOC]#robinhash)
-<span class="todo">
-**robin: fix link**
-</span>
-.
-
-and follow the steps to view messages that Verizon's Spam Detector filters.
-
-Once your spam folder is set up, be sure to check it by signing directly
-to your provider's site, e.g. `comcast.net` or `verizon.net`, instead of
-from an email program like Outlook.
-(Please do this soon after you're expecting an email since your provider
-could be clearing your spam folder automatically for you within a few to
-several days).
-If you find an email there, click on its checkbox and click **Not Spam**.
-
-<span class="todo">
-**JHJHJHicon-needed?**
-</span>
-
-<span class="todo">
-**Employee JHJHJHicon-needed?**
-</span>
-
-<span class="support">
-
-** the text 'Groupvine Support' from the doc is probably not needed here **
-<span class="todo">
-!-- JHJHJH Note to Groupvine Staff: limiting to some number of columns,
- -- perhaps 72, maybe even a lot less, is important here because the text
- -- is essentially quoted/indented
- -->
-
-!-- Note to Groupvine Staff: couldn't get markdown blockquotes ('>') to work
- -- here, so trying indent with four spaces. The downside of this approach
- -- causes the text to be in 'code' format (font not so pleasing)
-</span> <!-- todo">
- 
-</span>
-
-    Hi Everyone,
-     
-    If you didn't experience email delivery problems in the past that
-    required explicit "whitelisting" of our server IP addresses, then this
-    change will likely not impact you.
-    
-    However, if your emails had been blocked in the past (for example, if
-    some recipients with addresses ending in `@mycompany.org` or
-    `@myschool.k12.edu` were not receiving your emails), and it was
-    necessary for the company or school/district IT department to
-    explicitly add the GroupVine servers onto their trusted "whitelist,"
-    then please contact them again to request that they add our two new
-    server addresses.  If this step isn’t done, then they may block emails
-    coming from our new servers.
-    
-    What information do you need to provide? You just need to ask them to
-    add the following GroupVine IP addresses to their trusted "whitelist"
-    of email addresses:
-
-        54.241.130.69 mailer-02.groupvine.com
-        54.241.131.129 mailer-03.groupvine.com
-        54.219.172.113 mailer-04.groupvine.com (new)
-        54.219.154.88 mailer-05.groupvine.com (new)
-    
-    In case it's helpful, we've prepared an email below.
-    Just replace the highlights with your specific information.
-    
-    If you have any questions or need any assistance, please
-    contact us at `support@groupvine.com` 
-    <span class="todo" markdown-1>
-    **JHJHJHmailto-link needed?**
-    </span>.
-    
----
-!-- Note to Groupvine Staff: limiting to some number of columns,
- -- perhaps 72, maybe even a lot less, is important here because the
- -- text is essentially quoted/indented
- -->
----
-** ~~~~~~~~~~~~~~~~~~~ prepared email below ~~~~~~~~~~~~~~~~~~~~~ JHJHJHstyle ** 
-***
-
-
-    Hello,
-    
-    I am the administrator for the <YOUR COMMUNITY NAME> GroupVine
-    account that we use to send emails, and I’m contacting you because
-    you are listed as the contact for the <ENTER THE COMPANY OR SCHOOL
-    DOMAIN>, e.g. `mycompany.org domain`.
-    
-    GroupVine (**http://www.groupvine.com**), which provides the
-    group's email services, just informed us that to increase the
-    robustness and performance of their email delivery service, they
-    are adding additional servers to send email for `groupvine.com`,
-    and thus have introduced two new IP addresses.  Here is the list
-    of the updated IP addresses for the GroupVine email servers that
-    we need whitelisted:
-    
-        54.241.130.69 mailer-02.groupvine.com
-        54.241.131.129 mailer-03.groupvine.com
-        54.219.172.113 mailer-04.groupvine.com (new)  **JHJHJHstyle-for-'new'**
-        54.219.154.88 mailer-05.groupvine.com (new)   **JHJHJHstyle-for-'new'**
-
-    We appreciate your quick action on this to ensure our emails
-    continue to be delivered successfully!
-
-    If you have any questions, please contact <CONTACT'S NAME at YOUR
-    EMAIL ADDRESS>, or you can email `support@groupvine.com` for any
-    technical questions.
-
-    Thank you!
-    <YOUR NAME>
-    
-<span class="todo">
-**JHJHJHicon-needed?**
+JH: Apologies in advance, but I've changed the whole
+sentence above to use "improved" grammar
 </span>
 
-**Employee**
-<span class="todo">
-**JHJHJHicon-needed?**
-</span>
+<span class="highlight">
+**IMPORTANT:**
 
-** the text 'Groupvine Support' from the doc is probably not needed here **
-
-*BEWARE, the rest has not been prettified, it has just been copied from
-*the doc and just pasted here since I'm
-* not sure I've done the right thing with the quoted text above
-
-There are a number of reasons why members may not be receiving your emails. To begin the process of diagnosing why users are not receiving your emails, please do the following:
-
-
-Click View email archive on your **Home** page.
-Locate an email you have previously sent and click on its Stats icon ( ).
-If you have delivery failures, click the link "X Email Address Delivery Failures and Delays". The two possible errors are "bounced" and "delayed".
-
-After you have completed the above steps please identify which scenarios match your current situation and scroll down to get answers.
-
-Scenarios:
-
-
-I’m seeing "bounced" or "delayed" for one or more recipients in the list of delivery failures and they do NOT have an email address from one of the big Email Service Providers (eg. Gmail, Yahoo, AOL, or Hotmail). In this case you may find a number of recipients with addresses in the same domain (eg. xxx@k-5school.us) which are bouncing or being delayed or there could be no errors for these addresses but a number of people are reporting not receiving your email.
-Members with an email address from one of the Email Service Providers (eg. Gmail, Yahoo, AOL, etc). are reporting they are not receiving my emails.
-Members with an email address from Hotmail (including Administrators or Editors) are not receiving their own emails when it’s sent from their Hotmail address.
-Members with an email address from AOL (including Administrators or Editors) are not receiving their own emails when it’s sent from their AOL address.
-
-
-Scenario 1: I’m seeing "bounced” or "delayed” for one or more recipients in the list of delivery failures and they do NOT have an email address from one of the big Email Service Providers (eg. Gmail, Yahoo, AOL, or Hotmail). In this case you may find a number of recipients with addresses in the same domain (eg. xxx@k-5school.us) which are bouncing or being delayed or there could be no errors for these addresses but a number of people are reporting not receiving your email.
-
-If you’re sure the email address for your recipient is valid then their organization’s email server is probably bouncing or delaying email from GroupVine due to the organization’s email security settings. Please contact the IT department and ask them to investigate how their mail server is handling incoming email from the groupvine.com web domain. Most likely they need to whitelist the GroupVine email server IP addresses listed below to their safe senders or exception list to allow your emails to be forwarded along to the recipients.
-
-54.241.130.69
-54.241.131.129
-54.219.172.113
-54.219.154.88
-
-(Use the sample email we've prepared in this question to contact your IT department.)
-
-If there are no errors being reported for these recipients then please check to see if your email is landing in the spam or junk mail folders. If so, please ask them to add your sender email address to their safe senders and/or contact lists or add a "To" filter in their personal email for "groupvine.com" (see here for details).
-
-Scenario 2: Members with an email address from one of the Email Service Providers (eg. Gmail, Yahoo, AOL, etc). are reporting they are not receiving my emails.
-
-If you see "bounced” or "delayed” in the list of delivery failures for these users then most likely their email address is not valid, either due to a typo or perhaps their account no longer exists. Please confirm the email address and update their member profile as needed. To update a recipient’s email address:
-
-
-In the list of delivery failures, click on the recipient's email address
-that needs to be updated to reach their **User Profile** page.
-On the **User Profile** page you can update the user’s Primary email
-address or Alternate email address.
-Note that if the username may also need updating to match-up with the
-new email address.
-After pressing Save, use the **Back** button in the upper right to return
-to the **recipients
-<span class="todo">
-**JHJHJHcapitalize-and-bold?**
-</span>
-page.
-
-If there are no errors being reported for these recipients then please check to see if your email is landing in the spam or junk mail folders. If so, please ask them to add your sender email address to their safe senders and/or contact lists or add a "To" filter in their personal email for "groupvine.com" (see here for details).
-
-Scenario 3: Members with an email address from Hotmail (including Administrators or Editors) are not receiving their own emails when it’s sent from their Hotmail address.
-
-If members with Hotmail email addresses are not receiving their own emails
-they likely need to set-up filters in Hotmail to remedy the problem.
-Here’s a support page to pass along to your members with simple
-step-by-step instructions on setting up Hotmail filters.
-
-Scenario 4: Members with an email address from AOL (including Administrators or Editors) are not receiving their own emails when it’s sent from their AOL address.
-
-If you’re an AOL user then most likely you will not be able to receive emails that you send because of AOL’s security settings. You may want to consider creating a new email address for your account to send emails so that you can also receive them properly in your AOL account. Instructions for creating a new email address can be found here.
-
-Then here's a tip to help your recipients receive your email:
-As soon as possible so nothing is missed, we strongly suggest your account Administrator informs every member which email addresses to add to their contact list and instructions, which can be found here, on how to set up "To" filters in their email. Both of these pieces of information can be passed on to members by doing one or, preferably, both of the following:
-
-
-Sending from an existing email address to all members
-If your account is for a school or family group, then sending home a paper flyer to every member or family
-
-
-Example email/flyer text
-IMPORTANT
 We need your help to ensure our communications reach your inbox!
 
-To make sure our emails don’t end up in your spam/junk folder, simply add these email
-addresses to your contact list in your email tool:
+To avoid our emails ending up in your spam/junk folder, please
+add these email addresses to your contact list in your email tool:
 
     aaa@bbb.com
     ccc@ddd.com
     ...
 
-That’s it! Done! Thank you for your cooperation!
+Thank you for your cooperation!
 
-(If you find you’re not receiving our emails, please contact XXX at xxx@yyy.com.)
+< your name >  
+< your title >
 
-[IMPORTANT NOTE: replace the above 'XXX' and email addresses with all email addresses that you use to send emails to your community.]
-
-EMPLOYEE
-GroupVine Support (Official Rep) over 9 years ago
-There are a number of reasons why members may not be receiving your emails. To begin the process of diagnosing why users are not receiving your emails, please do the following:
-
-
-Click on View email archive from your **Home** page.
-Locate an email you have previously sent and click on its Stats icon ().
-On the **Recipient Information** page you can click to see delivery failures
-and delays.
-The two errors that are possible are "Bounced” and "Delayed”.
-
-After you have completed the above steps please identify which scenarios match your current situation and scroll down to get answers.
-
-
-Scenarios:
-
-
-I’m seeing "Bounced" or "Delayed" for one or more recipients in the Errors column and they do NOT have an email address from one of the big Email Service Providers (eg. Gmail, Yahoo, AOL, or Hotmail). In this case you may find a number of recipients with addresses in the same domain (eg. xxx@k-5school.us) which are bouncing or being delayed. Or perhaps there are no errors for these addresses but a number of people are reporting not receiving your email.
-Members with an email address from one of the Email Service Providers (eg. Gmail, Yahoo, AOL, etc). are reporting they are not receiving my emails.
-Members with an email address from Hotmail (including Administrators or Editors) are not receiving their own emails when it’s sent from their Hotmail address.
-Members with an email address from AOL (including Administrators or Editors) are not receiving their own emails when it’s sent from their AOL address.
-
-Scenario 1: I’m seeing “Bounced” or “Delayed” for one or more recipients in the Errors column and they do NOT have an email address from one of the big Email Service Providers (eg. Gmail, Yahoo, AOL, or Hotmail). In this case you may find a number of recipients with addresses in the same domain (eg. xxx@k-5school.us) which are bouncing or being delayed. Or perhaps there are no errors for these addresses but a number of people are reporting not receiving your email.
-If you’re sure the email address for your recipient is valid then their organization’s email server is probably bouncing or delaying email from GroupVine due to the organization’s email security settings. Please contact the IT department and ask them to investigate how their mail server is handling incoming email from the groupvine.com web domain. Most likely they will need to add the following list of mail server IP addresses to their safe senders or exception list:
-
-54.241.130.69
-54.241.131.129
-
-Most likely they need to whitelist the GroupVine email server listed above to allow your emails to be forwarded along to the recipients.
-
-If there are no errors being reported for these recipients then please check to see if your email is landing in the spam or junk mail folders. If so, please ask them to add your sender email address to their safe senders and/or contact lists. For more information on how to add email addresses to a safe sender list or address book
-click [**here**](./robinpage.md?[LINK-QARGS-DOC]#robinhash)
 <span class="todo">
-**robin: fix link**
+JH: Not sure how to boldify bits of text in the the above
 </span>
-.
 
-Scenario 2: Members with an email address from one of the Email Service Providers (eg. Gmail, Yahoo, AOL, etc). are reporting they are not receiving my emails.
-If you see “Bounced” or “Delayed” in the Errors column for these users then most likely their email address is not valid, either due to a typo or perhaps their account no longer exists. Please confirm the email address and update their member profile as needed. To update a recipient’s email address:
+</span> <!-- highlight -->
 
+<span id="gv-6delivery-1delivMissing-information-to"></span>
+## Information to whitelist GroupVine servers
 
-On the **Recipients** page for a previously sent email, click on the
-email address of the recipient that needs to be updated to reach their
-**User Profile** page.
-On the **User Profile** page you can update the user’s Primary email
-address or Alternate email address.
-Note that if the username may also need updating to match-up with the new
-email address.
-After pressing Save use the Back button in the upper right
+If you find several delivery failures from the same domain,
+the provider may be cautious or strict about who is sending
+email to their customers and only allows deliveries from
+senders who they have “whitelisted” or have been trusted.  
+
+If this is the case, you may need to contact their IT
+department to ask them to add the following GroupVine IP
+addresses to their "trusted whitelist".
+
+    54.241.130.69  mailer-02.groupvine.com
+    54.241.131.129 mailer-03.groupvine.com
+    54.219.172.113 mailer-04.groupvine.com
+    54.219.154.88  mailer-05.groupvine.com
+
+<span class="highlight">
+
+Hello,
+
+I am the administrator for the **YOUR COMMUNITY NAME**
+GroupVine account that we use to send emails, and I am
+contacting you because you are listed as the contact
+for the **ENTER THE COMPANY OR SCHOOL DOMAIN**,e.g.
+`mycompany.org domain`.
+
+GroupVine (http://www.groupvine.com), which provides
+the group email services, just informed us that to
+increase the robustness and performance of their email
+delivery service, they are adding additional servers to
+send email for `groupvine.com`, and thus have
+introduced a set of new IP addresses. Here is the list
+of the updated IP addresses for the GroupVine email
+servers that we need whitelisted:
+
+    54.241.130.69  mailer-02.groupvine.com
+    54.241.131.129 mailer-03.groupvine.com
+    54.219.172.113 mailer-04.groupvine.com
+    54.219.154.88  mailer-05.groupvine.com
+
+We appreciate your quick action on this to ensure our
+emails continue to be delivered successfully!
+
+If you have any questions, please contact **CONTACT'S
+NAME** at **YOUR EMAIL ADDRESS**, or you can email
+support@groupvine.com for any technical questions.
+
+Thank you!
+
+< **YOUR NAME** >  
+
+</span>
+
+<span id="gv-6delivery-1delivMissing-bounced-emails"></span>
+## Bounced emails
+
+A bounced email is an email could not be delivered to
+the recipient's email address which can happen for a
+variety of reasons, but usually occurs when an email
+address is incorrect or a recipient's mailbox is full.
+
+If, after sending an email from an online account or from
+a personal email account, there were any failed
+deliveries, an "Email delivery report" from "Trivy Worker
+Bee" is sent to the sender containing a list of bounced
+email addresses and the reason for the bounce.  If all
+deliveries were successful, then a delivery report will
+not be sent.  
+
+<span id="gv-6delivery-1delivMissing-what-to-do"></span>
+## What to do when some email addresses bounce?
+
+For the bounced email addresses, the goal is to correct
+the addresses in your account and resend the email to
+those corrected addresses.  Here's how to do that:
+
+1. Confirm the correctness of the email address and update
+the member's email address from the Member Listing tab on
+the Membership page.
+
+2. From your Email Feed in Gallery view, open the email
+you're interested in, click its 
 <span class="todo">
-**JHJHJHeditorial upper right of what?**
-</div>
- to
-return to the **Recipients** page.
+icon-needed
+</span>
+(hamburger menu) in the top right corner of the email,
+and select **View delivery data**.  On the **New Email**
+page select the option **Resend published email without any
+changes** and click **Review & Send**.  (Note, if changes
+will be made to the email, then select **Copy published
+email to your new email** and **make changes**, enter the
+new email subject, and click **Compose**.) Click **Send**
+and select those members whose address who you corrected
+on the **Select Individuals**.  Click **Resend!**
 
-If there are no errors being reported for these recipients then please check to see if your email is landing in the spam or junk mail folders. If so, please ask them to add your sender email address to their safe senders and/or contact lists.
+If the Email Feed is in the Listing view, click the ellipsis
+of the email and select **Resend email**.
 
-Scenario 3: Members with an email address from Hotmail (including Administrators or Editors) are not receiving their own emails when it’s sent from their Hotmail address.
+If you have any questions or need any additional help,
+please contact us at
+[support@groupvine.com](mailto:support@groupvine.com).
 
-If members with Hotmail email addresses are not receiving their own emails
-they likely need to set-up filters in Hotmail to remedy the problem.
-Here’s a support page to pass along to your members with simple
-step-by-step instructions on setting up Hotmail filters.
+<span class="highlight">
 
-Scenario 4: Members with an email address from AOL (including Administrators or Editors) are not receiving their own emails when it’s sent from their AOL address.
-If you’re an AOL user then most likely you will not be able to receive emails that you send because of AOL’s security settings. You may want to consider creating a new email address for your account to send emails so that you can also receive them properly in your AOL account. Instructions for creating a new email address can be found here.
+Once a member's email address has bounced twice, it is 
+considered a "problem" address and we no longer attempt to
+deliver emails to the address.  This is done to keep us in
+good standing with email service providers so they don't
+consider us spammers and will continue to accept and
+deliver our emails to their customers' inboxes.
 
+</span>
 
+<span id="gv-6delivery-1delivMissing-who-opened"></span>
+## Who opened my email?
 
-A tip to help your recipients receive your email:
-As soon as possible so nothing is missed, we strongly suggest your account Administrator informs every member which email addresses to add to their contact list and instructions, which can be found here, on how to set up "To" filters in their email. Both of these pieces of information can be passed on to members by doing one or, preferably, both of the following:
+<span class="highlight">
+An "open" is only counted if the recipient opens their
+email from their inbox with images displayed.
+</span>
 
+Here is how to find how many and who has opened your email:
 
-Sending from an existing email address to all members
-If your account is for a school or family group, then sending home a paper flyer to every member or family
+1. From your Email Feed in Gallery view, open the email
+you're interested in.
 
-Example email/flyer text
-IMPORTANT
-We need your help to ensure our communications reach your inbox!
+2. Click the 
+<span "todo">
+**icon-needed**
+</span>
+(hamburger menu) in the top right corner of the email and
+select **View delivery data**.
 
-To make sure our emails don’t end up in your spam/junk folder, simply add these
-email addresses to your contact list in your email tool:
+3. The email's delivery data summary will appear with
+information on deliveries and on failures.  Click **Download
+Delivery Data** to see which recipients opened your email.
 
-    aaa@bbb.com
-    ccc@ddd.com
-    ...
+If the Email Feed is in the Listing view, click the email's
+ellipsis and select **View delivery data**.
 
-That’s it! Done! Thank you for your cooperation!
+## "Bounced out" or "problem" email addresses
 
-(If you find you’re not receiving our emails, please contact XXX at xxx@yyy.com.)
+Once a member's email address has bounced twice, it's
+considered a "problem" address and the address has
+"bounced out" where we no longer attempt to deliver
+emails to that address.  
 
-[IMPORTANT NOTE: replace the above 'XXX' and email addresses with all email addresses that you use to send emails to your community.]
+This is done to keep us in good standing with email
+service providers so they don't consider us spammers
+and will continue to accept and deliver our emails
+to their customers' inboxes. 
 
+<span id="gv-6delivery-1delivMissing-download-detailed"></span>
+## Download detailed email delivery information
 
-More details about spam avoidance
-As you are probably aware, we're constantly fighting the battle to keep emails from ending up in members' spam/junk folders. To alleviate the spam issue and to ensure your communications successfully reach your families, we've found the easiest and best way is to have ALL members add your account senders' email addresses to their email contacts in their preferred email application (per the above tip). This is especially true for users using an online email provider, like Yahoo, AOL, Hotmail, etc.
+To download detailed email delivery information:
 
-The content in your email also has a big impact on the likelihood your email will be categorized as spam. Here are a couple references that provide good tips on avoiding spam filters:
+1. From your Email Feed in Gallery view, click on the
+email you're interested in.
 
+2. Click the
+<span "todo">
+icon-needed
+</spann>
 
-**http://www.internetbasedmoms.com/ezin..**
-**http://www.interspire.com/content/200..**
+(hamburger menu) in the top right corner of the email and
+select **View delivery data**.
 
+The email's delivery data summary will appear with information on deliveries and on failures.  Click Download Delivery Data for a spreadsheet of the email's detailed delivery information.
 
+3. The email's delivery data summary will appear with
+information on deliveries and on failures.  Click **Download
+Delivery Data** for a spreadsheet of the email's detailed
+delivery information.
+
+If the Email Feed is in the Listing view, click the email's
+ellipsis and select **View delivery data**. 

@@ -9,7 +9,7 @@
 
 Sub-groups provide additional flexibility in how you manage your
 membership and target your emails.
-Here are a sub-group’s key features:
+Here are a sub-group's key features:
 
 * Sub-groups have their own membership that is selected from members of
 the parent group and independent from other sub-groups.
@@ -32,16 +32,16 @@ capabilities local to their group.
 * Sub-groups can allow its general members to send email using the
 group email address.
 **Can general members also send group emails?** can be set on the
-Gear’s **Sub-group Settings** tab.
+Gear's **Sub-group Settings** tab.
 
 * Sub-groups can be moderated where the group administrators are
 emailed emails sent from a personal email account to review and either
-approve or deny the email’s release.
-**Is group moderated?** can be set on the Gear’s **Sub-group Settings**
+approve or deny the email's release.
+**Is group moderated?** can be set on the Gear's **Sub-group Settings**
 tab.
 
 To allow subscribers to join sub-groups from their profile page, select
-the sub-groups to be visible to the subscriber from the account Gear’s
+the sub-groups to be visible to the subscriber from the account Gear's
 **Site Customizations** tab.
 Click [**here**](./robinpage.md?[LINK-QARGS-DOC]#robinhash)
 <span class="todo">

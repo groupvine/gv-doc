@@ -3,7 +3,7 @@
 <span id="gv-4feed-1feedintro"/></span>
 ## Email Feed for Published Emails
 
-The **Email Feed** is your account’s **Home** page that visitors
+The **Email Feed** is your account's **Home** page that visitors
 will navigate to with the opportunity to subscribe.
 Emails sent to the group are listed chronological, including added posts
 of older emails or emails from a different service.  

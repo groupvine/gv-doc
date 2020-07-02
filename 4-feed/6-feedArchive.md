@@ -13,10 +13,10 @@ In the Listing View, archived emails will be identified with
 <span class="todo">
 **JHJHJHicon-needed**
 </span>
-to signify it’s filed away.
+to signify it's filed away.
 
 To archive an email, view your Email Feed in Listing View, select the
-email’s ellipsis
+email's ellipsis
 **(three vertical dots)**
 <span class="todo">
 **JHJHJHicon-needed?**
@@ -25,7 +25,7 @@ and select
 **Archive** from the menu.
 
 To unarchive an email and return it to the Email Feed, view your feed
-in Listing View, then click the archived email’s **ellipsis (three
+in Listing View, then click the archived email's **ellipsis (three
 vertical dots)
 <span class="todo">
 JHJHJHicon-needed?**

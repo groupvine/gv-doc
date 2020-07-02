@@ -21,24 +21,24 @@ page.
 <span class="sub g4s">
 Theme colors and logo can be chosen for your account and sub-groups to
 give each group their own unique feel.
-Shades of the theme’s primary color are used for the group’s
-**Email Feed** page and the account’s **Subscribe** page.  
+Shades of the theme's primary color are used for the group's
+**Email Feed** page and the account's **Subscribe** page.  
 
 Also if you are using an email template with a header, then the header
 will use your primary color, and in the editor Titles and Subsections
 will use the primary color and sections will use the secondary color.
 
 If sub-group colors are not set, then their colors will default to the
-account’s theme colors.
+account's theme colors.
 
-Each group can upload a logo which will appear on the group’s **Email
+Each group can upload a logo which will appear on the group's **Email
 Feed**, **Subscription** page and in templates that include the logo.
 </span> <!-- sub g4s -->
 
 <span class="free">
 Theme colors and logo can be chosen for your account to give it its
 own unique feel.
-Shades of the theme’s primary color are used for the **Email Feed** page
+Shades of the theme's primary color are used for the **Email Feed** page
 and **Subscribe** page.  
 
 Also if you are using an email template with a header, then the
@@ -46,7 +46,7 @@ header will use your primary color, and in the editor Titles and
 Subsections will use the primary color and sections will use the
 secondary color.
 
-You can upload a logo which will appear on the account’s **Email
+You can upload a logo which will appear on the account's **Email
 Feed**, **subscription** page, and in templates that include the logo.
 </span> <!-- free -->
 
@@ -55,17 +55,17 @@ Feed**, **subscription** page, and in templates that include the logo.
 <span id="gv-2members-4sendsettings-default-email-layout"></span>
 ### Default Email Layout
 
-Here are the two options for the account’s **Default email layout**,
+Here are the two options for the account's **Default email layout**,
 although the layout can be overridden by making a Layout selection
-from **Options** in the email’s **Compose** header.
+from **Options** in the email's **Compose** header.
 <span class="todo">
-**JHJHJH not sure what two options here means given that each is
+**JHJHJH not sure what "two options" here means given that each is
 qualified by further class divs, and so they might not both be visible.
 </span>
 
 <span class="sub">
 <span class="todo">
-JHJHJHimage-needed for this part?
+image-needed for this part?
 </span>
 **Layout options Image for Subscription or Trial**
 </span>
@@ -118,7 +118,7 @@ of our service offerings or upgrade your account
 .
 
 Note, Administrators and Editors are authorized senders in an account where
-Administrators can also manage the account’s membership and settings.  
+Administrators can also manage the account's membership and settings.  
 
 </span> <!-- free -->
 

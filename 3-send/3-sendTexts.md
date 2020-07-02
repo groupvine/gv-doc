@@ -29,7 +29,8 @@ notifications ... :)**
 
   * Mobile phone number, including area code
 
-  * Mobile phone carrier - please contact [support@groupvine.com](mailto:support@groupvine.com) if your carrier isn’t listed
+  * Mobile phone carrier - please contact
+[support@groupvine.com](mailto:support@groupvine.com) if your carrier isn't listed
 
   * Text mode - No text (default), text only for emails marked
 **Urgent**, or text for all emails

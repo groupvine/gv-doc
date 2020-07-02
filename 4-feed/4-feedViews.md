@@ -17,19 +17,19 @@ clicking the
 </span>
 in the Email Feed header to switch to
 Listing View.
-You’ll then see each email has a
+You'll then see each email has a
 <span class="todo">
 **JHJHJHicon-needed**
 </span>
 icon to toggle
-through and change an email’s visibility setting.
+through and change an email's visibility setting.
 Each email also has an
 **ellipsis (three vertical dots)
 <span class="todo">
 JHJHJHicon-needed?**
 </span>
 to a menu of these additional email actions (these
-actions are also available from a live email’s "hamburger"
+actions are also available from a live email's "hamburger"
 <span class="todo">
 **JHJHJHicon-needed**
 </span>
@@ -44,10 +44,10 @@ actions are also available from a live email’s "hamburger"
 to introduce these bullets below:**
 </span>
 
-* Download responses downloads email’s Email Widget data to a spreadsheet.
+* Download responses downloads email's Email Widget data to a spreadsheet.
 
 * **View as recipient** gives Administrators or Editors the
-option to respond to an email’s Email Widgets as if they were the
+option to respond to an email's Email Widgets as if they were the
 recipient or to email a link specifically for the recipient to respond
 to the widgets.
 This is useful to keep all widget data together in case a recipient
@@ -59,12 +59,12 @@ the email or conveys their
 responses in person. 
 
 * **Reply all** creates a new Draft email for a reply email and
-navigates you to the email’s **Compose** page. 
+navigates you to the email's **Compose** page. 
 
 * **Resend email** navigates you to the **New Email** page with the
 published email selected and the resend option set to Copy.
 
-* **Email Widget settings** allows you to change the email’s
+* **Email Widget settings** allows you to change the email's
 Email Widgets configuration.
 After the next response is recorded, the new configuration will take
 effect.

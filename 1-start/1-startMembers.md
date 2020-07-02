@@ -58,9 +58,9 @@ can set attributes and join available lists and sub-groups.  Once they
 
 All accounts are equipped with a public page where people can sign up to
 subscribe to your emails.
-You can find your sign up page’s URL on the **Add New Member** tab on
+You can find your sign up page's URL on the **Add New Member** tab on
 your **Membership** page.
-Also, at the bottom of the **Add New Member** tab, we’ve provided HTML
+Also, at the bottom of the **Add New Member** tab, we've provided HTML
 code that you can add to your own website so people can sign up from
 there.
 
@@ -68,18 +68,18 @@ Your sign up page will be customized with your
 [**account theme**](/3-send/4-sendSettings.md?[LINK-QARGS-DOC]#gv-3send-4sendsettings-theme-colors)
 that includes shades of its primary color and logo.
 You can also replace the default text on your sign-up page by editing
-the **Subscription Sign-up** page on the Gear’s **Site
+the **Subscription Sign-up** page on the Gear's **Site
 Customizations** tab.
 
 Once a subscriber signs up, they are emailed to confirm their interest
 in subscribing and to verify their email address.
-Then depending on your **Membership settings** on the Gear’s
+Then depending on your **Membership settings** on the Gear's
 **Account Settings** tab:
 
 <span class="sub g4s">
 
 * If an Administrator approval is required to admit a new subscriber to
-your account, then the subscriber’s application will appear on the
+your account, then the subscriber's application will appear on the
 **Pending Applications** tab on the **Membership** page.
 If the Administrator approves, then the new subscriber will be
 opted-in to receive email.
@@ -93,7 +93,7 @@ Applications** tab often until you notice new applications slowing,
 and then turning this setting on.
 
 * If "Welcome" emails are sent, new subscribers are sent an email with
-links to the group’s **Email Feed** and their profile page where they
+links to the group's **Email Feed** and their profile page where they
 can set attributes and join available lists and sub-groups.
 
 </span> <!-- sub g4s -->
@@ -101,7 +101,7 @@ can set attributes and join available lists and sub-groups.
 <span class="free">
 
 If "Welcome" emails are sent, new subscribers are sent an email with
-links to the group’s **Email Feed** and their profile page where they can
+links to the group's **Email Feed** and their profile page where they can
 set attributes and join available lists and sub-groups.  
 
 </span>

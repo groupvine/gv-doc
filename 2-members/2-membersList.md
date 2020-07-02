@@ -22,7 +22,7 @@ for details.
 defined in a parent group, and email their members who are on that list.
 
 To allow subscribers to join lists from their profile page, select the
-lists to be visible to the subscriber from the account Gear’s **Site
+lists to be visible to the subscriber from the account Gear's **Site
 Customizations** tab.
 Note, from their profile page, subscribers can only join lists defined
 in the account level.
@@ -35,7 +35,7 @@ Click [**here**](./robinpage.md?[LINK-QARGS-DOC]#robinhash)
 </span>
 for more information on profile pages.
 
-Normally, the group’s Administrators and Editors send email to member
+Normally, the group's Administrators and Editors send email to member
 lists and list recipients can only reply to the sender.
 
 <span class="todo">

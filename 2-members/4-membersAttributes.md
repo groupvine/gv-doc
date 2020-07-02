@@ -4,18 +4,18 @@
 ## Member Attributes
 
 <span class="todo">
-## We use a header line further below, don't we need one here? JHJHJH
+JH: We use a header line further below, don't we need one here?
 </span>
 
 Use Member Attributes to save subscriber information that is specific to
 your account needs.
-You can define attributes on your account Gear’s
+You can define attributes on your account Gear's
 **Member Attributes** tab and here are the four types of attribues:
 **Text**, **Number**, **Checkbox**, and **Single/Multiple Choice**.
 
 Attributes also provide these additional email options:
 
-* Personalize your emails by inserting a placeholder for the recipient’s
+* Personalize your emails by inserting a placeholder for the recipient's
 attribute value.
 If you are sending from your online account, use the **Pers…** (short
 for "Personalization") menu in the email editor.
@@ -35,7 +35,7 @@ Does that link work?
 
 for more information about sending email using attributes.
 From their profile page, subscribers can set attribute values that
-are made available to them by the Administrator on the account Gear’s
+are made available to them by the Administrator on the account Gear's
 **Site Customizations** tab.  
 
 Attribute values can be set using an import file or by clicking on a
@@ -51,7 +51,7 @@ click [**here**](/2-members/z-membersImport.md?[LINK-QARGS-DOC]#gv-2members-zmem
 </span>
 .
 
-Note, editing an attribute’s definition is not allowed since
+Note, editing an attribute's definition is not allowed since
 subscribers may have set values to that attribute.
 Before making changes or deletions, we recommend first exporting your
 membership to save its current state.
@@ -61,6 +61,6 @@ subscriber profile page.
 
 ## Pre-defined Member Attributes
 There are a handful of predefined attributes that can be found on the
-Gear’s **Member Attributes** tab.
+Gear's **Member Attributes** tab.
 These attributes can be used in your emails just like the custom
 attributes described above and are always available on the profile page.

@@ -3,7 +3,7 @@
 
 ## How Importing Impacts Membership
 
-Importing will change a member’s attributes, roles, and membership
+Importing will change a member's attributes, roles, and membership
 to lists and sub-groups to reflect how this information is set in
 the import file.  A "blank" cell will remove an attribute value or
 remove the member from the specific lists or sub-groups.  For the
@@ -17,7 +17,7 @@ Columns not included in your import file are unaffected by an import.
 
 An easy way to add a list of community members to your account is to
 use a spreadsheet program (e.g., Excel, Numbers, Google Spreadsheet) to
-create and save a "CSV" file that simply lists your recipient’s email
+create and save a "CSV" file that simply lists your recipient's email
 addresses in a column with an "Email" header, like the following: 
 
 | Email                       |
@@ -26,7 +26,7 @@ addresses in a column with an "Email" header, like the following:
 |beth.blueberry@example.com   |
 |quiet.quinn@example.com      |
 
-Then select this file to import on the Membership’s Import & Export
+Then select this file to import on the Membership's Import & Export
 page.
 
 ## Uploading Member Attributes
@@ -35,19 +35,19 @@ page.
 Attributes, which can be used to save additional member information,
 and then personalize emails or target recipients based on their
 attribute value, can have their values set or removed by adding the
-attribute name to a column header and the member’s value for that
-attribute in their row. A "blank" cell will remove the attribute’s
+attribute name to a column header and the member's value for that
+attribute in their row. A "blank" cell will remove the attribute's
 value for that member.
 
 Note
 
 * New text-based attributes can be created in an import file by simply
-adding a column with the attribute’s name in the header.  Other
+adding a column with the attribute's name in the header.  Other
 attribute types are required to be defined from your account.
 
-* A small number of attribute names are reserved, such as ‘Email’ and
-‘Last Name.’  A complete list of reserved attribute names are at the
-bottom of the Gear’s **Member Attributes** tab.
+* A small number of attribute names are reserved, such as ‘Email' and
+‘Last Name.'  A complete list of reserved attribute names are at the
+bottom of the Gear's **Member Attributes** tab.
 
 For example:
 
@@ -86,10 +86,10 @@ they are used in an import file.
 engage with group emails (unless they are opted-out). (or abbreviation
 'x').
 
-**Editor:** In addition to a Member’s capabilities, can also send group
+**Editor:** In addition to a Member's capabilities, can also send group
 emails.
 
-**Administrator:** In addition to an Editor’s capabilities, can
+**Administrator:** In addition to an Editor's capabilities, can
 also manage group settings and membership, and approve moderated group
 emails (or abbreviation 'Admin').
  
@@ -98,7 +98,7 @@ column, like this (the City, Sport, and Fav Color custom attributes are
 just shown to give a more complete import example necessary).  
  
 <span class="box">
-Uploading a blank cell for a member’s Role will remove the member from
+Uploading a blank cell for a member's Role will remove the member from
 the account, and similarly for sub-groups and their sub-group column.
 </span>
  

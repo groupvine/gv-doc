@@ -91,7 +91,7 @@ Bingo!
 ```
 
 Custom member attributes may only consist of alphanumeric and the
-underscore (‘_’) character, and must contain at least one letter. Note
+underscore ('_') character, and must contain at least one letter. Note
 that a small number of attribute names are reserved, such as 'email'
 and 'Last Name.'  You can checkout the full list
 [here](./reservedatts?[LINK-QARGS-DOC]).
