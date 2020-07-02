@@ -30,7 +30,7 @@ team.bingotech@groupvine.com
 
 The abbreviation to send to all addresses in your account or sub-group
 can be found on the **Account Settings** or **Sub-group Settings**
-tab on the respective **Gear** page.
+<img src="/docimages/transparent-gear-icon.png" height="22"> page.
 
 Need the email address to target your emails more specifically?
 Simply select **New Email** and then **Send email from your own

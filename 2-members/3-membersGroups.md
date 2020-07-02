@@ -32,16 +32,20 @@ capabilities local to their group.
 * Sub-groups can allow its general members to send email using the
 group email address.
 **Can general members also send group emails?** can be set on the
-Gear's **Sub-group Settings** tab.
+**Sub-group Settings**
+<img src="/docimages/transparent-gear-icon.png" height="22">
+tab.
 
 * Sub-groups can be moderated where the group administrators are
 emailed emails sent from a personal email account to review and either
 approve or deny the email's release.
-**Is group moderated?** can be set on the Gear's **Sub-group Settings**
+**Is group moderated?** can be set on the **Sub-group Settings**
+<img src="/docimages/transparent-gear-icon.png" height="22">
 tab.
 
 To allow subscribers to join sub-groups from their profile page, select
-the sub-groups to be visible to the subscriber from the account Gear's
+the sub-groups to be visible to the subscriber from the 
+<img src="/docimages/transparent-gear-icon.png" height="22">
 **Site Customizations** tab.
 Click [**here**](./robinpage.md?[LINK-QARGS-DOC]#robinhash)
 <span class="todo">

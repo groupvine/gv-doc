@@ -9,7 +9,8 @@ JH: We use a header line further below, don't we need one here?
 
 Use Member Attributes to save subscriber information that is specific to
 your account needs.
-You can define attributes on your account Gear's
+You can define attributes on your
+<img src="/docimages/transparent-gear-icon.png" height="22">
 **Member Attributes** tab and here are the four types of attribues:
 **Text**, **Number**, **Checkbox**, and **Single/Multiple Choice**.
 
@@ -32,7 +33,8 @@ Click [**here**](/3-send/1-sendOnline.md?[LINK-QARGS-DOC]#gv-3send-1sendOnline)
 
 for more information about sending email using attributes.
 From their profile page, subscribers can set attribute values that
-are made available to them by the Administrator on the account Gear's
+are made available to them by the Administrator on the 
+<img src="/docimages/transparent-gear-icon.png" height="22">
 **Site Customizations** tab.  
 
 Attribute values can be set using an import file or by clicking on a
@@ -58,6 +60,7 @@ subscriber profile page.
 
 ## Pre-defined Member Attributes
 There are a handful of predefined attributes that can be found on the
-Gear's **Member Attributes** tab.
+<img src="/docimages/transparent-gear-icon.png" height="22">
+**Member Attributes** tab.
 These attributes can be used in your emails just like the custom
 attributes described above and are always available on the profile page.

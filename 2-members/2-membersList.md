@@ -22,8 +22,9 @@ for details.
 defined in a parent group, and email their members who are on that list.
 
 To allow subscribers to join lists from their profile page, select the
-lists to be visible to the subscriber from the account Gear's **Site
-Customizations** tab.
+lists to be visible to the subscriber from the
+**Account Settings** <img src="/docimages/transparent-gear-icon.png" height="22">
+**Site Customizations** tab.
 Note, from their profile page, subscribers can only join lists defined
 in the account level.
 Group Administrators will need to add sub-group members to their local

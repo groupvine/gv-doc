@@ -5,13 +5,16 @@
 
 <span class="sub g4s">
 Email settings can be found in the **Account Settings** or **Sub-group 
-Settings** on their respective **Gear** page.
+Settings**
+<img src="/docimages/transparent-gear-icon.png" height="22">
+page.
 Note that settings with an `*` mark  in **Account Settings** can be
 overridden in the **Sub-group Settings**.
 </span> <!-- sub g4s -->
 
 <span class="free">
-Email settings can be found in the **Account Settings** on the Gear
+Email settings can be found in the **Account Settings**
+<img src="/docimages/transparent-gear-icon.png" height="22">
 page.
 </span> <!-- free -->
 
@@ -136,7 +139,10 @@ are not authorized to send to that group.
 However, Administrators can allow general members in the group to send
 email from their personal email account by setting **Can general members
 also send account emails?** on the **Account Settings** tab or on each
-**Sub-group Settings** tab on their respective **Gear** page.
+**Sub-group Settings** tab on their respective
+<img src="/docimages/transparent-gear-icon.png" height="22">
+**Configuration** page.
+
 
 </span> <!-- sub g4s -->
 

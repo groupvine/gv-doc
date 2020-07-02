@@ -37,7 +37,8 @@ When a new member is added this way, they are already opted-in and
 ready to receive email.
 
 If Welcome emails are sent (as set in the **Account Settings**
-<img src="/docimages/gear-icon.png" height="22">),
+tab on the
+<img src="/docimages/transparent-gear-icon.png" height="22"> **Configurat** page),
 new members are sent an email with links to the **Email Feed** and to
 their profile page where they can set attributes and join available
 lists and sub-groups.  We recommend sending "Welcome" emails to give
@@ -70,13 +71,16 @@ Your sign up page will be customized with your
 [**account theme**](/3-send/4-sendSettings.md?[LINK-QARGS-DOC]#gv-3send-4sendsettings-theme-colors)
 that includes shades of its primary color and logo.
 You can also replace the default text on your sign-up page by editing
-the **Subscription Sign-up** page on the Gear's **Site
-Customizations** tab.
+the **Subscription Sign-up** page on the
+Account Settings <img src="/docimages/transparent-gear-icon.png" height="22">
+**Site Customizations** tab.
+
 
 Once a subscriber signs up, they are emailed to confirm their interest
 in subscribing and to verify their email address.
-Then depending on your **Membership settings** on the Gear's
-**Account Settings** tab:
+Then depending on your **Membership settings** on the
+**Account Settings** 
+<img src="/docimages/transparent-gear-icon.png" height="22"> tab:
 
 <span class="sub g4s">
 

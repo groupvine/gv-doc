@@ -23,9 +23,12 @@ By default, predefined attributes are always visible on the subscriber's
 profile page.
 Other custom attributes, lists, and sub-groups can also be part of the
 profile page, and Administrators can choose which are visible for
-subscribers to set or join themselves from the account Gear's **Site
-Customization** tab.  (Predefined attributes are listed at the bottom
-of the account Gear's **Member Attributes** tab.)
+subscribers to set or join themselves from the
+<img src="/docimages/transparent-gear-icon.png" height="22">
+**Site Customization** tab.  (Predefined attributes are listed at the bottom
+of the
+<img src="/docimages/transparent-gear-icon.png" height="22">
+**Member Attributes** tab.)
 
 Administrators can update subscriber profiles too by selecting the
 subscriber's ellipsis

@@ -47,7 +47,9 @@ attribute types are required to be defined from your account.
 
 * A small number of attribute names are reserved, such as ‘Email' and
 ‘Last Name.'  A complete list of reserved attribute names are at the
-bottom of the Gear's **Member Attributes** tab.
+bottom of the
+<img src="/docimages/transparent-gear-icon.png" height="22">
+**Member Attributes** tab.
 
 For example:
 
