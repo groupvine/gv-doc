@@ -1,4 +1,4 @@
-<span id=" id="gv-service-help-topics"></span>
+<span id=" id="gv-help-topics"></span>
 # Help Topics
 
 <div>
