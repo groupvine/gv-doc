@@ -339,9 +339,9 @@ To download detailed email delivery information:
 email you're interested in.
 
 2. Click the
-<span "todo">
+<span class="todo">
 icon-needed
-</spann>
+</span>
 
 (hamburger menu) in the top right corner of the email and
 select **View delivery data**.

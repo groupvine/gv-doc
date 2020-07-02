@@ -48,7 +48,6 @@ click [**here**](/2-members/z-membersImport.md?[LINK-QARGS-DOC]#gv-2members-zmem
 <span class="todo">
 **does that link work?**
 </span>
-.
 
 Note, editing an attribute's definition is not allowed since
 subscribers may have set values to that attribute.

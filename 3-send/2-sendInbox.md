@@ -46,7 +46,7 @@ click [**here**](./gv-2members-4membersattributes.md?[LINK-QARGS-DOC]#gv-2member
 <span class="todo">
 **john: fix link**
 </span>
-.
+
 
 To add Email Widgets to ask questions or gather information, follow
 the instructions on the **Widgets** tab for email sent from your
