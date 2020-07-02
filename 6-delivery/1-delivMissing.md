@@ -305,7 +305,7 @@ Here is how to find how many and who has opened your email:
 you're interested in.
 
 2. Click the 
-<span "todo">
+<span class="todo">
 **icon-needed**
 </span>
 (hamburger menu) in the top right corner of the email and
