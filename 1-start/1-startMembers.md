@@ -13,9 +13,10 @@ ways:
 ### Upload an import file
 
 For information on importing a membership file, click
-[**here**](/1-start/2-startSend.md?[LINK-QARGS-DOC]#gv-1start-2startsend-online)
+[**here**](/2-members/z-membersImport.md?[LINK-QARGS-DOC])
 
 <span class="todo">
+** Needs to point to Membership Import**
 **Does that link work?**
 </span>
 .
