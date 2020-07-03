@@ -9,7 +9,7 @@ You can find the URL for this page on the Membership's Add New Member page.
 
 <span class="adv">
   
-Also, at the bottom of the Add New Member page, we've provided HTML
+At the bottom of the Add New Member page, we've provided HTML
 code that you can add to your own website so people can sign up from
 there.
 
@@ -39,7 +39,7 @@ opted-in to receive email.
 If an Administrator approval is not required, then once the new subscriber
 confirms their interest, they will be opted-in to receive email. 
 
-* Administrators can opt to receive an email notifying them when a new pending applicant.
+* Administrators can receive an email notifying them of a new pending applicant.
 To minimize notifications, we suggest initially turning this off and checking the Pending
 Applications page often.  When new applications slow down, then turn this setting on.
 
