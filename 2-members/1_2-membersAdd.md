@@ -119,7 +119,7 @@ can also have an arbitrary number of Administrators and Editors.  Here
 are the available role types with their default capabilities and how
 they are used in the upload file.
 
-**Member:** Can receive email and respond to [Email Widgets](5-widgets/1-ewIntro.md?[LINK-QARGS-DOC]#gv-5widgets-1ewintro).  'x' can be used as an abbreviation.
+**Member:** Can receive email and respond to [Email Widgets](/5-widgets/1-ewIntro.md?[LINK-QARGS-DOC]#gv-5widgets-1ewintro).  'x' can be used as an abbreviation.
 
 **Editor:** In addition to a Member's capabilities, can also send group
 emails.
@@ -147,7 +147,7 @@ the account, and similarly for sub-groups and their sub-group column.
 
 <span class="free">
 
-By default, new members are given the basic "Member" role, which can receive email and respond to [Email Widgets](5-widgets/1-ewIntro.md?[LINK-QARGS-DOC]#gv-5widgets-1ewintro).  'x' can be used as an abbreviation.
+By default, new members are given the basic "Member" role, which can receive email and respond to [Email Widgets](/5-widgets/1-ewIntro.md?[LINK-QARGS-DOC]#gv-5widgets-1ewintro).  'x' can be used as an abbreviation.
  
 To set a member's role, specify their role in a "Role"
 column, like this (the City, Sport, and Fav Color attributes are
