@@ -13,7 +13,7 @@ membership that you often email.  Key list features include:
 
 <span class="sub g4s">
   
-* Sub-group senders can email to a list, that was defined in a parent group, to reach their members on that list.
+* Sub-group senders can email to a list that was defined in a parent group to reach their members on that list.
 
 </span> <!-- sub g4s -->
 
