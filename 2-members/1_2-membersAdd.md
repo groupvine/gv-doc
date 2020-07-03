@@ -48,7 +48,7 @@ addresses in a column with an "Email" header, like the following:
 
 
 To upload, select this file after clicking the **Upload Membership File** on the Membership's Upload & Export
-tab.
+page.
 
 
 <span id="gv-2members-12membersAdd-uploading-member-attributes"></span>
@@ -69,7 +69,7 @@ attribute types are required to be defined from your account.
 
 * A small number of attribute names are reserved, such as ‘Email' and
 ‘Last Name.'  A complete list of reserved attribute names are at the
-bottom of the <img src="/docimages/transparent-gear-icon.png" height="22"> Member Attributes tab.
+bottom of the <img src="/docimages/transparent-gear-icon.png" height="22"> Member Attributes page.
 
 For example:
 
