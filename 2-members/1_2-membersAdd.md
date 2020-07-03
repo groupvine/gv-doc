@@ -50,8 +50,8 @@ To upload, select this file after clicking the **Upload Membership File** on the
 tab.
 
 
-<span id="gv-upload-member-attributes"></span>
-### Upload Member Attributes
+<span id="gv-2members-12membersAdd-uploading-member-attributes"></span>
+### Uploading Member Attributes
 
 Attributes, which can be used to save additional member information,
 and then personalize emails or target recipients based on their
@@ -150,7 +150,7 @@ the account, and similarly for sub-groups and their sub-group column.
 </span> <!-- free -->
 
 
-<span id="gv-uploading-to-member-lists"></span>
+<span id="gv-2members-12membersAdd-uploading-to-member-lists"></span>
 ### Uploading to Member Lists
 
 Lists allow you to target emails to a subset of
@@ -178,7 +178,7 @@ For more information about lists, click [here](/2-members/2-membersList.md?[LINK
 <span class="sub g4s">
 
 
-<span id="gv-uploading-to-groups"></span>
+<span id="gv-2members-12membersAdd-uploading-to-groups"></span>
 ### Uploading to Groups
 
 Groups are similar to lists in that they too allow specific
