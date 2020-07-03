@@ -18,7 +18,7 @@ membership that you often email.  Key list features include:
 </span> <!-- sub g4s -->
 
 To allow subscribers to join lists from their Profile, select the
-lists from the Member Profile Page on the <img src="/docimages/transparent-gear-icon.png" height="22"> **Site Customizations** page.  For more Profile information, click [here](/2-members/5-membersProfile.md?[LINK-QARGS-DOC]#gv-2members-5membersprofile).
+lists from the Member Profile Page on the <img src="/docimages/transparent-gear-icon.png" height="22"> Site Customizations page.  For more Profile information, click [here](/2-members/5-membersProfile.md?[LINK-QARGS-DOC]#gv-2members-5membersprofile).
 
 Note
 
