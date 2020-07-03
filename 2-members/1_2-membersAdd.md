@@ -176,7 +176,7 @@ when the import was complete.
 * New lists can be created using an import file simply by adding
 list:[list name] to a new column header in your import file.
 
-For more information about lists, click [here](/2-members/2-membersList.md?[LINK-QARGS-DOC]#gv-2members-2memberslist)
+For more information about lists, click [here](/2-members/2-membersList.md?[LINK-QARGS-DOC]#gv-2members-2memberslist).
 
 <span class="sub g4s">
 
