@@ -1,7 +1,7 @@
 # Managing your Membership
 
 <span id="gv-2members-14membersAdd"></span>
-## Have Subsribers Sign Up
+## Have Subscribers Sign Up
 
 All accounts are equipped with a public page where people can sign up to
 subscribe to your emails.
