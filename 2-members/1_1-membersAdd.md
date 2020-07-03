@@ -3,7 +3,7 @@
 <span id="gv-2members-11membersAdd"></span>
 ## Pasting a List of Member Addresses
 
-An option to uploading a file to add new members is to copy addresses, e.g. from an email in your inbox, and paste them into the “Paste email addresses here” box on the **Upload & Export** tab on your **Membership** page, and click **Upload Addresses**.
+An option to uploading a file to add new members is to copy addresses, e.g. from an email in your inbox, and paste them into the “Paste email addresses here” box on the Membership's Upload & Export tab, and click **Upload Addresses**.
 
 <img src="/docimages/addmem-paste.png" width="75%">
 
