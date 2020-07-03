@@ -4,16 +4,16 @@
 ## Member Lists
 
 Lists give you the flexibility to target an email to a subset of your
-membership, to which you often send email.  Key list features include:
+membership that you often email.  Key list features include:
 
-* Lists have their own group email address which can be used to email
+* Lists have their own group email address which can be used to email the list 
  from a personal email account.  For information on emailing from your personal email account, click [here](/3-send/2-sendInbox.md?[LINK-QARGS-DOC]#gv-3send-2sendInbox) or click [here](/3-send/1-sendOnline.md?[LINK-QARGS-DOC]#gv-3send-1sendOnline) for information on emailing from your online account.
 
-* New lists can be created and members can be added to those lists using an upload file.  Click [here](/2-members/1_2-membersAdd.md?[LINK-QARGS-DOC]#gv-2members-12membersAdd-uploading-to-member-lists) for more details.
+* New lists can be created using an upload file.  Click [here](/2-members/1_2-membersAdd.md?[LINK-QARGS-DOC]#gv-2members-12membersAdd-uploading-to-member-lists) for more details.
 
 <span class="sub g4s">
   
-* Sub-group senders can email to a list that was defined in a parent group to reach their members on that list.
+* Sub-group senders can email to a list, that was defined in a parent group, to reach their members on that list.
 
 </span> <!-- sub g4s -->
 
@@ -22,10 +22,10 @@ lists from the Member Profile Page on the <img src="/docimages/transparent-gear-
 
 Note
 
-* Subscribers can only join lists defined in the account level on their Profile.  
+* Subscribers can only join lists defined in the account level.  
 
 <span class="sub g4s">
 
-* Sub-group Administrators will need to add their members to their local lists.  
+* Sub-group Administrators need to add their members to their local lists.  
 
 </span> <!-- sub g4s -->
