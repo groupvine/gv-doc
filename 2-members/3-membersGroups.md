@@ -30,10 +30,10 @@ sub-group's <img src="/docimages/transparent-gear-icon.png" height="22"> Sub-gro
 To allow subscribers to join sub-groups from their [Profile](/2-members/5-membersProfile.md?[LINK-QARGS-DOC]#gv-2members-5membersprofile), select the
 sub-groups from the Member Profile Page on the account's <img src="/docimages/transparent-gear-icon.png" height="22"> Site Customizations page. 
 
+To email your sub-group, click [here](/3-send/2-sendInbox.md?[LINK-QARGS-DOC]#gv-3send-2sendInbox) to send an email from your personal email account or click [here](/3-send/1-sendOnline.md?[LINK-QARGS-DOC]#gv-3send-1sendOnline) to email from your online account.
+
 <span class="adv">
   
 Also, if your account could use multiple sub-group levels, contact support@groupvine.com.
   
 </span> <!-- adv -->
-
-To email your sub-group, click [here](/3-send/2-sendInbox.md?[LINK-QARGS-DOC]#gv-3send-2sendInbox) to send an email from your personal email account or click [here](/3-send/1-sendOnline.md?[LINK-QARGS-DOC]#gv-3send-1sendOnline) to email from your online account.
