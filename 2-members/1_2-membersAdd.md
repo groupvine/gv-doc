@@ -60,7 +60,7 @@ Also, new members are sent an email to accept an invitation to join.  This email
 
 An easy way to add community members to your account is to
 use a spreadsheet program (e.g., Excel, Numbers, Google Spreadsheet) to
-create and save a "CSV" file that simply has email
+create a "CSV" file that simply has email
 addresses in a column with an "Email" header, like the following: 
 
 | Email                    |
@@ -70,19 +70,14 @@ addresses in a column with an "Email" header, like the following:
 |quiet.quinn@example.com   |
 
 
-To upload, select this file after clicking the **Upload Membership File** on the Membership's Upload & Export
+To upload, select your file after clicking the **Upload Membership File** on the Membership's Upload & Export
 page.
 
 
 <span id="gv-2members-12membersAdd-uploading-member-attributes"></span>
 ### Uploading Member Attributes
 
-Attributes, which can be used to save additional member information,
-and then personalize emails or target recipients based on their
-attribute value, can have their values set or removed by adding the
-attribute name to a column header and the member's value for that
-attribute in their row. An empty cell will remove the attribute's
-value for that member.
+Attributes are used to save additional member information based on your account needs, and their values can personalize emails and target recipients.  Member attribute values are set in an upload file by adding the attribute name to a column header and the member's value for that attribute in their row. An empty cell will remove the attribute's value for that member.
 
 Note
 
@@ -103,10 +98,7 @@ For example:
 |quiet.quinn@example.com  | Toronto    | Hockey     | red          |
 
 
-You can now include these attribute names in your emails from either the
-Pers…” (short for Personalization) editor menu from your online account
-or your personal email account by surrounding the attribute name (**with
-blanks removed**) surrounded with {{ ... }}, for example:
+Now when sending emails, the recipient’s attribute value can be included in emails created in your online account by selecting the attribute from the editor's "Pers…" menu (short for Personalization), or for emails created in your personal email account, include the attribute by surrounding its name (**with blanks removed**) with {{ ... }}, for example:
 
     Hello {{ sport }},
     We see you're a "{{ favcolor }}" person,
@@ -116,7 +108,6 @@ blanks removed**) surrounded with {{ ... }}, for example:
     Bingo!
 
 For more information on member attributes, click [here](/2-members/4-membersAttributes.md?[LINK-QARGS-DOC]#gv-2members-4membersattributes).
-
 
 <span id="gv-2members-12membersAdd-uploading-membership-roles"></span>
 ### Uploading Membership Roles
@@ -128,7 +119,7 @@ can also have an arbitrary number of Administrators and Editors.  Here
 are the available role types with their default capabilities and how
 they are used in the upload file.
 
-**Member:** Can receive and respond to Email Widgets.  'x' can be used as an abbreviation.
+**Member:** Can receive email and respond to [Email Widgets](5-widgets/1-ewIntro.md?[LINK-QARGS-DOC]#gv-5widgets-1ewintro).  'x' can be used as an abbreviation.
 
 **Editor:** In addition to a Member's capabilities, can also send group
 emails.
@@ -138,12 +129,12 @@ also manage group settings and membership, and approve moderated group
 emails.  'Admin' can be used as an abbreviation.
  
 To set or change a member's role, specify their role in a "Role"
-column, like this (the City, Sport, and Fav Color custom attributes are
+column, like this (the City, Sport, and Fav Color attributes are
 just shown to give a more complete example).  
  
 Note
 
-* Uploading an empty cell for a member's Role will remove the member from
+* Uploading an empty cell for "Role" will remove the member from
 the account, and similarly for sub-groups and their sub-group column.
 
 | Email                   | City      | Sport     | Fav Color | Role  |
@@ -156,16 +147,16 @@ the account, and similarly for sub-groups and their sub-group column.
 
 <span class="free">
 
-By default, new members are given the basic "Member" role, which can receive and respond to Email Widgets.  'x' can be used as an abbreviation.
+By default, new members are given the basic "Member" role, which can receive email and respond to [Email Widgets](5-widgets/1-ewIntro.md?[LINK-QARGS-DOC]#gv-5widgets-1ewintro).  'x' can be used as an abbreviation.
  
 To set a member's role, specify their role in a "Role"
-column, like this (the City, Sport, and Fav Color custom attributes are
+column, like this (the City, Sport, and Fav Color attributes are
 just shown to give a more complete example).  
  
 Note
 
-* Uploading an empty cell for a member's Role will remove the member from
-the account, and similarly for sub-groups and their sub-group column.
+* Uploading an empty cell for "Role" will remove the member from
+the account.
 
 | Email                     | City      | Sport     | Fav Color | Role  |
 |:--------------------------|:----------|:----------|:----------|:------|
@@ -181,8 +172,8 @@ the account, and similarly for sub-groups and their sub-group column.
 Lists allow you to target emails to a subset of
 community members. For example, the following specifies
 which members are on the musicians and/or golfers
-lists (this time, we've simplified the file, removing the custom
-attributes and role columns, to just update the list memberships):
+lists (this time, we've simplified the file, removing the 
+attributes and Role columns, to only update the list memberships):
 
 | Email                   | list:musicians | list:golfers |
 |:------------------------|:---------------|:-------------|
@@ -192,7 +183,7 @@ attributes and role columns, to just update the list memberships):
 
 
 Note
-* Looking just at Tim, if Tim was on the golfers list before this file
+* Looking at Tim, if Tim was on the golfers list before this file
 was uploaded, then he would have been removed from the golfers list
 when the upload was complete.
 
@@ -207,19 +198,17 @@ For more information about lists, click [here](/2-members/2-membersList.md?[LINK
 <span id="gv-2members-12membersAdd-uploading-to-groups"></span>
 ### Uploading to Groups
 
-Groups are similar to lists in that they too allow specific
-targeting of community members, but are more powerful in a number
+Groups are similar to lists in that they also allow specific
+targeting of community emails, but are more powerful in a number
 of ways such as allowing groups to have their own Administrators
 and Editors.  For more information about sub-groups,
 click [here](/2-members/3-membersGroups.md?[LINK-QARGS-DOC]#gv-2members-3membersGroups).
 
 Where new lists can be created using with an upload file, groups need
-to be created before referencing them in the upload file.
+to be created before they are referenced in the upload file.
 
-Group columns are in the format group:[group name] with the
-value in this column representing each member's role
-in that group.  Whereas a member's role for the entire account is
-under the "Role" column (see Membership Roles section
+Group columns are in the format group:[group name] and whereas a member's role for the entire account is
+under a "Role" column (see [Uploading Membership Roles](/2-members/1_2-membersAdd.md?[LINK-QARGS-DOC]#gv-2members-12membersAdd-uploading-membership-roles) section
 above), the member's role within a specific sub-group is under the
 group:[group name] column.
 
@@ -233,12 +222,12 @@ group:[group name] column.
 |billy.banjo@example.com   |            | Admin      |
 
 
-Sub-groups can define their own lists, whose columns
+Sub-groups can also define their own lists, whose columns
 immediately follow their group:[group name] column and before the
 next group column.  In the following example, Tim belongs to the
 account-wide "musicians" list as well as the "redsox" list defined in
-(and only relevant in) the eastregion group. Sue is also a musician and
-is in the "giants" list defined in the westregion group:
+(and only relevant in) the east group. Sue is also a musician and
+is in the "giants" list defined in the west group.
 
 | Email           | list:musicians | group:east | list:redsox | group:west | list:giants |
 |:----------------|:---------------|:-----------|:------------|:-----------|:------------|
