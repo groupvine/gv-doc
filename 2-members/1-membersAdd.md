@@ -6,10 +6,10 @@
 
 New members can be added to your account or sub-group in the following
 ways:
-* [Pasting a List of Member Addresses](/2-members/1_1-membersAdd.md?[LINK-QARGS-DOC]#gv-2members-11membersAdd)
-* [Import a membership file](/2-members/1_2-membersAdd.md?[LINK-QARGS-DOC]#gv-2members-12membersAdd)
-* [Add new members from the **Membership** page](/2-members/1_3-membersAdd.md?[LINK-QARGS-DOC]#gv-2members-13membersAdd)
-* [Have Subscribers sign up](/2-members/1_4-membersAdd.md?[LINK-QARGS-DOC]#gv-2members-14membersAdd)
+* [Paste a list of email addresses](/2-members/1_1-membersAdd.md?[LINK-QARGS-DOC]#gv-2members-11membersAdd)
+* [Upload a membership file](/2-members/1_2-membersAdd.md?[LINK-QARGS-DOC]#gv-2members-12membersAdd)
+* [Add a new member from the Membership page](/2-members/1_3-membersAdd.md?[LINK-QARGS-DOC]#gv-2members-13membersAdd)
+* [Have subsribers sign up](/2-members/1_4-membersAdd.md?[LINK-QARGS-DOC]#gv-2members-14membersAdd)
 
 <span id="gv-2members-1membersAdd-upload-import"></span>
 ### Upload an import file
