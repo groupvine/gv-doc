@@ -43,14 +43,14 @@ confirms their interest, they will be opted-in to receive email.
 To minimize notifications, we suggest initially turning this off and checking the Pending
 Applications page often.  When new applications slow down, then turn this setting on.
 
-* If Welcome emails are sent, new subscribers are emailed links to your Email Feed and their profile page where they
+* If Welcome emails are sent, new subscribers are emailed links to your Email Feed and to their Profile, where they
 can set attributes and join available lists and sub-groups.
 
 </span> <!-- sub g4s -->
 
 <span class="free">
 
-* If Welcome emails are sent, new subscribers are emailed links to your Email Feed and their profile page where they can
+* If Welcome emails are sent, new subscribers are emailed links to your Email Feed and to their Profile, where they can
 set attributes and join available lists.  
 
 </span>
