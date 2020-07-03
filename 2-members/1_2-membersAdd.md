@@ -217,9 +217,9 @@ account-wide "musicians" list as well as the "redsox" list defined in
 (and only relevant in) the eastregion group. Sue is also a musician and
 is in the "giants" list defined in the westregion group:
 
-| Email                  | list:musicians | group:east | list:redsox | group:west | list:giants |
-|:-----------------------|:---------------|:-----------|:------------|:-----------|:------------|
-|tim.tangelo@example.com | x              |  Admin     | x           |            | x           |
-|beth.blue@example.com   | x              |            |             | x          | x           |
+| Email           | list:musicians | group:east | list:redsox | group:west | list:giants |
+|:----------------|:---------------|:-----------|:------------|:-----------|:------------|
+|tim@example.com  | x              |  Admin     | x           |            | x           |
+|beth@example.com | x              |            |             | x          | x           |
 
 </span> <!-- sub g4s -->
