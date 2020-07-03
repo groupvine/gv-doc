@@ -77,13 +77,13 @@ page.
 <span id="gv-2members-12membersAdd-uploading-member-attributes"></span>
 ### Uploading Member Attributes
 
-Attributes are used to save additional member information based on your account needs, and their values can personalize emails and target recipients.  Member attribute values are set in an upload file by adding the attribute name to a column header and the member's value for that attribute in their row. An empty cell will remove the attribute's value for that member.
+Attributes are used to save additional member information that's specific to your account's needs, and their values can be used to personalize emails and target recipients.  Member attribute values are set in an upload file by adding the attribute name to a column header and the member's value for that attribute in the member's row. An empty cell will remove the attribute's value for that member.
 
 Note
 
 * New text-based attributes can be created in the upload file by simply
 adding a column with the attribute's name in the header.  Other
-attribute types are required to be defined from your account.
+attribute types are required to be defined on your <img src="/docimages/transparent-gear-icon.png" height="22"> Member Attributes page.
 
 * A small number of attribute names are reserved, such as ‘Email' and
 ‘Last Name.'  A complete list of reserved attribute names are at the
@@ -107,7 +107,7 @@ Now when sending emails, the recipient’s attribute value can be included in em
 
     Bingo!
 
-For more information on member attributes, click [here](/2-members/4-membersAttributes.md?[LINK-QARGS-DOC]#gv-2members-4membersattributes).
+For more information on Member Attributes, click [here](/2-members/4-membersAttributes.md?[LINK-QARGS-DOC]#gv-2members-4membersattributes).
 
 <span id="gv-2members-12membersAdd-uploading-membership-roles"></span>
 ### Uploading Membership Roles
@@ -131,17 +131,17 @@ emails.  'Admin' can be used as an abbreviation.
 To set or change a member's role, specify their role in a "Role"
 column, like this (the City, Sport, and Fav Color attributes are
 just shown to give a more complete example).  
- 
-Note
-
-* Uploading an empty cell for "Role" will remove the member from
-the account, and similarly for sub-groups and their sub-group column.
 
 | Email                   | City      | Sport     | Fav Color | Role  |
 |:------------------------|:----------|:----------|:----------|:------|
 |tim.tangelo@example.com  | Boston    | Baseball  | blue      | Admin |
 |beth.blue@example.com    | Montecito |           | black     |   x   |
 |quiet.quinn@example.com  | Toronto   | Hockey    | red       | Editor|
+
+Note
+
+* Uploading an empty cell for "Role" will remove the member from
+the account, and similarly for sub-groups and their sub-group column.
 
 </span> <!-- sub g4s -->
 
@@ -153,15 +153,15 @@ To set a member's role, specify their role in a "Role"
 column, like this (the City, Sport, and Fav Color attributes are
 just shown to give a more complete example).  
  
-Note
-
-* Uploading an empty cell for "Role" will remove the member from
-the account.
-
 | Email                     | City      | Sport     | Fav Color | Role  |
 |:--------------------------|:----------|:----------|:----------|:------|
 |tim.tangelo@example.com    | Boston    | Baseball  | blue      | Member|
 |beth.blue@example.com      | Montecito |           | black     |   x   |
+
+Note
+
+* Uploading an empty cell for "Role" will remove the member from
+the account.
 
 </span> <!-- free -->
 
