@@ -40,11 +40,11 @@ use a spreadsheet program (e.g., Excel, Numbers, Google Spreadsheet) to
 create and save a "CSV" file that simply has email
 addresses in a column with an "Email" header, like the following: 
 
-| Email                       |
-|:----------------------------|
-|tim.tangelo@example.com      |
-|beth.blue@example.com        |
-|quiet.quinn@example.com      |
+| Email                    |
+|:-------------------------|
+|tim.tangelo@example.com   |
+|beth.blue@example.com     |
+|quiet.quinn@example.com   |
 
 
 To upload, select this file after clicking the **Upload Membership File** on the Membership's Upload & Export
@@ -73,11 +73,11 @@ bottom of the <img src="/docimages/transparent-gear-icon.png" height="22"> Membe
 
 For example:
 
-| Email                       | City       | Sport      | Fav Color    |
-|:----------------------------|:-----------|:-----------|:-------------|
-|tim.tangelo@example.com      | Boston     | Baseball   | blue         |
-|beth.blue@example.com        | Montecito  |            | black        |
-|quiet.quinn@example.com      | Toronto    | Hockey     | red          |
+| Email                   | City       | Sport      | Fav Color    |
+|:------------------------|:-----------|:-----------|:-------------|
+|tim.tangelo@example.com  | Boston     | Baseball   | blue         |
+|beth.blue@example.com    | Montecito  |            | black        |
+|quiet.quinn@example.com  | Toronto    | Hockey     | red          |
 
 
 You can now include these attribute names in your emails from either the
@@ -123,11 +123,11 @@ Note
 * Uploading a blank cell for a member's Role will remove the member from
 the account, and similarly for sub-groups and their sub-group column.
 
-| Email                     | City      | Sport     | Fav Color | Role  |
-|:--------------------------|:----------|:----------|:----------|:------|
-|tim.tangelo@example.com    | Boston    | Baseball  | blue      | Admin |
-|beth.blue@example.com      | Montecito |           | black     |   x   |
-|quiet.quinn@example.com    | Toronto   | Hockey    | red       | Editor|
+| Email                   | City      | Sport     | Fav Color | Role  |
+|:------------------------|:----------|:----------|:----------|:------|
+|tim.tangelo@example.com  | Boston    | Baseball  | blue      | Admin |
+|beth.blue@example.com    | Montecito |           | black     |   x   |
+|quiet.quinn@example.com  | Toronto   | Hockey    | red       | Editor|
 
 </span> <!-- sub g4s -->
 
@@ -161,11 +161,11 @@ which members are on the musicians and/or golfers
 lists (this time, we've simplified the import, removing the custom
 attributes and role columns, to just update the list memberships):
 
-| Email                     | list:musicians | list:golfers |
-|:--------------------------|:---------------|:-------------|
-|tim.tangelo@example.com    | x              |              |
-|quiet.quinn@example.com    |                | x            |
-|beth.blue@example.com.     | x              | x            |
+| Email                   | list:musicians | list:golfers |
+|:------------------------|:---------------|:-------------|
+|tim.tangelo@example.com  | x              |              |
+|quiet.quinn@example.com  |                | x            |
+|beth.blue@example.com.   | x              | x            |
 
 
 Note
@@ -201,14 +201,14 @@ under the "Role" column (see Membership Roles section
 above), the member's role within a specific sub-group is under the
 group:[group name] column.
 
-| Email                       | group:east | group:west |
-|:----------------------------|:-----------|:-----------|
-|tim.tangelo@example.com      |  Admin     |            |
-|sue.steeler@example.com      |  x         |            |
-|quiet.quinn@example.com      |  Editor    |            |
-|beth.blue@example.com        |            | x          |
-|sam.salsa@example.com        |            | x          |
-|billy.banjo@example.com      |            | Admin      |
+| Email                    | group:east | group:west |
+|:-------------------------|:-----------|:-----------|
+|tim.tangelo@example.com   |  Admin     |            |
+|sue.steeler@example.com   |  x         |            |
+|quiet.quinn@example.com   |  Editor    |            |
+|beth.blue@example.com     |            | x          |
+|sam.salsa@example.com     |            | x          |
+|billy.banjo@example.com   |            | Admin      |
 
 
 Sub-groups can define their own lists, whose columns
@@ -219,7 +219,7 @@ account-wide "musicians" list as well as the "redsox" list defined in
 is in the "giants" list defined in the westregion group:
 
 | Email                  | list:musicians | group:east | list:redsox | group:west | list:giants |
-|:--------------------   |:---------------|:-----------|:------------|:-----------|:------------|
+|:-----------------------|:---------------|:-----------|:------------|:-----------|:------------|
 |tim.tangelo@example.com | x              |  Admin     | x           |            | x           |
 |beth.blue@example.com   | x              |            |             | x          | x           |
 
