@@ -9,12 +9,12 @@ An option to uploading a file to add new members is to copy addresses, e.g. from
 
 <span class="sub">
   
-The new members are sent an email to accept an invitation to join.  This email also has links to your Email Feed and to their profile page where they can set attributes and join available lists and sub-groups. Once they accept, they are opted-in and ready to receive email.
+New members are sent an email to accept an invitation to join.  This email also has links to your Email Feed and to their Profile Page, where they can set attributes and join available lists and sub-groups. Once they accept, they are opted-in and ready to receive email.
   
 </span> <!-- sub -->
 
 <span class="free">
   
-The new members are sent an email to accept an invitation to join.  This email also has links to your Email Feed and to their profile page where they can set attributes and join available lists. Once they accept, they are opted-in and ready to receive email.
+New members are sent an email to accept an invitation to join.  This email also has links to your Email Feed and to their Profile Page, where they can set attributes and join available lists. Once they accept, they are opted-in and ready to receive email.
 
 </span> <!-- free -->
