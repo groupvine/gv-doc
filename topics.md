@@ -28,7 +28,7 @@
                 Use lists to target an interest group
               </a>
             </li>
-            <li>
+            <li class="sub g4s">
               <a href="/2-members/3-membersGroups.md?[LINK-QARGS-DOC]#gv-2members-3membersGroups">
                 Use Sub-groups for groups that can work independently from the main group
               </a>
