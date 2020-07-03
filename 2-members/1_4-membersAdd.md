@@ -50,7 +50,7 @@ can set attributes and join available lists and sub-groups.
 
 <span class="free">
 
-If Welcome emails are sent, new subscribers are emailed links to your Email Feed and their profile page where they can
+* If Welcome emails are sent, new subscribers are emailed links to your Email Feed and their profile page where they can
 set attributes and join available lists.  
 
 </span>
