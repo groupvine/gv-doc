@@ -27,8 +27,8 @@ sub-group's <img src="/docimages/transparent-gear-icon.png" height="22"> Sub-gro
 
 * Sub-groups can be moderated by setting **Is group moderated?** on the sub-group's <img src="/docimages/transparent-gear-icon.png" height="22"> Sub-group Settings page.  Group administrators are sent emails to review and they can approve or deny the email's release.
 
-To allow subscribers to join sub-groups from their Profile, select the
-sub-groups from the Member Profile Page on the account's <img src="/docimages/transparent-gear-icon.png" height="22"> Site Customizations page.  For more Profile information, click [here](/2-members/5-membersProfile.md?[LINK-QARGS-DOC]#gv-2members-5membersprofile).
+To allow subscribers to join sub-groups from their [Profile](/2-members/5-membersProfile.md?[LINK-QARGS-DOC]#gv-2members-5membersprofile), select the
+sub-groups from the Member Profile Page on the account's <img src="/docimages/transparent-gear-icon.png" height="22"> Site Customizations page. 
 
 <span class="adv">
   
