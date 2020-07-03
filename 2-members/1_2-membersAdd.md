@@ -31,6 +31,29 @@ remove the member from a list, and an empty cell in the
 
 Columns not included in your file are unaffected when the file is uploaded.
 
+<span class="g4s">
+  
+Also, new members will be opted-in and ready to receive email.
+
+If Welcome emails are sent (as set on the <img src="/docimages/transparent-gear-icon.png" height="22"> Account Settings tab),
+new members will receive an email with links to your Email Feed and to
+their Profile, where they can set attributes and join available
+lists and sub-groups.  We recommend sending Welcome emails to give
+new members access to their Profile.
+  
+</span> <!-- g4s -->
+
+<span class="sub">
+  
+Also, new members are sent an email to accept an invitation to join.  This email also has links to your Email Feed and to their Profile, where they can set attributes and join available lists and sub-groups. Once they accept, they are opted-in and ready to receive email.
+  
+</span> <!-- sub -->
+
+<span class="free">
+  
+Also, new members are sent an email to accept an invitation to join.  This email also has links to your Email Feed and to their Profile, where they can set attributes and join available lists. Once they accept, they are opted-in and ready to receive email.
+
+</span> <!-- free -->
 
 <span id="gv-2members-12membersAdd-uploading-recipient-addresses"></span>
 ### Uploading Recipient Addresses-only
