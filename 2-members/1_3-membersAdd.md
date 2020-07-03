@@ -13,27 +13,22 @@ the Membership's Add New Member tab and click **Add**.
 New members will be opted-in and ready to receive email.
 
 If Welcome emails are sent (as set on the <img src="/docimages/transparent-gear-icon.png" height="22"> Account Settings tab),
-new members are sent an email with links to your Email Feed and 
-their profile page, where they can set attributes and join available
-lists and sub-groups.  We recommend sending "Welcome" emails to give
-new members access to their profile page.
+new members will receive an email with links to your Email Feed and 
+to their Profile, where they can set attributes and join available
+lists and sub-groups.  We recommend sending Welcome emails to give
+new members access to their Profile.
 
 </span> <!-- g4s -->
 
 <span class="sub">
 
-New members are sent an email with an invitation to join and 
-links to your Email Feed and their profile page, where they
-can set attributes and join available lists and sub-groups.  Once the invitation is accepted, they are opted-in and ready to receive email.
+New members are sent an email to accept an invitation to join. This email also has links to your Email Feed and to their Profile, where they can set attributes and join available lists and sub-groups. Once they accept, they are opted-in and ready to receive email.
 
 </span> <!--sub -->
 
 <span class="free">
 
-New members are sent an email with an invitation to join and 
-links to your Email Feed and their profile page, where they
-can set attributes and join available lists.  Once the invitation is
-accepted, they are opted-in and ready to receive email.
+New members are sent an email to accept an invitation to join. This email also has links to your Email Feed and to their Profile, where they can set attributes and join available lists. Once they accept, they are opted-in and ready to receive email.
 
 </span> <!--free -->
 
