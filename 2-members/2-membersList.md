@@ -3,55 +3,29 @@
 <span id="gv-2members-2memberslist"></span>
 ## Member Lists
 
-Lists give you the flexibility to target an email to a sub-set of your
-membership.
-Key features of lists include the following:
+Lists give you the flexibility to target an email to a subset of your
+membership, to which you often send email.  Key list features include:
 
-* Lists have their own group email address which can be used to send
-email from a personal email account.
+* Lists have their own group email address which can be used to email
+ from a personal email account.  For information on emailing from your personal email account, click [here](/3-send/2-sendInbox.md?[LINK-QARGS-DOC]#gv-3send-2sendInbox) or click [here](/3-send/1-sendOnline.md?[LINK-QARGS-DOC]#gv-3send-1sendOnline) for information on emailing from your online account.
 
-* New lists can be created and members can be assigned to those lists
-when importing.  
-Click [**here**](./robinpage.md?[LINK-QARGS-DOC]#robinhash)
-<span class="todo">
-**robin: fix link**
-</span>
-for details.
-
-* Sub-groups can view which of their members are on a list that was
-defined in a parent group, and email their members who are on that list.
-
-To allow subscribers to join lists from their profile page, select the
-lists to be visible to the subscriber from the
-**Account Settings** <img src="/docimages/transparent-gear-icon.png" height="22">
-**Site Customizations** tab.
-Note, from their profile page, subscribers can only join lists defined
-in the account level.
-Group Administrators will need to add sub-group members to their local
-lists.
-
-Click [**here**](./robinpage.md?[LINK-QARGS-DOC]#robinhash)
-<span class="todo">
-**robin: fix link**
-</span>
-for more information on profile pages.
-
-Normally, the group's Administrators and Editors send email to member
-lists and list recipients can only reply to the sender.
-
-<span class="todo">
-**Not sure how to apply "class=sub g4s" to this next sentence without
-detaching it from the previous sentence.**
-</span> <!-- todo -->
+* New lists can be created and members can be added to those lists using an upload file.  Click [here](/2-members/1_2-membersAdd.md?[LINK-QARGS-DOC]#gv-2members-12membersAdd-uploading-to-member-lists) for more details.
 
 <span class="sub g4s">
-If you are interested in allowing general members
-to send email, then we suggest using sub-groups.
-</span>
+  
+* Sub-group senders can email to a list that was defined in a parent group to reach their members on that list.
 
-Click [**here**](./robinpage.md?[LINK-QARGS-DOC]#robinhash)
-<span class="todo">
-**robin: fix link**
-</span>
-for details on sending to a list from
-your online account or from your personal email account.
+</span> <!-- sub g4s -->
+
+To allow subscribers to join lists from their Profile, select the
+lists from the Member Profile Page on the <img src="/docimages/transparent-gear-icon.png" height="22"> **Site Customizations** page.  For more Profile information, click [here](/2-members/5-membersProfile.md?[LINK-QARGS-DOC]#gv-2members-5membersprofile).
+
+Note
+
+* Subscribers can only join lists defined in the account level on their Profile.  
+
+<span class="sub g4s">
+
+* Sub-group Administrators will need to add their members to their local lists.  
+
+</span> <!-- sub g4s -->
