@@ -5,37 +5,39 @@
 
 * [How Importing Impacts Your Membership](/2-members/1_2-membersAdd.md?[LINK-QARGS-DOC]#gv-2members-12membersAdd-impactMem)
 * [Uploading Recipient Addresses-only](/2-members/1_2-membersAdd.md?[LINK-QARGS-DOC]#gv-2members-12membersAdd-uploading-recipient-addresses)
-* [Uploading Member Attributes](#gv-uploading-member-attributes)
-* [Uploading Membership Roles]
-* [Uploading to Member Lists]
-* [Uploading to Groups]
+* [Uploading Member Attributes](/2-members/1_2-membersAdd.md?[LINK-QARGS-DOC]#gv-2members-12membersAdd-uploading-member-attributes)
+* [Uploading Membership Roles](/2-members/1_2-membersAdd.md?[LINK-QARGS-DOC]#gv-2members-12membersAdd-uploading-membership-roles)
+* [Uploading to Member Lists](/2-members/1_2-membersAdd.md?[LINK-QARGS-DOC]#gv-2members-12membersAdd-uploading-to-member-lists)
+* [Uploading to Groups](/2-members/1_2-membersAdd.md?[LINK-QARGS-DOC]#gv-2members-12membersAdd-uploading-to-groups)
+
 
 <span id="gv-2members-12membersAdd-impactMem"></span>
 ### How Importing Impacts Your Membership
 
 <span class="sub g4s">
 
-Importing will change a member's attribute values, role, and memberships to lists and sub-groups based on how these are set in the import file.  An empty cell will remove an attribute value or remove the member from a list or sub-group.  An empty cell in the "Role" column will remove the member from the account.
+Importing changes a member's attribute values, role, and memberships to lists and sub-groups based on how these are set in the import file.  An empty cell will remove an attribute value or remove the member from a list or sub-group, and an empty cell in the "Role" column will remove the member from the account.
 
 </span> <!-- sub g4s -->
 
 <span class="free">
 
-Importing will change a member's attribute values, role, and memberships
+Importing changes a member's attribute values, role, and memberships
 to lists based on how these are set in the import file.  An empty cell will remove an attribute value or
-remove the member from a list.  An empty cell in the 
+remove the member from a list, and an empty cell in the 
 "Role" column will remove the member from the account.
 
 </span> <!-- free -->
 
 Columns not included in your import file are unaffected by an import.
 
+
 <span id="gv-2members-12membersAdd-uploading-recipient-addresses"></span>
 ### Uploading Recipient Addresses-only
 
-An easy way to add a list of community members to your account is to
+An easy way to add community members to your account is to
 use a spreadsheet program (e.g., Excel, Numbers, Google Spreadsheet) to
-create and save a "CSV" file that simply lists your recipient's email
+create and save a "CSV" file that simply has email
 addresses in a column with an "Email" header, like the following: 
 
 | Email                       |
@@ -44,8 +46,9 @@ addresses in a column with an "Email" header, like the following:
 |beth.blueberry@example.com   |
 |quiet.quinn@example.com      |
 
-Then select this file to import on the Membership's Import & Export
-page.
+To upload, select this file after clicking the **Upload Membership File** on the Membership's Upload & Export
+tab.
+
 
 <span id="gv-upload-member-attributes"></span>
 ### Upload Member Attributes
@@ -65,8 +68,7 @@ attribute types are required to be defined from your account.
 
 * A small number of attribute names are reserved, such as ‘Email' and
 ‘Last Name.'  A complete list of reserved attribute names are at the
-bottom of the <img src="/docimages/transparent-gear-icon.png" height="22"> **Member Attributes** tab.
-
+bottom of the <img src="/docimages/transparent-gear-icon.png" height="22"> Member Attributes tab.
 
 For example:
 
@@ -75,7 +77,6 @@ For example:
 |tim.tangelo@example.com      | Boston     | Baseball   | blue         |
 |beth.blueberry@example.com   | Montecito  |            | black        |
 |quiet.quinn@example.com      | Toronto    | Hockey     | red          |
-
 
 You can now include these attribute names in your emails from either the
 Pers…” (short for Personalization) editor menu from your online account
@@ -89,38 +90,36 @@ blanks removed**) surrounded with {{ ... }}, for example:
 
     Bingo!
 
-For more information, visit the **Member Attributes** page.
+For more information on member attributes, click [here](/2-members/4-membersAttributes.md?[LINK-QARGS-DOC]#gv-2members-4membersattributes).
 
-<span class="sub g4s">
 
-<span id="gv-2members-zmembersimport-uploading-membership-roles"></span>
+<span id="gv-2members-12membersAdd-uploading-membership-roles"></span>
 ### Uploading Membership Roles
-
+    
+<span class="sub g4s">    
+    
 By default, new members are given the basic "Member" role, however, you
 can also have an arbitrary number of Administrators and Editors.  Here
 are the available role types with their default capabilities and how
 they are used in an import file.
 
-**Member:** Can receive and respond to Email Widgets Receives and can
-engage with group emails (unless they are opted-out). (or abbreviation
-'x').
+**Member:** Can receive and respond to Email Widgets.  'x' can be used as an abbreviation.
 
 **Editor:** In addition to a Member's capabilities, can also send group
 emails.
 
 **Administrator:** In addition to an Editor's capabilities, can
 also manage group settings and membership, and approve moderated group
-emails (or abbreviation 'Admin').
+emails.  'Admin' can be used as an abbreviation.
  
 To set or change a member's role, specify their role in a "Role"
 column, like this (the City, Sport, and Fav Color custom attributes are
 just shown to give a more complete import example necessary).  
  
-<span class="box">
-Uploading a blank cell for a member's Role will remove the member from
+Note
+
+* Uploading a blank cell for a member's Role will remove the member from
 the account, and similarly for sub-groups and their sub-group column.
-</span>
- 
 
 | Email                     | City      | Sport     | Fav Color | Role  |
 |:--------------------------|:----------|:----------|:----------|:------|
@@ -130,12 +129,33 @@ the account, and similarly for sub-groups and their sub-group column.
 
 </span> <!-- sub g4s -->
 
+<span class="free">
+
+By default, new members are given the basic "Member" role, which can receive and respond to Email Widgets.  'x' can be used as an abbreviation.
+ 
+To set a member's role, specify their role in a "Role"
+column, like this (the City, Sport, and Fav Color custom attributes are
+just shown to give a more complete import example necessary).  
+ 
+Note
+
+* Uploading a blank cell for a member's Role will remove the member from
+the account, and similarly for sub-groups and their sub-group column.
+
+| Email                     | City      | Sport     | Fav Color | Role  |
+|:--------------------------|:----------|:----------|:----------|:------|
+|tim.tangelo@example.com    | Boston    | Baseball  | blue      | Member|
+|beth.blueberry@example.com | Montecito |           | black     |   x   |
+
+</span> <!-- free -->
+
+
 <span id="gv-uploading-to-member-lists"></span>
 ### Uploading to Member Lists
 
-Lists allow you to target emails by certain sub-sets to a subset of
-community members. For example, the following import would specify
-which members are on one of two lists the musicians and/or golfers
+Lists allow you to target emails to a subset of
+community members. For example, the following import specifies
+which members are on the musicians and/or golfers
 lists (this time, we've simplified the import, removing the custom
 attributes and role columns, to just update the list memberships):
 
@@ -145,21 +165,18 @@ attributes and role columns, to just update the list memberships):
 |quiet.quinn@example.com    |                | x            |
 |beth.blueberry@example.com | x              | x            |
 
-* Notes
-Looking just at Tim, if Tim was on the golfers list before this file
+Note
+* Looking just at Tim, if Tim was on the golfers list before this file
 was imported, then he would have been removed from the golfers list
 when the import was complete.
 
-New lists can be created using an import file simply by adding
+* New lists can be created using an import file simply by adding
 list:[list name] to a new column header in your import file.
 
-For more information about lists,
-click [**here**](/2-members/2-membersList.md?[LINK-QARGS-DOC]#gv-2members-2memberslist)
-<span class="todo">
-Did that link work?
-</span>
+For more information about lists, click [here](/2-members/2-membersList.md?[LINK-QARGS-DOC]#gv-2members-2memberslist)
 
 <span class="sub g4s">
+
 
 <span id="gv-uploading-to-groups"></span>
 ### Uploading to Groups
@@ -167,14 +184,8 @@ Did that link work?
 Groups are similar to lists in that they too allow specific
 targeting of community members, but are more powerful in a number
 of ways such as allowing groups to have their own Administrators
-and Editors.  for delegation of their Administrator and Editor
-roles to to specific users for that sub-group.  For more information
-about sub-groups,
-click [**here**](./robinpage.md?[LINK-QARGS-DOC]#robinhash)
-<span class="todo">
-**robin: fix link**
-</span>
-.
+and Editors.  For more information about sub-groups,
+click [here](/2-members/3-membersGroups.md?[LINK-QARGS-DOC]#gv-2members-3membersGroups).
 
 Where new lists can be created using an import file, groups need
 to be created in your account before referencing them in an import
@@ -199,7 +210,7 @@ group:[group name] column.
 Sub-groups can define their own lists, whose columns
 immediately follow their group:[group name] column and before the
 next group column.  In the following example, Tim belongs to the
- account-wide "musicians" list as well as the "redsox" list defined in
+account-wide "musicians" list as well as the "redsox" list defined in
 (and only relevant in) the eastregion group. Sue is also a musician and
 is in the "giants" list defined in the westregion group:
 
