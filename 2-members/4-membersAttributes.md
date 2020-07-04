@@ -3,63 +3,43 @@
 <span id="gv-2members-4membersattributes"></span>
 ## Member Attributes
 
-<span class="todo">
-JH: We use a header line further below, don't we need one here?
-</span>
+## Custom Member Attributes
 
-Use Member Attributes to save subscriber information that is specific to
-your account needs.
-You can define attributes on your
-<img src="/docimages/transparent-gear-icon.png" height="22">
-**Member Attributes** tab and here are the four types of attribues:
-**Text**, **Number**, **Checkbox**, and **Single/Multiple Choice**.
+Use custom attributes to save member information that is specific to
+your account needs.  There are four types of attributes:  Text, Number, Checkbox, and Single/Multiple Choice which can be created      
+on the <img src="/docimages/transparent-gear-icon.png" height="22"> Member Attributes page.
 
-Attributes also provide these additional email options:
+Attributes also provide these email options:
 
 * Personalize your emails by inserting a placeholder for the recipient's
 attribute value.
-If you are sending from your online account, use the **Pers…** (short
-for "Personalization") menu in the email editor.
+For emails created in your online account, select the attribute to include in your email from the "Pers…" menu (short
+for "Personalization") in the email editor.
 If you are sending from your personal email account, then follow the
-instructions on the **Personalize** tab when you select **Send email**
-from your own inbox on the **New Email** page.
+instructions on the **Personalize** tab when you select to email from your own inbox on the New Email page.
 
 * Target recipients using the Choice and Checkbox attributes.
-For example, you can choose your recipients to be subscribers who
-selected the checkbox attribute for `Can you help with planning for
-XYZ?`
+For example, email recipients who
+selected the checkbox attribute for "Can you help with planning?" or who selected "Mornings" for a Choice attribute with choices "Mornings", "Afternoons", and "Evenings."  For information about using attributes when sending email, click [here](/3-send/2-sendInbox.md?[LINK-QARGS-DOC]#gv-3send-2sendInbox) when sending from your personal email account or click [here](/3-send/1-sendOnline.md?[LINK-QARGS-DOC]#gv-3send-1sendOnline) when emailing from your online account.
 
-Click [**here**](/3-send/1-sendOnline.md?[LINK-QARGS-DOC]#gv-3send-1sendOnline)
+To allow members to set their attributes from their [Profile](/2-members/5-membersProfile.md?[LINK-QARGS-DOC]#gv-2members-5membersprofile), select the attributes available to them from the Member Profile Page on the <img src="/docimages/transparent-gear-icon.png" height="22"> Site Customizations page. 
 
-for more information about sending email using attributes.
-From their profile page, subscribers can set attribute values that
-are made available to them by the Administrator on the 
-<img src="/docimages/transparent-gear-icon.png" height="22">
-**Site Customizations** tab.  
+Attribute values can be set when uploading a file to your membership or by clicking on a
+member's ellipsis (<img src="/docimages/ellipsis.png" height="22">)
+on the Membership's Member Listing page.  For more information about importing attributes,
+click [here](/2-members/1_2-membersAdd.md?[LINK-QARGS-DOC]#gv-2members-12membersAdd-uploading-member-attributes).
 
-Attribute values can be set using an import file or by clicking on a
-subscriber's ellipsis **(3 vertical dots)**
-<span class="todo">
-**JHJHJH icon-needed?**
-</span>
-from the **Member Listing** tab on the **Membership** page.
-For more information about importing,
-click [**here**](/2-members/1_2-membersImport.md?[LINK-QARGS-DOC]#gv-2members-zmembersimport)
-<span class="todo">
-**does that link work?**
-</span>
+Note
 
-Note, editing an attribute's definition is not allowed since
-subscribers may have set values to that attribute.
-Before making changes or deletions, we recommend first exporting your
-membership to save its current state.
-Then, add a new attribute and edit your **Site Customizations** to
-replace the incorrect attribute with the new, updated attribute to the
-subscriber profile page.
+* Editing an attribute is not allowed since
+members may have already set values for that attribute.
+To "change" an attribute, we recommend first exporting your
+membership to save its current state.  Then add a new, corrected attribute and if necessary, edit your <img src="/docimages/transparent-gear-icon.png" height="22"> Site Customizations page to
+replace the incorrect attribute with the new, updated attribute on the member's Profile.
 
 ## Pre-defined Member Attributes
+
 There are a handful of predefined attributes that can be found on the
-<img src="/docimages/transparent-gear-icon.png" height="22">
-**Member Attributes** tab.
-These attributes can be used in your emails just like the custom
-attributes described above and are always available on the profile page.
+<img src="/docimages/transparent-gear-icon.png" height="22"> Member Attributes page.  
+These attributes can be used in your emails just like custom
+attributes described above and are always available on the member's Profile.
