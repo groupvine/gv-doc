@@ -5,24 +5,22 @@
 
 ## Custom Member Attributes
 
-Use custom attributes to save member information that is specific to
-your account needs.  There are four types of attributes:  Text, Number, Checkbox, and Single/Multiple Choice which can be created      
-on the <img src="/docimages/transparent-gear-icon.png" height="22"> Member Attributes page.
+Use custom attributes to save member information that is specific to your account needs.  Custom Atributes are created on the <img src="/docimages/transparent-gear-icon.png" height="22"> Member Attributes page, where you have a choice of four types of attributes:  Text, Number, Checkbox, and Single/Multiple Choice.
 
 Attributes also provide these email options:
 
 * Personalize your emails by inserting a placeholder for the recipient's
 attribute value.
 For emails created in your online account, select the attribute to include in your email from the "Pers…" menu (short
-for "Personalization") in the email editor.
+for Personalization) in the email editor.
 If you are sending from your personal email account, then follow the
 instructions on the **Personalize** tab when you select to email from your own inbox on the New Email page.
 
 * Target recipients using the Choice and Checkbox attributes.
 For example, email recipients who
-selected the checkbox attribute for "Can you help with planning?" or who selected "Mornings" for a Choice attribute with choices "Mornings", "Afternoons", and "Evenings."  For information about using attributes when sending email, click [here](/3-send/2-sendInbox.md?[LINK-QARGS-DOC]#gv-3send-2sendInbox) when sending from your personal email account or click [here](/3-send/1-sendOnline.md?[LINK-QARGS-DOC]#gv-3send-1sendOnline) when emailing from your online account.
+selected the checkbox attribute for "Can you help with planning?" or who selected "Mornings" for a Choice attribute with choices "Mornings", "Afternoons", and "Evenings."  For information about sending email, click [here](/3-send/2-sendInbox.md?[LINK-QARGS-DOC]#gv-3send-2sendInbox) when sending from your personal email account or click [here](/3-send/1-sendOnline.md?[LINK-QARGS-DOC]#gv-3send-1sendOnline) when emailing from your online account.
 
-To allow members to set their attributes from their [Profile](/2-members/5-membersProfile.md?[LINK-QARGS-DOC]#gv-2members-5membersprofile), select the attributes available to them from the Member Profile Page on the <img src="/docimages/transparent-gear-icon.png" height="22"> Site Customizations page. 
+To allow members to set their attributes from their [Profile](/2-members/5-membersProfile.md?[LINK-QARGS-DOC]#gv-2members-5membersprofile), select the attributes you would like to be available to them from the Member Profile Page on the <img src="/docimages/transparent-gear-icon.png" height="22"> Site Customizations page. 
 
 Attribute values can be set when uploading a file to your membership or by clicking on a
 member's ellipsis (<img src="/docimages/ellipsis.png" height="22">)
@@ -31,15 +29,11 @@ click [here](/2-members/1_2-membersAdd.md?[LINK-QARGS-DOC]#gv-2members-12members
 
 Note
 
-* Editing an attribute is not allowed since
-members may have already set values for that attribute.
+* Modifying a custom attribute is not allowed since members may have already set a value to the attribute.  
 To "change" an attribute, we recommend first exporting your
-membership to save its current state.  Then add a new, corrected attribute and if necessary, edit your <img src="/docimages/transparent-gear-icon.png" height="22"> Site Customizations page to
+membership to save its current state.  Then add your new, corrected attribute and if necessary, edit your <img src="/docimages/transparent-gear-icon.png" height="22"> Site Customizations page to
 replace the incorrect attribute with the new, updated attribute on the member's Profile.
 
 ## Pre-defined Member Attributes
 
-There are a handful of predefined attributes that can be found on the
-<img src="/docimages/transparent-gear-icon.png" height="22"> Member Attributes page.  
-These attributes can be used in your emails just like custom
-attributes described above and are always available on the member's Profile.
+There are a handful of pre-defined attributes on the <img src="/docimages/transparent-gear-icon.png" height="22"> Member Attributes page.  These attributes can be used in your emails just like custom attributes described above and are always available on the member's Profile.
