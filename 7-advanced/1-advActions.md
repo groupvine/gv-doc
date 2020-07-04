@@ -207,6 +207,7 @@ and some or all of the following columns in the account instructions file:
 * **countryId** - Integer country code
 
 * **timezone** - string
+* **websiteUrl** - string
 
 * **isForProfit** - boolean
 * **taxId** - string
