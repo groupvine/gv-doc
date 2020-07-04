@@ -5,6 +5,8 @@
 
 A member's Profile is where all the information about the member is kept and consists of the following:
 
+<span class="sub g4s"> 
+
 * Pre-defined attributes 
 * Custom attributes 
 * List membership 
@@ -13,11 +15,38 @@ A member's Profile is where all the information about the member is kept and con
 * Role (only visible to the Administrator)
 * Password (only applies to Administrators and Editors)
 
+</span> <!-- sub g4s -->
+
+<span class="free"> 
+
+* Pre-defined attributes 
+* Custom attributes 
+* List membership 
+* Opt-out status
+* Role (only visible to the Administrator)
+* Password (only applies to Administrator)
+
+</span> <!-- free -->
+
+<span class="sub g4s"> 
+ 
 By default, pre-defined attributes are always visible on the member's
-Profile.  However, the custom attributes, lists, and sub-groups available to the member
+Profile.  However, which custom attributes, lists, and sub-groups are available to the member
 to set or join is determined by the Account Administrator on the <img src="/docimages/transparent-gear-icon.png" height="22">
 Site Customization page.  (Pre-defined attributes are listed at the bottom of the
 <img src="/docimages/transparent-gear-icon.png" height="22"> Member Attributes page.)
+
+</span> <!-- sub g4s -->
+
+<span class="free"> 
+ 
+By default, pre-defined attributes are always visible on the member's
+Profile.  However, which custom attributes and lists are available to the member
+to set or join is determined by the Administrator on the <img src="/docimages/transparent-gear-icon.png" height="22">
+Site Customization page.  (Pre-defined attributes are listed at the bottom of the
+<img src="/docimages/transparent-gear-icon.png" height="22"> Member Attributes page.)
+
+</span> <!-- free -->
 
 Administrators can also update member profiles by uploading a file or selecting the
 member's ellipsis (<img src="/docimages/ellipsis.png" height="22">) on the Membership's Member Listing page.  For more information on uploading, click [here](/2-members/1_2-membersAdd.md?[LINK-QARGS-DOC]#gv-2members-12membersAdd).
@@ -26,7 +55,17 @@ Note
 
 * Only the member can change their Opt-out status
 
-* Only Administrators or Editors can change their password
+<span class="sub g4s"> 
+
+* Only Administrators or Editors can change their own password
+ 
+</span> <!-- sub g4s -->
+
+<span class="free"> 
+ 
+* Only the Administrator can change their own password
+
+</span> <!-- free -->
 
 General members are able to access their Profile by:
 
