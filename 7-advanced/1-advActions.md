@@ -193,10 +193,11 @@ CSV file using an address like:
 
 and some or all of the following columns in the account instructions file:
 
-* **ownerId** - Integer of userId, not typically used
+* **ownerId** - Integer of userId, used only to track number of free accounts per user
 
 * **orgTypeId** - Integer organization type
 * **orgSubTypes** - string
+* **dmaCode** - Marketing region code
 
 * **address1** 
 * **address2** 
@@ -205,25 +206,35 @@ and some or all of the following columns in the account instructions file:
 * **postalCode**
 * **countryId** - Integer country code
 
-* **timezone**
-* **dmaCode** - Marketing region code
+* **timezone** - string
 
 * **isForProfit** - boolean
-* **taxid**
+* **taxId** - string
 
 * **dfltOptedIn** - boolean
-* **groupAdminRights** - Integer code
+* **allowedOptedIn** - Integer
+
 * **supervisoryMode** - Integer code, if site is under Supervisor moderation
+* **reputationLevel** - Integer
+
+* **rewriteFromAdrs** - boolean
+
+* **groupAdminRights** - Integer code
+* **customDomain** - string
 
 * **accountCreated** - datetime
 * **accountDeleted** - datetime
 
 * **serviceType** - Integer service type code
-* **subscriptionId** - Integer
+* **subscriptionId** - string
 * **expires** - datetime
 
-* **attributes** - JSON structured custom attributes
 * **behavior** - JSON structured account behavior overrides
+
+* **accountApiKey** - string
+* **accountApiDate** - datetime
+
+* **attributes** - JSON structured custom attributes
 * **terms** - JSON structured custom terminology
 * **customizations** - JSON structured other customizations
 
