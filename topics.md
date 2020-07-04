@@ -40,7 +40,7 @@
             </li>
             <li>
               <a href="/2-members/5-membersProfile.md?[LINK-QARGS-DOC]#gv-2members-5membersprofile">
-                What's on the Member's Profile Page
+                What's on the Member's Profile
               </a>
             </li>
           </ul>
