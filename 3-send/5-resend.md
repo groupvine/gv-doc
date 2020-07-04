@@ -17,4 +17,5 @@ On the Published tab, you will need to choose how the email should be copied.  Y
 
 * Resend published email without any changes - This new email will be sent “as is” and changes are not allowed, except for its recipients.  Email Widget responses of the original email and its “as is” resends stay grouped together, which may be needed for emailing additional or forgotten recipients.
 
+Refer to [Send email from your online account](/3-send/1-sendOnline.md?[LINK-QARGS-DOC]#gv-3send-1sendOnline) for the remaining steps to send your email.
 
