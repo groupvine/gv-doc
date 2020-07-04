@@ -4,7 +4,7 @@
 ## Members aren't getting emails
 
 * [Tips to help ensure recipients receive your emails](#gv-6delivery-1delivMissing-tips-to)
-* [Information to whitelist GroupVine servers](foo.md?[#gv-6delivery-1delivMissing)
+* [Information to whitelist GroupVine servers](#gv-6delivery-1delivMissing-information-to)
 
 There are several reasons why recipients might not be receiving emails. 
 A couple of common reasons can be easily resolved by looking up to see
