@@ -5,9 +5,9 @@
 
 ## Custom Member Attributes
 
-Use custom attributes to save member information that is specific to your account needs.  Custom Atributes are created on the <img src="/docimages/transparent-gear-icon.png" height="22"> Member Attributes page, where you have a choice of four types of attributes:  Text, Number, Checkbox, and Single/Multiple Choice.
+Use custom attributes to save member information that is specific to your account needs and also use them to customize your emails.  Custom Atributes are created on the <img src="/docimages/transparent-gear-icon.png" height="22"> Member Attributes page, where you have a choice of four types of attributes:  Text, Number, Checkbox, and Single/Multiple Choice.
 
-Attributes also provide these email options:
+Attributes provide you with these email options:
 
 * Personalize your emails by inserting a placeholder for the recipient's
 attribute value.
@@ -20,9 +20,9 @@ instructions on the **Personalize** tab when you select to email from your own i
 For example, email recipients who
 selected the checkbox attribute for "Can you help with planning?" or who selected "Mornings" for a Choice attribute with choices "Mornings", "Afternoons", and "Evenings."  For information about sending email, click [here](/3-send/2-sendInbox.md?[LINK-QARGS-DOC]#gv-3send-2sendInbox) when sending from your personal email account or click [here](/3-send/1-sendOnline.md?[LINK-QARGS-DOC]#gv-3send-1sendOnline) when emailing from your online account.
 
-To allow members to set their attributes from their [Profile](/2-members/5-membersProfile.md?[LINK-QARGS-DOC]#gv-2members-5membersprofile), select the attributes you would like to be available to them from the Member Profile Page on the <img src="/docimages/transparent-gear-icon.png" height="22"> Site Customizations page. 
+Allow members to set the value of attributes from their [Profile](/2-members/5-membersProfile.md?[LINK-QARGS-DOC]#gv-2members-5membersprofile) by selecting which attributes will show up from the Member Profile Page on the <img src="/docimages/transparent-gear-icon.png" height="22"> Site Customizations page. 
 
-Attribute values can be set when uploading a file to your membership or by clicking on a
+Attribute values can also be set by uploading a file to your membership or by clicking on a
 member's ellipsis (<img src="/docimages/ellipsis.png" height="22">)
 on the Membership's Member Listing page.  For more information about importing attributes,
 click [here](/2-members/1_2-membersAdd.md?[LINK-QARGS-DOC]#gv-2members-12membersAdd-uploading-member-attributes).
