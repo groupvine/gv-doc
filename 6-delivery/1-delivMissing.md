@@ -3,8 +3,8 @@
 <span id="gv-6delivery-1delivmissing"></span>
 ## Members aren't getting emails
 
-* [Tips to help ensure recipients receive your emails](#gv-6delivery-1delivMissing-tips-to)
-* [Information to whitelist GroupVine servers](#gv-6delivery-1delivMissing-information-to)
+* [Tips to help ensure recipients receive your emails](#gv-6delivery-1delivmissing-tips-to)
+* [Information to whitelist GroupVine servers](#gv-6delivery-1delivmissing-information-to)
 
 There are several reasons why recipients might not be receiving emails. 
 A couple of common reasons can be easily resolved by looking up to see
@@ -47,11 +47,7 @@ on the **Add New Member** tab on the **Membership** page.)
 </span> <!-- free -->
 
 For other possible reasons, 
-[view your email's detailed delivery data](etc) 
-<span class="todo">
-**Fix the link above**
-</span>
-
+[view your email's detailed delivery data](#gv-6delivery-1delivmissing-download-detailed)
 and based on the email address domain or bounce reason, here are some
 scenarios that may match your situation.
 
@@ -79,30 +75,18 @@ dropped the email entirely.)
  click [**here**](https://www.xfinity.com/support/articles/spam-filters-and-email-blocking-new-experience)
  and follow the steps under **Change Spam Filter** preference.
  Note: At step 3, click both the checkboxes **Enable spam filter**
- of my
- <span class="todo">
- **my? or their?**
- </span>
- account and **Save a copy of emails marked as spam that
+ of my  account and **Save a copy of emails marked as spam that
  appear**. The
  steps on Comcast's site are slightly out of date.
 
  For Verizon users, contact your Verizon support to get help
- setting up your
- <span class="todo">
-  **your? or their?**
-  </span>
- own spam filters.
+ setting up your own spam filters.
 
  <span class="highlight">
  Once your spam preferences are set up, be sure to check them by
  signing directly in to your provider's site, e.g.
  `comcast.net` or `verizon.net`, instead of from an email
- program like  Outlook. If you find an email
- <span class="todo">
- ** any email? **
- </span>
- there, set it
+ program like  Outlook. If you find an email there, set it
  <span class="todo">
  ** what is "it"? **
  </span>
@@ -124,7 +108,7 @@ dropped the email entirely.)
 If there are questions, please contact us at
 [support@groupvine.com](mailto:support@groupvine.com).
 
-<span id="gv-6delivery-1delivMissing-tips-to"></span>
+<span id="gv-6delivery-1delivmissing-tips-to"></span>
 ## Tips to help ensure recipients receive your email
 
 To ensure emails reach recipients, we suggest emailing the
@@ -170,7 +154,7 @@ JH: Not sure how to boldify bits of text in the the above
 
 </span> <!-- highlight -->
 
-<span id="gv-6delivery-1delivMissing-information-to"></span>
+<span id="gv-6delivery-1delivmissing-information-to"></span>
 ## Information to whitelist GroupVine servers
 
 If you find several delivery failures from the same domain,
@@ -197,8 +181,13 @@ contacting you because you are listed as the contact
 for the **ENTER THE COMPANY OR SCHOOL DOMAIN**,e.g.
 `mycompany.org domain`.
 
-GroupVine (http://www.groupvine.com), which provides
-the group email services, just informed us that to
+GroupVine (```http://www.groupvine.com```), which provides
+<span class="todo">
+JH: I wanted to format the above groupvine domain such that it
+is not clickable. This is the best I could do, but we ought
+to make it so that it uses the same font.
+</span>
+your group email services, just informed us that to
 increase the robustness and performance of their email
 delivery service, they are adding additional servers to
 send email for `groupvine.com`, and thus have
@@ -216,7 +205,12 @@ emails continue to be delivered successfully!
 
 If you have any questions, please contact **CONTACT'S
 NAME** at **YOUR EMAIL ADDRESS**, or you can email
-support@groupvine.com for any technical questions.
+```support@groupvine.com``` for any technical questions.
+<span class="todo">
+JH: I wanted to format the above groupvine domain such that it
+is not clickable. This is the best I could do, but we ought
+to make it so that it uses the same font.
+</span>
 
 Thank you!
 
@@ -224,7 +218,7 @@ Thank you!
 
 </span>
 
-<span id="gv-6delivery-1delivMissing-bounced-emails"></span>
+<span id="gv-6delivery-1delivmissing-bounced-emails"></span>
 ## Bounced emails
 
 A bounced email is an email could not be delivered to
@@ -240,7 +234,7 @@ email addresses and the reason for the bounce.  If all
 deliveries were successful, then a delivery report will
 not be sent.  
 
-<span id="gv-6delivery-1delivMissing-what-to-do"></span>
+<span id="gv-6delivery-1delivmissing-what-to-do"></span>
 ## What to do when some email addresses bounce?
 
 For the bounced email addresses, the goal is to correct
@@ -284,7 +278,7 @@ deliver our emails to their customers' inboxes.
 
 </span>
 
-<span id="gv-6delivery-1delivMissing-who-opened"></span>
+<span id="gv-6delivery-1delivmissing-who-opened"></span>
 ## Who opened my email?
 
 <span class="highlight">
@@ -323,7 +317,7 @@ service providers so they don't consider us spammers
 and will continue to accept and deliver our emails
 to their customers' inboxes. 
 
-<span id="gv-6delivery-1delivMissing-download-detailed"></span>
+<span id="gv-6delivery-1delivmissing-download-detailed"></span>
 ## Download detailed email delivery information
 
 To download detailed email delivery information:
