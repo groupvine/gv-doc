@@ -76,10 +76,7 @@ dropped the email entirely.)
  emails should get delivered to the user's inbox.
 
  For Comcast users,
- click [**here**](etc?[...])
- <span class=todo">
- **does the above link work?**
- </span>
+ click [**here**](https://www.xfinity.com/support/articles/spam-filters-and-email-blocking-new-experience)
  and follow the steps under **Change Spam Filter** preference.
  Note: At step 3, click both the checkboxes **Enable spam filter**
  of my
@@ -117,11 +114,7 @@ dropped the email entirely.)
 * If several delivery failures are from the same domain, the
   provider may be preventing deliveries and you may need to ask
   them to [**whitelist the IP addresses of GroupVine's email
-  servers**](foopage]?#foohash)
-  <span class="todo">
-  ** does the above link work? **
-  </span>
-  .
+  servers**](https://www.xfinity.com/support/articles/spam-filters-and-email-blocking-new-experience).
 
 * If no errors are being reported, ask the recipient to check
   their spam or junk mail folder.  If the email is not there,

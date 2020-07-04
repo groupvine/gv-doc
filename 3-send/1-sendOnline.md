@@ -51,21 +51,12 @@ was replaced with your First Name as you have it set in your profile.
 For more information about Member Attributes,
 [**here**](/2-members/4-membersAttributes.md?[LINK-QARGS-DOC]#gv-2members-4membersattributes)
 
-<span class="todo">
-still something wrong with this link.  DB: John, the above link works
-for me, I'll let you remove TODO
-</span>
-
 * Use Email Widgets to ask questions or gather information with these
 five types of Email Widgets (Text, Count, RSVP, Yes-No,
 Single/Multi-Choice) that can be added directly into your email using
 the **Widget** menu.
 For more information about Email Widgets,
-click [**here**](/5-widgets/1-ewIntro.md?[LINK-QARGS-DOC]#gv-5widgets-1ewIntro)
-<span class="todo">
-**fix link**  DB: JOhn, works for me, I'll let you remove TODO
-</span>
-
+click [**here**](/5-widgets/1-ewIntro.md?[LINK-QARGS-DOC]#gv-5widgets-1ewIntro).
 
 Note, your email will be "From" your display name, which is your
 First Name and Last Name attributes as they are set in your profile
