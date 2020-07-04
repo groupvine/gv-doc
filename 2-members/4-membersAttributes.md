@@ -29,10 +29,7 @@ click [here](/2-members/1_2-membersAdd.md?[LINK-QARGS-DOC]#gv-2members-12members
 
 Note
 
-* Modifying a custom attribute is not allowed since members may have already set a value to the attribute.  
-To "change" an attribute, we recommend first exporting your
-membership to save its current state.  Then add your new, corrected attribute and if necessary, edit your <img src="/docimages/transparent-gear-icon.png" height="22"> Site Customizations page to
-replace the incorrect attribute with the new, updated attribute on the member's Profile.
+* Modifying a custom attribute is not allowed since members may have already set a value to the attribute.  To "change" an attribute, we recommend first exporting your membership to save its current state.  Then add your new, corrected attribute and if necessary, edit your <img src="/docimages/transparent-gear-icon.png" height="22"> Site Customizations page to replace the incorrect attribute with the new, updated attribute on the member's Profile.
 
 ## Pre-defined Member Attributes
 
