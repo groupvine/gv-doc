@@ -53,19 +53,7 @@ member's ellipsis (<img src="/docimages/ellipsis.png" height="22">) on the Membe
 
 Note
 
-* Only the member can change their Opt-out status
-
-<span class="sub g4s"> 
-
-* Only Administrators or Editors can change their own password
- 
-</span> <!-- sub g4s -->
-
-<span class="free"> 
- 
-* Only the Administrator can change their own password
-
-</span> <!-- free -->
+* Only the owning member can change their Opt-out status
 
 General members are able to access their Profile by:
 
