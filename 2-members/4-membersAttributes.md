@@ -20,16 +20,16 @@ instructions on the **Personalize** tab when you select to email from your own i
 For example, email recipients who
 selected the checkbox attribute for "Can you help with planning?" or who selected "Mornings" for a Choice attribute with choices "Mornings", "Afternoons", and "Evenings."  For information about sending email, click [here](/3-send/2-sendInbox.md?[LINK-QARGS-DOC]#gv-3send-2sendInbox) when sending from your personal email account or click [here](/3-send/1-sendOnline.md?[LINK-QARGS-DOC]#gv-3send-1sendOnline) when emailing from your online account.
 
-Allow members to set the value of attributes from their [Profile](/2-members/5-membersProfile.md?[LINK-QARGS-DOC]#gv-2members-5membersprofile) by selecting which attributes will show up from the Member Profile Page on the <img src="/docimages/transparent-gear-icon.png" height="22"> Site Customizations page. 
+Allow members to set attribute values from their [Profile](/2-members/5-membersProfile.md?[LINK-QARGS-DOC]#gv-2members-5membersprofile) by selecting which attributes are available from the Member Profile Page on the <img src="/docimages/transparent-gear-icon.png" height="22"> Site Customizations page. 
 
 Attribute values can also be set by uploading a file to your membership or by clicking on a
 member's ellipsis (<img src="/docimages/ellipsis.png" height="22">)
-on the Membership's Member Listing page.  For more information about importing attributes,
+on the Membership's Member Listing page.  For more information about uploading attributes,
 click [here](/2-members/1_2-membersAdd.md?[LINK-QARGS-DOC]#gv-2members-12membersAdd-uploading-member-attributes).
 
 Note
 
-* Modifying a custom attribute is not allowed since members may have already set a value to the attribute.  To "change" an attribute, we recommend first exporting your membership to save its current state.  Then add your new, corrected attribute and if necessary, edit your <img src="/docimages/transparent-gear-icon.png" height="22"> Site Customizations page to replace the incorrect attribute with the new, updated attribute on the member's Profile.
+* Modifying a custom attribute is not allowed since members may have already set its value.  To "change" an attribute, we recommend first exporting your membership to save its current state.  Then add a new, corrected attribute and if necessary, edit your <img src="/docimages/transparent-gear-icon.png" height="22"> Site Customizations page to replace the incorrect attribute with the new, updated attribute on the member's Profile.
 
 ## Pre-defined Member Attributes
 
