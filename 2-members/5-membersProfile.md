@@ -1,49 +1,37 @@
 # Managing your Membership
 
-<span class="todo">
-What's on the Member's Profile Page OR Subscriber Profile Page, JHJHJH
-which should be used?  DB: John, not sure of the precise question, but fyi,
-"members" and "member subscribers" (and sometimes "subscribers") can
-be used interchangeably depending on context.
-</span>
-
 <span id="gv-2members-5membersprofile"></span>
-## What's on the Member's Profile Page
+## What's on the Member's Profile
 
-The profile page is a way for subscribers to set and join the following
-on their own, which frees up the administrator from having to manage all
-of their members' settings:
+A member's Profile is where all the information about the member is kept and consists of the following:
 
-* Predefined attributes 
+* Pre-defined attributes 
 * Custom attributes 
-* Account member lists 
-* Sub-groups
+* List membership 
+* Sub-group membership
+* Opt-out status
+* Role (only visible to the Administrator)
+* Password (only applies to Administrators and Editors)
 
-By default, predefined attributes are always visible on the subscriber's
-profile page.
-Other custom attributes, lists, and sub-groups can also be part of the
-profile page, and Administrators can choose which are visible for
-subscribers to set or join themselves from the
-<img src="/docimages/transparent-gear-icon.png" height="22">
-**Site Customization** tab.  (Predefined attributes are listed at the bottom
-of the
-<img src="/docimages/transparent-gear-icon.png" height="22">
-**Member Attributes** tab.)
+By default, pre-defined attributes are always visible on the member's
+Profile.  However, the custom attributes, lists, and sub-groups available to the member
+to set or join is determined by the Account Administrator on the <img src="/docimages/transparent-gear-icon.png" height="22">
+Site Customization page.  (Pre-defined attributes are listed at the bottom of the
+<img src="/docimages/transparent-gear-icon.png" height="22"> Member Attributes page.)
 
-Administrators can update subscriber profiles too by selecting the
-subscriber's ellipsis
-**(three vertical dots)**
-<span class="todo">
-JHJHJHicon-needed?
-</span>
-on the **Member Listing** tab on the **Membership** page.
-However, only the subscriber can change their Opt-out status or password
-(if they are an Administrator or Editor) from their profile page.
+Administrators can also update member profiles by uploading a file or selecting the
+member's ellipsis (<img src="/docimages/ellipsis.png" height="22">) on the Membership's Member Listing page.  For more information on uploading, click [here](/2-members/1_2-membersAdd.md?[LINK-QARGS-DOC]#gv-2members-12membersAdd).
 
-General members can access their profile page by either:
+Note
+
+* Only the member can change their Opt-out status
+
+* Only Administrators or Editors can change their password
+
+General members are able to access their Profile by:
 
 * Clicking the "View live email" link at the top of any community
 email and then clicking **My Profile**.
  
-* Entering their information on the account's subscription page and
-clicking the profile link in the email to confirm their interest.
+* Submitting their information on the account's subscription page and then 
+clicking their profile link in the email sent to confirm their interest.
