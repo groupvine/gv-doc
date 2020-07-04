@@ -71,6 +71,11 @@
                 Email settings
               </a>
             </li>
+            <li>
+              <a href="/3-send/5-resend.md?[LINK-QARGS-DOC]#gv-2members-5resend">
+                Resend published emails
+              </a>
+            </li>
           </ul>
         </td>
       </tr>
