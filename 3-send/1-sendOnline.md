@@ -33,7 +33,7 @@ For more information about Member Attributes, click
 * Ask questions or gather information directly in your email by selecting one of the 
 five types of Email Widgets (Text, Count, RSVP, Yes-No,
 Single/Multi-Choice) from the **Widget** menu.  For more information about Email Widgets,
-click [**here**](/5-widgets/1-ewIntro.md?[LINK-QARGS-DOC]#gv-5widgets-1ewIntro).
+click [here](/5-widgets/1-ewIntro.md?[LINK-QARGS-DOC]#gv-5widgets-1ewIntro).
 
 When you're ready, click **Send** to select your recipients and send/publish your email.  By default, your email will be sent to the entire group as non-urgent, otherwise:
 
