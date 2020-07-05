@@ -31,33 +31,24 @@ your personal email account.
 instructions on the **Personalize** tab.  For more information about Member Attributes,
 click [here](/2-members/4-membersattributes.md?[LINK-QARGS-DOC]#gv-2members-4membersattributes).
 
-```
-The ability to drag-and-drop a member attribute images 
-from the **Personalize** tab depends on email service 
-and/or email app you use, please test the drag-and-drop 
-method with your system before sending an email to your 
-membership. For example, dragging-and-dropping should 
-work for gmail users composing emails online using the 
-Google Chrome browser.
-```
-
 * Ask questions or gather information directly in your email by adding Email Widgets.  Follow 
 the instructions on the **Widgets** tab to add any of the four types of Widgets
 (Text, Count, RSVP, and Yes-No).  For more information about Email Widgets,
 click [here](/5-widgets/1-ewIntro.md?[LINK-QARGS-DOC]).
 
-```
-To avoid the risk of spammers sending emails to a group 
-from a possibly compromised email account, after sending 
-an email from your inbox, a confirmation mail is emailed 
-to the sender where the sender must confirm the email send 
-before it can be forwarded to its recipients.
-```
-
 Once your email is sent, it will appear in your Email Feed with <img src="/docimages/sent-from-inbox-icon.png" height="22"> to 
 identify that the email was sent from a personal email account.
 
 Note
+
+* The ability to drag-and-drop a member attribute images 
+from the **Personalize** tab depends on the email service 
+and/or email app you use.  Please create a test email to try out the drag-and-drop 
+method with your system before sending an email. For example, dragging-and-dropping should 
+work for gmail users composing emails online using the 
+Google Chrome browser.
+
+* To avoid the risk of spammers sending emails to a group from a possibly compromised email account, after emailing from your inbox, a confirmation mail is emailed to the sender where the sender must confirm the email send before it can be forwarded to its recipients.
 
 * In general, your email will be "From" your display name, which is your
 First Name and Last Name attributes as they are set in your Profile, but your email handler may preset the "From" to 
