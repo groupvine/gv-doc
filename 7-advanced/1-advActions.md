@@ -85,7 +85,9 @@ An account's sub-groups can also be managed by email by creating and
 attaching a group-instructions CSV file using the following columns:
 
 * **action** - one of 'add', 'update', or 'delete'.  Note that group deletions will 
-  also associated group lists and memberships.
+  also delete associated group lists and memberships.  Also, an attempt to 'add' a
+  sub-group with a name already used in the account will result in an 'update' attempt
+  instead.
 * **abbrev** - the group's abbreviated name.
 * **title** - Optional group title.  If not specified, it default to
   "[abbrev] group".
@@ -99,6 +101,9 @@ attaching a group-instructions CSV file using the following columns:
   apply and be admitted by an Admin.  Note: sub-groups can potentially have a
   more (but not less) restrictive policy here, though not currently, this
   flag is only meaningful at the account level (top-level group).
+* **visibility** Optional, integer from Visibility enum.
+* **primaryColor** Optional, hex color string.
+* **secondaryColor** Optional, hex color string.
 * **imgFilename** - Optional column to provid an URL to an image file
     for the group logo.
 
@@ -126,8 +131,11 @@ account-level group.  Actions on this account level are handled as
 follows:
 
 * 'add' is invalid, and ignored.
-* 'update' is handled normally, allowing changes to the account's group-related properties.
-* 'delete' is also handled normally, except that this account "group" itself is not deleted.
+* 'update' is handled normally, allowing changes to the account's
+  group-related properties, except for the abbreviation which is
+  ignored (rather than updating to '.'!)
+* 'delete' is also handled normally, except that this account "group"
+  itself is not deleted.
 
 </span>
 
