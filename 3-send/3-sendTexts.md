@@ -3,9 +3,8 @@
 <span id="gv-2members-3sendTexts"></span>
 ## Text notifications for new or "urgent" emails
 
-Members can optionally receive text notifications with a link to the
-ive email for either all emails or just ones the sender has tagged as
-**"Urgent"**.
+Members can receive text notifications containing a link to the
+live email for either all emails or urgent only.
 (Text messaging fees may apply based on each individual's mobile phone
 plan).
 
@@ -14,26 +13,10 @@ the option to be notified when one has arrived, which could be important
 especially if it's urgent and needs their attention.
 
 Accounts are already set up to send text notifications for members who
-have provided the following mobile information on their
-profile
-<span class="todo">
-**JHJHJHstyle**
-</span>
-page?.
+have provided the all of the following mobile information on their Profile:
 
-<span class="todo">
-**JHJHJHsuggestion Maybe some text indicating what the following bullets
-are (e.g., The following items need to be specified for text
-notifications ... :)**
-</span>
+  * 10-digit mobile phone number, including area code
 
-  * Mobile phone number, including area code
+  * Mobile phone carrier - Contact support@groupvine.com if your carrier is not listed
 
-  * Mobile phone carrier - please contact
-[support@groupvine.com](mailto:support@groupvine.com) if your carrier isn't listed
-
-  * Text mode - No text (default), text only for emails marked
-**Urgent**, or text for all emails
-
-**Note, all three pieces of information must be provided to receive text
-notifications.**
+  * Text mode - No texts (default), Urgent emails, or All emails
