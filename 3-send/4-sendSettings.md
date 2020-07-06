@@ -30,36 +30,24 @@ The email related settings below can be found on the <img src="/docimages/transp
      
 <span class="sub g4s">
      
-Theme colors and logo can be chosen for your account and sub-groups to
+Pick theme colors and upload a logo to your account and sub-groups to
 give each group their own unique feel.
-Shades of the theme's primary color are used for the group's
-Email Feed page and Subscribe page.  
+Shades of the theme's primary color will be used for the Email Feed and Subscribe page.
+Sub-group theme colors and logo will initially default to the account's settings unless they're overridden with their own settings.
 
-Also if you are using an email layout with a header, then the header
-will use your primary color.  For emails created in your online account, Titles and Subsections
+Also if your email layout has a header, then the header
+will also use your primary color and group logo, and for emails created in your online account, Titles and Subsections
 will use the theme's primary color and sections will use the theme's secondary color.
-
-If a sub-group's theme colors are not set, then their colors will default to the
-account's theme colors.
-
-Each group can also upload a logo that will appear on the group's Email
-Feed, Subscription page and in layouts that include the logo.
 
 </span> <!-- sub g4s -->
 
 <span class="free">
      
-Theme colors and logo can be chosen for your account to give it its
-own unique feel.
-Shades of the theme's primary color are used for the Email Feed page
-and Subscribe page.  
+Pick familiar theme colors and upload a logo to your account to give it a unique feel.
+Shades of the theme's primary color will be used for the Email Feed and Subscribe page.  
 
-Also if you are using an email layout with a header, then the
-header will use your primary color.  For emails created in your online account, Titles and Subsections
+For emails created in your online account, Titles and Subsections
 will use the theme's primary color and sections will use the theme's secondary color.
-
-You can upload a logo that will appear on the account's Email
-Feed, subscription page, and in layouts that include the logo.
 
 </span> <!-- free -->
 
