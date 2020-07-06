@@ -59,6 +59,8 @@ will use the theme's primary color and sections will use the theme's secondary c
 Below are options for the account's default email layout that all emails will use unless the layout is overridden by making a selection
 from **Options** in the email's Compose header.:
 
+</span> <!-- sub g4s -->
+
 <span class="todo">
 
 Better quality images available??
@@ -76,6 +78,8 @@ Better quality images available??
 <img src="/docimages/TEMP-Sub-layout-options.png" height="250">     
      
 </span> <!-- sub -->
+
+<span class="sub g4s">
 
 <span id="gv-2members-4sendsettings-use-moderation"></span>
 ### Use Moderation to review emails before they are sent
