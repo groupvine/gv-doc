@@ -22,7 +22,6 @@ The email related settings below can be found on the <img src="/docimages/transp
 
 * [Theme Colors & Logo](/3-send/4-sendSettings.md?[LINK-QARGS-DOC]#gv-2members-4sendsettings-theme-colors)
 * [Who can send emails](/3-send/4-sendSettings.md?[LINK-QARGS-DOC]#gv-2members-4sendsettings-who-can)     
-* [Email feed visibility](/3-send/4-sendSettings.md?[LINK-QARGS-DOC]#gv-2members-4sendsettings-email-feed-visibility)
 
 </span> <!-- free -->
 
