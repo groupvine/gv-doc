@@ -5,12 +5,14 @@
 
 <span class="sub g4s">
 
-The email related settings below can be found on the <img src="/docimages/transparent-gear-icon.png" height="22"> Account Settings page, and similarly on the <img src="/docimages/transparent-gear-icon.png" height="22"> 
-Sub-group Settings page for your sub-groups.
-
-Note
-
-* Settings in a sub-group will override the account's settings.
+The email related settings below can be found on the <img src="/docimages/transparent-gear-icon.png" height="22"> Account Settings and <img src="/docimages/transparent-gear-icon.png" height="22"> 
+Sub-group Settings pages.  These settings are identified with an `*` because the sub-group's setting will override the account's settings.
+     
+* [Theme Colors & Logo](/3-send/4-sendSettings.md?[LINK-QARGS-DOC]#gv-2members-4sendsettings-theme-colors)
+* [Default Email Layout](/3-send/4-sendSettings.md?[LINK-QARGS-DOC]#gv-2members-4sendsettings-default-email-layout)
+* [Use Moderation to review emails before they are sent](/3-send/4-sendSettings.md?[LINK-QARGS-DOC]#gv-2members-4sendsettings-use-moderation)
+* [Who can send emails](/3-send/4-sendSettings.md?[LINK-QARGS-DOC]#gv-2members-4sendsettings-who-can)     
+* [Email feed visibility](/3-send/4-sendSettings.md?[LINK-QARGS-DOC]#gv-2members-4sendsettings-email-feed-visibility)
 
 </span> <!-- sub g4s -->
 
@@ -18,24 +20,17 @@ Note
 
 The email related settings below can be found on the <img src="/docimages/transparent-gear-icon.png" height="22"> Account Settings page.
 
-</span> <!-- free -->
-
 * [Theme Colors & Logo](/3-send/4-sendSettings.md?[LINK-QARGS-DOC]#gv-2members-4sendsettings-theme-colors)
-
-<span class="sub g4s">
-
-* [Default Email Layout](/3-send/4-sendSettings.md?[LINK-QARGS-DOC]#gv-2members-4sendsettings-default-email-layout)
-* [Use Moderation to review emails before they are sent](/3-send/4-sendSettings.md?[LINK-QARGS-DOC]#gv-2members-4sendsettings-use-moderation)
-
-</span> <!-- sub g4s -->
-
 * [Who can send emails](/3-send/4-sendSettings.md?[LINK-QARGS-DOC]#gv-2members-4sendsettings-who-can)     
 * [Email feed visibility](/3-send/4-sendSettings.md?[LINK-QARGS-DOC]#gv-2members-4sendsettings-email-feed-visibility)
+
+</span> <!-- free -->
 
 <span id="gv-2members-4sendsettings-theme-colors"></span>
 ### Theme Colors & Logo
      
 <span class="sub g4s">
+     
 Theme colors and logo can be chosen for your account and sub-groups to
 give each group their own unique feel.
 Shades of the theme's primary color are used for the group's
