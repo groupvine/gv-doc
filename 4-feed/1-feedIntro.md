@@ -5,7 +5,9 @@
 
 The **Email Feed** is your account's **Home** page that members and Visitors
 can navigate to with the opportunity to subscribe to your emails.  
-Emails are listed chronological in your Email Feed and include published emails, as well as added posts
+
+Emails are listed 
+chronological in your Email Feed and include published emails, as well as added posts
 of older emails or emails from a different service.  
 
 This is how a general member sees the **Email Feed** with icons to refresh the feed (<img src="/docimages/refresh-feed-icon.png" height="22">), list in Gallery view (<img src="/docimages/gallery-view-feed-icon.png" height="22">) or list in Listing view (<img src="/docimages/listing-view-icon.png" height="22">).
