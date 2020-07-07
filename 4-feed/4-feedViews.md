@@ -3,75 +3,43 @@
 <span id="gv-4feed-4feedViews"></span>
 ## Gallery View, Listing View, and Email Actions
 
-By default, Email Feeds appear in Gallery View with each email showing
-either Email Widget summary images if the email has Email Widgets, an
-image if one was uploaded to the email, or no images if the email just
-included text.
-Images add interest and encourage visitors to open emails to learn about
-your account and hopefully subscribe! 
+There are two ways to view the Email Feed.  By default, the Email Feeds will appear in Gallery 
+view (<img src="/docimages/gallery-view-feed-icon.png" height="22">) with images of each email adding 
+interest and encouraging visitors to view emails and to subscribe.
+Emails in Gallery view show either response summary images if the email has Email Widgets, 
+an image if any were uploaded to the email, or no images if the email was all textual.
 
-For Administrators and Editors, there is also a more condensed view by
-clicking the
-<span class="todo">
-**JHJHJHicon-needed**
-</span>
-in the Email Feed header to switch to
-Listing View.
-You'll then see each email has a
-<span class="todo">
-**JHJHJHicon-needed**
-</span>
-icon to toggle
-through and change an email's visibility setting.
-Each email also has an
-**ellipsis (three vertical dots)
-<span class="todo">
-JHJHJHicon-needed?**
-</span>
-to a menu of these additional email actions (these
-actions are also available from a live email's "hamburger"
-<span class="todo">
-**JHJHJHicon-needed**
-</span>
- icon menu located in the top right corner
-<span class="todo">
-**JHJHJH top right corner of what?**
-</span?
-.
+The Email Feed can also be shown in a more condensed view by
+clicking Listing view (<img src="/docimages/listing-view-icon.png" height="22">)
+in the Email Feed header.  In this view, the visibility icon (<img src="/docimages/public-private-eye-icon.png" height="22">) can be selected
+to change the email's visibility between public and private.  Clicking on the ellipsis (<img src="/docimages/ellipsis.png" height="22">) will 
+show a menu of these additional email actions:
 
-<span class="todo">
-**JHJHJHtext-needed
-to introduce these bullets below:**
-</span>
+* <img src="/docimages/feed-menu-download-responses.png" height="22"> downloads email's Email Widget responses, comments and other data to a spreadsheet.
 
-* Download responses downloads email's Email Widget data to a spreadsheet.
-
-* **View as recipient** gives Administrators or Editors the
+* <img src="/docimages/feed-menu-view-as-recipient.png" height="22"> gives Administrators or Editors the
 option to respond to an email's Email Widgets as if they were the
-recipient or to email a link specifically for the recipient to respond
+recipient, or to email a link specifically for the recipient to respond
 to the widgets.
-This is useful to keep all widget data together in case a recipient
-**"misplaces"**
-<span class="todo">
-JHJHJHeditorial removequotes from misplaces?
-</span>
-the email or conveys their
-responses in person. 
+This is useful to keep widget data together in case a recipient isn't able to respond to their email or conveys their
+response in person. 
 
-* **Reply all** creates a new Draft email for a reply email and
+* <img src="/docimages/feed-menu-reply-all.png" height="22"> creates a new Draft email to create a reply email and
 navigates you to the email's **Compose** page. 
 
-* **Resend email** navigates you to the **New Email** page with the
-published email selected and the resend option set to Copy.
+* <img src="/docimages/feed-menu-resend-email.png" height="22"> navigates you to the **New Email** page with the
+published email selected and the resend option set to Copy.  
 
-* **Email Widget settings** allows you to change the email's
-Email Widgets configuration.
-After the next response is recorded, the new configuration will take
-effect.
+* <img src="/docimages/feed-menu-change-ew-settings.png" height="22"> allows you to change the email's
+Email Widgets configuration.  After the next response is recorded, the new configuration will take effect.
 
-* **View delivery data** shows summary delivery information
+* <img src="/docimages/feed-menu-view-delivery.png" height="22"> shows summary delivery information
 (number of recipients, opens, online views, etc.) with an option to
-download a delivery data spreadsheet with complete details.
+download a spreadsheet with complete details.
 
-* **Archive/Unarchive** moves the email to or from your
-Archive.
+* <img src="/docimages/feed-menu-archive.png" height="22"> moves the email to or from your Archive.  If archived emails are included in the Email Feed, 
+<img src="/docimages/feed-menu-archive-icon.png" height="22"> will appear next to the archived email in List view.
+
+Note
+
+* These actions are also available from the hamburger menu (<img src="/docimages/menu-icon.png" height="22">) located in the top right corner when viewing a live email
