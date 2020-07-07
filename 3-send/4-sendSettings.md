@@ -110,14 +110,13 @@ to link to a comparison of our service offerings and upgrade options.
 By default, only Administrators and Editors can send email to their
 group or to any lower level sub-group from their online
 account or personal inbox, and general members can only receive email.
-If a general member attempts to send from their personal email account
+If a general member attempts to send from their personal inbox
 to a valid group email address, they will receive an error since they
 are not authorized to send to that group.
 
-However, Administrators can allow general members to send
-email from their personal email account to other members at the account level by setting **Can general members
-also send account emails?** on the <img src="/docimages/transparent-gear-icon.png" height="22"> Account Settings page or send 
-to a other members of a specific sub-group by setting **Can general members
+However, Administrators can allow general members to send account emails from their personal inbox by setting **Can general members
+also send account emails?** on the <img src="/docimages/transparent-gear-icon.png" height="22"> Account Settings page.  
+Similarly, general members in a sub-group can be allowed to send sub-group emails by setting **Can general members
 also send group emails?** on the sub-group's <img src="/docimages/transparent-gear-icon.png" height="22"> Sub-group Settings page.
 
 </span> <!-- sub g4s -->
@@ -135,7 +134,7 @@ new subscribers does not include this information.
      
 To avoid the risk of spammers sending emails to a group from a possibly
 compromised email account, after an email is sent from a personal
-email, a confirmation mail is sent to the sender where the sender must
+email account, a confirmation mail is sent to the sender where the sender must
 confirm the email before it can be forwarded to the group.
 
 </span>
@@ -144,6 +143,8 @@ confirm the email before it can be forwarded to the group.
      
 <span id="gv-2members-4sendsettings-email-feed-visibility"></span>
 ### Email Feed visibility
+
+</span> <!-- sub g4s -->
 
 <span class="g4s">
      
@@ -156,6 +157,8 @@ By default, the Email Feed is private, so only account members can see the email
 By default, the Email Feed is public, so Visitors can see the email listing and view emails.  
 
 </span> <!-- sub -->
+
+<span class="sub g4s">
 
 Administrators can change this default by setting **Email feed visibility** on the <img src="/docimages/transparent-gear-icon.png" height="22"> Account 
 Settings page.  
