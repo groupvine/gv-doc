@@ -31,13 +31,15 @@ The email related settings below can be found on the <img src="/docimages/transp
 <span class="sub g4s">
      
 Pick theme colors and upload a logo to your account and sub-groups to
-give each group their own unique feel.
+give each group their own look and feel.
 Shades of the theme's primary color will be used for the Email Feed and Subscribe page.
 Sub-group theme colors and logo will initially default to the account's settings unless they're overridden with their own settings.
 
 Also if your email layout has a header, then the header
 will use your primary color and group logo, and for emails created in your online account, Titles and Subsections
 will use the theme's primary color and sections will use the theme's secondary color.
+
+To set account colors, choose the Primary and Secondary colors for Account theme and upload the account logo by clicking **Select logo image** for Account logo on the <img src="/docimages/transparent-gear-icon.png" height="22"> Account Settings page.  Colors and logo are set similarly on the <img src="/docimages/transparent-gear-icon.png" height="22"> Sub-group Settings page.
 
 </span> <!-- sub g4s -->
 
@@ -49,6 +51,8 @@ Shades of the theme's primary color will be used for the Email Feed and Subscrib
 For emails created in your online account, Titles and Subsections
 will use the theme's primary color and sections will use the theme's secondary color.
 
+To set account colors, choose the Primary and Secondary colors for Account theme and upload the account logo by clicking **Select logo image** for Account logo on the <img src="/docimages/transparent-gear-icon.png" height="22"> Account Settings page.
+
 </span> <!-- free -->
 
 <span class="sub g4s">
@@ -56,8 +60,8 @@ will use the theme's primary color and sections will use the theme's secondary c
 <span id="gv-2members-4sendsettings-default-email-layout"></span>
 ### Default Email Layout
 
-Select the layout all emails will use, unless the layout is overridden from a selection made 
-from **Options** in the email's Compose header.
+By default, all emails sent from a personal email account will use the selected Default email layout, and emails created in your online account will 
+also use this layout, unless the layout is overridden from an **Options** selection in the email's Compose header.  Select or change the Default email layout on the <img src="/docimages/transparent-gear-icon.png" height="22"> Account Settings page.  
 
 </span> <!-- sub g4s -->
 
@@ -84,11 +88,15 @@ Better quality images available??
 <span id="gv-2members-4sendsettings-use-moderation"></span>
 ### Use Moderation to review emails before they are sent
 
-Moderation adds an additional level of security to avoid the risk
-of unwanted or inappropriate emails sent to a group.
-When **Is account moderated?** is set to `Yes`, the Administrators
-are first sent the pending email to review and can either approve or deny
-its delivery.
+Each group has their own moderation setting, which when turned on, adds an additional level of security to avoid the risk
+of unwanted or inappropriate emails sent to a group. 
+
+When moderation is set to `Yes`, Administrators will first receive the pending email to review and can then either approve or deny
+its delivery.  
+
+To set up moderation, or to turn it off for your account or a sub-group, set **Is account moderated?** on the <img src="/docimages/transparent-gear-icon.png" height="22"> Account Settings 
+page or set **Is group moderated?** on the <img src="/docimages/transparent-gear-icon.png" height="22"> Sub-group Settings 
+page.
 
 </span> <!-- sub g4s -->
 
