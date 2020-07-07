@@ -171,6 +171,6 @@ From the Email List (<img src="/docimages/listing-view-icon.png" height="22">) A
 
 Note
 
-* A public Email Feed will allow Visitors to view emails that have not been specifically made private.  If a public email has Email Widgets, Visitors will be able to view the email and its Email Widget summary images only.
+* A public Email Feed will allow Visitors to view emails that have not been specifically made private.  If a public email has Email Widgets, Visitors will be able to view the email and only its Email Widget summary images.
 
 </span> <!-- sub g4s -->
