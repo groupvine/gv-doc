@@ -26,7 +26,7 @@ And when **Options** is selected, you'll be able to include sub-group and/or arc
 
 <span class="free">
   
-And when **Options** is selected, you'll be able to include archived emails into your Email Feed listing.
+And when **Options** is selected, you'll be able to include archived emails into your Email Feed list.
 
 <img src="/docimages/feed-free-admin-expand.png" width="750">
 
