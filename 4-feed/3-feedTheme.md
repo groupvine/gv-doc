@@ -22,7 +22,7 @@ color.  To set the colors and logo, click [here](/3-send/4-sendSettings.md?[LINK
 
 <span class="sub g4s">
 
-On the <img src="/docimages/transparent-gear-icon.png" height="22"> Site Customizations page, you can add an **Account Description** as a brief introduction to what your account is all about and how they can subscribe.  This description will show up at the top of your account and sub-group feeds.  
+On the <img src="/docimages/transparent-gear-icon.png" height="22"> Site Customizations page, you can add an **Account Description** as a brief introduction to what your account is all about and how a Visitor can subscribe to your emails.  This description will show up at the top of your account and sub-group feeds.  
 
 Note
 
