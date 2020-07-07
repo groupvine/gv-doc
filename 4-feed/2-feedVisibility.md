@@ -28,4 +28,8 @@ the additional option to be private to sub-group members only.
 
 </span> <!-- sub -->
 
+<span class="sub g4s">
+  
 For details on changing the Email Feed visibility for an account or sub-group, click [here](/3-send/4-sendSettings.md?[LINK-QARGS-DOC]#gv-2members-4sendsettings-email-feed-visibility) to go to Email Feed visibility in Email Settings.
+
+</span> <!-- sub g4s -->
