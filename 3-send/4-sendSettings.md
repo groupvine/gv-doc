@@ -120,7 +120,7 @@ on the <img src="/docimages/transparent-gear-icon.png" height="22"> Account Sett
 
 Similarly, 
 general members in a sub-group can be allowed to send sub-group emails by setting 
-**Can general members also send group emails?** on the sub-group's <img src="/docimages/transparent-gear-icon.png" height="22"> Sub-group Settings page.
+**Can general members also send group emails?** on the <img src="/docimages/transparent-gear-icon.png" height="22"> Sub-group Settings page.
 
 </span> <!-- sub g4s -->
 
@@ -151,29 +151,26 @@ confirm the email before it can be forwarded to the group.
 
 <span class="g4s">
      
-By default, the Email Feed is private, so only account members can see the email listing or view emails.    
+By default, the Email Feed is set to private, where only account members will be able to see the email listing or view emails.  Administrators can change this default by setting **Email feed visibility** on the <img src="/docimages/transparent-gear-icon.png" height="22"> Account Settings page.    
 
 </span> <!-- g4s -->
 
 <span class="sub ">
 
-By default, the Email Feed is public, so Visitors can see the email listing and view emails.  
+By default, the Email Feed is set to public, where non-members, or Visitors, will be able to see the email listing and view emails.  Administrators can change this default by setting **Email feed visibility** on the <img src="/docimages/transparent-gear-icon.png" height="22"> Account Settings page.   
 
 </span> <!-- sub -->
 
 <span class="sub g4s">
 
-Administrators can change this default by setting **Email feed visibility** on the <img src="/docimages/transparent-gear-icon.png" height="22"> Account 
-Settings page.  
-
-Sub-groups also have their own visibility setting which initially defaults to the parent's visibility.  A sub-group's visibility can be changed to Public, 
+Sub-groups can also set their own Email Feed visibility which initially defaults to the parent's setting.  A sub-group's visibility can be changed to Public, 
 Account members only or Sub-group members by setting **Email feed visibility** on the <img src="/docimages/transparent-gear-icon.png" height="22"> Sub-group 
 Settings page.  Limiting the feed's visibility to Sub-group members only will privatize the sub-group's emails to its sub-group members only.
 
-Administrators can also change the visibility of individual emails from the Email Feed's Listing view (<img src="/docimages/listing-view-icon.png" height="22">), which take precedence over the Email Feed's default setting.
+From the Email List (<img src="/docimages/listing-view-icon.png" height="22">) Administrators can override the default visibility for an individual email by clicking the email's <img src="/docimages/public-private-eye-icon.png" height="22"> to toggle between public to private.
 
 Note
 
-* A public Email Feed will allow Visitors to view emails that have not been specifically privatized.  A public email with Email Widgets will allow Visitors to view the email and its Email Widget summary images only.
+* A public Email Feed will allow Visitors to view emails that have not been specifically made private.  If a public email has Email Widgets, Visitors will be able to view the email and its Email Widget summary images only.
 
 </span> <!-- sub g4s -->
