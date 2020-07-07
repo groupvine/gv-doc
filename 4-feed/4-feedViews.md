@@ -38,7 +38,7 @@ Email Widgets configuration.  After the next response is recorded, the new confi
 download a spreadsheet with complete details.
 
 * <img src="/docimages/feed-menu-archive.png" height="22"> moves the email to or from your Archive.  If archived emails are included in the Email Feed, 
-<img src="/docimages/feed-menu-archive-icon.png" height="22"> will appear next to the archived email in List view.
+<img src="/docimages/archive-icon.png" height="22"> will appear next to the archived email in List view.
 
 Note
 
