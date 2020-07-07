@@ -1,12 +1,29 @@
 # Email Feed
 
 <span id="gv-4feed-3feedtheme"></span>
-## The Look of your Feed - Color, Logo, and Design
 
-Your **Email Feed** page is shown with shades of its theme's primary
-color and logo that are both set on the **Account Settings** or
-**Sub-group Settings** tabs.  
+<span class="sub g4s">
+  
+## The Look of your Feed - Color, Logo, and Descrition
+  
+</span> <!-- sub g4s -->
 
-You can also add an **Account Description** on the **Site
-Customizations** tab that will show at the top of your account
-and sub-group feeds.
+<span class="free">
+  
+## The Look of your Feed - Color and Logo
+
+</span> <!-- free -->
+
+The **Email Feed** will appear with its logo and with shades of its primary
+color.  A sub-group **Email Feed** will initially default to its account's colors and logo, but can be overridden with its own look.
+To set the colors and logo, click [here](/3-send/4-sendSettings.md?[LINK-QARGS-DOC]#gv-2members-4sendsettings-theme-colors) to go to the Theme Colors & Logo in Email Settings.
+
+<span class="sub g4s">
+
+On the <img src="/docimages/transparent-gear-icon.png" height="22"> Site Customizations page, add an **Account Description** as a brief introduction to what your account is all about and how they can subscribe.  This description will show up at the top of your account and sub-group feeds.  
+
+Note
+
+* Visitors, or non-members, visiting your Email Feed can subscribe by clicking the Visitor menu in the top right and selecting Subscribe.  Click [here](/2-members/1_4-membersAdd.md?[LINK-QARGS-DOC]#gv-2members-14membersAdd) for information about getting subscribers signing up.
+
+</span> <!-- sub g4s -->
