@@ -36,7 +36,7 @@ Shades of the theme's primary color will be used for the Email Feed and Subscrib
 Sub-group theme colors and logo will initially default to the account's settings unless they're overridden with their own settings.
 
 Also if your email layout has a header, then the header
-will also use your primary color and group logo, and for emails created in your online account, Titles and Subsections
+will use your primary color and group logo, and for emails created in your online account, Titles and Subsections
 will use the theme's primary color and sections will use the theme's secondary color.
 
 </span> <!-- sub g4s -->
@@ -56,8 +56,8 @@ will use the theme's primary color and sections will use the theme's secondary c
 <span id="gv-2members-4sendsettings-default-email-layout"></span>
 ### Default Email Layout
 
-Below are options for the account's default email layout that all emails will use unless the layout is overridden by making a selection
-from **Options** in the email's Compose header.:
+Select the layout all emails will use, unless the layout is overridden from a selection made 
+from **Options** in the email's Compose header.
 
 </span> <!-- sub g4s -->
 
