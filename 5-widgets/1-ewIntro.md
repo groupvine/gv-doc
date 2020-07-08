@@ -23,7 +23,12 @@ Email Widgets transform email for groups and communities into dynamic and engagi
 
 For more information, click below:
 
-* [Adding Email Widgets to your emails](/5-widgets/2-ewAdd.md?[LINK-QARGS-DOC]#2-ewAdd.md)
-* [Managing Email Widgets](/5-widgets/2-ewAdd.md?[LINK-QARGS-DOC]#3-ewManage.md)
-* [Who can view, Who can respond](/5-widgets/2-ewAdd.md?[LINK-QARGS-DOC]#4-ewDetails.md)
-* [Target Response-specific Emails](/5-widgets/2-ewAdd.md?[LINK-QARGS-DOC]#5-ewTarget.md)
+* [Adding Email Widgets to your emails](/5-widgets/2-ewAdd.md?[LINK-QARGS-DOC]#gv-5widgets-2ewadd)
+* [Managing Email Widgets](/5-widgets/3-ewManage.md?[LINK-QARGS-DOC]#gv-5widgets-3ewmanage)
+* [Who can view, Who can respond](/5-widgets/4-ewDetails.md?[LINK-QARGS-DOC]#gv-5widgets-4ewdetails)
+
+<span class="todo">
+
+* [Target Response-specific Emails](/5-widgets/5-ewTarget.md?[LINK-QARGS-DOC]#gv-5widgets-5ewtarget)
+
+</span> <!-- todo -->
