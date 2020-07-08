@@ -43,7 +43,7 @@ Note
 
 <span class="free">
 
-* Default responses for an RSVP or Yes-No Email Widget cannot be edited.  To make widget changes and use a 
+* Default responses for an RSVP or Yes-No Email Widget cannot be edited.  To make widget changes and have access to the  
 Custom Single/Multiple Choice widget, click the link on the <img src="/docimages/transparent-gear-icon.png" height="22"> Subscription Status page 
 for feature comparisons and upgrade options.
 
