@@ -30,10 +30,24 @@ is replaced with your First Name as set in your Profile.
 For more information about Member Attributes, click 
 [here](/2-members/4-membersAttributes.md?[LINK-QARGS-DOC]#gv-2members-4membersattributes).
 
+<span class="sub g4s">
+
 * Ask questions or gather information directly in your email by selecting one of the 
 five types of Email Widgets (Text, Count, RSVP, Yes-No,
-Single/Multi-Choice) from the **Widget** menu.  For more information about Email Widgets,
+Single/Multi-Choice) from the **Widget** menu.  The Email Widget's question is just 
+normal text in your email.  For more information about using Email Widgets,
 click [here](/5-widgets/1-ewIntro.md?[LINK-QARGS-DOC]#gv-5widgets-1ewIntro).
+
+</span> <!-- sub g4s -->
+
+<span class="free">
+  
+* Ask questions or gather information directly in your email by selecting one of the  
+four preset types of Email Widgets (Text, Count, RSVP, Yes-No) from the **Widget** menu.  The Email Widget's question is just 
+normal text in your email.  For more information about using Email Widgets,
+click [here](/5-widgets/1-ewIntro.md?[LINK-QARGS-DOC]#gv-5widgets-1ewIntro).
+  
+</span> <!-- free -->
 
 When you're ready, click **Send** to select your recipients and send/publish your email.  By default, your email will be sent to the entire group as non-urgent, otherwise:
 
