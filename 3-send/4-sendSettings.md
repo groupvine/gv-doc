@@ -46,7 +46,7 @@ To set account colors, choose the Primary and Secondary colors for Account theme
 <span class="free">
      
 Pick familiar theme colors and upload a logo to your account to give it a unique feel.
-Shades of the theme's primary color will be used for the Email Feed and Subscribe page.  
+Shades of the theme's primary color will be used for the Email Feed, Subscribe page and Email Widget summary images.
 
 For emails created in your online account, Titles and Subsections
 will use the theme's primary color and sections will use the theme's secondary color.
