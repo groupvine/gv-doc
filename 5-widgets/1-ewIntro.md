@@ -22,7 +22,19 @@ because it’s a convenient way to send confirmations, share ideas, request more
 
 Email Widgets are a simple and powerful tool that make it easy to ask questions,  collect information, start conversations and gather feedback right in an email, where recipients add their responses and comments.  Recipients also see up-to-date images that summarize Email Widget responses in their email.  
 
-Email Widgets can be used for almost anything you would like to ask your community: votes, polls, help requests, RSVPs, as well as soliciting opinions and comments, all which make it possible to engage your community in a discussion, embedded within the email, around these questions. 
+Email Widgets can be used for almost anything you would like to ask your community: votes, polls, help requests, RSVPs, as well as soliciting opinions and comments, all which make it possible to engage your community in a discussion, embedded within the email, around these questions.  
+
+<span class="sub g4s">
+
+There are currently five types of Email Widgets:  Text, Count, RSVP, Yes-No, and Custom Single/Multiple Choice.  Click [here](/5-widgets/2-ewAdd.md?[LINK-QARGS-DOC]#gv-5widgets-2ewadd) for more information and examples of each widget.
+
+</span> <!-- sub g4s -->
+
+<span class="free">
+
+There are currently four preset types of Email Widgets:  Text, Count, RSVP, and Yes-No.  Click [here](/5-widgets/2-ewAdd.md?[LINK-QARGS-DOC]#gv-5widgets-2ewadd) for more information and examples of each widget.
+
+</span> <!-- free -->
 
 Email Widgets transform email for groups and communities into dynamic and engaging communications, and enhance the value (for recipients and senders) of each communication you send and drive greater participation and interaction from your community.
 
