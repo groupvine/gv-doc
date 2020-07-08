@@ -33,7 +33,7 @@ click [here](/2-members/4-membersattributes.md?[LINK-QARGS-DOC]#gv-2members-4mem
 
 * Ask questions or gather information directly in your email by adding Email Widgets.  Follow 
 the instructions on the **Widgets** tab to add any of the four types of Widgets
-(Text, Count, RSVP, and Yes-No).  For more information about Email Widgets,
+(Text, Count, RSVP, and Yes-No).  The Email Widget's question is just normal text in your email.  For more information about Email Widgets,
 click [here](/5-widgets/1-ewIntro.md?[LINK-QARGS-DOC]).
 
 Once your email is sent, it will appear in your Email Feed with <img src="/docimages/sent-from-inbox-icon.png" height="22"> to 
