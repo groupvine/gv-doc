@@ -11,7 +11,8 @@ Is there more text to add here?
 
 </span> <!-- todo -->
 
-Email Widgets are questions added right to your email asking for recipient responses to votes, polls, help requests, RSVPs, as well as soliciting 
+Email Widgets are questions added right to your email asking recipients for information, which could be votes, polls, help requests, and RSVPs, 
+as well as soliciting 
 opinions and comments.  Also with commenting capabilities, where recipients can add comments to other responses, it's possible to engage your community 
 in a discussion, embedded right in the email.  
 
@@ -23,22 +24,22 @@ Here are the different types of Email Widgets that can be included in emails whe
 * **Count** for a numeric response
 <img src="/docimages/ew-numeric-example.png" height="120">
 
-* **RSVP** with default responses "Yes, I'm in!", "I'm a maybe" and "Can't make it"
+* **RSVP** with default responses
 <img src="/docimages/ew-rsvp-example.png" height="120">
 
-* **Yes-No** with default responses Yes or No
+* **Yes-No** with default responses
 <img src="/docimages/ew-yes-no-example.png" height="120">
 
 <span class="sub g4s">
   
-* **Custom Choice** enabling you to build a single or multiple choice widget (note, this widget is only available when composing your email online)
+* **Custom Choice** for building a single or multiple choice widget (note, this widget is only available when composing an online email)
 <img src="/docimages/ew-custom-choice-example.png" height="120">
 
 </span> <!-- sub g4s -->
 
 Note
 
-* The color of the summary images will be based on shades of your group's primary [theme color](/3-send/4-sendSettings.md?[LINK-QARGS-DOC]#gv-2members-4sendsettings-theme-colors).
+* The color of the summary images are based on shades of your group's primary [theme color](/3-send/4-sendSettings.md?[LINK-QARGS-DOC]#gv-2members-4sendsettings-theme-colors).
 
 <span class="free">
 
