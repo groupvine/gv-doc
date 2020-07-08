@@ -32,7 +32,7 @@ The email related settings below can be found on the <img src="/docimages/transp
      
 Pick theme colors and upload a logo to your account and sub-groups to
 give each group their own look and feel.
-Shades of the theme's primary color will be used for the Email Feed and Subscribe page.
+Shades of the theme's primary color will be used for the Email Feed, Subscribe page, and Email Widget summmary images.
 Sub-group theme colors and logo will initially default to the account's settings unless they're overridden with their own settings.
 
 Also if your email layout has a header, then the header
