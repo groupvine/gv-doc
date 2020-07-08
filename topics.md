@@ -150,10 +150,10 @@
             </li>
             <li>
               <a href="/5-widgets/4-ewDetails.md?[LINK-QARGS-DOC]#gv-5widgets-4ewdetails">
-                Other details
+                Who can view, Who can respond
               </a>
             </li>
-            <li>
+            <li class="todo">
               <a href="/5-widgets/5-ewTarget.md?[LINK-QARGS-DOC]#gv-5widgets-5ewtarget">
                 Target Response-specific Emails
               </a>
