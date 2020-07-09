@@ -205,6 +205,7 @@ and some or all of the following columns in the account instructions file:
 
 * **orgTypeId** - Integer organization type
 * **orgSubTypes** - string
+* **orgReferralCode** - string
 * **dmaCode** - Marketing region code
 
 * **address1** 
