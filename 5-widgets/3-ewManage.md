@@ -10,6 +10,11 @@
 
 </span> <!-- todo -->
 
+* [Download Email Widget Responses & Comments](/5-widgets/3-ewManage.md?[LINK-QARGS-DOC]#gv-5widgets-3ewmanage-download)
+* [Hide Inappropriate Responses](/5-widgets/3-ewManage.md?[LINK-QARGS-DOC]#gv-5widgets-3ewmanage-hide-unhide)
+* [Configure Email Widget to Affect Response Listing](/5-widgets/3-ewManage.md?[LINK-QARGS-DOC]#gv-5widgets-3ewmanage-config-ew)
+
+<span id="gv-5widgets-3ewmanage-download"></span>
 ### Download Email Widget Responses & Comments
 
 At any time, Administrators and Editors have easy access to an email's up-to-date Email Widget responses and comments by downloading a spreadsheet from the email.  Having this data "stored" with the email eliminates the manual process of plowing through email replies or keeping another spreadsheet up to date.  To download 
@@ -18,6 +23,7 @@ an email's widget data:
 * View the Email Feed in Listing view (<img src="/docimages/listing-view-icon.png" height="22">) and locate your email.
 * Click on the email's ellipsis (<img src="/docimages/ellipsis.png" height="22">) and select <img src="/docimages/feed-menu-download-responses.png" height="24">.
 
+<span id="gv-5widgets-3ewmanage-hide-unhide"></span>
 ### Hide Inappropriate Responses
 
 In case there's a response that is inappropriate or doesn't belong, Administrators and Editors can hide the response from the response listing.  The response will still be in the listing, but only Admistrators and Editors will see the greyed version, which means it is hidden.  
@@ -30,6 +36,7 @@ This is the greyed version after the response is hidden.  Click "Unhide" will ch
 
 <img src="/docimages/ew-response-unhide.png" height="150">
 
+<span id="gv-5widgets-3ewmanage-config-ew"></span>
 ### Configure Email Widget to Affect Response Listing
 
 The response listing shows an email's Email Widget responses and can be viewed by email recipients when they view the email online.  
