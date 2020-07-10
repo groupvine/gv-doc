@@ -38,7 +38,7 @@ need to approve of the application before the recipient is opted-in.
  
 * If the recipient is opted-out, have them re-submit their information
 on your subscription page.  By confirming their interest in the confirmation
-email sent, they will be opted back in.  (Your subscription page's URL is
+email, they will be opted back in.  (Your subscription page's URL is
 on the Add New Member tab on the Membership page.) 
 
 </span> <!-- free -->
