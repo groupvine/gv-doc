@@ -53,6 +53,8 @@ transferring and updating some spreadsheet with the possibility of introducing e
 * Future recipients will be able to respond to a published email's Email Widgets when they’re added to the email's recipient list, which continues to
 keep all response information in one email.  For example, newly added account members can respond to an email previously published to the entire community.
 
+* Visitors can view summary images for public emails with Email Widgets. 
+
 For more details, click below:
 
 * [Adding Email Widgets to your emails](/5-widgets/2-ewAdd.md?[LINK-QARGS-DOC]#gv-5widgets-2ewadd)
