@@ -1,10 +1,9 @@
 # Email Delivery & Troubleshooting
 
-* [What are bounced emails?](#gv-6delivery-2delivBounce-bounced-emails)
-* [What to do when email addresses bounce?](#gv-6delivery-2delivBounce-what-to-do)
-
 <span id="gv-6delivery-2delivBounce-bounced-emails"></span>
 ## What are bounced emails?
+
+* [What to do when email addresses bounce?](#gv-6delivery-2delivBounce-what-to-do)
 
 A bounced email is an email that could not be delivered to
 the recipient's email address which usually occurs because the email
