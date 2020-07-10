@@ -173,7 +173,7 @@
             </li>
             <li>
               <a href="/6-delivery/2-delivBounce.md?[LINK-QARGS-DOC]#gv-6delivery-2delivbounce-emails">
-                Bounced emails
+                What are bounced emails?
               </a>
             </li>
             <li>
@@ -188,7 +188,7 @@
             </li>
             <li>
               <a href="/6-delivery/5-delivStats.md?[LINK-QARGS-DOC]#gv-6delivery-5delivstat">
-                View email delivery stats
+                View and download email delivery stats
               </a>
             </li>
           </ul>
