@@ -3,6 +3,9 @@
 <span id="gv-5widgets-1ewintro"></span>
 ## What are Email Widgets?
 
+* [Adding Email Widgets to your emails](/5-widgets/2-ewAdd.md?[LINK-QARGS-DOC]#gv-5widgets-2ewadd)
+* [Managing Email Widgets](/5-widgets/3-ewManage.md?[LINK-QARGS-DOC]#gv-5widgets-3ewmanage)
+
 <span class="todo">
 
 Notes:
@@ -55,14 +58,9 @@ keep all response information in one email.  For example, newly added account me
 
 * Visitors can view summary images for public emails with Email Widgets. 
 
-For more details, click below:
-
-* [Adding Email Widgets to your emails](/5-widgets/2-ewAdd.md?[LINK-QARGS-DOC]#gv-5widgets-2ewadd)
-* [Managing Email Widgets](/5-widgets/3-ewManage.md?[LINK-QARGS-DOC]#gv-5widgets-3ewmanage)
-* [Who can view, Who can respond](/5-widgets/4-ewDetails.md?[LINK-QARGS-DOC]#gv-5widgets-4ewdetails)
-
 <span class="todo">
-
+  
+* [Who can view, Who can respond](/5-widgets/4-ewDetails.md?[LINK-QARGS-DOC]#gv-5widgets-4ewdetails)
 * [Target Response-specific Emails](/5-widgets/5-ewTarget.md?[LINK-QARGS-DOC]#gv-5widgets-5ewtarget)
 
 </span> <!-- todo -->
