@@ -16,16 +16,8 @@ There are several reasons why recipients are not receiving community emails.
 A couple of common reasons can be easily resolved by doing a simple look-up to see
 if the recipient's email address is listed on the Membership's Delivery Issues page.
 
-* If the recipient has a "problem" email address, then confirm their
-correct address and update their email address in their membership.
-
-<span class="highlight">
-Once a member's email address has bounced twice, it is considered an
-invalid address and we no longer attempt to deliver emails to the
-address.  This is done to keep us in good standing with email providers
-so that they don't consider us spammers and will continue deliver our
-emails to inboxes.  
-</span>
+* If the recipient's email address is a "problem" address or has bounced out ([what this?](#gv-6delivery-1delivmissing-problem-addr)), then confirm their
+correct address and update their email address in your membership.
 
 <span class="g4s">
  
@@ -37,14 +29,13 @@ the Membership status section.
 
 <span class="sub">
  
-If the recipient is opted-out, have them re-submit their information on
+* If the recipient is opted-out, have them re-submit their information on
 your subscription page.  By confirming their interest in the confirmation
-email sent, they will be opted back in.  (Your subscription page's URL is on the Add New
-Member tab on the Membership page.) 
+email sent, they will be opted back in.  (Your subscription page's URL is on the Membership's Add New Member page.) 
 
 Note, if `Admin approval required for new subscribers?` is set to
 `Yes` on the <img src="/docimages/transparent-gear-icon.png" height="22"> Account Settings page, then an Administrator will
-need to approve of the application before they can be opted-in.
+need to approve of the application before the recipient can be opted-in.
 
 </span> <!-- sub -->
 
@@ -64,8 +55,7 @@ and see if one of these scenarios match your situation.
 then most likely the email address is not valid, either due
 to a typo, their account no longer exists or their email service
 provider happened to be "down" at the time of the send.  Confirm the
-correctness of the email address and update the recipient's Profile as
-needed. 
+correctness of the email address and update from the Membership's Member List page. 
 
 * Comcast or Verizon may drop an email if they think it is spam
 instead of saving it to the user's spam folder.  See [Verizon or Comcast delivery issue](#gv-6delivery-1delivmissing-verizon-comcast-issue) for information.
@@ -140,21 +130,9 @@ those corrected addresses.  Here's how to do that:
 * When ready, click `Send`, select the Select Individuals tab and select those members whose address you corrected.  
 * Click `Resend!`
 
-If the Email Feed is in the Listing view, click the ellipsis of the email and select **Resend email**.
 The Resend option can also be selected by viewing the online email and making the selection from the email's menu (<img src="/docimages/menu-icon.png" height="22">).
 
 If you have any questions or need any additional help, please contact us at support@groupvine.com.
-
-<span class="highlight">
-
-Once a member's email address has bounced twice, it is 
-considered a "problem" address and we no longer attempt to
-deliver emails to the address.  This is done to keep us in
-good standing with email service providers so they don't
-consider us spammers and will continue to accept and
-deliver our emails to their customers' inboxes.
-
-</span>
 
 <span id="gv-6delivery-1delivmissing-who-opened"></span>
 ## Who opened my email?
