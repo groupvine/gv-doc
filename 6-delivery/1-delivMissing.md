@@ -25,12 +25,12 @@ the Membership status section.
  
 * If the recipient is opted-out, have them re-submit their information on
 your subscription page.  By confirming their interest in the confirmation
-email sent, they will be opted back in.  (Your subscription page's URL is on the Membership's Add New Member page.) 
+email, they will be opted back in.  (Your subscription page's URL is on the Membership's Add New Member page.) 
 
 <span class="highlight">
 Note, if `Admin approval required for new subscribers?` is set to
 `Yes` on the <img src="/docimages/transparent-gear-icon.png" height="22"> Account Settings page, then an Administrator will
-need to approve of the application before the recipient can be opted-in.
+need to approve of the application before the recipient is opted-in.
 </span> <!-- highlight -->
 </span> <!-- sub -->
 
@@ -50,7 +50,7 @@ and see if one of these scenarios matches your situation.
 then most likely the email address is not valid, either due
 to a typo, their account no longer exists or their email service
 provider happened to be "down" at the time of the send.  Confirm the
-correctness of the member's email address and update the address from the Membership's Member List page. 
+correctness of the member's email address and update the address in your membership. 
 
 * Comcast or Verizon may drop an email if they think it is spam
 instead of saving it to the user's spam folder.  See [Verizon or Comcast delivery issue](#gv-6delivery-1delivmissing-verizon-comcast-issue) for information.
@@ -62,7 +62,7 @@ instead of saving it to the user's spam folder.  See [Verizon or Comcast deliver
 * If no errors are being reported, ask the recipient to check
   their spam or junk mail folder.  If the email is not there,
   ask them to add an email filter to their personal email
-  account to filter emails "To" groupvine.com to their inbox.
+  account to filter emails 'To' `@groupvine.com` to their inbox.  Members should consult their email service's help pages for instructions on setting up filters.
 
 If there are questions, please contact us at support@groupvine.com.
 
