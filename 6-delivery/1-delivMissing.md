@@ -1,12 +1,11 @@
 # Email Delivery & Troubleshooting
 
-* [Members aren't getting emails](#gv-6delivery-1delivmissing)
+<span id="gv-6delivery-1delivmissing"></span>
+## Members aren't getting emails
+
 * [Tips to help ensure recipients receive your emails](#gv-6delivery-1delivmissing-tips-to)
 * [Information to whitelist GroupVine servers](#gv-6delivery-1delivmissing-information-to)
 * [Verizon or Comcast delivery issue](#gv-6delivery-1delivmissing-verizon-comcast-issue)
-
-<span id="gv-6delivery-1delivmissing"></span>
-## Members aren't getting emails
 
 There are several reasons why recipients are not receiving community emails. 
 A couple of common reasons can be easily resolved by doing a simple look-up to see
