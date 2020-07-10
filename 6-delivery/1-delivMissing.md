@@ -50,13 +50,13 @@ on the Add New Member tab on the Membership page.)
 </span> <!-- free -->
 
 For other possible reasons, [download your email's detailed delivery data](#gv-6delivery-1delivmissing-download-detailed)
-and see if one of these scenarios match your situation.
+and see if one of these scenarios matches your situation.
 
 * If you see "bounced" or "delayed" in the list of delivery failures,
 then most likely the email address is not valid, either due
 to a typo, their account no longer exists or their email service
 provider happened to be "down" at the time of the send.  Confirm the
-correctness of the email address and update from the Membership's Member List page. 
+correctness of the member's email address and update the address from the Membership's Member List page. 
 
 * Comcast or Verizon may drop an email if they think it is spam
 instead of saving it to the user's spam folder.  See [Verizon or Comcast delivery issue](#gv-6delivery-1delivmissing-verizon-comcast-issue) for information.
