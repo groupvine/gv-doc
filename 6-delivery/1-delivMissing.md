@@ -6,10 +6,10 @@
 * [Tips to help ensure recipients receive your emails](#gv-6delivery-1delivmissing-tips-to)
 * [Information to whitelist GroupVine servers](#gv-6delivery-1delivmissing-information-to)
 
-There are several reasons why recipients might not be receiving emails. 
-A couple of common reasons can be easily resolved by looking up to see
+There are several reasons why recipients are not receiving community emails. 
+A couple of common reasons can be easily resolved by doing a simple look-up to see
 if the recipient's email address is listed on the **Delivery Issues**
-tab on the **Membership** page.
+tab on the Membership page.
 
 * If the recipient has a "problem" email address, then confirm their
 correct address and update their email address in their membership.
@@ -23,39 +23,44 @@ emails to inboxes.
 </span>
 
 <span class="g4s">
+ 
 * If the recipient is opted-out, click their email address to jump
 to the member's settings and uncheck the **Opted out?** checkbox in
 the Membership status section. 
+
 </span> <!-- g4s -->
 
 <span class="sub">
+ 
 If the recipient is opted-out, have them re-submit their information on
-your subscription page and confirm their interest in the confirmation
-email sent to them.  (Your subscription page's URL is on the Add New
+your subscription page.  By confirming their interest in the confirmation
+email sent, they will be opted back in.  (Your subscription page's URL is on the Add New
 Member tab on the Membership page.) 
 
 Note, if **Admin approval required for new subscribers?** is set to
-**Yes** on your **Account Settings** tab, then an Administrator will
-need to approve of the application before they are opted-in.
+`Yes` on the <img src="/docimages/transparent-gear-icon.png" height="22"> Account Settings page, then an Administrator will
+need to approve of the application before they can be opted-in.
+
 </span> <!-- sub -->
 
 <span class="free">
+ 
 * If the recipient is opted-out, have them re-submit their information
-on your subscription page and then confirm their interest in the
-confirmation email sent to them.  (Your subscription page's URL is
-on the **Add New Member** tab on the **Membership** page.) 
+on your subscription page.  By confirming their interest in the confirmation
+email sent, they will be opted back in.  (Your subscription page's URL is
+on the Add New Member tab on the Membership page.) 
+
 </span> <!-- free -->
 
 For other possible reasons, 
 [view your email's detailed delivery data](#gv-6delivery-1delivmissing-download-detailed)
-and based on the email address domain or bounce reason, here are some
-scenarios that may match your situation.
+and here are some scenarios that may match your situation.
 
 * If you see "bounced" or "delayed" in the list of delivery failures,
-then it is most likely that the email address is not valid, either due
+then most likely the email address is not valid, either due
 to a typo, their account no longer exists or their email service
 provider happened to be "down" at the time of the send.  Confirm the
-correctness of the email address and update the member's profile as
+correctness of the email address and update the recipient's Profile as
 needed. 
 
 * Comcast or Verizon may drop an email if they think it is spam
@@ -86,10 +91,7 @@ dropped the email entirely.)
  Once your spam preferences are set up, be sure to check them by
  signing directly in to your provider's site, e.g.
  `comcast.net` or `verizon.net`, instead of from an email
- program like  Outlook. If you find an email there, set it
- <span class="todo">
- ** what is "it"? **
- </span>
+ program like  Outlook. If you find an email there, set the email 
  to "Not Spam." (Do this soon after you expect an email since
  your provider  may automatically clear your spam folder within
  days.)
