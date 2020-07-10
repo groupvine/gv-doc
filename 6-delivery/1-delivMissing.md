@@ -1,23 +1,18 @@
 # Email Delivery & Troubleshooting
 
-<span id="gv-6delivery-1delivmissing"></span>
-## Members aren't getting emails
-
+* [Members aren't getting emails](#gv-6delivery-1delivmissing)
 * [Tips to help ensure recipients receive your emails](#gv-6delivery-1delivmissing-tips-to)
 * [Information to whitelist GroupVine servers](#gv-6delivery-1delivmissing-information-to)
-* [Bounced emails](#gv-6delivery-1delivmissing-bounced-emails)
-* [What to do when email addresses bounce?](#gv-6delivery-1delivmissing-what-to-do)
-* [Who opened my email?](#gv-6delivery-1delivmissing-who-opened)
-* [What are "Bounced out" or "problem" email addresses?](#gv-6delivery-1delivmissing-problem-addr)
-* [Download detailed email delivery information](#gv-6delivery-1delivmissing-download-detailed)
 * [Verizon or Comcast delivery issue](#gv-6delivery-1delivmissing-verizon-comcast-issue)
+
+<span id="gv-6delivery-1delivmissing"></span>
+## Members aren't getting emails
 
 There are several reasons why recipients are not receiving community emails. 
 A couple of common reasons can be easily resolved by doing a simple look-up to see
 if the recipient's email address is listed on the Membership's Delivery Issues page.
 
-* If the recipient's email address is a "problem" address or has bounced out ([what this?](#gv-6delivery-1delivmissing-problem-addr)), then confirm their
-correct address and update their email address in your membership.
+* If the recipient's email address has "bounced out" or is a "problem" address ([what this?](/6-delivery/2-delivBounce.md?[LINK-QARGS-DOC]#gv-6delivery-2delivBounce-problem-addr), then confirm their address and update their email address in your membership.
 
 <span class="g4s">
  
@@ -49,7 +44,7 @@ on the Add New Member tab on the Membership page.)
 
 </span> <!-- free -->
 
-For other possible reasons, [download your email's detailed delivery data](#gv-6delivery-1delivmissing-download-detailed)
+For other possible reasons, [download your email's detailed delivery data](/6-delivery/5-delivStats.md?[LINK-QARGS-DOC]#gv-6delivery-5delivstat-download-detailed)
 and see if one of these scenarios matches your situation.
 
 * If you see "bounced" or "delayed" in the list of delivery failures,
@@ -102,85 +97,6 @@ addresses to their "trusted whitelist" and to let you know once it's done.
     54.219.154.88  mailer-05.groupvine.com
 
 If you need any help with this, contact support@groupvine.com.
-
-<span id="gv-6delivery-1delivmissing-bounced-emails"></span>
-## Bounced emails
-
-A bounced email is an email that could not be delivered to
-the recipient's email address which usually occurs because the email
-address was incorrect or a recipient's mailbox is full.
-
-After sending an email from an online account or from
-a personal inbox, if there were any failed
-deliveries, an "Email delivery report" from "Trivy Worker
-Bee" is emailed to the sender with a list of bounced
-email addresses and the reason for the bounce.  If all
-deliveries were successful, then a delivery report will
-not be sent.  
-
-<span id="gv-6delivery-1delivmissing-what-to-do"></span>
-## What to do when email addresses bounce?
-
-For bounced email addresses, the goal is to correct
-the addresses in your account and then resend the email to
-those corrected addresses.  Here's how to do that:
-
-* Confirm the correctness of the email address and update their address from the Membership's Member Listing page.
-
-* View the Email Feed in Listing view (<img src="/docimages/listing-view-icon.png" height="22">) and locate your email.
-
-* Click the email's ellipsis (<img src="/docimages/ellipsis.png" height="22">) and select <img src="/docimages/feed-menu-resend-email.png" height="22">.
-
-* On the New Email page select the option `Resend published email without any changes` and click `Review and Send`.  If email changes
- are needed, then select `Copy published email to your new email` instead, enter a subject and click `Compose`.
- 
-* When ready, click `Send`, select the Select Individuals tab and select those members whose address you corrected.  
-
-* Click `Resend!`
-
-The Resend option can also be selected by viewing the online email and making the selection from the email's menu (<img src="/docimages/menu-icon.png" height="22">).
-
-If you have any questions or need any additional help, please contact support@groupvine.com.
-
-<span id="gv-6delivery-1delivmissing-who-opened"></span>
-## Who opened my email?
-
-<span class="highlight">
-An "open" is only counted if the recipient opens their
-email from their inbox with images displayed.
-</span>
-
-To find how many and who has opened your email:
-
-* [Download detailed email delivery information](#gv-6delivery-1delivmissing-download-detailed)
-
-* View the `Opens` statistics or click `Download Delivery Data` to download a spreadsheet of delivery data with specifics on who opened your email.
-
-<span id="gv-6delivery-1delivmissing-problem-addr"></span>
-## What are "Bounced out" or "problem" email addresses?
-
-Once a member's email address has bounced twice, it's
-considered a "problem" address and the address has
-"bounced out" where we no longer attempt to deliver
-emails to that address.  
-
-This is done to keep us in good standing with email
-service providers so they don't consider us spammers
-and will continue to accept and deliver our emails
-to their customers' inboxes. 
-
-<span id="gv-6delivery-1delivmissing-download-detailed"></span>
-## Download detailed email delivery information
-
-To download an email's detailed email delivery information:
-
-* View the Email Feed in Listing view (<img src="/docimages/listing-view-icon.png" height="22">) and locate your email.
-
-* Click on the email's ellipsis (<img src="/docimages/ellipsis.png" height="22">) and select <img src="/docimages/feed-menu-view-delivery.png" height="24">.
-
-* Click `Download Delivery Data` to download all delivery details to a spreadsheet.
-
-This can also be done when viewing the online email and making the selection from the email's menu (<img src="/docimages/menu-icon.png" height="22">).
 
 <span id="gv-6delivery-1delivmissing-verizon-comcast-issue"></span>
 ## Verizon or Comcast delivery issue
