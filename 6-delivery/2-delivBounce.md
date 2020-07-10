@@ -2,14 +2,14 @@
 
 * [What are bounced emails?](#gv-6delivery-2delivBounce-bounced-emails)
 * [What to do when email addresses bounce?](#gv-6delivery-2delivBounce-what-to-do)
-* [What are "bounced out" or "problem" email addresses?](#gv-6delivery-2delivBounce-problem-addr)
 
 <span id="gv-6delivery-2delivBounce-bounced-emails"></span>
 ## What are bounced emails?
 
 A bounced email is an email that could not be delivered to
 the recipient's email address which usually occurs because the email
-address was incorrect or a recipient's mailbox is full.
+address was incorrect or a recipient's mailbox is full.  Once an
+address has bounced twice, it is "bounced out" and considered a "problem" address ([what's this?](/6-delivery/4-delivProblems.md?[LINK-QARGS-DOC]gv-6delivery-4delivProblems-problem-addr)).
 
 After sending an email from an online account or from
 a personal inbox, if there were any failed
@@ -42,16 +42,3 @@ those corrected addresses.  Here's how to do that:
 The Resend option can also be selected by viewing the online email and making the selection from the email's menu (<img src="/docimages/menu-icon.png" height="22">).
 
 If you have any questions or need any additional help, please contact support@groupvine.com.
-
-<span id="gv-6delivery-2delivBounce-problem-addr"></span>
-## What are "Bounced out" or "problem" email addresses?
-
-Once a member's email address has bounced twice, it's
-considered a "problem" address and the address has
-"bounced out" where we no longer attempt to deliver
-emails to that address.  
-
-This is done to keep us in good standing with email
-service providers so they don't consider us spammers
-and will continue to accept and deliver our emails
-to their customers' inboxes. 
