@@ -33,10 +33,11 @@ the Membership status section.
 your subscription page.  By confirming their interest in the confirmation
 email sent, they will be opted back in.  (Your subscription page's URL is on the Membership's Add New Member page.) 
 
+<span class="highlight">
 Note, if `Admin approval required for new subscribers?` is set to
 `Yes` on the <img src="/docimages/transparent-gear-icon.png" height="22"> Account Settings page, then an Administrator will
 need to approve of the application before the recipient can be opted-in.
-
+</span> <!-- highlight -->
 </span> <!-- sub -->
 
 <span class="free">
