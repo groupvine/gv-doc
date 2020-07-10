@@ -12,7 +12,7 @@ There are several reasons why recipients are not receiving community emails.
 A couple of common reasons can be easily resolved by doing a simple look-up to see
 if the recipient's email address is listed on the Membership's Delivery Issues page.
 
-* If the recipient's email address has "bounced out" or is a "problem" address ([what this?](/6-delivery/2-delivBounce.md?[LINK-QARGS-DOC]#gv-6delivery-2delivBounce-problem-addr), then confirm their address and update their email address in your membership.
+* If the recipient's email address has "bounced out" or is a "problem" address ([what this?](/6-delivery/4-delivProblems.md?[LINK-QARGS-DOC]#gv-6delivery-4delivProblems-problem-addr)), then confirm their address and update their email address in your membership.
 
 <span class="g4s">
  
