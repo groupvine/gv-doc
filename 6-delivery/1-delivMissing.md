@@ -131,7 +131,7 @@ those corrected addresses.  Here's how to do that:
 
 * Click the email's ellipsis (<img src="/docimages/ellipsis.png" height="22">) and select <img src="/docimages/feed-menu-resend-email.png" height="22">.
 
-* On the New Email page select the option `Resend published email without any changes` and click `Review & Send`.  If email changes
+* On the New Email page select the option `Resend published email without any changes` and click `Review and Send`.  If email changes
  are needed, then select `Copy published email to your new email` instead, enter a subject and click `Compose`.
  
 * When ready, click `Send`, select the Select Individuals tab and select those members whose address you corrected.  
