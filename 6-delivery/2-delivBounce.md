@@ -25,7 +25,7 @@ For bounced email addresses, the goal is to correct
 the addresses in your account and then resend the email to
 those corrected addresses.  Here's how to do that:
 
-* Confirm the correctness of the email address and update their address from the Membership's Member Listing page.
+* Confirm the correctness of the email address and update their address from the Membership's Member Listing page.  Make a note of the corrected addresses to resend to these members.
 
 * View the Email Feed in Listing view (<img src="/docimages/listing-view-icon.png" height="22">) and locate your email.
 
