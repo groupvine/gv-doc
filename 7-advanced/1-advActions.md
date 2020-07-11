@@ -86,8 +86,8 @@ attaching a group-instructions CSV file using the following columns:
 
 * **action** - one of 'add', 'update', or 'delete'.  Note that group deletions will 
   also delete associated group lists and memberships.  Also, an attempt to 'add' a
-  sub-group with a name already used in the account will result in an 'update' attempt
-  instead.
+  sub-group with a name already used in the account (and with the same parent group)
+  will result in an 'update' instead.
 * **abbrev** - the group's abbreviated name.
 * **title** - Optional group title.  If not specified, it default to
   "[abbrev] group".
