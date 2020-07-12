@@ -13,7 +13,7 @@ When ready, send a quick email from your personal inbox using your account's gro
 
 Easy peasy.  And now you can check your [Email Feed](/4-feed/1-feedIntro.md?[LINK-QARGS-DOC]#gv-4feeed-1feedInto) for your new email.
 
-Here's more details for sending from your [online account](/3-send/1-sendOnline.md?[LINK-QARGS-DOC]#gv-3send-1sendOnline) or your [personal inbox](/3-send/2-sendInbox.md?[LINK-QARGS-DOC]#gv-3send-2sendInbox).
+Here are more details for sending from your [personal inbox](/3-send/2-sendInbox.md?[LINK-QARGS-DOC]#gv-3send-2sendInbox) or your [online account](/3-send/1-sendOnline.md?[LINK-QARGS-DOC]#gv-3send-1sendOnline). 
 
 ## Where to get more help
 
