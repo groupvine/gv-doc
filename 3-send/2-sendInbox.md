@@ -4,6 +4,12 @@
 <span id="gv-3send-2sendInbox"></span>
 ## Send email from a personal email account
 
+<span class=highlight>
+  
+To avoid the risk of spammers sending emails to a group from a possibly compromised email account, after emailing from your inbox, a confirmation mail is emailed to the sender where the sender must confirm the email send before it can be forwarded to its recipients.
+
+</span> <!-- highlight -->
+
 To send an email to your account from your inbox, use your account's Address found on the <img src="/docimages/transparent-gear-icon.png" height="22"> Account Settings page, for example:
 
 ```
@@ -47,8 +53,6 @@ and/or email app you use.  Please create a test email to try out the drag-and-dr
 method with your system before sending an email. For example, dragging-and-dropping should 
 work for gmail users composing emails online using the 
 Google Chrome browser.
-
-* To avoid the risk of spammers sending emails to a group from a possibly compromised email account, after emailing from your inbox, a confirmation mail is emailed to the sender where the sender must confirm the email send before it can be forwarded to its recipients.
 
 * In general, your email will be "From" your display name, which is your
 First Name and Last Name attributes as they are set in your Profile, but your email handler may preset the "From" to 
