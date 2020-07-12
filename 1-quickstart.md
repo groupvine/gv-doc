@@ -9,7 +9,7 @@ If you would like to include more recipients, there are a few ways to do this.  
 
 ## Send a email
 
-When ready, send a quick email from your personal inbox using your account's group email address, which Administrators can look up by signing into your account, clicking the <img src="/docimages/transparent-gear-icon.png" height="22"> and emailing "To" the **Address** under **Core account settings**.  (Note, to avoid the risk of spammers sending emails to a group from a possibly compromised email account, after emailing from your inbox, a confirmation email will be  sent to you where you must confirm the email send before it can be forwarded to its recipients.)
+When ready, send a quick email from your personal inbox using your account's group email address, which Administrators can look up by signing into your account, clicking the <img src="/docimages/transparent-gear-icon.png" height="22"> and emailing "To" your **Address**, e.g. myaccount@groupvine.com, under **Core account settings**.  (Note, to avoid the risk of spammers sending emails to a group from a possibly compromised email account, after emailing from your inbox, a confirmation email will be  sent to you where you must confirm the email send before it can be forwarded to its recipients.)
 
 Easy peasy.  And now you can check your [Email Feed](/4-feed/1-feedIntro.md?[LINK-QARGS-DOC]#gv-4feeed-1feedInto) for your new email.
 
