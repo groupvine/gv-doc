@@ -1,11 +1,7 @@
 <span id="gv-quick-start"> </span>
 # Quick Start
 
-<span class="todo">
-** TODO Links needed:  send email, add to membership.  Those doc files may be moving so waiting until they have their final place
-</span>
-
-Once your account is created, you're ready to send yourself an email created from your online account or from your personal email account.  
+Once your account is created, you're ready to send yourself an email composed in your personal inbox or your online account. 
 
 ## Add email addresses
 
@@ -13,7 +9,7 @@ If you would like to include more recipients, there are a few ways to do this.  
 
 ## Send a email
 
-When ready, send a quick email from your personal inbox using your account's group email address, which Administrators can look up by signing into your account, clicking the <img src="/docimages/transparent-gear-icon.png" height="22"> and emailing "To" the **Address** under **Core account settings**.
+When ready, send a quick email from your personal inbox using your account's group email address, which Administrators can look up by signing into your account, clicking the <img src="/docimages/transparent-gear-icon.png" height="22"> and emailing "To" the **Address** under **Core account settings**.  (Note, To avoid the risk of spammers sending emails to a group from a possibly compromised email account, after sending from your inbox, a confirmation mail will be  emailed to you where you must confirm the email send before it can be forwarded to its recipients.)
 
 Easy peasy.  And now you can check your [Email Feed](/4-feed/1-feedIntro.md?[LINK-QARGS-DOC]#gv-4feeed-1feedInto) for your new email.
 
