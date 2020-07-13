@@ -15,41 +15,54 @@
 ### How Uploading a File Impacts Your Membership
 
 <span class="highlight">
-Uploading a file changes a member's information based on how they are set in the file.  
+  
+Uploading a file changes a member's information 
+based on how their information is set in the file.  
+
 </span> <!-- highlight -->
   
 <span class="sub g4s">  
-A member's attribute values, role, and memberships to lists and sub-groups will be set 
-based on the value of these columns in the file.  An empty cell will remove an attribute value or remove 
+  
+A member's attribute values, role, and memberships to lists and sub-groups is set 
+based on the value of these columns in the uploaded file.  An empty cell will remove an attribute value or remove 
 the member from a list or sub-group, and an empty cell in the "Role" column will remove the member 
 from the account.
+
 </span> <!-- sub g4s -->
 
 <span class="free">
+  
 A member's attribute values, role, and memberships
-to lists based on the value of these columns in the file.  An empty cell will remove an attribute value or
+to lists is set based on the value of these columns in the uploaded file.  An empty cell will remove an attribute value or
 remove the member from a list, and an empty cell in the 
 "Role" column will remove the member from the account.
+
 </span> <!-- free -->
 
 Columns not included in your file are unaffected when the file is uploaded.
 
 <span class="g4s">
-Also, new members will be opted-in and ready to receive email.
+  
+New members will be opted-in and ready to receive email.
 
-If Welcome emails are sent (as set on the <img src="/docimages/transparent-gear-icon.png" height="22"> **Account Settings** page),
-new members will receive an email with links to your Email Feed and to
+If Welcome emails will be sent (as set on the <img src="/docimages/transparent-gear-icon.png" height="22"> **Account Settings** page),
+new members will receive an email with links to your Email Feed and 
 their Profile, where they can set attributes and join available
 lists and sub-groups.  We recommend sending Welcome emails to give
 new members access to their Profile. 
+
 </span> <!-- g4s -->
 
 <span class="sub">
-Also, new members are sent an email to accept an invitation to join.  This email also has links to your Email Feed and to their Profile, where they can set attributes and join available lists and sub-groups. Once they accept, they are opted-in and ready to receive email.
+  
+Also, new members will be sent an email to accept an invitation to join.  This email also has links to your Email Feed and their Profile, where they can set attributes and join available lists and sub-groups. Once they accept, they are opted-in and ready to receive email.
+
 </span> <!-- sub -->
 
 <span class="free">
-Also, new members are sent an email to accept an invitation to join.  This email also has links to your Email Feed and to their Profile, where they can set attributes and join available lists. Once they accept, they are opted-in and ready to receive email.
+  
+Also, new members will be sent an email to accept an invitation to join.  This email also has links to your Email Feed and their Profile, where they can set attributes and join available lists. Once they accept, they are opted-in and ready to receive email.
+
 </span> <!-- free -->
 
 <span id="gv-2members-12membersAdd-uploading-recipient-addresses"></span>
@@ -66,12 +79,12 @@ addresses in a column with an "Email" header, like the following:
 |beth.blue@example.com     |
 |quiet.quinn@example.com   |
 
-Then to upload, click 'Upload Membership File' on the **Membership**'s **Upload & Export** page and select your file.
+Then to upload, click `Upload Membership File` on the **Membership**'s **Upload & Export** page and select your file.
 
 <span id="gv-2members-12membersAdd-uploading-member-attributes"></span>
 ### Uploading Member Attributes
 
-Attributes are used to save additional member information that's specific to your account's needs, and their values can be used to personalize emails and target recipients.  Member attribute values are set in an upload file by adding the attribute name to a column header and the member's value for that attribute in the member's row. An empty cell will remove the attribute's value for that member.
+Attributes are used to save additional member information that's specific to your account's needs, and their values can be used to personalize emails and target recipients.  Member attributes are set in an upload file by adding the attribute name to a column header and the member's value for that attribute in the member's row. An empty cell will remove the attribute's value for that member.
 
 Note
 
@@ -106,6 +119,7 @@ For more information on Member Attributes, click [here](/2-members/4-membersAttr
 ### Uploading Membership Roles
     
 <span class="sub g4s">    
+  
 By default, new members are given the basic "Member" role, however, you
 can also have an arbitrary number of Administrators and Editors.  Here
 are the available role types with their default capabilities and how
@@ -134,9 +148,11 @@ Note
 
 * Uploading an empty cell for "Role" will remove the member from
 the account, and similarly for sub-groups and their sub-group column.
+
 </span> <!-- sub g4s -->
 
 <span class="free">
+  
 By default, new members are given the basic "Member" role, which can receive email and respond to [Email Widgets](/5-widgets/1-ewIntro.md?[LINK-QARGS-DOC]#gv-5widgets-1ewintro).  'x' can be used as an abbreviation.
  
 To set a member's role, specify their role in a "Role"
@@ -152,6 +168,7 @@ Note
 
 * Uploading an empty cell for "Role" will remove the member from
 the account.
+
 </span> <!-- free -->
 
 <span id="gv-2members-12membersAdd-uploading-to-member-lists"></span>
