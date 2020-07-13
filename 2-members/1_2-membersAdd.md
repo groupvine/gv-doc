@@ -39,7 +39,7 @@ remove the member from a list, and an empty cell in the
 
 </span> <!-- free -->
 
-Columns not included in your file are unaffected when the file is uploaded.
+Columns not included in the upload file are unaffected when the file is uploaded.
 
 <span class="g4s">
   
