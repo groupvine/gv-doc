@@ -14,11 +14,11 @@
 <span id="gv-2members-12membersAdd-impactMem"></span>
 ### How Uploading a File Impacts Your Membership
 
-<span class="sub g4s">
+<span class="sub g4s highlight">
 
 Uploading a file changes a member's attribute values, role, and memberships to lists and sub-groups based on how these are set in the  file.  An empty cell will remove an attribute value or remove the member from a list or sub-group, and an empty cell in the "Role" column will remove the member from the account.
 
-</span> <!-- sub g4s -->
+</span> <!-- sub g4s highlight -->
 
 <span class="free">
 
