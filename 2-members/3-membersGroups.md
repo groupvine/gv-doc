@@ -3,6 +3,8 @@
 <span id="gv-2members-3membersGroups"></span>
 ## Use Sub-groups for groups that can work independently from the main group
 
+<span class="sub g4s">
+
 Sub-groups provide additional flexibility in how you manage your
 membership and target your emails.
 Here are a sub-group's key features:
@@ -38,3 +40,5 @@ To email your sub-group, click [here](/3-send/2-sendInbox.md?[LINK-QARGS-DOC]#gv
 Also, if your account could use multiple sub-group levels, contact support@groupvine.com.
   
 </span> <!-- adv -->
+
+</span> <!-- sub g4s -->
