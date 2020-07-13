@@ -14,50 +14,42 @@
 <span id="gv-2members-12membersAdd-impactMem"></span>
 ### How Uploading a File Impacts Your Membership
 
-
+<span class="highlight">
+Uploading a file changes a member's information based on how they are set in the file.  
+</span> <!-- highlight -->
   
-<span class="highlight">  
-Uploading a file changes a member's attribute values, role, and memberships to lists and sub-groups 
-based on how these are set in the file.  An empty cell will remove an attribute value or remove 
+<span class="sub g4s">  
+A member's attribute values, role, and memberships to lists and sub-groups will be set 
+based on the value of these columns in the file.  An empty cell will remove an attribute value or remove 
 the member from a list or sub-group, and an empty cell in the "Role" column will remove the member 
 from the account.
-</span> <!-- highlight -->
-
-
+</span> <!-- sub g4s -->
 
 <span class="free">
-
-Uploading a file changes a member's attribute values, role, and memberships
-to lists based on how these are set in the file.  An empty cell will remove an attribute value or
+A member's attribute values, role, and memberships
+to lists based on the value of these columns in the file.  An empty cell will remove an attribute value or
 remove the member from a list, and an empty cell in the 
 "Role" column will remove the member from the account.
-
 </span> <!-- free -->
 
 Columns not included in your file are unaffected when the file is uploaded.
 
 <span class="g4s">
-  
 Also, new members will be opted-in and ready to receive email.
 
-If Welcome emails are sent (as set on the <img src="/docimages/transparent-gear-icon.png" height="22"> Account Settings tab),
+If Welcome emails are sent (as set on the <img src="/docimages/transparent-gear-icon.png" height="22"> **Account Settings** page),
 new members will receive an email with links to your Email Feed and to
 their Profile, where they can set attributes and join available
 lists and sub-groups.  We recommend sending Welcome emails to give
-new members access to their Profile.
-  
+new members access to their Profile. 
 </span> <!-- g4s -->
 
 <span class="sub">
-  
 Also, new members are sent an email to accept an invitation to join.  This email also has links to your Email Feed and to their Profile, where they can set attributes and join available lists and sub-groups. Once they accept, they are opted-in and ready to receive email.
-  
 </span> <!-- sub -->
 
 <span class="free">
-  
 Also, new members are sent an email to accept an invitation to join.  This email also has links to your Email Feed and to their Profile, where they can set attributes and join available lists. Once they accept, they are opted-in and ready to receive email.
-
 </span> <!-- free -->
 
 <span id="gv-2members-12membersAdd-uploading-recipient-addresses"></span>
@@ -74,10 +66,7 @@ addresses in a column with an "Email" header, like the following:
 |beth.blue@example.com     |
 |quiet.quinn@example.com   |
 
-
-To upload, select your file after clicking the **Upload Membership File** on the Membership's Upload & Export
-page.
-
+Then to upload, click 'Upload Membership File' on the **Membership**'s **Upload & Export** page and select your file.
 
 <span id="gv-2members-12membersAdd-uploading-member-attributes"></span>
 ### Uploading Member Attributes
@@ -88,11 +77,11 @@ Note
 
 * New text-based attributes can be created in the upload file by simply
 adding a column with the attribute's name in the header.  Other
-attribute types are required to be defined on your <img src="/docimages/transparent-gear-icon.png" height="22"> Member Attributes page.
+attribute types are required to be defined on the <img src="/docimages/transparent-gear-icon.png" height="22"> **Member Attributes** page.
 
 * A small number of attribute names are reserved, such as ‘Email' and
 ‘Last Name.'  A complete list of reserved attribute names are at the
-bottom of the <img src="/docimages/transparent-gear-icon.png" height="22"> Member Attributes page.
+bottom of the <img src="/docimages/transparent-gear-icon.png" height="22"> **Member Attributes** page.
 
 For example:
 
@@ -102,8 +91,7 @@ For example:
 |beth.blue@example.com    | Montecito  |            | black        |
 |quiet.quinn@example.com  | Toronto    | Hockey     | red          |
 
-
-Now when sending emails, the recipient’s attribute value can be included in emails created in your online account by selecting the attribute from the editor's "Pers…" menu (short for Personalization), or for emails created in your personal email account, include the attribute by surrounding its name (**with blanks removed**) with {{ ... }}, for example:
+Now when sending emails, the recipient’s attribute value can be included in emails created in your online account by selecting the attribute from the editor's "Pers…" menu (short for Personalization), or for emails created in your personal email account, include the attribute by surrounding its name (with blanks removed) with {{ ... }}, for example:
 
     Hello {{ sport }},
     We see you're a "{{ favcolor }}" person,
@@ -118,18 +106,17 @@ For more information on Member Attributes, click [here](/2-members/4-membersAttr
 ### Uploading Membership Roles
     
 <span class="sub g4s">    
-    
 By default, new members are given the basic "Member" role, however, you
 can also have an arbitrary number of Administrators and Editors.  Here
 are the available role types with their default capabilities and how
 they are used in the upload file.
 
-**Member:** Can receive email and respond to [Email Widgets](/5-widgets/1-ewIntro.md?[LINK-QARGS-DOC]#gv-5widgets-1ewintro).  'x' can be used as an abbreviation.
+**Member**: Can receive email and respond to [Email Widgets](/5-widgets/1-ewIntro.md?[LINK-QARGS-DOC]#gv-5widgets-1ewintro).  'x' can be used as an abbreviation.
 
-**Editor:** In addition to a Member's capabilities, can also send group
+**Editor**: In addition to a Member's capabilities, can also send group
 emails.
 
-**Administrator:** In addition to an Editor's capabilities, can
+**Administrator**: In addition to an Editor's capabilities, can
 also manage group settings and membership, and approve moderated group
 emails.  'Admin' can be used as an abbreviation.
  
@@ -147,11 +134,9 @@ Note
 
 * Uploading an empty cell for "Role" will remove the member from
 the account, and similarly for sub-groups and their sub-group column.
-
 </span> <!-- sub g4s -->
 
 <span class="free">
-
 By default, new members are given the basic "Member" role, which can receive email and respond to [Email Widgets](/5-widgets/1-ewIntro.md?[LINK-QARGS-DOC]#gv-5widgets-1ewintro).  'x' can be used as an abbreviation.
  
 To set a member's role, specify their role in a "Role"
@@ -167,9 +152,7 @@ Note
 
 * Uploading an empty cell for "Role" will remove the member from
 the account.
-
 </span> <!-- free -->
-
 
 <span id="gv-2members-12membersAdd-uploading-to-member-lists"></span>
 ### Uploading to Member Lists
@@ -178,7 +161,7 @@ Lists allow you to target emails to a subset of
 community members. For example, the following specifies
 which members are on the musicians and/or golfers
 lists (this time, we've simplified the file, removing the 
-attributes and Role columns, to only update the list memberships):
+attributes and "Role" columns, to only update the list memberships):
 
 | Email                   | list:musicians | list:golfers |
 |:------------------------|:---------------|:-------------|
@@ -193,29 +176,25 @@ was uploaded, then he would have been removed from the golfers list
 when the upload was complete.
 
 * New lists can be created when uploading simply by adding
-list:[list name] to a new column header in your file.
+*list:[list name]* to a new column header in your file.
 
 For more information about lists, click [here](/2-members/2-membersList.md?[LINK-QARGS-DOC]#gv-2members-2memberslist).
 
 <span class="sub g4s">
 
-
 <span id="gv-2members-12membersAdd-uploading-to-groups"></span>
 ### Uploading to Groups
 
-Groups are similar to lists in that they also allow specific
-targeting of community emails, but are more powerful in a number
-of ways such as allowing groups to have their own Administrators
-and Editors.  For more information about sub-groups,
+Groups are similar to lists by also allowing specific
+targeting of community emails, but are more powerful by having their own Administrators
+to manage the group's settings and membership, and moderate their own emails.  For more information about sub-groups,
 click [here](/2-members/3-membersGroups.md?[LINK-QARGS-DOC]#gv-2members-3membersGroups).
 
 Where new lists can be created using with an upload file, groups need
 to be created before they are referenced in the upload file.
 
-Group columns are in the format group:[group name] and whereas a member's role for the entire account is
-under a "Role" column (see [Uploading Membership Roles](/2-members/1_2-membersAdd.md?[LINK-QARGS-DOC]#gv-2members-12membersAdd-uploading-membership-roles) section
-above), the member's role within a specific sub-group is under the
-group:[group name] column.
+Group columns are in the format *group:[group name]* and whereas a member's role for the entire account is
+under a "Role" column (see [Uploading Membership Roles](/2-members/1_2-membersAdd.md?[LINK-QARGS-DOC]#gv-2members-12membersAdd-uploading-membership-roles)), the member's role in a sub-group is under the *group:[group name]* column.
 
 | Email                    | group:east | group:west |
 |:-------------------------|:-----------|:-----------|
@@ -226,9 +205,8 @@ group:[group name] column.
 |sam.salsa@example.com     |            | x          |
 |billy.banjo@example.com   |            | Admin      |
 
-
 Sub-groups can also define their own lists, whose columns
-immediately follow their group:[group name] column and before the
+immediately follow their *group:[group name]* column and before the
 next group column.  In the following example, Tim belongs to the
 account-wide "musicians" list as well as the "redsox" list defined in
 (and only relevant in) the east group. Sue is also a musician and
