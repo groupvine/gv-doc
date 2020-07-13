@@ -15,10 +15,10 @@ membership that you often email.  Key list features include:
   
 * Sub-group senders can email to a list that was defined in a parent group to reach their members who are on that list.
 
-</span> <!-- sub g4s -->
-
 To allow subscribers to join lists from their Profile, select the
 lists from the **Member Profile Page** on the <img src="/docimages/transparent-gear-icon.png" height="22"> **Site Customizations** page.  For more Profile information, click [here](/2-members/5-membersProfile.md?[LINK-QARGS-DOC]#gv-2members-5membersprofile).
+
+</span> <!-- sub g4s -->
 
 Note
 
