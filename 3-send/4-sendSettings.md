@@ -160,14 +160,14 @@ By default, the account's Email Feed is public, where Visitors can also see the 
 
 <span class="sub g4s">
 
-Sub-groups also have their own Email Feed visibility, which initially defaults to the parent's setting.  A sub-group's visibility can set to *Public*, 
+Sub-groups also have their own Email Feed visibility, which initially defaults to the parent's setting.  A sub-group's visibility can be set to *Public*, 
 *Account members only* or *Sub-group members only* by setting **Email feed visibility** on the sub-group's <img src="/docimages/transparent-gear-icon.png" height="22"> **Sub-group 
 Settings** page.  Limiting the feed's visibility to *Sub-group members only* will privatize the sub-group's emails to its sub-group members only.
 
-From the Email Feed's Listing view (<img src="/docimages/listing-view-icon.png" height="22">) an individual email's default visibility can be changed by clicking the email's <img src="/docimages/public-private-eye-icon.png" height="22"> to toggle between public to private.
+Also, an individual email's visibility can be changed from the Email Feed's Listing view (<img src="/docimages/listing-view-icon.png" height="22">) by clicking the email's <img src="/docimages/public-private-eye-icon.png" height="22"> to toggle between public to private.
 
 Note
 
-* A public Email Feed allows Visitors to view emails that have not been specifically made private.  If a public email has Email Widgets, Visitors will be able to view the email and its Email Widget summary images, but not the individual responses.
+* If a public email has Email Widgets, Visitors will be able to view the email and its Email Widget summary images, but not the individual responses.
 
 </span> <!-- sub g4s -->
