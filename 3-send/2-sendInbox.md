@@ -18,7 +18,7 @@ bingotech@groupvine.com
 
 <span class="g4s sub"> 
 
-Similarly, to send to a sub-group from your inbox, use the sub-group's Address found on the sub-group's corresponding 
+Similarly, to send to a sub-group from your inbox, use the sub-group's **Address** found on the sub-group's 
 <img src="/docimages/transparent-gear-icon.png" height="22"> **Sub-group Settings** page, for example:
 
 ```
@@ -33,7 +33,7 @@ your own inbox**.
 * On the **Addressing** tab you can select to send a draft or urgent email, or send to a list or to recipients with specific attribute values set.  Make your selections and copy the updated email address to the "To" field of your new email in 
 your personal email account.  
 
-* Include pre-defined or your custom member attribute values by following the
+* Include pre-defined or custom attribute values by following the
 instructions on the **Personalize** tab.  For more information about Member Attributes,
 click [here](/2-members/4-membersattributes.md?[LINK-QARGS-DOC]#gv-2members-4membersattributes).
 
