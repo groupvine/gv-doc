@@ -4,14 +4,14 @@
 ## Text notifications for new or "urgent" emails
 
 Members can receive text notifications with a link to the
-live email for either all or urgent only emails.  Members will still receive emails in their inbox and this just gives them
+live email for either All emails or Urgent emails.  Members will still receive emails in their inbox and this just gives them
 the option to be notified when one has arrived, which could be important
 especially if it's urgent and needs their attention.
 
-Accounts are already set up to send text notifications for members who
+Accounts are already set up for text notifications for members who
 have provided all of the following mobile information on their Profile:
 
-  * 10-digit mobile phone number, starting with the area code
+  * 10-digit mobile phone number, starting with the area code, e.g. xxx-xxx-xxxx
 
   * Mobile phone carrier - Contact support@groupvine.com if your carrier is not listed
 
