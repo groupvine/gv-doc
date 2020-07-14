@@ -13,13 +13,13 @@ General members will have options to refresh the feed (<img src="/docimages/refr
 
 <span class="sub g4s">
 
-Administrators and Editors will also have an **Options** filter in their feed to include sub-group and/or archived emails into the feed.
+Administrators and Editors will also have an **Options** filter in the Email Feed header to include sub-group and/or archived emails into their view of the feed.
 
 </span> <!-- sub g4s -->
 
 <span class="free">
   
-Administrators and Editors will also have an **Options** filter in their feed to include archived emails into the feed.
+Administrators and Editors will also have an **Options** filter in the Email Feed header to include archived emails into their view of the feed.
 
 </span> <!-- free -->
 
