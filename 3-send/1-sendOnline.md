@@ -66,6 +66,6 @@ refresh the feed.
 
 Note
 
-* Emails will be "From" the sender's display name, which is their First Name and Last Name attributes as they are set in their Profile.
+* Emails will be "From" the sender's display name, which is the First Name and Last Name attributes as they are set in their Profile.
 
 * Links in Preview are deactivated.
