@@ -62,11 +62,6 @@
               </a>
             </li>
             <li>
-              <a href="/3-send/5-resend.md?[LINK-QARGS-DOC]#gv-2members-5resend">
-                Resend a published email
-              </a>
-            </li>
-            <li>
               <a href="/3-send/3-sendTexts.md?[LINK-QARGS-DOC]#gv-2members-3sendTexts">
                 Text notifications for new or "urgent" emails
               </a>
@@ -78,7 +73,7 @@
             </li>
             <li>
               <a href="/3-send/5-resend.md?[LINK-QARGS-DOC]#gv-2members-5resend">
-                Resend published emails
+                Resend a published email
               </a>
             </li>
           </ul>
