@@ -97,8 +97,8 @@ page.
 Only the Account Administrator can send email to members from their online account or personal inbox.
 
 If additional senders are needed, you can upgrade to a Subscription service, which also offers other expanded services.
-Go to your <img src="/docimages/transparent-gear-icon.png" height="22"> Subscription Status page and click 
-to link to a comparison of our service offerings and upgrade options.
+Go to your <img src="/docimages/transparent-gear-icon.png" height="22"> **Subscription Status** page and click 
+the link for a comparison of our service offerings and upgrade options.
 
 </span> <!-- free -->
 
