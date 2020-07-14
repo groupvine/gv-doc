@@ -42,10 +42,6 @@ member's ellipsis (<img src="/docimages/ellipsis.png" height="22">) on the **Mem
 </span> <!-- sub g4s -->
 
 <span class="free"> 
- 
-By default, pre-defined attributes are always visible on the member's
-Profile.  (Pre-defined attributes are listed at the bottom of the
-<img src="/docimages/transparent-gear-icon.png" height="22"> Member Attributes page.)
 
 Administrators can update member profiles by uploading a file or by selecting the
 member's ellipsis (<img src="/docimages/ellipsis.png" height="22">) on the **Membership**'s **Member Listing** page.  For more information on uploading, click [here](/2-members/1_2-membersAdd.md?[LINK-QARGS-DOC]#gv-2members-12membersAdd).
