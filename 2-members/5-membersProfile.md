@@ -32,28 +32,33 @@ A member's Profile is where all the information about the member is kept and con
  
 By default, pre-defined attributes are always visible on the member's
 Profile.  However, which custom attributes, lists, and sub-groups are available to the member
-to set or join is determined by the Account Administrator on the <img src="/docimages/transparent-gear-icon.png" height="22">
-Site Customization page.  (Pre-defined attributes are listed at the bottom of the
-<img src="/docimages/transparent-gear-icon.png" height="22"> Member Attributes page.)
+to set or join is determined by the Account Administrator from the **Member Profile Page** on the <img src="/docimages/transparent-gear-icon.png" height="22">
+**Site Customizations** page.  (Pre-defined attributes are listed at the bottom of the
+<img src="/docimages/transparent-gear-icon.png" height="22"> **Member Attributes** page.)
+
+Administrators can also update member profiles by uploading a file or by selecting the
+member's ellipsis (<img src="/docimages/ellipsis.png" height="22">) on the **Membership**'s **Member Listing** page.  For more information on uploading, click [here](/2-members/1_2-membersAdd.md?[LINK-QARGS-DOC]#gv-2members-12membersAdd).
 
 </span> <!-- sub g4s -->
 
 <span class="free"> 
  
 By default, pre-defined attributes are always visible on the member's
-Profile.  However, which custom attributes and lists are available to the member
-to set or join is determined by the Administrator on the <img src="/docimages/transparent-gear-icon.png" height="22">
-Site Customization page.  (Pre-defined attributes are listed at the bottom of the
+Profile.  (Pre-defined attributes are listed at the bottom of the
 <img src="/docimages/transparent-gear-icon.png" height="22"> Member Attributes page.)
+
+Administrators can update member profiles by uploading a file or by selecting the
+member's ellipsis (<img src="/docimages/ellipsis.png" height="22">) on the **Membership**'s **Member Listing** page.  For more information on uploading, click [here](/2-members/1_2-membersAdd.md?[LINK-QARGS-DOC]#gv-2members-12membersAdd).
 
 </span> <!-- free -->
 
-Administrators can also update member profiles by uploading a file or selecting the
-member's ellipsis (<img src="/docimages/ellipsis.png" height="22">) on the Membership's Member Listing page.  For more information on uploading, click [here](/2-members/1_2-membersAdd.md?[LINK-QARGS-DOC]#gv-2members-12membersAdd).
+<span class="free sub"> 
 
 Note
 
 * Only the owning member can change their Opt-out status
+
+</span> <!-- free sub -->
 
 General members are able to access their Profile by:
 
