@@ -10,7 +10,7 @@ To avoid the risk of spammers sending emails to a group from a possibly compromi
 
 </span> <!-- highlight -->
 
-To send an email to your account from your inbox, use your account's Address found on the <img src="/docimages/transparent-gear-icon.png" height="22"> Account Settings page, for example:
+To send an email to your account from your inbox, use your account's **Address** found on the <img src="/docimages/transparent-gear-icon.png" height="22"> **Account Settings** page, for example:
 
 ```
 bingotech@groupvine.com
@@ -19,7 +19,7 @@ bingotech@groupvine.com
 <span class="g4s sub"> 
 
 Similarly, to send to a sub-group from your inbox, use the sub-group's Address found on the sub-group's corresponding 
-<img src="/docimages/transparent-gear-icon.png" height="22"> Sub-group Settings page, for example:
+<img src="/docimages/transparent-gear-icon.png" height="22"> **Sub-group Settings** page, for example:
 
 ```
 team.bingotech@groupvine.com
@@ -43,17 +43,18 @@ the instructions on the **Widgets** tab to add any of the four types of Widgets
 click [here](/5-widgets/1-ewIntro.md?[LINK-QARGS-DOC]).
 
 Once your email is sent, it will appear in your Email Feed with <img src="/docimages/sent-from-inbox-icon.png" height="22"> to 
-identify that the email was sent from a personal email account.
+identify that the email was sent from a personal email account.  If your email isn't listed at the top, wait a minute and click <img src="/docimages/refresh-feed-icon.png" width="22"> in the Email Feed header to 
+refresh the feed.
 
 Note
 
 * The ability to drag-and-drop a member attribute images 
-from the **Personalize** tab depends on the email service 
+from the **Personalize** or **Widgets** tabs depend on the email service 
 and/or email app you use.  Please create a test email to try out the drag-and-drop 
 method with your system before sending an email. For example, dragging-and-dropping should 
 work for gmail users composing emails online using the 
 Google Chrome browser.
 
-* In general, your email will be "From" your display name, which is your
-First Name and Last Name attributes as they are set in your Profile, but your email handler may preset the "From" to 
-the name you normally use to send email.
+* In general, emails will be "From" the sender's display name, which is the
+First Name and Last Name attributes as they are set in their Profile, but the sender's email handler may preset the "From" to 
+the name normally used to send email.
