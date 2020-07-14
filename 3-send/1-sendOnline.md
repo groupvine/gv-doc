@@ -42,14 +42,11 @@ click [here](/5-widgets/1-ewIntro.md?[LINK-QARGS-DOC]#gv-5widgets-1ewIntro).
 
 <span class="free">
   
-* Ask questions or gather information directly in your email by selecting one of the  
-four preset types of Email Widgets (Text, Count, RSVP, Yes-No) from the **Widget** menu.  The Email Widget's question is just 
-normal text in your email.  For more information about using Email Widgets,
-click [here](/5-widgets/1-ewIntro.md?[LINK-QARGS-DOC]#gv-5widgets-1ewIntro).
+* Ask questions or gather information directly in your email by selecting one of the four preset types of Email Widgets (Text, Count, RSVP, Yes-No) from the **Widget** menu.  The Email Widget's question is just normal text in your email.  For more information about using Email Widgets, click [here](/5-widgets/1-ewIntro.md?[LINK-QARGS-DOC]#gv-5widgets-1ewIntro).
   
 </span> <!-- free -->
 
-When you're ready, click **Send** to select your recipients and send/publish your email.  By default, your email will be sent to the entire group as non-urgent, otherwise:
+When ready, click **Send** to select your recipients and send/publish your email.  By default, your email will be sent to the entire group as non-urgent, otherwise:
 
 * Select the **Mark email as urgent** checkbox to
 have a text notification sent to recipients who chose to
@@ -60,17 +57,15 @@ to list(s) or to specific Choice or Checkbox attribute values.
 
 * Use the **Select Individuals** tab to select specific recipients from your membership.
 
-* Review your recipient addresses on the **Recipient Addresses** tab.  
-This is a good way to eyeball that your recipient list is correct
-before publishing your email.
+* Review recipient addresses on the **Recipient Addresses** tab.  This is a good way to eyeball that the recipient list is correct
+before publishing an email.
 
-After sending your email, you'll be redirected to your group's Email
-Feed.  If your email isn't listed at the top, wait a minutes and
-refresh your feed.
+After sending an email, you will be redirected to the group's Email
+Feed.  If your email isn't listed at the top, wait a minute and click <img src="/docimages/refresh-feed-icon.png" width="22"> in the Email Feed header to 
+refresh the feed.
 
 Note
 
-* Your email will be "From" your display name, which is your
-First Name and Last Name attributes as they are set in your Profile.
+* Emails will be "From" the sender's display name, which is their First Name and Last Name attributes as they are set in their Profile.
 
 * Links in Preview are deactivated.
