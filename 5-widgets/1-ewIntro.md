@@ -27,18 +27,6 @@ Email Widgets are a simple and powerful tool that make it easy to ask questions,
 
 Email Widgets can be used for almost anything you would like to ask your community: votes, polls, help requests, RSVPs, as well as soliciting opinions and comments, all which make it possible to engage your community in a discussion, embedded within the email, around these questions.  
 
-<span class="sub g4s">
-
-There are five types of Email Widgets:  Text, Count, RSVP, Yes-No, and Custom Single/Multiple Choice.  Click [here](/5-widgets/2-ewAdd.md?[LINK-QARGS-DOC]#gv-5widgets-2ewadd) for more information and examples of each widget.
-
-</span> <!-- sub g4s -->
-
-<span class="free">
-
-There are four preset types of Email Widgets:  Text, Count, RSVP, and Yes-No.  Click [here](/5-widgets/2-ewAdd.md?[LINK-QARGS-DOC]#gv-5widgets-2ewadd) for more information and examples of each widget.
-
-</span> <!-- free -->
-
 <span class="todo">
   
 Email Widgets transform email for groups and communities into dynamic and engaging communications, and enhance the value (for recipients and senders) of each communication you send and drive greater participation and interaction from your community.
@@ -47,14 +35,25 @@ Email Widgets transform email for groups and communities into dynamic and engagi
 
 Here are some key Email Widget features:
 
-* From the email Administrators and Editors can download up-to-date Email Widget detailed data to a 
-spreadsheet.
+<span class="sub g4s">
+
+* There are five types of Email Widgets:  Text, Count, RSVP, Yes-No, and Custom Single/Multiple Choice.  Click [here](/5-widgets/2-ewAdd.md?[LINK-QARGS-DOC]#gv-5widgets-2ewadd) for more information and examples of each widget.
+
+</span> <!-- sub g4s -->
+
+<span class="free">
+
+* There are four preset types of Email Widgets:  Text, Count, RSVP, and Yes-No.  Click [here](/5-widgets/2-ewAdd.md?[LINK-QARGS-DOC]#gv-5widgets-2ewadd) for more information and examples of each widget.
+
+</span> <!-- free -->
+
+* From the email Administrators and Editors can download up-to-date Email Widget detailed data to a spreadsheet.  Click [here](/5-widgets/3-ewManage.md?[LINK-QARGS-DOC]#gv-5widgets-3ewmanage-download) for details.
 
 * Recipients can respond and comment from their email without signing-in or clicking-through to a survey, online document, or “invitation site.” 
 
 * In real-time and right from their email, recipients can see how others are responding and view up-to-date images that summarize responses.
 
-* Responses and comments can be hidden from recipients in case a response is determined to be inappropriate. 
+* Responses and comments can be hidden from recipients in case a response is determined to be inappropriate.  Click [here](/5-widgets/3-ewManage.md?[LINK-QARGS-DOC]#gv-5widgets-3ewmanage-hide-unhide) for details.
 
 * Email notifications are sent to all response participants when a new comment is added to that thread.
 
