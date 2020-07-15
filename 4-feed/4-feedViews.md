@@ -37,7 +37,7 @@ Email Widgets configuration, which are to allow recipients to view responses, al
 (number of recipients, opens, online views, etc.) with an option to
 download the complete details to a spreadsheet.
 
-* <img src="/docimages/feed-menu-archive.png" height="22"> or <img src="/docimages/feed-menu-unarchive.png" height="24"> to move the email to or from the Archive.  If archived emails are included in the Email Feed, 
+* <img src="/docimages/feed-menu-archive.png" height="22"> or <img src="/docimages/feed-menu-unarchive1.png" height="24"> to move the email to or from the Archive.  If archived emails are included in the Email Feed, 
 <img src="/docimages/archive-icon.png" height="22"> will appear next to the archived email in List view.
 
 Note
