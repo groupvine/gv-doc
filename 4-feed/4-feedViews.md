@@ -17,27 +17,27 @@ show these actions for the selected email:
 
 * <img src="/docimages/feed-menu-download-responses.png" height="24"> downloads Email Widget responses, comments and other data to a spreadsheet.
 
-* <img src="/docimages/feed-menu-view-as-recipient.png" height="24"> gives Administrators or Editors the
+* <img src="/docimages/feed-menu-view-as-recipient.png" height="22"> gives Administrators or Editors the
 option to respond to the email's Email Widgets as if they were the
 recipient or to copy to their clipboard a link specifically for the recipient and email it to the recipient so they can respond
 to the widgets.
 This is useful to keep widget data together in case a recipient is unable to respond to their email or if they convey their
 response in person. 
 
-* <img src="/docimages/feed-menu-reply-all.png" height="24"> creates a new reply Draft email and
+* <img src="/docimages/feed-menu-reply-all.png" height="22"> creates a new reply Draft email and
 navigates you to its **Compose** page. 
 
 * <img src="/docimages/feed-menu-resend-email.png" height="22"> navigates you to the **New Email** page with the
 published email selected and the resend option defaulted to *Copy published email to your new email and make changes*.  Click [here](/3-send/5-resend.md?[LINK-QARGS-DOC]#gv-2members-5resend) for details on resending an email, which has important information if your email has Email Widgets.
 
-* <img src="/docimages/feed-menu-change-ew-settings.png" height="24"> allows you to change the 
+* <img src="/docimages/feed-menu-change-ew-settings.png" height="22"> allows you to change the 
 Email Widgets configuration, which are to allow recipients to view responses, allow commenting on responses, and allow names on responses to be visible.  The new configuration will take effect after the next response is recorded.
 
 * <img src="/docimages/feed-menu-view-delivery.png" height="22"> shows summary delivery information
 (number of recipients, opens, online views, etc.) with an option to
 download the complete details to a spreadsheet.
 
-* <img src="/docimages/feed-menu-archive.png" height="22"> or <img src="/docimages/feed-menu-unarchive1.png" height="24"> to move the email to or from the Archive.  If archived emails are included in the Email Feed, 
+* <img src="/docimages/feed-menu-archive.png" height="22"> or <img src="/docimages/feed-menu-unarchive1.png" height="22"> to move the email to or from the Archive.  If archived emails are included in the Email Feed, 
 <img src="/docimages/archive-icon.png" height="22"> will appear next to the archived email in List view.
 
 Note
