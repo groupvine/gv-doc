@@ -8,9 +8,14 @@
 
       <tr>
         <td class="topicsSection">
-          <a href="/1-quickstart.md?[LINK-QARGS-DOC]#gv-quick-start">
-            Quick Start !
-          </a>
+         Quick Start
+          <ul>
+            <li>
+              <a href="/1-quickstart.md?[LINK-QARGS-DOC]#gv-quick-start">
+                Send your first GV-BRAND email in minutes!
+              </a>
+            </li>
+          </ul>
         </td>
       </tr>
 
