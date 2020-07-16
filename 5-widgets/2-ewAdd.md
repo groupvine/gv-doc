@@ -41,6 +41,8 @@ Note
 
 * The color of the summary images are based on shades of your group's primary [theme color](/3-send/4-sendSettings.md?[LINK-QARGS-DOC]#gv-2members-4sendsettings-theme-colors).
 
+* Double click on a widget to change its defaults and to configure widgets email-wide.  It's important to give your widget a name to briefly describes it's purpose.  The name is used in several places:  the caption to the widget's summary image's in the Email Feed, the column label when responses are downloaded to a spreadsheet, and the widget's description when hovering over its response in the reponse listing.  Email Widget names are limited to 32 characters.
+
 <span class="free">
 
 * Default responses for an RSVP or Yes-No Email Widget cannot be edited.  To make widget changes and have access to the Custom Single/Multiple Choice widget, click the link on the <img src="/docimages/transparent-gear-icon.png" height="22"> Subscription Status page 
