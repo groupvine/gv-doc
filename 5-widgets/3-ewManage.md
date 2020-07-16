@@ -30,7 +30,7 @@ This can also be done when viewing the online email and making the selection fro
 <span id="gv-5widgets-3ewmanage-hide-unhide"></span>
 ### Hide Inappropriate Responses
 
-If a response is found to be inappropriate or out of place, Administrators and Editors can hide the response from the response listing.  The response will still be in the listing, but only Admistrators and Editors will see the hidden greyed version.  
+If a response is found to be inappropriate or out of place, Administrators and Editors can hide the response from the response listing.  The response is still in the listing, but only Admistrators and Editors are able to see the hidden greyed version.  
 
 This is how a recipient's response looks in the response listing.  Click "Hide" in the bottom left corner to hide the response from the response listing.
 
@@ -49,18 +49,18 @@ These three settings affect the response listing and apply to all Email Widgets 
 
 <img src="/docimages/email-config-ew.png" height="250">
 
-* **Allow response listing?** When enabled, the response listing is available to recipients by clicking to view the live email or clicking an Email Widget from their inbox to get to the email online, otherwise only the widget summary images are shown.  If disabled, then signed-in Editor recipients and all signed-in Admins will still be able to view the listing from the email online.
+* **Allow response listing?** When enabled, the response listing is available to recipients by clicking to view the live email or clicking an Email Widget from their inbox to get to the email online, otherwise only the widget summary images are shown.  If disabled, signed-in Editor recipients and all signed-in Admins are still able to view the listing from the email online.
 
 * **Commenting allowed on responses?** This option is only applicable if *Allow response listing?* is enabled.
 
-* **Names are visible?** When selected and *Allow response listing?* is enabled, the responder's name is included in the response listing as it's set in their Profile.  If not selected, names will still appear in the summary image for Text Email Widgets.
+* **Names are visible?** When selected and *Allow response listing?* is enabled, the responder's name is included in the response listing as it's set in their Profile.  If not selected, names still appear in the summary image for Text Email Widgets.
 
-The configuration values have default values that are set under Email Widget Defaults on the <img src="/docimages/transparent-gear-icon.png" height="22"> **Account Settings** page.  However, these settings can be overridden for an email by double-clicking an Email Widget in the email editor and then clicking the **Email-wide Settings** tab to make changes.
+The configuration values have default values that are set under **Email Widget Defaults** on the <img src="/docimages/transparent-gear-icon.png" height="22"> **Account Settings** page.  However, these settings can be overridden for an email by double-clicking an Email Widget in the email editor and then clicking the **Email-wide Settings** tab to make changes.
 
 <span id="gv-5widgets-3ewmanage-change-config-after-pub"></span>
 ### Change Email Widget Configuration After Email is Published
 
-After an email is published, you can still change the Email Widget Configuration by doing the following:
+After an email is published, changes to the Email Widget Configuration can still be done by doing the following:
 
 * View the Email Feed in Listing view (<img src="/docimages/listing-view-icon.png" height="22">) and locate your email.
 
@@ -68,16 +68,14 @@ After an email is published, you can still change the Email Widget Configuration
 
 <img src="/docimages/feed-config-ew-popup.png" height="240">
 
-* Make your changes and click `Save`.
+* Make your changes and click `Save`.  The 
 
 This can also be done when viewing the online email and making the selection from the email's menu (<img src="/docimages/menu-icon.png" height="22">).
 
 <span id="gv-5widgets-3ewmanage-add-as-recipient"></span>
 ### Add Response as Recipient to Email Widget
 
-A benefit to using Email Widgets is having all of your collected data accessible anytime and always kept with your email in your feed, as long as recipients submit their responses in the email.
-
-However, if instead of submitting their responses, a recipient tells an Administrator or Editor their responses in person or possibly misplaces the email so they are unable to respond, you can do the following:
+A benefit to using Email Widgets is having all of the collected data kept with the email in your feed, so it's accessible anytime. But what if instead of submitting their responses, a recipient tells an Administrator or Editor their responses in person or possibly misplaces the email so they are unable to respond.  Here's is what you can do:
 
 * View the Email Feed in Listing view (<img src="/docimages/listing-view-icon.png" height="22">) and locate your email.
 
