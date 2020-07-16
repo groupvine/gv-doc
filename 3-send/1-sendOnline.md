@@ -5,7 +5,7 @@
 
 * [Where to start](#gv-3send-1sendOnline-start)
 * [Unique features to customize your email](#gv-3send-1sendOnline-customize)
-* [Send!](#gv-3send-1sendOnline-send)
+* [Publish!](#gv-3send-1sendOnline-send)
 
 <span id="gv-3send-1sendOnline-start"></span>
 ### Where to start
@@ -17,6 +17,8 @@ By default the **New** tab is selected to create a new email from
 scratch (Note, for your very first email, you'll start by entering the
 email's subject).  You may also have a **Drafts**, **Templates**,
 and **Published** tabs, where you can select an email from one of these tabs as a starting point.
+
+<img src="/docimages/sendonline-start.png" height="170">
 
 * A Draft email is "under construction" and may have already been emailed as a
 draft, but has yet to be sent/published to its intended recipients.  
@@ -57,15 +59,13 @@ click [here](/5-widgets/1-ewIntro.md?[LINK-QARGS-DOC]#gv-5widgets-1ewIntro).
 </span> <!-- free -->
 
 <span id="gv-3send-1sendOnline-send"></span>
-### Send!
+### Publish!
 
-When ready, click **Send** to select your recipients and send/publish your email.  By default, your email will be sent to the entire group as non-urgent, otherwise:
+When ready, click <img src="/docimages/compose-send.png" height="22"> to select your recipients and send/publish your email.  By default, your email will be sent to the entire group as non-urgent, otherwise:
 
-* Select the **Mark email as urgent** checkbox to
-have a text notification sent to recipients who chose to
-be notified of urgent emails.
-
-* Make selections on the **Addressing** tab to change the recipients
+* On the **Addressing** tab: Select **Send as a draft email** to send to group's Administrators and Editors only.  Select **Mark email as urgent** to 
+have a text notification sent to recipients who want to
+be notified of urgent emails.  Make selections to change the recipients
 to list(s) or to specific Choice or Checkbox attribute values. 
 
 * Use the **Select Individuals** tab to select specific recipients from your membership.
@@ -73,7 +73,7 @@ to list(s) or to specific Choice or Checkbox attribute values.
 * Review recipient addresses on the **Recipient Addresses** tab.  This is a good way to eyeball that the recipient list is correct
 before publishing an email.
 
-After sending an email, you will be redirected to the group's Email
+After publishing your email, you will be redirected to the group's Email
 Feed.  If your email isn't listed at the top, wait a minute and click <img src="/docimages/refresh-feed-icon.png" width="22"> in the Email Feed header to 
 refresh the feed.
 
