@@ -12,34 +12,34 @@
 <span id="gv-6delivery-1delivmissing-opted-or-bounced-out"></span>
 ## Is the member opted-out or "bounced out"?
  
-A couple of common reasons can be easily resolved by a simple look-up for whether the recipient's email address is listed on the **Membership**'s **Membership's Delivery Issues** page.
+A couple of common reasons can be easily resolved by a simple look-up for whether the member's email address is listed on the **Membership**'s **Membership's Delivery Issues** page.
 
-* If the recipient's email address is a "problem" address or has "bounced out" ([what this?](/6-delivery/4-delivProblems.md?[LINK-QARGS-DOC]#gv-6delivery-4delivProblems-problem-addr)), then confirm the correctness of their address and update their email address from the **Membership**'s **Member Listing** page.
+* If the member's email address is a "problem" address or has "bounced out" ([what this?](/6-delivery/4-delivProblems.md?[LINK-QARGS-DOC]#gv-6delivery-4delivProblems-problem-addr)), then confirm the correctness of their address and update their email address from the **Membership**'s **Member Listing** page.
 
 <span class="g4s">
  
-* If the recipient is opted-out, click their email address to jump
-to the member's settings and uncheck the `Opted out?` checkbox in
+* If the member is opted-out, click their email address to jump
+to their settings and uncheck the `Opted out?` checkbox in
 the **Membership status** section. 
 
 </span> <!-- g4s -->
 
 <span class="sub">
  
-* If the recipient is opted-out, have them re-submit their information on
+* If the member is opted-out, have them re-submit their information on
 your subscription page.  By confirming their interest in the confirmation
 email, they will be opted back in.  (Your subscription page's URL is on the **Membership**'s **Add New Member** page.) 
 
 <span class="highlight">
-Note, if **Admin approval required for new subscribers?** is set to
+Note, if **Admin approval required for new subscribers?** is 
 `Yes` on the <img src="/docimages/transparent-gear-icon.png" height="22"> **Account Settings** page, then an Administrator 
-will need to approve of the application before the recipient is opted-in.
+will need to approve the application before the member is opted-in.
 </span> <!-- highlight -->
 </span> <!-- sub -->
 
 <span class="free">
  
-* If the recipient is opted-out, have them re-submit their information
+* If the member is opted-out, have them re-submit their information
 on your subscription page.  By confirming their interest in the confirmation
 email, they will be opted back in.  (Your subscription page's URL is
 on the **Membership**'s **Add New Member** page.) 
@@ -49,7 +49,7 @@ on the **Membership**'s **Add New Member** page.)
 <span id="gv-6delivery-1delivmissing-other-based-on-deliv-data"></span>
 ## Other possibilities based on delivery data
 
-For other possible reasons, [download your email's detailed delivery data](/6-delivery/5-delivStats.md?[LINK-QARGS-DOC]#gv-6delivery-5delivstat-download-detailed)
+For other possible reasons, [download the email's detailed delivery data](/6-delivery/5-delivStats.md?[LINK-QARGS-DOC]#gv-6delivery-5delivstat-download-detailed)
 and see if one of these scenarios matches your situation.
 
 * If you see "bounced" or "delayed" in the list of delivery failures,
@@ -75,11 +75,11 @@ If there are questions, please contact us at support@groupvine.com.
 <span id="gv-6delivery-1delivmissing-tips-to"></span>
 ## Tips to help ensure recipients receive your email
 
-To ensure emails reach recipients and avoid emails from ending in their spam/junk folders, send your community an email with the following:
+To ensure emails reach recipients and avoid emails ending in spam/junk folders, send your community an email with the following:
 
-* Include a list of the email addresses that will be sending community emails and have members add these address to their email account's contact list.
+* Include a list of the email addresses that will be sending community emails and have members add these address to their personal email account's contact list.
 
-* Have them set up a "To" filter in their email account so all emails
+* Set up a "To" filter in their personal email account so all emails
   sent 'To' `@groupvine.com` will be saved to their
   inbox. Members should consult their email service's help
   pages for instructions.
