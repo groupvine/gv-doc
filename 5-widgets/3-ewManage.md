@@ -11,7 +11,8 @@
 </span> <!-- todo -->
 
 * [Download Email Widget Responses & Comments](/5-widgets/3-ewManage.md?[LINK-QARGS-DOC]#gv-5widgets-3ewmanage-download)
-* [Hide Inappropriate Responses](/5-widgets/3-ewManage.md?[LINK-QARGS-DOC]#gv-5widgets-3ewmanage-hide-unhide)
+* [Report Inappropriate Comments](#gv-5widgets-3ewmanage-report)
+* [Hide Inappropriate Responses or Comments](/5-widgets/3-ewManage.md?[LINK-QARGS-DOC]#gv-5widgets-3ewmanage-hide-unhide)
 * [Configure Settings for Email Widget Response Listing](/5-widgets/3-ewManage.md?[LINK-QARGS-DOC]#gv-5widgets-3ewmanage-config-ew)
 * [Change Email Widget Configuration After Email is Published](/5-widgets/3-ewManage.md?[LINK-QARGS-DOC]#gv-5widgets-3ewmanage-change-config-after-pub)
 * [Add Response as Recipient to Email Widget](/5-widgets/3-ewManage.md?[LINK-QARGS-DOC]#gv-5widgets-3ewmanage-add-as-recipient)
@@ -27,18 +28,33 @@ an email's widget data:
 
 This can also be done when viewing the online email and making the selection from the email's menu (<img src="/docimages/menu-icon.png" height="22">).
 
+<span id="gv-5widgets-3ewmanage-report"></span>
+### Report Inappropriate Comments
+
+Recipients can report on a comment they feel is inappropriate by clicking "Report" and submitting a brief explanation of the issue.  
+
+<img src="/docimages/ew-report-comment.png" height="180">
+
+Editors and Administrators in the group will receive an email notifying them of a possible inappropriate comment along with the time of the report, the explanation, and the comment that was reported on.  The email will also contain a link to the email to possibly hide the comment.
+
 <span id="gv-5widgets-3ewmanage-hide-unhide"></span>
-### Hide Inappropriate Responses
+### Hide Inappropriate Responses or Comments
 
-If a response is found to be inappropriate or out of place, Administrators and Editors can hide the response from the response listing.  The response is still in the listing, but only Admistrators and Editors are able to see the hidden greyed version.  
+If a response or comment is found to be inappropriate or out of place, Administrators and Editors can hide the response or comment from the response listing.  The response or comment is still in the listing, but only Admistrators and Editors are able to see the hidden greyed version.  
 
-This is how a recipient's response looks in the response listing.  Click "Hide" in the bottom left corner to hide the response from the response listing.
+This is how the recipient's response looks in the response listing.  Click "Hide" in the bottom left corner to hide the response from the response listing.
 
 <img src="/docimages/ew-response-hide.png" height="150">
 
-This is the greyed version after the response is hidden.  Click "Unhide" in the bottom left corner to show the response in the response listing.
+Below is the greyed version after the response is hidden.  Click "Unhide" in the bottom left corner to show the response in the response listing.
 
 <img src="/docimages/ew-response-unhide.png" height="150">
+
+Similarly, Administrators and Editors can click "Hide" to remove a comment from the listing, in this case to keep the phone number private, and click "Unhide" of the greyed hidden comment to return it to the response listing.
+
+<img src="/docimages/ew-hide-comment.png" height="180">
+
+<img src="/docimages/ew-unhide-comment.png" height="180">
 
 <span id="gv-5widgets-3ewmanage-config-ew"></span>
 ### Configure Settings for Email Widget Response Listing
