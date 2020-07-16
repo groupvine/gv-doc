@@ -3,13 +3,20 @@
 <span id="gv-3send-1sendOnline"></span>
 ## Send email from your online account
 
+* [Where to start](#gv-3send-1sendOnline-start)
+* [Unique features to customize your email](#gv-3send-1sendOnline-customize)
+* [Send!](#gv-3send-1sendOnline-send)
+
+<span id="gv-3send-1sendOnline-start"></span>
+### Where to start
+
 To compose and send an email from your online account, select **New
 Email** and then select **Prepare email online**.
 
 By default the **New** tab is selected to create a new email from
 scratch (Note, for your very first email, you'll start by entering the
 email's subject).  You may also have a **Drafts**, **Templates**,
-and **Published** tabs.  
+and **Published** tabs, where you can select an email from one of these tabs as a starting point.
 
 * A Draft email is "under construction" and may have already been emailed as a
 draft, but has yet to be sent/published to its intended recipients.  
@@ -17,10 +24,13 @@ draft, but has yet to be sent/published to its intended recipients.
 * A Template is set up as a starting point for new emails that are sent often, e.g. weekly newsletters.  The templates on this tab
 have been saved either in the current group or in a parent group.  
 
-* Published emails have been sent to its recipients and are published to the group's Email Feed.
+* Published emails have been sent to its recipients and are published to the group's Email Feed.  Click [here](/3-send/5-resend.md?[LINK-QARGS-DOC]#gv-2members-5resend) for details on resending a published email.
 
-Once you've selected your starting point, consider including these unique
-features to customize your email:
+<span id="gv-3send-1sendOnline-customize"></span>
+### Unique features to customize your email
+
+Consider including these unique
+features from the email editor to customize your email:
 
 * Personalize your email by selecting an attribute from the **Pers…** menu (short for
 Personalization) in the email editor.  Added to your email and representing the attribute, is a placeholder which will be translated to the recipient's value in their received email. 
@@ -45,6 +55,9 @@ click [here](/5-widgets/1-ewIntro.md?[LINK-QARGS-DOC]#gv-5widgets-1ewIntro).
 * Ask questions or gather information directly in your email by selecting one of the four preset types of Email Widgets (Text, Count, RSVP, Yes-No) from the **Widget** menu.  The Email Widget's question is just normal text in your email.  For more information about using Email Widgets, click [here](/5-widgets/1-ewIntro.md?[LINK-QARGS-DOC]#gv-5widgets-1ewIntro).
   
 </span> <!-- free -->
+
+<span id="gv-3send-1sendOnline-send"></span>
+### Send!
 
 When ready, click **Send** to select your recipients and send/publish your email.  By default, your email will be sent to the entire group as non-urgent, otherwise:
 
