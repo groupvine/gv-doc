@@ -11,8 +11,8 @@
 </span> <!-- todo -->
 
 * [Download Email Widget Responses & Comments](/5-widgets/3-ewManage.md?[LINK-QARGS-DOC]#gv-5widgets-3ewmanage-download)
-* [Report Inappropriate Comments](#gv-5widgets-3ewmanage-report)
-* [Hide Inappropriate Responses or Comments](/5-widgets/3-ewManage.md?[LINK-QARGS-DOC]#gv-5widgets-3ewmanage-hide-unhide)
+* [Report Inappropriate Comment](#gv-5widgets-3ewmanage-report)
+* [Hide Inappropriate Response or Comment](/5-widgets/3-ewManage.md?[LINK-QARGS-DOC]#gv-5widgets-3ewmanage-hide-unhide)
 * [Configure Settings for Email Widget Response Listing](/5-widgets/3-ewManage.md?[LINK-QARGS-DOC]#gv-5widgets-3ewmanage-config-ew)
 * [Change Email Widget Configuration After Email is Published](/5-widgets/3-ewManage.md?[LINK-QARGS-DOC]#gv-5widgets-3ewmanage-change-config-after-pub)
 * [Add Response as Recipient to Email Widget](/5-widgets/3-ewManage.md?[LINK-QARGS-DOC]#gv-5widgets-3ewmanage-add-as-recipient)
@@ -29,7 +29,7 @@ an email's widget data:
 This can also be done when viewing the online email and making the selection from the email's menu (<img src="/docimages/menu-icon.png" height="22">).
 
 <span id="gv-5widgets-3ewmanage-report"></span>
-### Report Inappropriate Comments
+### Report Inappropriate Comment
 
 Recipients can report on a comment they feel is inappropriate by clicking "Report" and submitting a brief explanation of the issue.  
 
@@ -38,7 +38,7 @@ Recipients can report on a comment they feel is inappropriate by clicking "Repor
 Editors and Administrators in the group will receive an email notifying them of a possible inappropriate comment along with the time of the report, the explanation, and the comment that was reported on.  The email will also contain a link to the email to possibly hide the comment.
 
 <span id="gv-5widgets-3ewmanage-hide-unhide"></span>
-### Hide Inappropriate Responses or Comments
+### Hide Inappropriate Response or Comment
 
 If a response or comment is found to be inappropriate or out of place, Administrators and Editors can hide the response or comment from the response listing.  The response or comment is still in the listing, but only Admistrators and Editors are able to see the hidden greyed version.  
 
