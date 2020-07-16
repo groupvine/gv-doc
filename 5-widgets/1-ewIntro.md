@@ -47,7 +47,7 @@ Here are some key Email Widget features:
 
 </span> <!-- free -->
 
-* From the email Administrators and Editors can download up-to-date Email Widget detailed data to a spreadsheet.  Click [here](/5-widgets/3-ewManage.md?[LINK-QARGS-DOC]#gv-5widgets-3ewmanage-download) for details.
+* All collected data is kept with the email in your feed, so at anytime, Administrators and Editors can download up-to-date Email Widget detailed data to a spreadsheet.  Click [here](/5-widgets/3-ewManage.md?[LINK-QARGS-DOC]#gv-5widgets-3ewmanage-download) for details.
 
 * Recipients can respond and comment from their email without signing-in or clicking-through to a survey, online document, or “invitation site.” 
 
@@ -55,7 +55,7 @@ Here are some key Email Widget features:
 
 * Responses and comments can be hidden from recipients in case a response is determined to be inappropriate.  Click [here](/5-widgets/3-ewManage.md?[LINK-QARGS-DOC]#gv-5widgets-3ewmanage-hide-unhide) for details.
 
-* Email notifications are sent to all response participants when a new comment is added to that thread.
+* Email notifications are sent to all response participants when a new comment is added to the thread.
 
 * To keep all response information in one email, future recipients will be able to respond to a published email's Email Widgets when they’re added to the email's recipient list.  For example, newly added account members can respond to an email previously published to the entire community.
 
