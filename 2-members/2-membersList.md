@@ -1,7 +1,7 @@
 # Managing your Membership
 
 <span id="gv-2members-2memberslist"></span>
-## Member Lists
+## Use lists to target an interest group
 
 Lists give you the flexibility to target an email to a subset of your
 membership that you often email.  Key list features include:
