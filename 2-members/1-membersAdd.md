@@ -12,7 +12,7 @@ New members can be added to your account in the following ways:
 * [Have subscribers sign up](/2-members/1_4-membersAdd.md?[LINK-QARGS-DOC]#gv-2members-14membersAdd)
 
 
-<div class="support">
+<span class="support">
 
 See the following diagrams which gives the flow for the two main cases:
 
@@ -23,4 +23,5 @@ See the following diagrams which gives the flow for the two main cases:
 
 <img src="/docimages/subscribe-flow-2.png" width="95%">
 
-</div>
+</span>
+
