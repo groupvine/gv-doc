@@ -19,9 +19,9 @@ See the following diagrams which gives the flow for the two main cases:
 1. new member signs up throught the /subscribe page and,
 2. new member is invited to join.
 
-<img src="/docimages/subscribe-flow-1.png" width="95%">
+<img src="/docimages/subscribe-flow-1.png" width="100%">
 
-<img src="/docimages/subscribe-flow-2.png" width="95%">
+<img src="/docimages/subscribe-flow-2.png" width="100%">
 
 </span>
 
