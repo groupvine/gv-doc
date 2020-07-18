@@ -11,3 +11,16 @@ New members can be added to your account in the following ways:
 * [Add a new member from the Membership page](/2-members/1_3-membersAdd.md?[LINK-QARGS-DOC]#gv-2members-13membersAdd)
 * [Have subscribers sign up](/2-members/1_4-membersAdd.md?[LINK-QARGS-DOC]#gv-2members-14membersAdd)
 
+
+<div class="support">
+
+See the following diagrams which gives the flow for the two main cases:
+
+1. new member signs up throught the /subscribe page and,
+2. new member is invited to join.
+
+<img src="/docimages/subscribe-flow-1.png" width="95%">
+
+<img src="/docimages/subscribe-flow-2.png" width="95%">
+
+</div>
