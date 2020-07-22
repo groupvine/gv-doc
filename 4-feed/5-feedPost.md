@@ -31,4 +31,6 @@ Note
 email-message file (a file with a `.eml` suffix), e.g. in Gmail, select *Download message* from the menu of the email you'd like to post, 
 and then attach the `.eml` files to your email.  
 
+* In Listing view (<img src="/docimages/listing-view-icon.png" height="22">) posted emails are identified with <img src="/docimages/feed-post-icon.png" height="22"> in your feed.
+
 
