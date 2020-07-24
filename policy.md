@@ -8,7 +8,7 @@
   GroupVine<sup>TM</sup>, GroupVine20<sup>TM</sup>, and
   Trivy<sup>TM</sup>.  This Terms of Use Policy applies to all
   GroupVine Inc.  service brands, and will be referred to here as the
-  "GroupVine<sup>TM</sup> Service" or simply "GroupVine."
+  "GroupVine Service" or simply "GroupVine."
   
   The GroupVine<sup>TM</sup> Service is ready made for for-profit and
   not-for-profit community and information sharing organizations and
