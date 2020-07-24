@@ -85,9 +85,11 @@ such as:
 Hello {{ City }} resident,
 
 We see you're a "{{ Fav Color }}" person, so look for your
-{{ Fav Color }} BingoTech bingo board coming to your mail box soon!
+{{ Fav Color }} Lighthouse Labs t-shirt coming to your mail box soon!
 
-Bingo!
+Cheers,
+
+Lighthouse Tower
 ```
 
 Custom member attributes may only consist of alphanumeric and the

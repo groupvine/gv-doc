@@ -12,13 +12,13 @@ sub-set of your membership.  Lists:
 
 ## Example
 
-For example, for an account named "bingotech", you might wish to
-classify your BingoTech community members using Lists to identify some of
+For example, for an account named "lighthouselabs", you might wish to
+classify your Lighthouse Labs community members using Lists to identify some of
 their interests, such as "golfers" and "musicians".  You could then
 send an email to all the musicians using the address:
 
 ```
-musiclovers~~bingotech@groupvine.com
+musiclovers~~lighthouselabs@groupvine.com
 ```
 
 <span class="adv">

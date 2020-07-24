@@ -9,7 +9,7 @@ To send an email to your account from your own inbox, simply send it to
 your account's Abbreviation '@' groupvine.com, for example:
 
 ```
-bingotech@groupvine.com
+lighthouselabs@groupvine.com
 ```
 
 Note, Abbreviation can be found by going to Settings->Account Info.
@@ -19,13 +19,13 @@ Note, Abbreviation can be found by going to Settings->Account Info.
 To send to a specific sub-group, use the sub-group's Abbreviation with the account's Abbreviation, for example:
 
 ```
-team.bingotech@groupvine.com
+team.lighthouselabs@groupvine.com
 ```
 
 Or, to send to a list, use an email address like:
 
 ```
-~list=musiclovers~~bingotech@groupvine.com
+~list=musiclovers~~lighthouselabs@groupvine.com
 ```
 
 </span>
@@ -47,7 +47,7 @@ Then send the email to an address in the following format:
 For example:
 
 ```
-~sendto='myhelpers.csv'~~bingotech@groupvine.com
+~sendto='myhelpers.csv'~~lighthouselabs@groupvine.com
 ```
 
 </span>
@@ -58,10 +58,10 @@ If some addresses have failed in a previous send attempt due to a
 temporary problem, you can resend the same email to those addresses
 that have failed thus far simply by sending an email to your group and
 use the "~retry=[message id]" qualifier, like the following (for
-BingoTech's message ID number 100123):
+Lighthouselabs's message ID number 100123):
 
 ```
-~retry=100123~~bingotech@groupvine.com
+~retry=100123~~lighthouselabs@groupvine.com
 ```
 
 </span>
@@ -72,7 +72,7 @@ An email can be scheduled for sending later by adding a "senddate" to
 the email address, for example like the following:
 
 ```
-~senddate='2019-04-10T13_30-08'~~bingotech@trivy.email
+~senddate='2019-04-10T13_30-08'~~lighthouselabs@trivy.email
 ```
 
 </span>

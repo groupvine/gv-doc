@@ -19,10 +19,10 @@ email sent with the `~post` instruction from your personal inbox to your account
 
 </span> <!-- free -->
 
-For example, for bingotech account, send the email to:
+For example, for the Lighthouse Labs account, send the email to:
 
 ```
-~post~~bingotech@trivy.email
+~post~~lighthouselabs@trivy.email
 ```
 
 Note

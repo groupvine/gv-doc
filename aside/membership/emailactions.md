@@ -7,7 +7,7 @@ confirmation email is first emailed back to you to confirm your
 authorization for the action (to avoid the risk of imposters) before
 the action is processed, and the results emailed to you.
 
-For the examples below, we're using the fictitious "bingotech"
+For the examples below, we're using the fictitious "lighthouselabs"
 account, which you should replace with your account name.
 
 ## Exporting your membership
@@ -23,7 +23,7 @@ to:
 For example:
 
 ```
-~export~~bingotech@groupvine.com
+~export~~lighthouselabs@groupvine.com
 ```
 
 ## Exporting your pending membership applications
@@ -38,7 +38,7 @@ send an email to:
 For example:
 
 ```
-~exportapps~~bingotech@groupvine.com
+~exportapps~~lighthouselabs@groupvine.com
 ```
 
 This export file will be in a form ready to be imported into the
@@ -57,10 +57,10 @@ imported using the following address:
 ~import='[membership file]'~~[account]@groupvine.com
 ```
 
-For example, for bingotech with a membership file named "bt_members.csv", use:
+For example, for lighthouselabs with a membership file named "bt_members.csv", use:
 
 ```
-~import='bt_members.csv'~~bingotech@groupvine.com
+~import='bt_members.csv'~~lighthouselabs@groupvine.com
 ```
 
 <span class="adv">
@@ -69,7 +69,7 @@ If you'd like to ensure that no modifications are done to settings of existing m
 "~import" with "~importadd", like the following:
 
 ```
-~importadd='bt_members.csv'~~bingotech@groupvine.com
+~importadd='bt_members.csv'~~lighthouselabs@groupvine.com
 ```
 </span>
 
@@ -164,11 +164,11 @@ account's server using the address:
 ~groups='[instructions file]'~~[account]@groupvine.com
 ```
 
-For example, for the bingotech account and a file named
+For example, for the lighthouselabs account and a file named
 "groupinstrs.csv", it would be:
 
 ```
-~groups='groupinstrs.csv'~~bingotech@groupvine.com
+~groups='groupinstrs.csv'~~lighthouselabs@groupvine.com
 ```
 
 <span class="support">
@@ -183,7 +183,7 @@ Account information can be configured by email using an account-instructions
 CSV file using an address like:
 
 ```
-~account='accountinstrs.csv'~~bingotech@groupvine.com
+~account='accountinstrs.csv'~~lighthouselabs@groupvine.com
 ```
 
 and some or all of the following columns in the account instructions file:

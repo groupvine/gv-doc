@@ -13,7 +13,7 @@ To avoid the risk of spammers sending emails to a group from a possibly compromi
 To send an email to your account from your inbox, use your account's **Address** found on the <img src="/docimages/transparent-gear-icon.png" height="22"> **Account Settings** page, for example:
 
 ```
-bingotech@groupvine.com
+lighthouselabs@groupvine.com
 ```
 
 <span class="g4s sub"> 
@@ -22,7 +22,7 @@ Similarly, to send to a sub-group from your inbox, use the sub-group's **Address
 <img src="/docimages/transparent-gear-icon.png" height="22"> **Sub-group Settings** page, for example:
 
 ```
-team.bingotech@groupvine.com
+team.lighthouselabs@groupvine.com
 ```
 
 </span> <!-- g4s sub -->

@@ -108,10 +108,11 @@ Now when sending emails, the recipient’s attribute value can be included in em
 
     Hello {{ sport }},
     We see you're a "{{ favcolor }}" person,
-    so look for your {{ favcolor }} BingoTech
-    bingo board coming to your mailbox soon!
+    so look for your {{ favcolor }} Lighthouse Labs
+    T-shirt coming to your mailbox soon!
 
-    Bingo!
+    Cheers, 
+    From the Lighthouse
 
 For more information on Member Attributes, click [here](/2-members/4-membersAttributes.md?[LINK-QARGS-DOC]#gv-2members-4membersattributes).
 
