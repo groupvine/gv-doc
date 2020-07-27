@@ -27,11 +27,37 @@ team.lighthouselabs@groupvine.com
 
 </span> <!-- g4s sub -->
 
-If you need a more targeted email address or want to include customizations, simply select **New Email** and then select **Send email from 
-your own inbox**.
+Once your email is sent, it will appear in your Email Feed with <img src="/docimages/sent-from-inbox-icon.png" height="22"> to 
+identify that the email was sent from a personal email account.  If your email isn't listed at the top, wait a minute and click <img src="/docimages/refresh-feed-icon.png" width="22"> in the Email Feed header to 
+refresh the feed.
 
-* On the **Addressing** tab you can select to send a draft or urgent email, or send to a list or to recipients with specific attribute values set.  Make your selections and copy the updated email address to the "To" field of your new email in 
-your personal email account.  
+In general, emails will be "From" the sender's display name, which is the
+First Name and Last Name attributes in their Profile, but the sender's email handler may preset the "From" to 
+the name normally used to send email.
+
+* [Find the email address to send to lists or recipients with specific attribute values](#gv-3send-2sendInbox-listattraddr)
+* [Find the email address to send a draft or "urgent" email](#gv-3send-2sendInbox-drafturgentaddr)
+* [Include attributes and Email Widgets from your inbox!](#gv-3send-2sendInbox-inclattrew)
+
+<span id="gv-3send-2sendInbox-listattraddr"></span>
+## Find the email address to send to lists or recipients with specific attribute values
+
+To find the email address to target lists or recipients with specific attribute values, select **New Email** and then select **Send email from 
+your own inbox**.  On the **Addressing** tab select the lists and attributes you want your email to target and copy the updated email 
+address to the "To" field of your email in your personal inbox.  If you use this email address often, you might want to add it to your contacts so the address is readily available to your when sending.
+
+<span id="gv-3send-2sendInbox-drafturgentaddr"></span>
+## Find the email address to send a draft or "urgent" email
+
+To send a draft or ["urgent"](/3-send/3-sendTexts.md?[LINK-QARGS-DOC]#gv-2members-3sendTexts) email, 
+select **New Email** and then select **Send email from your own inbox**.  On the **Addressing** tab select *Send as a draft email* 
+or *Mark email as urgent* and copy the updated email address to the "To" field of your new email in your personal email account.  
+
+<span id="gv-3send-2sendInbox-inclattrew"></span>
+## Include attributes and Email Widgets from your inbox!
+
+To include customizations, simply select **New Email** and then select **Send email from 
+your own inbox**.
 
 * Include pre-defined or custom attribute values by following the
 instructions on the **Personalize** tab.  For more information about Member Attributes,
@@ -42,10 +68,6 @@ the instructions on the **Widgets** tab to add any of the four types of Widgets
 (Text, Count, RSVP, and Yes-No).  The Email Widget's question is just normal text in your email.  For more information about Email Widgets,
 click [here](/5-widgets/1-ewIntro.md?[LINK-QARGS-DOC]).
 
-Once your email is sent, it will appear in your Email Feed with <img src="/docimages/sent-from-inbox-icon.png" height="22"> to 
-identify that the email was sent from a personal email account.  If your email isn't listed at the top, wait a minute and click <img src="/docimages/refresh-feed-icon.png" width="22"> in the Email Feed header to 
-refresh the feed.
-
 Note
 
 * The ability to drag-and-drop a member attribute images 
@@ -54,7 +76,3 @@ and/or email app you use.  Please create a test email to try out the drag-and-dr
 method with your system before sending an email. For example, dragging-and-dropping should 
 work for gmail users composing emails online using the 
 Google Chrome browser.
-
-* In general, emails will be "From" the sender's display name, which is the
-First Name and Last Name attributes as they are set in their Profile, but the sender's email handler may preset the "From" to 
-the name normally used to send email.
