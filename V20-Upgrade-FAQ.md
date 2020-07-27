@@ -4,6 +4,10 @@
 ### Documentation 
 https://www.trivy.email/topics select service type
 
+### Account web address got an upgrade
+to http://myacount.groupvine.com. To sign in, add "/signin" to the address or click the user menu in the top right corner of your home page.  
+Update your bookmarks!
+
 ### Shared email addresses
 Email addresses can no longer be shared between users
 
