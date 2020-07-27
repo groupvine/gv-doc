@@ -1,6 +1,9 @@
 <span id="v20-upgrade-FAQ"> </span>
 # V20 Upgrade FAQ
 
+### Documentation 
+https://www.trivy.email/topics select service type
+
 ### Shared email addresses
 Email addresses can no longer be shared between users
 
@@ -18,10 +21,14 @@ After sending your email, you will receive a "Confirmation needed to send Accoun
 name email" email with a confirmation button that needs to be clicked on in order for 
 the email to be sent.  This is to ....  Also, all bounce messages are sent to the sender.
 
-### List email address have changed and attention needed if you use the address to send from your personal inbox
-list email address will not be the same, will be 
-sgemailsent~~summergarden.waespta@trivy.email instead of 
-list=SGEmailNeeded++summergarden.waespta@groupvine.com - simpler
+### List email address have changed.  Attention only needed if you send from your personal inbox
+list email address will not be the same and simpler.  For example, the new list address will be 
+'ListAddress~~AccountName@groupvine.com'
+
+Instead of
+
+'list=ListAddress~~AccountName@groupvine.com'
+
 
 ### List names
 list names require at least one letter, updated with "_list" appened to original list name - 
