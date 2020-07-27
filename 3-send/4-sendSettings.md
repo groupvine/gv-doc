@@ -71,7 +71,7 @@ Better quality images available??
 
 <span class="sub">
      
-<img src="/docimages/TEMP-Sub-layout-options.png" height="250">     
+<img src="/docimages/layout-options-subscriptions.png" height="250">     
      
 </span> <!-- sub -->
 
