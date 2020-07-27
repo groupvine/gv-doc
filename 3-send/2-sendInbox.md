@@ -44,7 +44,7 @@ the name normally used to send email.
 
 To find the email address to target lists or recipients with specific attribute values, select **New Email** and then select **Send email from 
 your own inbox**.  On the **Addressing** tab select the lists and attributes you want your email to target and copy the updated email 
-address to the "To" field of your email in your personal inbox.  If you use this email address often, you might want to add it to your contacts so the address is readily available to your when sending.
+address to the "To" field of your email in your personal inbox.  If you use this email address often, you might want to add it to your contacts so the address is readily available when sending.
 
 <span id="gv-3send-2sendInbox-drafturgentaddr"></span>
 ## Find the email address to send a draft or "urgent" email
