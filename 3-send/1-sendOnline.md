@@ -43,7 +43,7 @@ For more information about Member Attributes, click
 [here](/2-members/4-membersAttributes.md?[LINK-QARGS-DOC]#gv-2members-4membersattributes).
 
 Also available from the **Pers...** menu are *Link to Profile* and *Link to Email Feed*, which can be included
-in your emails to give members a direct link access to their Profile and account Email Feed.
+in your emails to give members a direct link access to their Profile and your account Email Feed.
 
 <span id="gv-3send-1sendOnline-useews"></span>
 ### Use Email Widgets to collect information and ask questions right in your email
