@@ -4,7 +4,8 @@
 ## Send email from your online account
 
 * [Where to start](#gv-3send-1sendOnline-start)
-* [Unique features to customize your email](#gv-3send-1sendOnline-customize)
+* [Add predefined and custom attributes to customize your email](#gv-3send-1sendOnline-useattrs)
+* [Add Email Widgets to collect information and ask questions right in your email](#gv-3send-1sendOnline-useews)
 * [Publish!](#gv-3send-1sendOnline-send)
 
 <span id="gv-3send-1sendOnline-start"></span>
@@ -28,33 +29,39 @@ have been saved either in the current group or in a parent group.
 
 * Published emails have been sent to its recipients and are published to the group's Email Feed.  Click [here](/3-send/5-resend.md?[LINK-QARGS-DOC]#gv-2members-5resend) for details on resending a published email.
 
-<span id="gv-3send-1sendOnline-customize"></span>
-### Unique features to customize your email
+<span id="gv-3send-1sendOnline-useattrs"></span>
+### Add predefined and custom attributes to customize your email
 
-Consider including these unique
-features from the email editor to customize your email:
+Personalize your email by selecting an attribute from the **Pers…** menu (short for
+Personalization) in the email editor.  
 
-* Personalize your email by selecting an attribute from the **Pers…** menu (short for
-Personalization) in the email editor.  Added to your email and representing the attribute, is a placeholder which will be translated to the recipient's value in their received email. 
+Added to your email and representing the attribute, is a placeholder which will be translated to the recipient's value in their received email. 
 For example, if you select “First Name” from the Personalization menu, the placeholder <img src="/docimages/FirstName_attribute.png" height="22">
 is added to your email.  When previewing your email, the placeholder 
 is replaced with your First Name as set in your Profile.
 For more information about Member Attributes, click 
 [here](/2-members/4-membersAttributes.md?[LINK-QARGS-DOC]#gv-2members-4membersattributes).
 
+Also available from the **Pers...** menu are *Link to Profile* and *Link to Email Feed*, which can be included
+in your emails to give members a direct link access to their Profile and your account Email Feed.
+
+<span id="gv-3send-1sendOnline-useews"></span>
+### Add Email Widgets to collect information and ask questions right in your email
+
 <span class="sub g4s">
 
-* Ask questions or gather information directly in your email by selecting one of the 
+Ask questions or gather information directly in your email by selecting one of the 
 five types of Email Widgets (Text, Count, RSVP, Yes-No,
-Single/Multi-Choice) from the **Widget** menu.  The Email Widget's question is just 
-normal text in your email.  For more information about using Email Widgets,
+Single/Multi-Choice) from the **Widget** menu.  Use normal text in your email to ask the question related to an Email Widget.
+For more information about using Email Widgets,
 click [here](/5-widgets/1-ewIntro.md?[LINK-QARGS-DOC]#gv-5widgets-1ewIntro).
 
 </span> <!-- sub g4s -->
 
 <span class="free">
   
-* Ask questions or gather information directly in your email by selecting one of the four preset types of Email Widgets (Text, Count, RSVP, Yes-No) from the **Widget** menu.  The Email Widget's question is just normal text in your email.  For more information about using Email Widgets, click [here](/5-widgets/1-ewIntro.md?[LINK-QARGS-DOC]#gv-5widgets-1ewIntro).
+Ask questions or gather information directly in your email by selecting one of the four preset types of Email Widgets (Text, Count, RSVP, Yes-No) from the **Widget** menu.  Use normal text in your email to ask the question related to an Email Widget.  
+For more information about using Email Widgets, click [here](/5-widgets/1-ewIntro.md?[LINK-QARGS-DOC]#gv-5widgets-1ewIntro).
   
 </span> <!-- free -->
 

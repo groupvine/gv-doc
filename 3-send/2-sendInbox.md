@@ -37,7 +37,9 @@ the name normally used to send email.
 
 * [Find the email address to send to lists or recipients with specific attribute values](#gv-3send-2sendInbox-listattraddr)
 * [Find the email address to send a draft or "urgent" email](#gv-3send-2sendInbox-drafturgentaddr)
-* [Include attributes and Email Widgets from your inbox!](#gv-3send-2sendInbox-inclattrew)
+* [Add predefined and custom attributes to customize your email](#gv-3send-2sendInbox-useattrs)
+* [Add Email Widgets to collect information and ask questions right in your email](#gv-3send-2sendInbox-useews)
+
 
 <span id="gv-3send-2sendInbox-listattraddr"></span>
 ## Find the email address to send to lists or recipients with specific attribute values
@@ -53,25 +55,47 @@ To send a draft or ["urgent"](/3-send/3-sendTexts.md?[LINK-QARGS-DOC]#gv-2member
 select **New Email** and then select **Send email from your own inbox**.  On the **Addressing** tab select *Send as a draft email* 
 or *Mark email as urgent* and copy the updated email address to the "To" field of your new email in your personal email account.  
 
-<span id="gv-3send-2sendInbox-inclattrew"></span>
-## Include attributes and Email Widgets from your inbox!
+<span id="gv-3send-2sendInbox-useattrs"></span>
+## Add predefined and custom attributes to customize your email
 
-To include customizations, simply select **New Email** and then select **Send email from 
-your own inbox**.
+Personalize your emails by including pre-defined or custom attribute values from the **Personalize** tab.  For more information about Member Attributes,
+click [here](/2-members/4-membersattributes.md?[LINK-QARGS-DOC]#gv-2members-4membersattributes).  
 
-* Include pre-defined or custom attribute values by following the
-instructions on the **Personalize** tab.  For more information about Member Attributes,
-click [here](/2-members/4-membersattributes.md?[LINK-QARGS-DOC]#gv-2members-4membersattributes).
+Also available are *Link to Profile* and *Link to Email Feed*, which can be included in your emails to give members a direct link access to their Profile and your account Email Feed.
 
-* Ask questions or gather information directly in your email by adding Email Widgets.  Follow 
+<span class=highlight>
+  
+To add an attribute, *Link to Profile* or *Link to Email Feed* value to your email, click its clipboard (<img src="/docimages/clipboard-icon.png" width="22">) to copy its representation and then paste it into your email.  **The clipboard must be used if you're copying and pasting.**
+
+</span> <!-- highlight -->
+
+Note
+
+* The ability to drag-and-drop a member attribute image 
+from the **Personalize** depends on the email service 
+and/or email app you use.  Please create a test email to try out the drag-and-drop 
+method with your system before sending an email. For example, dragging-and-dropping should 
+work for gmail users composing emails online using the 
+Google Chrome browser.
+
+<span id="gv-3send-2sendInbox-useews"></span>
+## Add Email Widgets to collect information and ask questions right in your email
+
+Ask questions or gather information directly in your email by adding Email Widgets.  Follow 
 the instructions on the **Widgets** tab to add any of the four types of Widgets
 (Text, Count, RSVP, and Yes-No).  The Email Widget's question is just normal text in your email.  For more information about Email Widgets,
 click [here](/5-widgets/1-ewIntro.md?[LINK-QARGS-DOC]).
 
+<span class=highlight>
+  
+To add an Email Widget to your email, click its clipboard (<img src="/docimages/clipboard-icon.png" width="22">) to copy its representation and then paste it into your email.  **The clipboard must be used if you're copying and pasting.**
+
+</span> <!-- highlight -->
+
 Note
 
-* The ability to drag-and-drop a member attribute images 
-from the **Personalize** or **Widgets** tabs depend on the email service 
+* The ability to drag-and-drop an Email Widget image 
+from the **Widgets** tabs depends on the email service 
 and/or email app you use.  Please create a test email to try out the drag-and-drop 
 method with your system before sending an email. For example, dragging-and-dropping should 
 work for gmail users composing emails online using the 
