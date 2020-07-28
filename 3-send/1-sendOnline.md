@@ -4,8 +4,8 @@
 ## Send email from your online account
 
 * [Where to start](#gv-3send-1sendOnline-start)
-* [Use predefined and custom attributes to customize your email](#gv-3send-1sendOnline-useattrs)
-* [Use Email Widgets to collect information and ask questions right in your email](#gv-3send-1sendOnline-useews)
+* [Add predefined and custom attributes to customize your email](#gv-3send-1sendOnline-useattrs)
+* [Add Email Widgets to collect information and ask questions right in your email](#gv-3send-1sendOnline-useews)
 * [Publish!](#gv-3send-1sendOnline-send)
 
 <span id="gv-3send-1sendOnline-start"></span>
@@ -30,7 +30,7 @@ have been saved either in the current group or in a parent group.
 * Published emails have been sent to its recipients and are published to the group's Email Feed.  Click [here](/3-send/5-resend.md?[LINK-QARGS-DOC]#gv-2members-5resend) for details on resending a published email.
 
 <span id="gv-3send-1sendOnline-useattrs"></span>
-### Use predefined and custom attributes to customize your email
+### Add predefined and custom attributes to customize your email
 
 Personalize your email by selecting an attribute from the **Pers…** menu (short for
 Personalization) in the email editor.  
@@ -46,7 +46,7 @@ Also available from the **Pers...** menu are *Link to Profile* and *Link to Emai
 in your emails to give members a direct link access to their Profile and your account Email Feed.
 
 <span id="gv-3send-1sendOnline-useews"></span>
-### Use Email Widgets to collect information and ask questions right in your email
+### Add Email Widgets to collect information and ask questions right in your email
 
 <span class="sub g4s">
 
