@@ -37,8 +37,8 @@ the name normally used to send email.
 
 * [Find the email address to send to lists or recipients with specific attribute values](#gv-3send-2sendInbox-listattraddr)
 * [Find the email address to send a draft or "urgent" email](#gv-3send-2sendInbox-drafturgentaddr)
-* [Use predefined and custom attributes to customize your email](#gv-3send-2sendInbox-useattrs)
-* [Use Email Widgets to collect information and ask questions right in your email](#gv-3send-2sendInbox-useews)
+* [Add predefined and custom attributes to customize your email](#gv-3send-2sendInbox-useattrs)
+* [Add Email Widgets to collect information and ask questions right in your email](#gv-3send-2sendInbox-useews)
 
 
 <span id="gv-3send-2sendInbox-listattraddr"></span>
@@ -56,7 +56,7 @@ select **New Email** and then select **Send email from your own inbox**.  On the
 or *Mark email as urgent* and copy the updated email address to the "To" field of your new email in your personal email account.  
 
 <span id="gv-3send-2sendInbox-useattrs"></span>
-## Use predefined and custom attributes to customize your email
+## Add predefined and custom attributes to customize your email
 
 Personalize your emails by including pre-defined or custom attribute values from the **Personalize** tab.  For more information about Member Attributes,
 click [here](/2-members/4-membersattributes.md?[LINK-QARGS-DOC]#gv-2members-4membersattributes).  
@@ -79,7 +79,7 @@ work for gmail users composing emails online using the
 Google Chrome browser.
 
 <span id="gv-3send-2sendInbox-useews"></span>
-## Use Email Widgets to collect information and ask questions right in your email
+## Add Email Widgets to collect information and ask questions right in your email
 
 Ask questions or gather information directly in your email by adding Email Widgets.  Follow 
 the instructions on the **Widgets** tab to add any of the four types of Widgets
