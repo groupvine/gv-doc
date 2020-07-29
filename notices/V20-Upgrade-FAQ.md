@@ -150,13 +150,13 @@ list's email address in your contacts is all that's needed to continue to easily
 The change to the email address was done to make the list address simpler, for example, the new list address will be
 
 ```
-ListAddress++AccountName@groupvine.com
+ListAddress~~AccountName@groupvine.com
 ```
 
 Instead of
 
 ```
-list=ListAddress~~AccountName@groupvine.com
+list=ListAddress++AccountName@groupvine.com
 ```
 
 <span id="v20-upgrade-FAQ-basics-mem-unusedalts"></span>
