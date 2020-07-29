@@ -22,7 +22,7 @@ GroupVine20.
 * [Email address to send to a list has changed](#v20-upgrade-FAQ-basics-sendemail-listaddr)
 
 ## [Subscription Accounts](#v20-upgrade-FAQ-basics-subs)
-* [---> How to sign up](#v20-upgrade-FAQ-basics-subs-listaddr)
+* [How to sign up](#v20-upgrade-FAQ-basics-subs-listaddr)
 * [---> Subscription account migration](#v20-upgrade-FAQ-basics-subs-migration)
 
 <span id="v20-upgrade-FAQ-basics"></span>
@@ -79,7 +79,7 @@ For users who had "Do not send to my alternate email address" set to
 system, which does not have this setting.  
 
 If you would like to save these email addresses in your GroupVine20 account, one option
-would be to create a Custom Attribute on the <img src="/docimages/transparent-gear-icon.png" height="22"> **Member Attributes** page named, for example, "Unused Alt Email" and store the address there.   
+would be to create a Custom Attribute on the <img src="/docimages/transparent-gear-icon.png" height="22">**Member Attributes** page named, for example, "Unused Alt Email" and store the address there.   
 
 Contact us if you have any questions or would like help setting this up.
 
@@ -120,23 +120,27 @@ bounce message reports are sent to the sender.
 <span id="v20-upgrade-FAQ-basics-sendemail-listaddr"></span>
 ### Email address to send to a list has changed
 
-Attention only needed if you send to specific lists from your personal inbox
+This only needs your attention if you email to a list where its email address is saved in your personal email account's contacts.  Updating the
+list's email address in your contacts is all that's needed to continue to easily use a saved address in your contacts.
 
-list email address have become simpler.  For example, the new list
-address will be
+The change to the email address was done to make the list address simpler, for example, the new list address will be
 
-'ListAddress++AccountName@groupvine.com'
+```
+ListAddress++AccountName@groupvine.com
+```
 
 Instead of
 
-'list=ListAddress~~AccountName@groupvine.com'
+```
+list=ListAddress~~AccountName@groupvine.com
+```
 
 <span id="v20-upgrade-FAQ-basics-subs"></span>
 ## Subscription Accounts
 
 <span id="v20-upgrade-FAQ-basics-subs-listaddr"></span>
 ### How to sign up
-To sign up, go to the <GEAR> Subscription Status page and click the link to review features and sign up.
+To sign up, go to your <img src="/docimages/transparent-gear-icon.png" height="22">**Subscription Status** page and click the link to review features and sign up!
 
 <span id="v20-upgrade-FAQ-basics-subs-migration"></span>
 ### Subscription account migration
