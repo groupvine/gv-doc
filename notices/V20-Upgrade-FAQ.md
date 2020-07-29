@@ -19,7 +19,7 @@ GroupVine20.
 
 ## [Sending Email](#v20-upgrade-FAQ-sendemail)
 * [Confirmation Required for Emails from Personal Inbox to Unmoderated Groups](#v20-upgrade-FAQ-sendemail-confemail)
-* [Email address to send to a list has changed](#v20-upgrade-FAQ-basics-mem-listaddr)
+* [Email address to send to a list has changed](#v20-upgrade-FAQ-basics-sendemail-listaddr)
 
 ## [Subscription Accounts](#v20-upgrade-FAQ-basics-subs)
 * [---> How to sign up](#v20-upgrade-FAQ-basics-subs-listaddr)
