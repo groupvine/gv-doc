@@ -4,10 +4,15 @@
 Here are some changes to be aware of with the July 2020 upgrade to
 GroupVine20.
 
-### Documentation 
+* [How to get to the GroupVine20 documentation](#v20-upgrade-FAQ-docurl)
+* [Confirmation Required for Emails from Personal Inbox to Unmoderated Groups]
 
-https://www.trivy.email/topics select service type
+<span id="v20-upgrade-FAQ-docurl"></span>
+### How to get to the GroupVine20 documentation 
 
+Go to https://www.trivy.email/topics and make sure to select your service to access the correct documentation.
+
+<span id="v20-upgrade-FAQ-docurl"></span>
 ### Confirmation Required for Emails from Personal Inbox to Unmoderated Groups 
 
 Confirm emails sent from your personal inbox to unmoderated groups
@@ -22,17 +27,26 @@ bounce message reports are sent to the sender.
 
 ### Account web address got an upgrade
 
-to http://myacount.groupvine.com. To sign in, add "/signin" to the
-address or click the user menu in the top right corner of your home
-page.  Update your bookmarks!
+Your GroupVine20 web address has been upgraded to http://*myacount*.groupvine.com, which takes you to your Email Feed. 
+
+### How to sign in
+
+To sign in, navigate to your home page, http://*myacount*.groupvine.com, which is your Email Feed, and click the **Visitor** menu 
+in the top right corner of the page.  
+
+To sign directory into your account, you can add "/signin" to your home address, http://*myacount*.groupvine.com.  
+
+Update your bookmarks!
 
 ### Shared email addresses
 
-Although members can have multiple addresses, any given address
-can no longer be shared between multiple members (or even between
-multiple "user" accounts across the GroupVine20 system).  If an
-address was being shared between two of your members before, it
-has likely been assigned to one of them.
+Although members can have multiple addresses, any given address is required to be uniquely assigned to only one user
+in the GroupVine20 system, so addresses can no longer be shared.
+
+If an address was being shared between two members, it was likely assigned to one of them.
+
+If a member had both a primary and alternate email address, and one of those email addresses was shared, then
+most likely, the email addresses were assigned to separate users.
 
 ### Display names
 
