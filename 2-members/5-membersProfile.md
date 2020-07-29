@@ -32,8 +32,8 @@ A member's Profile is where all the information about the member is kept and con
  
 By default, pre-defined attributes are always visible on the member's
 Profile.  However, which custom attributes, lists, and sub-groups are available to the member
-to set or join is determined by the Account Administrator from the **Member Profile Page** on the <img src="/docimages/transparent-gear-icon.png" height="22">
-**Site Customizations** page.  (Pre-defined attributes are listed at the bottom of the
+to set or join is determined how the **Member Profile Page** on the <img src="/docimages/transparent-gear-icon.png" height="22">
+**Site Customizations** page is set up by the Account Administrator.  (Pre-defined attributes are listed at the bottom of the
 <img src="/docimages/transparent-gear-icon.png" height="22"> **Member Attributes** page.)
 
 Administrators can also update member profiles by uploading a file or by selecting the
