@@ -5,7 +5,7 @@ In this FAQ we've included what's new and changes to be aware of with the July 2
 
 ## [Basics](#v20-upgrade-FAQ-basics)
 * [How to get to the GroupVine20 documentation](#v20-upgrade-FAQ-basics-docurl)
-* [??? What was migrated?](#v20-upgrade-FAQ-basics-whatmigrated)
+* [What parts of my account was migrated?](#v20-upgrade-FAQ-basics-whatmigrated)
 * [Account web address gets an upgrade](#v20-upgrade-FAQ-basics-webaddrupgrade)
 * [Your Email Feed, Your new home page](#v20-upgrade-FAQ-basics-feed)
 * [How to sign in to your account](#v20-upgrade-FAQ-basics-signin)
@@ -15,8 +15,8 @@ In this FAQ we've included what's new and changes to be aware of with the July 2
 * [Shared email addresses between GroupVine20 users is no longer allowed](#v20-upgrade-FAQ-basics-mem-shareemails)
 * [How to set your Display Name](#v20-upgrade-FAQ-basics-mem-dispname)
 * [List names change for list names without a letter](#v20-upgrade-FAQ-basics-mem-listname)
-* [---> Customized member Profile replaces the customized application page](#v20-upgrade-FAQ-basics-mem-custapppage)
-* [---> Option to send Welcome emails](#v20-upgrade-FAQ-basics-mem-welcomeemails)
+* [Customize your member Profile so members can set attribute values and join list and sub-groups themselves](#v20-upgrade-FAQ-basics-mem-custapppage)
+* [---> Option to send Welcome emails, which is currently turned on](#v20-upgrade-FAQ-basics-mem-welcomeemails)
 * [Unused alternate email address were not migrated](#v20-upgrade-FAQ-basics-mem-unusedalts)
 
 ## [Sending Email](#v20-upgrade-FAQ-sendemail)
@@ -37,10 +37,10 @@ For subscription accounts, click [here](https://www.trivy.email/topics?sv=sub).
 
 For GroupVine 4 School accounts, click [here](https://www.trivy.email/topics?sv=g4s).
 
-On the left side of the page, make sure your Service is set to view the documentation appropriate for your account.
+On the left side of the page, make sure your Service is set appropriately to view the documentation for your account type.
 
 <span id="v20-upgrade-FAQ-basics-whatmigrated"></span>
-### What was migrated?
+### What parts of my account was migrated?
 The migration of your account included the following:
 * Membership information
 * Account settings
@@ -50,7 +50,7 @@ The migration of your account included the following:
 <span id="v20-upgrade-FAQ-basics-webaddrupgrade"></span>
 ### Account web address gets an upgrade
 
-Your GroupVine20 web address has been upgraded to http://*myacount*.groupvine.com which will take anyone to your 
+Your GroupVine20 web address has been upgraded to http://*myacount*.groupvine.com which will take visitors to your 
 account Email Feed.
 
 <span id="v20-upgrade-FAQ-basics-feed"></span>
@@ -87,7 +87,7 @@ To personalize your email using attributes, click [here](/3-send/1-sendOnline.md
 if you're composing your email in your online account or click [here](/3-send/2-sendInbox.md?[LINK-QARGS-DOC]#gv-3send-2sendInbox-useattrs) 
 if you're sending from your personal inbox.  And then to target recipients using attribute values, 
 click [here](/3-send/1-sendOnline.md?[LINK-QARGS-DOC]#gv-3send-1sendOnline-send) when composing online or 
-click [here](/3-send/2-sendInbox.md?[LINK-QARGS-DOC]##gv-3send-2sendInbox-listattraddr) if sending from your personal inbox.
+click [here](/3-send/2-sendInbox.md?[LINK-QARGS-DOC]#gv-3send-2sendInbox-listattraddr) if sending from your personal inbox.
 
 <span id="v20-upgrade-FAQ-basics-mem-shareemails"></span>
 ### Shared email addresses between GroupVine20 users is no longer allowed
@@ -116,14 +116,38 @@ So, for example, if you had a list previously named "2021", it has
 been changed to "2021list).
 
 <span id="v20-upgrade-FAQ-basics-mem-custapppage"></span>
-### Customize member Profile where members can set attribute values and join list and sub-groups
-Help set up Profile - what attributes are available for members to set
-and what lists and sub-groups are available for members to join from
-their Profile.
+### Customize your member Profile so members can set attribute values and join list and sub-groups themselves
+
+Members are able to set attribute values or join list and sub-groups that appear on their [Profile](/2-members/5-membersProfile.md?[LINK-QARGS-DOC]#gv-2members-5membersprofile).  Which attributes, lists and sub-groups are available on the Profile is determined by how the **Member Profile Page** on the <img src="/docimages/transparent-gear-icon.png" height="22">
+**Site Customizations** page is set up by the Account Administrator.
+
+Since members will have access to set values defined for your account and join lists and sub-groups themselves, the Profile will replace customized
+application pages.  Contact us if you would like help setting this up!
+
+<span id="v20-upgrade-FAQ-basics-mem-unusedalts"></span>
+### Unused alternate email address were not migrated
+
+If a member's profile had "Always copy alternate address?" set to "No" in our old system, then this email address was not migrated into the GroupVineV20
+system, which does not have this setting.  
+
+If you would like to save these email addresses in your GroupVine20 account, one option is to 
+create a Custom Attribute on the <img src="/docimages/transparent-gear-icon.png" height="22">**Member Attributes** page named, 
+for example, "Unused Alt Email" and store the address there.    
+
+Contact us if you have any questions or would like help setting this up.
 
 <span id="v20-upgrade-FAQ-basics-mem-welcomeemails"></span>
-### Option to send Welcome emails
-Welcome emails sent - why they were sent
+### Option to send Welcome emails, which is currently turned on
+
+On our old system when a new member was added, there was an option to send them a "how-to" email with 
+information on how to send email to the group, if the group allowed general group members to send.
+
+In GroupVine20, at a minimum welcome emails will include a link to the member's Profile and to the account's Email Feed, and will include
+how to send to the group, if the group allows for that.  If it makes sense for your account, an advantage to sending welcome emails is to 
+give members a link to access their Profile, where they can set attribute values and join lists and sub-groups.
+
+Currently migrated account have welcome emails sent and you can skip sending welcome emails to new members by 
+setting *Always send welcome emails?* on the <img src="/docimages/transparent-gear-icon.png" height="22">**Account Settings** page.  
 
 <span id="v20-upgrade-FAQ-sendemail"></span>
 ## Sending Email
@@ -159,28 +183,31 @@ Instead of
 list=ListAddress++AccountName@groupvine.com
 ```
 
-<span id="v20-upgrade-FAQ-basics-mem-unusedalts"></span>
-### Unused alternate email address were not migrated
-
-For users who had "Do not send to my alternate email address" set to
-"No" in their profile, then this email address was not migrated into the GroupVineV20
-system, which does not have this setting.  
-
-If you would like to save these email addresses in your GroupVine20 account, one option
-would be to create a Custom Attribute on the <img src="/docimages/transparent-gear-icon.png" height="22">**Member Attributes** page named, for example, "Unused Alt Email" and store the address there.   
-
-Contact us if you have any questions or would like help setting this up.
-
 <span id="v20-upgrade-FAQ-basics-subs"></span>
 ## Subscription Accounts
 
 <span id="v20-upgrade-FAQ-basics-subs-listaddr"></span>
 ### How to sign up
+
 To sign up, go to your <img src="/docimages/transparent-gear-icon.png" height="22">**Subscription Status** page and click the link to review features and sign up!
 
 <span id="v20-upgrade-FAQ-basics-subs-migration"></span>
 ### Subscription account migration
+
+<span class="free">
+
 Subscription accounts:  Service Type, due dates, free month, sign up by 9/1 on new system
+ 
+</span> <!-- free -->
+
+GroupVine20 will be using a different payment service for subscription accounts than what we used in our old system.
+
+There are a few additional pricing options which you can check out here in case one is more 
+
+Accounts were transferred to a similar Subscription service level and GroupVine has extended your expiration date to 91/20 to 
+give you a free month before you need to sign up.
+
+
 For the upgrade, your account will be transferred to a similar Subscription account and we've 
 extended your expiration date to give you a free month before needing to sign up. We will be 
 canceling your subscription with our old service on XXXX and you will be refunded any outstanding 
