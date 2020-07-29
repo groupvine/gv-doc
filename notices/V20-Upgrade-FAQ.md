@@ -1,18 +1,17 @@
 <span id="v20-upgrade-FAQ"> </span>
 # V20 Upgrade FAQ
 
-The migration of your account was done to best match your original settings.
-
-Here are some changes to be aware of with the July 2020 upgrade to GroupVine20.
+In this FAQ we've included what's new and changes to be aware of with the July 2020 upgrade to GroupVine20.
 
 ## [Basics](#v20-upgrade-FAQ-basics)
-* [Customized attributes to save member information to fit your account needs](#v20-upgrade-FAQ-mem-attrs)
 * [How to get to the GroupVine20 documentation](#v20-upgrade-FAQ-basics-docurl)
+* [??? What was migrated?](#v20-upgrade-FAQ-basics-whatmigrated)
 * [Account web address gets an upgrade](#v20-upgrade-FAQ-basics-webaddrupgrade)
 * [Your Email Feed, Your new home page](#v20-upgrade-FAQ-basics-feed)
 * [How to sign in to your account](#v20-upgrade-FAQ-basics-signin)
 
 ## [Membership](#v20-upgrade-FAQ-mem)
+* [Customized attributes to save member info to fit your account needs](#v20-upgrade-FAQ-mem-attrs)
 * [Shared email addresses between GroupVine20 users is no longer allowed](#v20-upgrade-FAQ-basics-mem-shareemails)
 * [How to set your Display Name](#v20-upgrade-FAQ-basics-mem-dispname)
 * [List names change for list names without a letter](#v20-upgrade-FAQ-basics-mem-listname)
@@ -38,19 +37,30 @@ For subscription accounts, click [here](https://www.trivy.email/topics?sv=sub).
 
 For GroupVine 4 School accounts, click [here](https://www.trivy.email/topics?sv=g4s).
 
+On the left side of the page, make sure your Service is set to view the documentation appropriate for your account.
+
+<span id="v20-upgrade-FAQ-basics-whatmigrated"></span>
+### What was migrated?
+The migration of your account included the following:
+* Membership information
+* Account settings
+* Email settings
+* Final emails from 7/29/19 to the present
+
 <span id="v20-upgrade-FAQ-basics-webaddrupgrade"></span>
 ### Account web address gets an upgrade
 
-Your GroupVine20 web address has been upgraded to http://*myacount*.groupvine.com, which takes you to your Email Feed. 
+Your GroupVine20 web address has been upgraded to http://*myacount*.groupvine.com which will take anyone to your 
+account Email Feed.
 
 <span id="v20-upgrade-FAQ-basics-feed"></span>
 ### Your Email Feed, Your new home page
 
-Your email feed, http://*myacount*.groupvine.com, which is also your home page, lists your emails published to your recipients.  The public can get to
-your feed, but the contents of the feed can be made private or specific emails can be made public in a private Email Feed or specific emails can be made
-priate in a public Email Feed.
+Your email feed, http://*myacount*.groupvine.com, which is also your home page, lists emails published to your recipients.  Visitors can get to
+your feed, but the contents of the feed can be made public or private, or you could have specific emails made public in a private Email Feed 
+or specific emails made private in a public Email Feed.
 
-Non-members view your Email Feed as a Visitor with the option to subscribe to your emails.
+Non-members will view your Email Feed as a Visitor with the option to subscribe to your emails and can only view public emails.
 
 Customize your Email Feed by setting your [color theme and logo](/3-send/4-sendSettings.md?[LINK-QARGS-DOC]#gv-2members-4sendsettings-theme-colors) and adding an account description on the <img src="/docimages/transparent-gear-icon.png" height="22">**Site Customizations** page.
 
@@ -68,11 +78,16 @@ Update your bookmarks!
 ## Membership
 
 <span id="v20-upgrade-FAQ-mem-attrs"></span>
-## Customized attributes to save member information to fit your account needs 
+### Customized attributes to save member info to fit your account needs 
 Use member attributes, which can be a number, text, a checkbox or single/multiple choice values, to save custom information about your members 
 to satisfy your account's specific needs.  Add a number, text, checkbox or single/multiple choice value attributes on your <img src="/docimages/transparent-gear-icon.png" height="22">**Member Attributes** page.
 
-Attributes can also be used to personalize emails or target recipients who have specified attribute values set in their Profile.  To personalize your email using attributes, click [here](/3-send/1-sendOnline.md?[LINK-QARGS-DOC]#gv-3send-1sendOnline-useattrs) if you're composing your email in your online account or click [here](/3-send/2-sendInbox.md?[LINK-QARGS-DOC]#gv-3send-2sendInbox-useattrs) if you're sending from your personal inbox.  And then to target recipients using attribute values, click [here](/3-send/1-sendOnline.md?[LINK-QARGS-DOC]#gv-3send-1sendOnline-send) when composing online or click [here](/3-send/2-sendInbox.md?[LINK-QARGS-DOC]##gv-3send-2sendInbox-listattraddr) if sending from your personal inbox.
+Attributes can also be used to personalize emails or target recipients with specified attribute values set in their Profile.  
+To personalize your email using attributes, click [here](/3-send/1-sendOnline.md?[LINK-QARGS-DOC]#gv-3send-1sendOnline-useattrs) 
+if you're composing your email in your online account or click [here](/3-send/2-sendInbox.md?[LINK-QARGS-DOC]#gv-3send-2sendInbox-useattrs) 
+if you're sending from your personal inbox.  And then to target recipients using attribute values, 
+click [here](/3-send/1-sendOnline.md?[LINK-QARGS-DOC]#gv-3send-1sendOnline-send) when composing online or 
+click [here](/3-send/2-sendInbox.md?[LINK-QARGS-DOC]##gv-3send-2sendInbox-listattraddr) if sending from your personal inbox.
 
 <span id="v20-upgrade-FAQ-basics-mem-shareemails"></span>
 ### Shared email addresses between GroupVine20 users is no longer allowed
@@ -93,7 +108,7 @@ is your First Name and Last Name in your Profile.  A different Display name can 
 GroupVine20 account where you are a sender.
 
 <span id="v20-upgrade-FAQ-basics-mem-listname"></span>
-### List names change for list names without a letter
+### List name change for list names without a letter
 
 List names now require at least one letter (pure numbers are reserved
 by the system for identifying lists and groups in a numeric-only way).
@@ -101,7 +116,7 @@ So, for example, if you had a list previously named "2021", it has
 been changed to "2021list).
 
 <span id="v20-upgrade-FAQ-basics-mem-custapppage"></span>
-### Customized member Profile replaces the customized application page 
+### Customize member Profile where members can set attribute values and join list and sub-groups
 Help set up Profile - what attributes are available for members to set
 and what lists and sub-groups are available for members to join from
 their Profile.
