@@ -1,14 +1,16 @@
 <span id="v20-upgrade-FAQ"> </span>
 # V20 Upgrade FAQ
 
-Here are some changes to be aware of with the July 2020 upgrade to
-GroupVine20.
+The migration of your account was done to best match your original settings.
+
+Here are some changes to be aware of with the July 2020 upgrade to GroupVine20.
 
 ## [Basics](#v20-upgrade-FAQ-basics)
+* [Customized attributes to save member information to fit your account needs](#v20-upgrade-FAQ-mem-attrs)
 * [How to get to the GroupVine20 documentation](#v20-upgrade-FAQ-basics-docurl)
 * [Account web address gets an upgrade](#v20-upgrade-FAQ-basics-webaddrupgrade)
-* [How to sign in](#v20-upgrade-FAQ-basics-signin)
-* [Unused alternate email address were not migrated](#v20-upgrade-FAQ-basics-mem-unusedalts)
+* [Your Email Feed, Your new home page](#v20-upgrade-FAQ-basics-feed)
+* [How to sign in to your account](#v20-upgrade-FAQ-basics-signin)
 
 ## [Membership](#v20-upgrade-FAQ-mem)
 * [Shared email addresses between GroupVine20 users is no longer allowed](#v20-upgrade-FAQ-basics-mem-shareemails)
@@ -16,6 +18,7 @@ GroupVine20.
 * [List names change for list names without a letter](#v20-upgrade-FAQ-basics-mem-listname)
 * [---> Customized member Profile replaces the customized application page](#v20-upgrade-FAQ-basics-mem-custapppage)
 * [---> Option to send Welcome emails](#v20-upgrade-FAQ-basics-mem-welcomeemails)
+* [Unused alternate email address were not migrated](#v20-upgrade-FAQ-basics-mem-unusedalts)
 
 ## [Sending Email](#v20-upgrade-FAQ-sendemail)
 * [Confirmation Required for Emails from Personal Inbox to Unmoderated Groups](#v20-upgrade-FAQ-sendemail-confemail)
@@ -40,8 +43,19 @@ For GroupVine 4 School accounts, click [here](https://www.trivy.email/topics?sv=
 
 Your GroupVine20 web address has been upgraded to http://*myacount*.groupvine.com, which takes you to your Email Feed. 
 
+<span id="v20-upgrade-FAQ-basics-feed"></span>
+### Your Email Feed, Your new home page
+
+Your email feed, http://*myacount*.groupvine.com, which is also your home page, lists your emails published to your recipients.  The public can get to
+your feed, but the contents of the feed can be made private or specific emails can be made public in a private Email Feed or specific emails can be made
+priate in a public Email Feed.
+
+Non-members view your Email Feed as a Visitor with the option to subscribe to your emails.
+
+Customize your Email Feed by setting your [color theme and logo](/3-send/4-sendSettings.md?[LINK-QARGS-DOC]#gv-2members-4sendsettings-theme-colors) and adding an account description on the <img src="/docimages/transparent-gear-icon.png" height="22">**Site Customizations** page.
+
 <span id="v20-upgrade-FAQ-basics-signin"></span>
-### How to sign in
+### How to sign in to your account
 
 To sign in, navigate to your home page, http://*myacount*.groupvine.com, which is your Email Feed, and click the **Visitor** menu 
 in the top right corner of the page.  
@@ -52,6 +66,13 @@ Update your bookmarks!
 
 <span id="v20-upgrade-FAQ-mem"></span>
 ## Membership
+
+<span id="v20-upgrade-FAQ-mem-attrs"></span>
+## Customized attributes to save member information to fit your account needs 
+Use member attributes, which can be a number, text, a checkbox or single/multiple choice values, to save custom information about your members 
+to satisfy your account's specific needs.  Add a number, text, checkbox or single/multiple choice value attributes on your <img src="/docimages/transparent-gear-icon.png" height="22">**Member Attributes** page.
+
+Attributes can also be used to personalize emails or target recipients who have specified attribute values set in their Profile.  To personalize your email using attributes, click [here](/3-send/1-sendOnline.md?[LINK-QARGS-DOC]#gv-3send-1sendOnline-useattrs) if you're composing your email in your online account or click [here](/3-send/2-sendInbox.md?[LINK-QARGS-DOC]#gv-3send-2sendInbox-useattrs) if you're sending from your personal inbox.  And then to target recipients using attribute values, click [here](/3-send/1-sendOnline.md?[LINK-QARGS-DOC]#gv-3send-1sendOnline-send) when composing online or click [here](/3-send/2-sendInbox.md?[LINK-QARGS-DOC]##gv-3send-2sendInbox-listattraddr) if sending from your personal inbox.
 
 <span id="v20-upgrade-FAQ-basics-mem-shareemails"></span>
 ### Shared email addresses between GroupVine20 users is no longer allowed
@@ -67,21 +88,9 @@ most likely, the email addresses were assigned to separate users.
 <span id="v20-upgrade-FAQ-basics-mem-dispname"></span>
 ### How to set your Display Name
 
-Display names, which appears in the "From" portion of a sent email,
-is your First Name and Last Name in your Profile.  Display names can be set for each
+Your Display name, which appears in the "From" portion of a sent email,
+is your First Name and Last Name in your Profile.  A different Display name can be set for each
 GroupVine20 account where you are a sender.
-
-<span id="v20-upgrade-FAQ-basics-mem-unusedalts"></span>
-### Unused alternate email address were not migrated
-
-For users who had "Do not send to my alternate email address" set to
-"No" in their profile, then this email address was not migrated into the GroupVineV20
-system, which does not have this setting.  
-
-If you would like to save these email addresses in your GroupVine20 account, one option
-would be to create a Custom Attribute on the <img src="/docimages/transparent-gear-icon.png" height="22">**Member Attributes** page named, for example, "Unused Alt Email" and store the address there.   
-
-Contact us if you have any questions or would like help setting this up.
 
 <span id="v20-upgrade-FAQ-basics-mem-listname"></span>
 ### List names change for list names without a letter
@@ -134,6 +143,18 @@ Instead of
 ```
 list=ListAddress~~AccountName@groupvine.com
 ```
+
+<span id="v20-upgrade-FAQ-basics-mem-unusedalts"></span>
+### Unused alternate email address were not migrated
+
+For users who had "Do not send to my alternate email address" set to
+"No" in their profile, then this email address was not migrated into the GroupVineV20
+system, which does not have this setting.  
+
+If you would like to save these email addresses in your GroupVine20 account, one option
+would be to create a Custom Attribute on the <img src="/docimages/transparent-gear-icon.png" height="22">**Member Attributes** page named, for example, "Unused Alt Email" and store the address there.   
+
+Contact us if you have any questions or would like help setting this up.
 
 <span id="v20-upgrade-FAQ-basics-subs"></span>
 ## Subscription Accounts
