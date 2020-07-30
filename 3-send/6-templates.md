@@ -11,10 +11,10 @@
 <span id="gv-3send-6templates-about"></span>
 ### What are templates and why use them
 
-A template is an email that is saved and can be used as a starting point for new emails that you send often, e.g. weekly newsletters, 
+A template is a special saved email that can be used as a starting point for new emails that you send often, e.g. weekly newsletters, 
 daily posts, announcements, and reports.  
 
-Once your template's look is established, templates will save you the time of recreating your email's look and consistent content each time you send 
+Once your template has been created, it will save you the time of recreating your email's look and duplicate content each time you send 
 your periodic email.    
 
 <span id="gv-3send-6templates-create"></span>
