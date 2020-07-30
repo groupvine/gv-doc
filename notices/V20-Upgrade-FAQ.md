@@ -10,7 +10,7 @@ New features and changes to be aware of with the August 2020 upgrade to GroupVin
 * [Account web address is upgraded - update your bookmarks!](#v20-upgrade-FAQ-basics-webaddrupgrade)
 * [How to sign in to your account](#v20-upgrade-FAQ-basics-signin)
 * [GroupVine20 documentation](#v20-upgrade-FAQ-basics-docurl)
-* [Information migrated](#v20-upgrade-FAQ-basics-whatmigrated)
+* [Information migrated to your new GroupVine20 account](#v20-upgrade-FAQ-basics-whatmigrated)
 
 ## [Membership](#v20-upgrade-FAQ-mem)
 * [New! Create customized attributes to save member info to fit your account needs](#v20-upgrade-FAQ-mem-attrs)
@@ -39,7 +39,7 @@ New features and changes to be aware of with the August 2020 upgrade to GroupVin
 <span id="v20-upgrade-FAQ-basics-feed"></span>
 ### New! Your Email Feed and new home page
 
-Your Email Feed and home page is at http://*myacount*.groupvine.com and lists your published emails.  Your Email Feed can be set to public so Visitors
+Your Email Feed and home page is at *http://myacount.groupvine.com* and lists your published emails.  Your Email Feed can be set to public so Visitors
 can view emails or set to private for only account members.  You also have the option of setting an individual email to private in a public feed or setting an individual email to public in a private Email Feed.  
 
 Visitors can reach your feed to view public emails and summary images only of Email Widgets.  Visitors will also have the option to subscribe
@@ -52,7 +52,7 @@ Plus, to keep your Email Feed tidy, Administrators and Editors can archive email
 <span id="v20-upgrade-FAQ-basics-webaddrupgrade"></span>
 ### Account web address is upgraded - update your bookmarks!
 
-Your GroupVine20 web address has been upgraded to http://*myacount*.groupvine.com which will take visitors to your 
+Your GroupVine20 web address has been upgraded to *http://myacount.groupvine.com* which will take visitors to your 
 account Email Feed.
 
 <span id="v20-upgrade-FAQ-basics-signin"></span>
@@ -61,7 +61,7 @@ account Email Feed.
 To sign in, navigate to your home page, http://*myacount*.groupvine.com, which is your Email Feed, and click the **Visitor** menu 
 in the top right corner of the page.  
 
-To sign directory into your account, you can add "/signin" to your home address, http://*myacount*.groupvine.com.  
+To sign directory into your account, you can add "/signin" to your home address, *http://myacount.groupvine.com*.  
 
 Update your bookmarks!
 
@@ -75,7 +75,8 @@ For GroupVine 4 School accounts, click [here](https://www.trivy.email/topics?sv=
 On the left side of the page, make sure your Service is set appropriately to view the documentation for your account type.
 
 <span id="v20-upgrade-FAQ-basics-whatmigrated"></span>
-### Information migrated
+### Information migrated to your new GroupVine20 account
+
 The migration of your account included the following:
 * Membership information
 * Account settings
