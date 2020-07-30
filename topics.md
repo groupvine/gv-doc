@@ -67,7 +67,7 @@
               </a>
             </li>
             <li>
-              <a href="/3-send/5-resend.md?[LINK-QARGS-DOC]#gv-3send-6templates">
+              <a href="/3-send/6-templates.md?[LINK-QARGS-DOC]#gv-3send-6templates">
                 Save time using email templates
               </a>
             </li>
