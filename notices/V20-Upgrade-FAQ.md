@@ -5,8 +5,6 @@
 
 New features and changes to be aware of with the August 2020 upgrade to GroupVine20.
 
-In this FAQ we've identified what's new and included changes to be aware of with the July 2020 upgrade to GroupVine20.
-
 ## [Basics](#v20-upgrade-FAQ-basics)
 * [New! Your Email Feed and new home page](#v20-upgrade-FAQ-basics-feed)
 * [Account web address is upgraded - update your bookmarks!](#v20-upgrade-FAQ-basics-webaddrupgrade)
