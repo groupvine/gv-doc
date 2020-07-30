@@ -1,5 +1,9 @@
+**GroupVine Notice: August 1, 2020**
+
 <span id="v20-upgrade-FAQ"> </span>
 # V20 Upgrade FAQ
+
+New features and changes to be aware of with the August 2020 upgrade to GroupVine20.
 
 In this FAQ we've identified what's new and included changes to be aware of with the July 2020 upgrade to GroupVine20.
 
