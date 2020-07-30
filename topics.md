@@ -205,7 +205,7 @@
           Notices
           <ul>
             <li>
-              <a href="/notices/V20-Upgrade-FAQ.md.md?[LINK-QARGS-DOC]#gv-7advanced-1advActions">
+              <a href="/notices/V20-Upgrade-FAQ.md?[LINK-QARGS-DOC]#v20-upgrade-FAQ">
                 Aug 1, 2020: GroupVine20 Upgrade features and changes to be aware of
               </a>
             </li>
