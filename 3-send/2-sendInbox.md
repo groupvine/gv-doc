@@ -45,21 +45,21 @@ In general, emails will be "From" the sender's display name, which is the
 First Name and Last Name attributes in their Profile, but the sender's email handler may preset the "From" to 
 the name normally used to send email.
 
-* [Find the email address to send to lists or recipients with specific attribute values](#gv-3send-2sendInbox-listattraddr)
-* [Find the email address to send a draft or "urgent" email](#gv-3send-2sendInbox-drafturgentaddr)
+* [Get the email address to send to lists or recipients with specific attribute values](#gv-3send-2sendInbox-listattraddr)
+* [Get the email address to send a draft or "urgent" email](#gv-3send-2sendInbox-drafturgentaddr)
 * [Add predefined and custom attributes to customize your email](#gv-3send-2sendInbox-useattrs)
 * [Add Email Widgets to collect information and ask questions right in your email](#gv-3send-2sendInbox-useews)
 
 
 <span id="gv-3send-2sendInbox-listattraddr"></span>
-## Find the email address to send to lists or recipients with specific attribute values
+## Get the email address to send to lists or recipients with specific attribute values
 
 To find the email address to target lists or recipients with specific attribute values, select **New Email** and then select **Send email from 
 your own inbox**.  On the **Addressing** tab select the lists and attributes you want your email to target and copy the updated email 
 address to the "To" field of your email in your personal inbox.  If you use this email address often, you might want to add it to your contacts so the address is readily available when sending.
 
 <span id="gv-3send-2sendInbox-drafturgentaddr"></span>
-## Find the email address to send a draft or "urgent" email
+## Get the email address to send a draft or "urgent" email
 
 To send a draft or ["urgent"](/3-send/3-sendTexts.md?[LINK-QARGS-DOC]#gv-2members-3sendTexts) email, 
 select **New Email** and then select **Send email from your own inbox**.  On the **Addressing** tab select *Send as a draft email* 
@@ -68,14 +68,14 @@ or *Mark email as urgent* and copy the updated email address to the "To" field o
 <span id="gv-3send-2sendInbox-useattrs"></span>
 ## Add predefined and custom attributes to customize your email
 
-Personalize your emails by including pre-defined or custom attribute values from the **Personalize** tab.  For more information about Member Attributes,
-click [here](/2-members/4-membersattributes.md?[LINK-QARGS-DOC]#gv-2members-4membersattributes).  
+Personalize your emails by including pre-defined or custom attribute values by selecting **New Email** and then the **Personalize** tab.  For more
+information about Member Attributes, click [here](/2-members/4-membersattributes.md?[LINK-QARGS-DOC]#gv-2members-4membersattributes).  
 
 Also available are *Link to Profile* and *Link to Email Feed*, which can be included in your emails to give members a direct link access to their Profile and your account Email Feed.
 
 <span class=highlight>
   
-To add an attribute, *Link to Profile* or *Link to Email Feed* value to your email, click its clipboard (<img src="/docimages/clipboard-icon.png" width="22">) to copy its representation and then paste it into your email.  **The clipboard must be used if you're copying and pasting.**
+**The clipboard must be used to copy and paste an attribute to your email created in your inbox.**  To add an attribute, *Link to Profile* or *Link to Email Feed* value to your email created in your inbox, click its clipboard (<img src="/docimages/clipboard-icon.png" width="22">) to copy its representation and then paste it into your email.  
 
 </span> <!-- highlight -->
 
@@ -98,7 +98,7 @@ click [here](/5-widgets/1-ewIntro.md?[LINK-QARGS-DOC]).
 
 <span class=highlight>
   
-To add an Email Widget to your email, click its clipboard (<img src="/docimages/clipboard-icon.png" width="22">) to copy its representation and then paste it into your email.  **The clipboard must be used if you're copying and pasting.**
+**The clipboard must be used to copy and paste an Email Widget into your email created in your inbox.**  To add an Email Widget to your email, click its clipboard (<img src="/docimages/clipboard-icon.png" width="22">) to copy its representation and then paste it into your email.  
 
 </span> <!-- highlight -->
 
