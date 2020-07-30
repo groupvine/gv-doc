@@ -32,7 +32,7 @@ have been saved either in the current group or in a parent group.
 <span id="gv-3send-1sendOnline-useattrs"></span>
 ### Add predefined and custom attributes to customize your email
 
-Personalize your email by selecting an attribute from the **Pers…** menu (short for
+While composing your email, personalize your email by selecting an attribute to add from the **Pers…** menu (short for
 Personalization) in the email editor.  
 
 Added to your email and representing the attribute, is a placeholder which will be translated to the recipient's value in their received email. 
@@ -50,18 +50,18 @@ in your emails to give members a direct link access to their Profile and your ac
 
 <span class="sub g4s">
 
-Ask questions or gather information directly in your email by selecting one of the 
-five types of Email Widgets (Text, Count, RSVP, Yes-No,
-Single/Multi-Choice) from the **Widget** menu.  Use normal text in your email to ask the question related to an Email Widget.
-For more information about using Email Widgets,
+While composing your email, ask questions or gather information directly in your email by selecting one of the 
+five types of Email Widgets (Text, Count, RSVP, Yes-No, Single/Multi-Choice) from the **Widget** menu.  Use normal text in your email to 
+ask the question related to an Email Widget.  For more information about using Email Widgets,
 click [here](/5-widgets/1-ewIntro.md?[LINK-QARGS-DOC]#gv-5widgets-1ewIntro).
 
 </span> <!-- sub g4s -->
 
 <span class="free">
   
-Ask questions or gather information directly in your email by selecting one of the four preset types of Email Widgets (Text, Count, RSVP, Yes-No) from the **Widget** menu.  Use normal text in your email to ask the question related to an Email Widget.  
-For more information about using Email Widgets, click [here](/5-widgets/1-ewIntro.md?[LINK-QARGS-DOC]#gv-5widgets-1ewIntro).
+While composing you email, ask questions or gather information directly in your email by selecting one of the four preset types of Email Widgets 
+(Text, Count, RSVP, Yes-No) from the **Widget** menu.  Use normal text in your email to ask the question related to an Email Widget.  For more 
+information about using Email Widgets, click [here](/5-widgets/1-ewIntro.md?[LINK-QARGS-DOC]#gv-5widgets-1ewIntro).
   
 </span> <!-- free -->
 
@@ -71,8 +71,7 @@ For more information about using Email Widgets, click [here](/5-widgets/1-ewIntr
 When ready, click <img src="/docimages/compose-send.png" height="22"> to select your recipients and send/publish your email.  By default, your email will be sent to the entire group as non-urgent, otherwise:
 
 * On the **Addressing** tab: Select **Send as a draft email** to send to group's Administrators and Editors only.  Select **Mark email as urgent** to 
-have a text notification sent to recipients who want to
-be notified of urgent emails.  Make selections to change the recipients
+have a text notification sent to recipients who want to be notified of urgent emails.  Make selections to change the recipients
 to list(s) or to specific Choice or Checkbox attribute values. 
 
 * Use the **Select Individuals** tab to select specific recipients from your membership.
