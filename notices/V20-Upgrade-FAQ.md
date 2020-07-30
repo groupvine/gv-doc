@@ -1,7 +1,7 @@
 **GroupVine Notice: August 1, 2020**
 
 <span id="v20-upgrade-FAQ"> </span>
-# V20 Upgrade FAQ
+# GroupVineV20 Upgrade Notice
 
 New features and changes to be aware of with the August 2020 upgrade to GroupVine20.
 
@@ -18,7 +18,7 @@ New features and changes to be aware of with the August 2020 upgrade to GroupVin
 * [Shared email addresses between GroupVine20 users is no longer allowed](#v20-upgrade-FAQ-basics-mem-shareemails)
 * [How to set your Display Name](#v20-upgrade-FAQ-basics-mem-dispname)
 * [List names change for list names without a letter](#v20-upgrade-FAQ-basics-mem-listname)
-* [---> Option to send Welcome emails, which is currently turned on](#v20-upgrade-FAQ-basics-mem-welcomeemails)
+* [---> Option to email new members a Welcome email, which is currently turned on](#v20-upgrade-FAQ-basics-mem-welcomeemails)
 * [Unused alternate email address were not migrated](#v20-upgrade-FAQ-basics-mem-unusedalts)
 
 ## [Sending Email](#v20-upgrade-FAQ-sendemail)
@@ -146,7 +146,7 @@ for example, "Unused Alt Email" and store the address there.
 Contact us if you have any questions or would like help setting this up.
 
 <span id="v20-upgrade-FAQ-basics-mem-welcomeemails"></span>
-### Option to send Welcome emails, which is currently turned on
+### Option to email new members a Welcome email, which is currently turned on
 
 On our old system when a new member was added, there was an option to send them a "how-to" email with 
 information on how to send email to the group, if the group allowed general group members to send.
