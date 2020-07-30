@@ -22,6 +22,8 @@ In this FAQ we've included what's new and changes to be aware of with the July 2
 ## [Sending Email](#v20-upgrade-FAQ-sendemail)
 * [Confirmation Required for Emails from Personal Inbox to Unmoderated Groups](#v20-upgrade-FAQ-sendemail-confemail)
 * [Email address to send to a list has changed](#v20-upgrade-FAQ-basics-sendemail-listaddr)
+* [--->Resend email default and options](#v20-upgrade-FAQ-basics-sendemail-resend)
+* [--->Save a template for emails that are sent periodically](#v20-upgrade-FAQ-basics-sendemail-templates)
 
 ## [Subscription Accounts](#v20-upgrade-FAQ-basics-subs)
 * [How to sign up](#v20-upgrade-FAQ-basics-subs-listaddr)
@@ -183,6 +185,17 @@ Instead of
 list=ListAddress++AccountName@groupvine.com
 ```
 
+<span id="v20-upgrade-FAQ-basics-sendemail-resend"></span>
+### Resend email default and options
+
+[here](/3-send/5-resend.md?[LINK-QARGS-DOC]#gv-2members-5resend)
+
+
+<span id="v20-upgrade-FAQ-basics-sendemail-templates"></span>
+### Save a template for emails that are sent periodically
+
+[here](/3-send/5-resend.md?[LINK-QARGS-DOC]#gv-3send-6templates)
+
 <span id="v20-upgrade-FAQ-basics-subs"></span>
 ## Subscription Accounts
 
@@ -214,7 +227,3 @@ canceling your subscription with our old service on XXXX and you will be refunde
 balance to the credit card on file.  To sign up, go to the <GEAR> Subscription Status page and 
 click the link to review features and sign up.
 
-
-
-
- 
