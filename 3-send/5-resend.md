@@ -11,11 +11,11 @@ Here are the ways to resend a published email from your online account:
 
 * View the email you want to resend from your Email Feed, select its menu (<img src="/docimages/menu-icon.png" height="22">), and select <img src="/docimages/feed-menu-resend-email.png" height="22"> from the menu.  You will land on the **New Email** page for an online email with the **Published** tab and the email to resend selected.
 
-Once on the **Published** tab, you will need to choose how the email should be copied.  Your choice most importantly depends on if the email has Email Widgets, how its responses should be handled.  Here are the two ways to copy:
+Once your selection is made, you will jump to the **Published** tab of the **New Email** page.  Next, you will need to choose how the email should be copied for the resend.  Your choice most importantly depends on if the email has Email Widgets, then how its responses should be handled.  Here are the two ways to copy the email:
+
+* **Resend published email without any changes** (Default) The new email will be sent “as is” and email changes will not be allowed, except for its recipients.  Email Widget responses of the original email and any “as is” resends stay grouped together, which is the usual and preferred case when resending to additional or forgotten recipients.
 
 * **Copy published email to your new email and make changes** This new email can be edited and its Email Widget responses will be new and separate from its original email.
-
-* **Resend published email without any changes** This new email will be sent “as is” and changes are not allowed, except for its recipients.  Email Widget responses of the original email and any “as is” resends stay grouped together, which may be needed for emailing additional or forgotten recipients.
 
 Refer to [Send email from your online account](/3-send/1-sendOnline.md?[LINK-QARGS-DOC]#gv-3send-1sendOnline) for the remaining steps to send your email.
 
