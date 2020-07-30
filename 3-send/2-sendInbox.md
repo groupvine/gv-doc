@@ -4,11 +4,21 @@
 <span id="gv-3send-2sendInbox"></span>
 ## Send email from a personal email account
 
+<span class="g4s sub">
 <span class=highlight>
   
-To avoid the risk of spammers sending emails to a group from a possibly compromised email account, after emailing from your inbox, a confirmation mail is emailed to the sender where the sender must confirm the email send before it can be forwarded to its recipients.
+To avoid the risk of spammers sending emails to a group from a possibly compromised email account, after an email is sent from an inbox to an [unmoderated group](/3-send/4-sendSettings.md?[LINK-QARGS-DOC]#gv-2members-4sendsettings-use-moderation), a confirmation mail is emailed to the sender where the sender must confirm the email send before it can be forwarded to its recipients.
 
 </span> <!-- highlight -->
+</span> <!-- g4s sub -->
+
+<span class="free">
+<span class=highlight>
+  
+To avoid the risk of spammers sending emails to a group from a possibly compromised email account, after an email is sent from an inbox, a confirmation mail is emailed to the sender where the sender must confirm the email send before it can be forwarded to its recipients.
+
+</span> <!-- highlight -->
+</span> <!-- free -->
 
 To send an email to your account from your inbox, use your account's **Address** found on the <img src="/docimages/transparent-gear-icon.png" height="22"> **Account Settings** page, for example:
 
