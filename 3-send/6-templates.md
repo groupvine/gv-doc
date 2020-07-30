@@ -8,13 +8,6 @@
 * [How to make changes to a template](/3-send/6-templates.md?[LINK-QARGS-DOC]#gv-3send-6templates-change)
 * [How to use a template](/3-send/6-templates.md?[LINK-QARGS-DOC]#gv-3send-6templates-use)
 
-A template is used as a starting point for new emails that are sent often, e.g. weekly news, monthly announcements, etc., 
-and they're 
-
-
-<img src="/docimages/lighthouse-email-template.png" height="450">
-
-
 <span id="gv-3send-6templates-about"></span>
 ### What are templates and why use them
 
@@ -30,7 +23,7 @@ different types of email you normally send.
 Templates are created by composing the skeleton of an email with your logo, upcoming dates, links, images, etc. that you normally include 
 in the email type you send.  For example, you could have a different template for announcements, reminders, and asking for feedback.
 Setting up templates insures emails look basically the same and familiar with your logo, section headings, your
-sign off, and subscribe link all in the same place.  Here is an example of what one of GroupVine's templates would look like:
+sign off, and subscribe link all in the same place.  Here is an example for Lighthouse View Labs:
 
 <img src="/docimages/lighthouse-email-template.png" height="450">
 
@@ -40,8 +33,8 @@ header, click the **click for info** at **Advanced — Create New Template**, an
 <span id="gv-3send-6templates-change"></span>
 ### How to make changes to a template
 
-To make changes to a template, on the **New Email** page, select the template from the **Templates** tab and give it a subject, which can 
-be the same or different name.  
+To make changes to a template, you will basically be creating a new template with the changes.  To start, from the **New Email** page, select 
+the template from the **Templates** tab and give it a subject, which can be the same or different name.  
 
 Make your changes and to save, click **Options** in the Compose header, click the **click for info** at **Advanced — Create New Template**, and click **Save this email as a new template**.
 
