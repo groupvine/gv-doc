@@ -82,7 +82,7 @@ Better quality images available??
 
 Each group has their own moderation setting, which when turned on, adds an additional level of security to avoid the risk
 of unwanted or inappropriate emails sent to a group.  When moderation is set to `Yes`, the Administrators of the group where the email originated will
-first receive the pending email to review and can then either approve or deny its delivery.  
+first receive the pending email to review and  from within this email, can then either approve or deny its delivery.  However, if the sender is an Administrator in a higher group, then the email will not be moderated and the sender will need only to confirm the send.
 
 To turn moderation on or off, set **Is account moderated?** on the <img src="/docimages/transparent-gear-icon.png" height="22"> **Account Settings** page or set **Is group moderated?** on a sub-group's <img src="/docimages/transparent-gear-icon.png" height="22"> **Sub-group Settings**
 page.
