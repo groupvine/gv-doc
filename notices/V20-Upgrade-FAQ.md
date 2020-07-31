@@ -57,10 +57,10 @@ Plus, to keep your Email Feed tidy, Administrators and Editors can archive email
 <span id="v20-upgrade-FAQ-basics-signin"></span>
 ### How to sign in to your account
 
-To sign in, navigate to your home page, *http://myacount.groupvine.com*, which is your Email Feed, and click the **Visitor** menu 
+To sign in, navigate to your home page, *http://www.groupvine-v1.com/myaccount*, which is your Email Feed, and click the **Visitor** menu 
 in the top right corner of the page.  
 
-To sign directory into your account, you can add "/signin" to your home address, e.g. *http://myacount.groupvine.com/signin*.  
+To sign directory into your account, you can add "/signin" to your home address, e.g. *http://www.groupvine-v1.com/myaccount*.  
 
 Update your bookmarks!
 
@@ -81,7 +81,7 @@ The migration of your account included the following:
 * Account settings
 * Email settings
 * Final emails from 7/29/19 to the present
-* Subscription accounts were migrated to a similar Subscription service level
+* Subscription accounts to a similar Subscription service level
 
 <span id="v20-upgrade-FAQ-basics-accoldsys"></span>
 ### Limited access to your account on our old system through 9/30/20
