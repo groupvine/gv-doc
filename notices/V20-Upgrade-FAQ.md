@@ -27,7 +27,7 @@ New features and changes to be aware of with the August 2020 upgrade to GroupVin
 * [New! Confirmation Required for Emails from Personal Inbox to Unmoderated Groups](#v20-upgrade-FAQ-sendemail-confemail)
 * [New! Templates make it faster and easier to compose periodic emails](#v20-upgrade-FAQ-basics-sendemail-templates)
 * [New! Email Widgets and attributes can be added to an email sent from a personal inbox](#v20-upgrade-FAQ-basics-sendemail-ewsattrsinbox)
-* [Email Widgets: a quick add from editor menu, faster, and Submit button is gone!](#v20-upgrade-FAQ-basics-sendemail-ews)
+* [Email Widgets upgrade: easy add from editor menu, faster, and Submit button is gone!](#v20-upgrade-FAQ-basics-sendemail-ews)
 * [List email addresses have changed - update your contacts!](#v20-upgrade-FAQ-basics-sendemail-listaddr)
 * [Resending an email with Email Widgets](#v20-upgrade-FAQ-basics-sendemail-resend)
 
@@ -216,7 +216,7 @@ and to add attributes to an email created from an inbox,
 click [here](/3-send/2-sendInbox.md?[LINK-QARGS-DOC]#gv-3send-2sendInbox-useattrs).
 
 <span id="v20-upgrade-FAQ-basics-sendemail-ews"></span>
-### Email Widgets: a quick add from editor menu, faster, and Submit button is gone!
+### Email Widgets upgrade: easy add from editor menu, faster, and Submit button is gone!
 
 Email Widgets are a simple and powerful tool that make it easy to ask questions, collect information, start conversations and gather feedback right in an email. From their inbox, recipients can add responses and comments and see up-to-date images that summarize Email Widget responses.
 
