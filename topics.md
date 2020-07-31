@@ -200,19 +200,6 @@
         </td>
       </tr>
 
-      <tr>
-        <td class="topicsSection">
-          Notices
-          <ul>
-            <li>
-              <a href="/notices/V20-Upgrade-FAQ.md?[LINK-QARGS-DOC]#v20-upgrade-FAQ">
-                Aug 1, 2020: GroupVine20 Upgrade features and changes to be aware of
-              </a>
-            </li>
-          </ul>
-        </td>
-      </tr>
-
       <tr class="adv">
         <td class="topicsSection">
           Advanced info
@@ -220,6 +207,19 @@
             <li>
               <a href="/7-advanced/1-advActions.md?[LINK-QARGS-DOC]#gv-7advanced-1advActions">
                 Email Actions
+              </a>
+            </li>
+          </ul>
+        </td>
+      </tr>
+
+      <tr>
+        <td class="topicsSection">
+          Notices
+          <ul>
+            <li>
+              <a href="/notices/V20-Upgrade-FAQ.md?[LINK-QARGS-DOC]#v20-upgrade-FAQ">
+                Aug 1, 2020: GroupVine20 Upgrade features and changes to be aware of
               </a>
             </li>
           </ul>
