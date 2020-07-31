@@ -60,7 +60,7 @@ Plus, to keep your Email Feed tidy, Administrators and Editors can archive email
 To sign in navigate to your home page at *http://www.groupvine.com/myaccount* which is also your Email Feed, and click the **Visitor** menu 
 in the top right corner of the page.  
 
-To sign directory into your account, you can add "/signin" to your home address like this *http://www.groupvine.com/myaccount/signin*.  
+To sign directory into your account, you can add "/signin" to your home address, for example, *http://www.groupvine.com/myaccount/signin* 
 
 Update your bookmarks!
 
