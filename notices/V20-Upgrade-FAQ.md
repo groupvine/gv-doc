@@ -57,10 +57,10 @@ Plus, to keep your Email Feed tidy, Administrators and Editors can archive email
 <span id="v20-upgrade-FAQ-basics-signin"></span>
 ### How to sign in to your account
 
-To sign in, navigate to your home page, *http://www.groupvine-v1.com/myaccount*, which is your Email Feed, and click the **Visitor** menu 
+To sign in navigate to your home page at *http://www.groupvine.com/myaccount* which is also your Email Feed, and click the **Visitor** menu 
 in the top right corner of the page.  
 
-To sign directory into your account, you can add "/signin" to your home address, e.g. *http://www.groupvine-v1.com/myaccount*.  
+To sign directory into your account, you can add "/signin" to your home address like this *http://www.groupvine.com/myaccount/signin*.  
 
 Update your bookmarks!
 
