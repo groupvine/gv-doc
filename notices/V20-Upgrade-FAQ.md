@@ -44,12 +44,9 @@ Your GroupVine20 account web address has been upgraded to *http://myacount.group
 <span id="v20-upgrade-FAQ-basics-feed"></span>
 ### New! Your Email Feed and new home page
 
-Your new GroupVineV20 home page at *http://myacount.groupvine.com* is your Email Feed where your published emails are listed.  
-You have the option to set your entire Email Feed to public to allow Visitors to view emails or to private for only account members.  
-You will also have the option to set an individual email to private in a public feed or an individual email to public in a private Email Feed.  
+Your new GroupVineV20 home page at *http://myacount.groupvine.com* is your Email Feed where your published emails are listed.  You have the option to set your entire Email Feed to public to allow Visitors to view emails or to private for only account members.  You will also have the option to set an individual email to private in a public feed or an individual email to public in a private Email Feed.  
 
-Visitors will be able to reach your feed, but will be limited to viewing only public emails and Email Widget summary images.  Visitors will also have the option to subscribe
-to your emails from the Visitor menu at the top of the page.
+Visitors will be able to reach your feed, but will be limited to viewing only public emails and Email Widget summary images.  Visitors will also have the option to subscribe to your emails from the Visitor menu at the top of the page.
 
 Customize your Email Feed by setting your [color theme and logo](/3-send/4-sendSettings.md?[LINK-QARGS-DOC]#gv-2members-4sendsettings-theme-colors) and adding an account description on the <img src="/docimages/transparent-gear-icon.png" height="22">**Site Customizations** page.
 
@@ -88,24 +85,25 @@ The migration of your account included the following:
 
 <span id="v20-upgrade-FAQ-mem-attrs"></span>
 ### New! Create customized attributes to save member info to fit your account needs 
-Use member attributes, which can be a number, text, a checkbox or single/multiple choice values, to save custom information about your members 
-to satisfy your account's specific needs.  Add a number, text, checkbox or single/multiple choice value attributes on your <img src="/docimages/transparent-gear-icon.png" height="22">**Member Attributes** page.
 
-Attributes can also be used to personalize emails or target recipients with specified attribute values set in their Profile.  
-To personalize your email using attributes, click [here](/3-send/1-sendOnline.md?[LINK-QARGS-DOC]#gv-3send-1sendOnline-useattrs) 
+Use member attributes, which can be a number, text, a checkbox or single/multiple choice values, to save custom information about your members 
+to satisfy your account's specific needs.  Click [here](/2-members/4-membersAttributes.md?[LINK-QARGS-DOC]#gv-2members-4membersattributes) to learn more
+about attributes.
+
+Attributes can also be used to personalize emails or target recipients who have a specified attribute values 
+set in their Profile.  To personalize your email using attributes, click [here](/3-send/1-sendOnline.md?[LINK-QARGS-DOC]#gv-3send-1sendOnline-useattrs) 
 if you're composing your email in your online account or click [here](/3-send/2-sendInbox.md?[LINK-QARGS-DOC]#gv-3send-2sendInbox-useattrs) 
-if you're sending from your personal inbox.  And then to target recipients using attribute values, 
+if you're sending from your personal inbox.  To target recipients using attribute values, 
 click [here](/3-send/1-sendOnline.md?[LINK-QARGS-DOC]#gv-3send-1sendOnline-send) when composing online or 
 click [here](/3-send/2-sendInbox.md?[LINK-QARGS-DOC]#gv-3send-2sendInbox-listattraddr) if sending from your personal inbox.
 
 <span id="v20-upgrade-FAQ-basics-mem-custapppage"></span>
 ### New! Customizable Profile allows members to set values to attributes and join list and sub-groups
 
-The [Profile](/2-members/5-membersProfile.md?[LINK-QARGS-DOC]#gv-2members-5membersprofile) can be set up by the Account Administrator to suit what works for their account's needs.  Which attributes, lists and sub-groups are available on the Profile is determined by how the **Member Profile Page** 
+The [Profile](/2-members/5-membersProfile.md?[LINK-QARGS-DOC]#gv-2members-5membersprofile) can be set up by the Account Administrator to suit what works for their account.  Which attributes, lists and sub-groups are available on the Profile is determined by how the **Member Profile Page** 
 on the <img src="/docimages/transparent-gear-icon.png" height="22"> **Site Customizations** page is set up by the Account Administrator. 
 
-Then when members visit their Profile, they can set values to the attributes or join the lists and sub-groups that appear on their Profile.  Since members 
-can now set and join, the Profile replaces customized application pages.  Contact us if you would like help setting this up!
+When members visit their Profile, they themselves can set values to the attributes or join the lists and sub-groups that appear on their Profile.  Since members can now set and join, the Profile replaces an account's customized application page.  Contact us if you would like help setting this up!
 
 <span id="v20-upgrade-FAQ-basics-mem-shareemails"></span>
 ### Shared email addresses between GroupVine20 users is no longer allowed
@@ -130,7 +128,7 @@ GroupVine20 account where you are a sender.
 
 List names now require at least one letter (pure numbers are reserved
 by the system for identifying lists and groups in a numeric-only way).
-So, for example, if you had a list previously named "2021", it has
+For example, if you had a list previously named "2021", it has
 been changed to "2021list).
 
 <span id="v20-upgrade-FAQ-basics-mem-unusedalts"></span>
@@ -140,8 +138,7 @@ If a member's profile had "Always copy alternate address?" set to "No" in our ol
 system, which does not have this setting.  
 
 If you would like to save these email addresses in your GroupVine20 account, one option is to 
-create a Custom Attribute on the <img src="/docimages/transparent-gear-icon.png" height="22">**Member Attributes** page named, 
-for example, "Unused Alt Email" and store the address there.    
+create a Custom Attribute on the <img src="/docimages/transparent-gear-icon.png" height="22">**Member Attributes** page and for example, name it "Unused Alt Email" and store the address there.    
 
 Contact us if you have any questions or would like help setting this up.
 
@@ -152,10 +149,10 @@ On our old system when a new member was added, there was an option to send them 
 information on how to send email to the group, if the group allowed general group members to send.
 
 In GroupVine20, at a minimum welcome emails will include a link to the member's Profile and to the account's Email Feed, and will include
-how to send to the group, if the group allows for that.  If it makes sense for your account, an advantage to sending welcome emails is to 
-give members a link to access their Profile, where they can set attribute values and join lists and sub-groups.
+how to send to the group, if the group allows for that.  An advantage to sending welcome emails is to 
+give members easy access to their Profile, where they can set attribute values and join lists and sub-groups.
 
-Currently migrated account have welcome emails sent and you can skip sending welcome emails to new members by 
+Currently migrated accounts have welcome emails sent and this can be changed by 
 setting *Always send welcome emails?* on the <img src="/docimages/transparent-gear-icon.png" height="22">**Account Settings** page.  
 
 <span id="v20-upgrade-FAQ-sendemail"></span>
