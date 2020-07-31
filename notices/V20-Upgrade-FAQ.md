@@ -18,20 +18,20 @@ New features and changes to be aware of with the August 2020 upgrade to GroupVin
 * [Shared email addresses between GroupVine20 users is no longer allowed](#v20-upgrade-FAQ-basics-mem-shareemails)
 * [How to set your Display Name](#v20-upgrade-FAQ-basics-mem-dispname)
 * [List names change for list names without a letter](#v20-upgrade-FAQ-basics-mem-listname)
-* [---> Option to email new members a Welcome email, which is currently turned on](#v20-upgrade-FAQ-basics-mem-welcomeemails)
+* [Option to email new members a Welcome email, which is currently turned on](#v20-upgrade-FAQ-basics-mem-welcomeemails)
 * [Unused alternate email address were not migrated](#v20-upgrade-FAQ-basics-mem-unusedalts)
 
 ## [Sending Email](#v20-upgrade-FAQ-sendemail)
 * [New! Confirmation Required for Emails from Personal Inbox to Unmoderated Groups](#v20-upgrade-FAQ-sendemail-confemail)
 * [New! Templates make it faster and easier to compose periodic emails](#v20-upgrade-FAQ-basics-sendemail-templates)
-* [New! Email Widgets and attributes can be sent from a personal inbox](#v20-upgrade-FAQ-basics-sendemail-ewsattrsinbox)
-* [Email Widgets: now a quick add from edit menu, faster, Submit button is gone!](#v20-upgrade-FAQ-basics-sendemail-ews)
+* [New! Email Widgets and attributes can be added to an email sent from a personal inbox](#v20-upgrade-FAQ-basics-sendemail-ewsattrsinbox)
+* [Email Widgets: a quick add from editor menu, faster, and Submit button is gone!](#v20-upgrade-FAQ-basics-sendemail-ews)
 * [List email addresses have changed - update your contacts!](#v20-upgrade-FAQ-basics-sendemail-listaddr)
-* [--->Resend an email](#v20-upgrade-FAQ-basics-sendemail-resend)
+* [Resending an email with Email Widgets](#v20-upgrade-FAQ-basics-sendemail-resend)
 
 ## [Subscription Accounts](#v20-upgrade-FAQ-basics-subs)
 * [How to sign up](#v20-upgrade-FAQ-basics-subs-listaddr)
-* [---> Subscription account migration](#v20-upgrade-FAQ-basics-subs-migration)
+* [Subscription account migration](#v20-upgrade-FAQ-basics-subs-migration)
 
 <span id="v20-upgrade-FAQ-basics"></span>
 ## Basics
@@ -79,6 +79,7 @@ The migration of your account included the following:
 * Account settings
 * Email settings
 * Final emails from 7/29/19 to the present
+* Subscription accounts were migrated to a similar Subscription service level
 
 <span id="v20-upgrade-FAQ-mem"></span>
 ## Membership
@@ -161,7 +162,6 @@ setting *Always send welcome emails?* on the <img src="/docimages/transparent-ge
 <span id="v20-upgrade-FAQ-sendemail-confemail"></span>
 ### New! Confirmation Required for Emails from Personal Inbox to Unmoderated Groups
 
-Confirm emails sent from your personal inbox to unmoderated groups
 Spammers are sometimes able to highjack personal email addresses, and
 then send spam to all of that person's contacts, including the
 GroupVine email communities they are able to send to.  To help avoid
@@ -174,26 +174,44 @@ bounce message reports are sent to the sender.
 <span id="v20-upgrade-FAQ-basics-sendemail-templates"></span>
 ### New! Templates make it faster and easier to compose periodic emails
 
-A template is a special saved email that can be used as a starting point for new emails that you send often, e.g. weekly newsletters, daily posts, announcements, and reports.  Once your template's look is set up, using them will save you the time of recreating your email's look and basic content each time you send your periodic email.
+A template is a special saved email that can be used as a 
+starting point for new emails that you send often, e.g. weekly newsletters, 
+daily posts, announcements, and reports.  Once your 
+template is set up, using them will save you the time of 
+recreating your email's look and basic content each time you 
+send your periodic email.
 
 Click [here](/3-send/5-resend.md?[LINK-QARGS-DOC]#gv-3send-6templates) for more information on creating and using templates.
 
 <span id="v20-upgrade-FAQ-basics-sendemail-ewsattrsinbox"></span>
-### New! Email Widgets and attributes can be sent from a personal inbox
+### New! Email Widgets and attributes can be added to an email sent from a personal inbox
 
-Email Widgets are a simple and powerful tool that make it easy to ask questions, collect information, start conversations and gather feedback right in an email. From their inbox, recipients can add responses and comments and see up-to-date images that summarize Email Widget responses.  For a further introduction and more information on Email Widgets, click [here](/5-widgets/1-ewIntro.md?[LINK-QARGS-DOC]#gv-5widgets-1ewintro)
+Email Widgets are a simple and powerful tool that make it easy 
+to ask questions, collect information, start conversations and 
+gather feedback right in an email. From their inbox, recipients 
+can add responses and comments and see up-to-date images that 
+summarize Email Widget responses.  For a further introduction 
+and more information on Email Widgets, click [here](/5-widgets/1-ewIntro.md?[LINK-QARGS-DOC]#gv-5widgets-1ewintro)
+and to include Email Widgets to emails created from an inbox, 
+click [here](/3-send/2-sendInbox.md?[LINK-QARGS-DOC]#gv-3send-2sendInbox-useattrs)
 
-Custom Attributes are used to save member information that is specific to your account needs and to customize your emails.  Attributes can also be used
-to target recipients who have an attribute set to a specific values.  For more information on Attributes, click [here](/2-members/4-membersAttributes.md?[LINK-QARGS-DOC]#gv-2members-4membersattributes).
-
-To include Email Widgetes to emails created from an inbox, click [here](/3-send/2-sendInbox.md?[LINK-QARGS-DOC]#gv-3send-2sendInbox-useattrs) and to include attribute values click [here](/3-send/2-sendInbox.md?[LINK-QARGS-DOC]#gv-3send-2sendInbox-useattrs).
+Custom Attributes are used to save member information that is 
+specific to your account.  Attributes can be added to your emails
+to personalize them with the recipient's attribute values.
+For more information about 
+Attributes, click [here](/2-members/4-membersAttributes.md?[LINK-QARGS-DOC]#gv-2members-4membersattributes)
+and to add attributes to an email created from an inbox,
+click [here](/3-send/2-sendInbox.md?[LINK-QARGS-DOC]#gv-3send-2sendInbox-useattrs).
 
 <span id="v20-upgrade-FAQ-basics-sendemail-ews"></span>
-### Email Widgets: now a quick add from edit menu, faster, Submit button is gone!
+### Email Widgets: a quick add from editor menu, faster, and Submit button is gone!
 
 Email Widgets are a simple and powerful tool that make it easy to ask questions, collect information, start conversations and gather feedback right in an email. From their inbox, recipients can add responses and comments and see up-to-date images that summarize Email Widget responses.
 
-For a introductory information on Email Widgets, click [here](/5-widgets/1-ewIntro.md?[LINK-QARGS-DOC]#gv-5widgets-1ewintro) and to add 
+Try sending an email with some Email Widgets to yourself and a few others to check out how they look 
+in your email and from the email feed, and then respond, add some comments and download responses.
+
+For more details on Email Widgets, click [here](/5-widgets/1-ewIntro.md?[LINK-QARGS-DOC]#gv-5widgets-1ewintro) and to add 
 a widget to your online email, click [here](/3-send/1-sendOnline.md?[LINK-QARGS-DOC]#gv-3send-1sendOnline-useews).
 
 <span id="v20-upgrade-FAQ-basics-sendemail-listaddr"></span>
@@ -215,9 +233,17 @@ list=ListAddress++AccountName@groupvine.com
 ```
 
 <span id="v20-upgrade-FAQ-basics-sendemail-resend"></span>
-### Resend an email
+### Resending an email with Email Widgets
 
-[here](/3-send/5-resend.md?[LINK-QARGS-DOC]#gv-2members-5resend)
+By default, resending an email is done without any changes, or "as is," which is important if your email has Email Widgets.
+By sending "as is" Email Widget responses collected with the resend will stay grouped together with the original email, 
+as well as with other "as is" resends of the same email.  This is probably the most common choice since a resend is usually 
+sent to missed or new recipients.
+
+If resending is done as a copy, and the email has Email Widgets, then responses will be separate from the original email
+and any of its resends, and will have its own data set.  
+
+For more information on resending emails, click [here](/3-send/5-resend.md?[LINK-QARGS-DOC]#gv-2members-5resend).
 
 <span id="v20-upgrade-FAQ-basics-subs"></span>
 ## Subscription Accounts
@@ -225,28 +251,29 @@ list=ListAddress++AccountName@groupvine.com
 <span id="v20-upgrade-FAQ-basics-subs-listaddr"></span>
 ### How to sign up
 
-To sign up, go to your <img src="/docimages/transparent-gear-icon.png" height="22">**Subscription Status** page and click the link to review features and sign up!
+To sign up or upgrade your account, go to your <img src="/docimages/transparent-gear-icon.png" height="22">**Subscription Status** page and click the link to review features and sign up!
 
 <span id="v20-upgrade-FAQ-basics-subs-migration"></span>
 ### Subscription account migration
 
-<span class="free">
+<span class="todo">
 
 Subscription accounts:  Service Type, due dates, free month, sign up by 9/1 on new system
  
-</span> <!-- free -->
-
-GroupVine20 will be using a different payment service for subscription accounts than what we used in our old system.
-
-There are a few additional pricing options which you can check out here in case one is more 
-
-Accounts were transferred to a similar Subscription service level and GroupVine has extended your expiration date to 91/20 to 
-give you a free month before you need to sign up.
-
-
 For the upgrade, your account will be transferred to a similar Subscription account and we've 
 extended your expiration date to give you a free month before needing to sign up. We will be 
 canceling your subscription with our old service on XXXX and you will be refunded any outstanding 
 balance to the credit card on file.  To sign up, go to the <GEAR> Subscription Status page and 
 click the link to review features and sign up.
+ 
+</span> <!-- todo -->
+
+GroupVine20 will be using a new payment service for subscription accounts and we'll work
+together to get everyone transferred over.  
+
+Current subscription accounts will at the very least be grandfathered in at their current rate, but some 
+accounts will actually see a decrease in cost (!) or an increase in account member size (!)
+
+Accounts were migrated to a similar Subscription service level and GroupVine extended your expiration date to 9/1/20 to 
+give you a free month of service before you will need to sign up.
 
