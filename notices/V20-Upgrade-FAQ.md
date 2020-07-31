@@ -220,8 +220,11 @@ click [here](/3-send/2-sendInbox.md?[LINK-QARGS-DOC]#gv-3send-2sendInbox-useattr
 
 Email Widgets are a simple and powerful tool that make it easy to ask questions, collect information, start conversations and gather feedback right in an email. From their inbox, recipients can add responses and comments and see up-to-date images that summarize Email Widget responses.
 
+Email Widgets got an upgrade so they're super easy to add from the editor menu, and they're faster and more responsive when viewing responses.
+
 Try sending an email with some Email Widgets to yourself and a few others to check out how they look 
-in your email and from the email feed, and then respond, add some comments and download responses.
+in your email and from your Email Feed.  Then respond and maybe change your response, and add some comments.  Anyone viewing their response listing will get udpated in real-time with new or changed responses, as will the summary images. If you added a comment, everyone in that response's thread will receive an email notifying them of the comment.  Finally, download responses to
+see up-to-date responses and comments, and more :)
 
 For more details on Email Widgets, click [here](/5-widgets/1-ewIntro.md?[LINK-QARGS-DOC]#gv-5widgets-1ewintro) and to add 
 a widget to your online email, click [here](/3-send/1-sendOnline.md?[LINK-QARGS-DOC]#gv-3send-1sendOnline-useews).
