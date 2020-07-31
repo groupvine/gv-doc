@@ -10,11 +10,13 @@ New features and changes to be aware of with the August 2020 upgrade to GroupVin
 * [New! Your Email Feed and new home page](#v20-upgrade-FAQ-basics-feed)
 * [How to sign in to your account](#v20-upgrade-FAQ-basics-signin)
 * [GroupVine20 documentation](#v20-upgrade-FAQ-basics-docurl)
-* [Information migrated to your new GroupVine20 account](#v20-upgrade-FAQ-basics-whatmigrated)
+* [What information was migrated to your new GroupVine20 account](#v20-upgrade-FAQ-basics-whatmigrated)
+* [Limited access to your account on our old system through 9/30/20](#v20-upgrade-FAQ-basics-accoldsys)
 
 ## [Membership](#v20-upgrade-FAQ-mem)
 * [New! Create customized attributes to save member info to fit your account needs](#v20-upgrade-FAQ-mem-attrs)
 * [New! Customizable Profile allows members to set their values to attributes and join list and sub-groups](#v20-upgrade-FAQ-basics-mem-custapppage)
+* [New! Embedded new member sign-up to add to your own website](#v20-upgrade-FAQ-basics-mem-embedsignup)
 * [Shared email addresses between GroupVine20 users is no longer allowed](#v20-upgrade-FAQ-basics-mem-shareemails)
 * [How to set your Display Name](#v20-upgrade-FAQ-basics-mem-dispname)
 * [List names change for list names without a letter](#v20-upgrade-FAQ-basics-mem-listname)
@@ -72,7 +74,7 @@ For GroupVine 4 School accounts, click [here](https://www.trivy.email/topics?sv=
 On the left side of the page, make sure your Service is set appropriately to view the documentation for your account type.
 
 <span id="v20-upgrade-FAQ-basics-whatmigrated"></span>
-### Information migrated to your new GroupVine20 account
+### What information was migrated to your new GroupVine20 account
 
 The migration of your account included the following:
 * Membership information
@@ -80,6 +82,11 @@ The migration of your account included the following:
 * Email settings
 * Final emails from 7/29/19 to the present
 * Subscription accounts were migrated to a similar Subscription service level
+
+<span id="v20-upgrade-FAQ-basics-accoldsys"></span>
+### Limited access to your account on our old system through 9/30/20
+
+Until September 30, 2020 Administrators will be able to access their current account information for viewing and download purposes (such as email delivery, and response statistics) at *http://www.groupvine-v1.com/myaccount*
 
 <span id="v20-upgrade-FAQ-mem"></span>
 ## Membership
@@ -105,6 +112,11 @@ The [Profile](/2-members/5-membersProfile.md?[LINK-QARGS-DOC]#gv-2members-5membe
 on the <img src="/docimages/transparent-gear-icon.png" height="22"> **Site Customizations** page is set up by the Account Administrator. 
 
 When members visit their Profile, they themselves can set values to the attributes or join the lists and sub-groups that appear on their Profile.  Since members can now set and join, the Profile replaces an account's customized application page.  Contact us if you would like help setting this up!
+
+<span id="v20-upgrade-FAQ-basics-mem-embedsignup"></span>
+### New! Embedded new member sign-up to add to your own website
+
+We have provided HTML code to add to your website so visitors can subscribe to emails from your web pages.  This code can be reached by clicking to display the code at the bottom of the **Membership**'s **Add New Member** page.  
 
 <span id="v20-upgrade-FAQ-basics-mem-shareemails"></span>
 ### Shared email addresses between GroupVine20 users is no longer allowed
