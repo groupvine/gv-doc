@@ -6,8 +6,8 @@
 New features and changes to be aware of with the August 2020 upgrade to GroupVine20.
 
 ## [Basics](#v20-upgrade-FAQ-basics)
+* [New! Account web address is upgraded - update your bookmarks!](#v20-upgrade-FAQ-basics-webaddrupgrade)
 * [New! Your Email Feed and new home page](#v20-upgrade-FAQ-basics-feed)
-* [Account web address is upgraded - update your bookmarks!](#v20-upgrade-FAQ-basics-webaddrupgrade)
 * [How to sign in to your account](#v20-upgrade-FAQ-basics-signin)
 * [GroupVine20 documentation](#v20-upgrade-FAQ-basics-docurl)
 * [Information migrated to your new GroupVine20 account](#v20-upgrade-FAQ-basics-whatmigrated)
@@ -36,32 +36,32 @@ New features and changes to be aware of with the August 2020 upgrade to GroupVin
 <span id="v20-upgrade-FAQ-basics"></span>
 ## Basics
 
+<span id="v20-upgrade-FAQ-basics-webaddrupgrade"></span>
+### New! Account web address is upgraded - update your bookmarks!
+
+Your GroupVine20 account web address has been upgraded to *http://myacount.groupvine.com* which is your Email Feed and new home page. 
+
 <span id="v20-upgrade-FAQ-basics-feed"></span>
 ### New! Your Email Feed and new home page
 
-Your Email Feed and home page is at *http://myacount.groupvine.com* and lists your published emails.  Your Email Feed can be set to public so Visitors
-can view emails or set to private for only account members.  You also have the option of setting an individual email to private in a public feed or setting an individual email to public in a private Email Feed.  
+Your new GroupVineV20 home page at *http://myacount.groupvine.com* is your Email Feed where your published emails are listed.  
+You have the option to set your entire Email Feed to public to allow Visitors to view emails or to private for only account members.  
+You will also have the option to set an individual email to private in a public feed or an individual email to public in a private Email Feed.  
 
-Visitors can reach your feed to view public emails and summary images only of Email Widgets.  Visitors will also have the option to subscribe
+Visitors will be able to reach your feed, but will be limited to viewing only public emails and Email Widget summary images.  Visitors will also have the option to subscribe
 to your emails from the Visitor menu at the top of the page.
 
 Customize your Email Feed by setting your [color theme and logo](/3-send/4-sendSettings.md?[LINK-QARGS-DOC]#gv-2members-4sendsettings-theme-colors) and adding an account description on the <img src="/docimages/transparent-gear-icon.png" height="22">**Site Customizations** page.
 
 Plus, to keep your Email Feed tidy, Administrators and Editors can archive emails or file them away off the Email Feed.  For information on archiving, click [here](/6-feedArchive.md?[LINK-QARGS-DOC]#gv-4feed-6feedarchive).
 
-<span id="v20-upgrade-FAQ-basics-webaddrupgrade"></span>
-### Account web address is upgraded - update your bookmarks!
-
-Your GroupVine20 web address has been upgraded to *http://myacount.groupvine.com* which will take visitors to your 
-account Email Feed.
-
 <span id="v20-upgrade-FAQ-basics-signin"></span>
 ### How to sign in to your account
 
-To sign in, navigate to your home page, http://*myacount*.groupvine.com, which is your Email Feed, and click the **Visitor** menu 
+To sign in, navigate to your home page, *http://myacount.groupvine.com*, which is your Email Feed, and click the **Visitor** menu 
 in the top right corner of the page.  
 
-To sign directory into your account, you can add "/signin" to your home address, *http://myacount.groupvine.com*.  
+To sign directory into your account, you can add "/signin" to your home address, e.g. *http://myacount.groupvine.com/signin*.  
 
 Update your bookmarks!
 
