@@ -15,7 +15,7 @@ New features and changes to be aware of with the August 2020 upgrade to GroupVin
 
 ## [Membership](#v20-upgrade-FAQ-mem)
 * [New! Create customized attributes to save member info to fit your account needs](#v20-upgrade-FAQ-mem-attrs)
-* [New! Customizable Profile allows members to set their values to attributes and join list and sub-groups](#v20-upgrade-FAQ-basics-mem-custapppage)
+* [New! Customizable Profile allows members to set their values to attributes and join lists and sub-groups](#v20-upgrade-FAQ-basics-mem-custapppage)
 * [New! Embedded new member sign-up to add to your own website](#v20-upgrade-FAQ-basics-mem-embedsignup)
 * [Shared email addresses between GroupVine20 users is no longer allowed](#v20-upgrade-FAQ-basics-mem-shareemails)
 * [How to set your Display Name](#v20-upgrade-FAQ-basics-mem-dispname)
@@ -106,12 +106,20 @@ click [here](/3-send/1-sendOnline.md?[LINK-QARGS-DOC]#gv-3send-1sendOnline-send)
 click [here](/3-send/2-sendInbox.md?[LINK-QARGS-DOC]#gv-3send-2sendInbox-listattraddr) if sending from your personal inbox.
 
 <span id="v20-upgrade-FAQ-basics-mem-custapppage"></span>
-### New! Customizable Profile allows members to set values to attributes and join list and sub-groups
+
+### New! Customizable Profile allows members to set values to attributes and join lists and sub-groups
 
 The [Profile](/2-members/5-membersProfile.md?[LINK-QARGS-DOC]#gv-2members-5membersprofile) can be set up by the Account Administrator to suit what works for their account.  Which attributes, lists and sub-groups are available on the Profile is determined by how the **Member Profile Page** 
 on the <img src="/docimages/transparent-gear-icon.png" height="22"> **Site Customizations** page is set up by the Account Administrator. 
 
 When members visit their Profile, they themselves can set values to the attributes or join the lists and sub-groups that appear on their Profile.  Since members can now set and join, the Profile replaces an account's customized application page.  Contact us if you would like help setting this up!
+
+### New! Customizable Profile allows members to set values to attributes and join lists
+
+The [Profile](/2-members/5-membersProfile.md?[LINK-QARGS-DOC]#gv-2members-5membersprofile) can be set up by the Account Administrator to suit what works for their account.  Which attributes and lists are available on the Profile is determined by how the **Member Profile Page** 
+on the <img src="/docimages/transparent-gear-icon.png" height="22"> **Site Customizations** page is set up by the Account Administrator. 
+
+When members visit their Profile, they themselves can set values to the attributes or join the lists that appear on their Profile.  Since members can now set and join, the Profile replaces an account's customized application page.  Contact us if you would like help setting this up!
 
 <span id="v20-upgrade-FAQ-basics-mem-embedsignup"></span>
 ### New! Embedded new member sign-up to add to your own website
