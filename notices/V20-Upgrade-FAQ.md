@@ -150,7 +150,7 @@ GroupVine20 account where you are a sender.
 List names now require at least one letter (pure numbers are reserved
 by the system for identifying lists and groups in a numeric-only way).
 For example, if you had a list previously named "2021", it has
-been changed to "2021list).
+been changed to "2021list").
 
 <span id="v20-upgrade-FAQ-basics-mem-unusedalts"></span>
 ### Unused alternate email address were not migrated
