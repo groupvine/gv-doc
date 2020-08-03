@@ -17,6 +17,7 @@ New features and changes to be aware of with the August 2020 upgrade to GroupVin
 * [New! Create customized attributes to save member info to fit your account needs](#v20-upgrade-FAQ-mem-attrs)
 * [New! Customizable Profile allows members to set their values to attributes and join lists and sub-groups](#v20-upgrade-FAQ-basics-mem-custapppage)
 * [New! Embedded new member sign-up to add to your own website](#v20-upgrade-FAQ-basics-mem-embedsignup)
+* [Uploading a file defaults to changing membership as reflected in the import file](#v20upgrade-FAQ-mem-upload)
 * [Shared email addresses between GroupVine20 users is no longer allowed](#v20-upgrade-FAQ-basics-mem-shareemails)
 * [How to set your Display Name](#v20-upgrade-FAQ-basics-mem-dispname)
 * [List names change for list names without a letter](#v20-upgrade-FAQ-basics-mem-listname)
@@ -124,7 +125,16 @@ When members visit their Profile, they themselves can set values to the attribut
 <span id="v20-upgrade-FAQ-basics-mem-embedsignup"></span>
 ### New! Embedded new member sign-up to add to your own website
 
-We have provided HTML code to add to your website so visitors can subscribe to emails from your web pages.  This code can be reached by clicking to display the code at the bottom of the **Membership**'s **Add New Member** page.  
+We have provided HTML code to add to your website so visitors can subscribe to emails from your web pages.  This code can be reached by clicking to display the code at the bottom of the **Membership**'s **Add New Member** page. 
+
+<span id="v20upgrade-FAQ-mem-upload"></span>
+### Uploading a file defaults to changing membership as reflected in the import file
+
+A member's attribute values, role, and memberships to lists and sub-groups are set based on the values of these columns in the uploaded file. 
+An empty cell will remove an attribute value or remove the member from a list or sub-group, and an empty cell in the "Role" column will remove 
+the member from the account.
+
+Columns not included in the upload file are unaffected when the file is uploaded.
 
 <span id="v20-upgrade-FAQ-basics-mem-shareemails"></span>
 ### Shared email addresses between GroupVine20 users is no longer allowed
@@ -285,17 +295,17 @@ Subscription accounts:  Service Type, due dates, free month, sign up by 9/1 on n
  
 For the upgrade, your account will be transferred to a similar Subscription account and we've 
 extended your expiration date to give you a free month before needing to sign up. We will be 
-canceling your subscription with our old service on XXXX and you will be refunded any outstanding 
-balance to the credit card on file.  To sign up, go to the <GEAR> Subscription Status page and 
+canceling your subscription with our old service as of August 1, 2020 and you will be refunded any outstanding 
+balance to the credit card on file.  To sign up, go to the <img src="/docimages/transparent-gear-icon.png" height="22">**Subscription Status** page and 
 click the link to review features and sign up.
  
 </span> <!-- todo -->
 
-GroupVine20 will be using a new payment service for subscription accounts and we'll work
+GroupVine20 will be using Braintree as our new payment service for subscription accounts and we'll work
 together to get everyone transferred over.  
 
 Current subscription accounts will at the very least be grandfathered in at their current rate, but some 
-accounts will actually see a decrease in cost (!) or an increase in account member size (!)
+accounts will actually see a decrease in cost (!) or an increase in account member size (!).  
 
 Accounts were migrated to a similar Subscription service level and GroupVine extended your expiration date to 9/1/20 to 
 give you a free month of service before you will need to sign up.
