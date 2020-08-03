@@ -23,8 +23,8 @@ based on how their information is set in the file.
   
 <span class="sub g4s">  
   
-A member's attribute values, role, and memberships to lists and sub-groups is set 
-based on the value of these columns in the uploaded file.  An empty cell will remove an attribute value or remove 
+A member's attribute values, role, and memberships to lists and sub-groups are set 
+based on the values of these columns in the uploaded file.  An empty cell will remove an attribute value or remove 
 the member from a list or sub-group, and an empty cell in the "Role" column will remove the member 
 from the account.
 
@@ -33,7 +33,7 @@ from the account.
 <span class="free">
   
 A member's attribute values, role, and memberships
-to lists is set based on the value of these columns in the uploaded file.  An empty cell will remove an attribute value or
+to lists are set based on the values of these columns in the uploaded file.  An empty cell will remove an attribute value or
 remove the member from a list, and an empty cell in the 
 "Role" column will remove the member from the account.
 
