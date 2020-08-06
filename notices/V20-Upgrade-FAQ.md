@@ -201,7 +201,7 @@ GroupVine20 system will immediately respond with a Confirmation
 request email to confirm that the email is legitimate.  
 
 If you're interested in skipping this confirmation step, you can change the setting **Emails from personal inbox required confirmation?** on 
-the <img src="/docimages/transparent-gear-icon.png" height="22">**Account Settings** page under **Email security** to 'No'
+the <img src="/docimages/transparent-gear-icon.png" height="22">**Account Settings** page under **Email security** to `No`
 
 <span class="highlight">
 
@@ -209,7 +209,7 @@ Skipping the confirmation step opens your account to the possibility of unwanted
 
 </span> <!-- highlight -->
  
-Also, all bounce message reports are sent to the sender.
+Also, all bounce message reports are now sent to the sender.
 
 <span id="v20-upgrade-FAQ-basics-sendemail-templates"></span>
 ### New! Templates make it faster and easier to compose periodic emails
