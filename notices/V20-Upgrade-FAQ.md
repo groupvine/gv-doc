@@ -192,14 +192,24 @@ setting *Always send welcome emails?* on the <img src="/docimages/transparent-ge
 <span id="v20-upgrade-FAQ-sendemail-confemail"></span>
 ### New! Confirmation Required for Emails from Personal Inbox to Unmoderated Groups
 
-Spammers are sometimes able to highjack personal email addresses, and
+Spammers are sometimes able to hijack personal email addresses, and
 then send spam to all of that person's contacts, including the
 GroupVine email communities they are able to send to.  To help avoid
 this risk, when emails are sent from your personal inbox to any
 account or sub-group address that isn't already being moderated, the
 GroupVine20 system will immediately respond with a Confirmation
-request email to confirm that the email is legitimate.  Also, all
-bounce message reports are sent to the sender.
+request email to confirm that the email is legitimate.  
+
+If you're interested in skipping this confirmation step, you can change the setting **Emails from personal inbox required confirmation?** on 
+the <img src="/docimages/transparent-gear-icon.png" height="22">**Account Settings** page under **Email security** to 'No'
+
+<span class="highlight">
+
+Skipping the confirmation step opens your account to the possibility of unwanted emails being distributed when a member's personal email account has been hacked.
+
+</span> <!-- highlight -->
+ 
+Also, all bounce message reports are sent to the sender.
 
 <span id="v20-upgrade-FAQ-basics-sendemail-templates"></span>
 ### New! Templates make it faster and easier to compose periodic emails
