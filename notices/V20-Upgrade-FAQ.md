@@ -25,7 +25,7 @@ New features and changes to be aware of with the August 2020 upgrade to GroupVin
 * [Unused alternate email address were not migrated](#v20-upgrade-FAQ-basics-mem-unusedalts)
 
 ## [Sending Email](#v20-upgrade-FAQ-sendemail)
-* [New! Confirmation Required for Emails from Personal Inbox to Unmoderated Groups](#v20-upgrade-FAQ-sendemail-confemail)
+* [New! Confirm Sending Emails from Personal Inbox to Unmoderated Groups](#v20-upgrade-FAQ-sendemail-confemail)
 * [New! Templates make it faster and easier to compose periodic emails](#v20-upgrade-FAQ-basics-sendemail-templates)
 * [New! Email Widgets and attributes can be added to an email sent from a personal inbox](#v20-upgrade-FAQ-basics-sendemail-ewsattrsinbox)
 * [Email Widgets upgrade: easy add from editor menu, faster, and Submit button is gone!](#v20-upgrade-FAQ-basics-sendemail-ews)
@@ -190,7 +190,7 @@ setting *Always send welcome emails?* on the <img src="/docimages/transparent-ge
 ## Sending Email
 
 <span id="v20-upgrade-FAQ-sendemail-confemail"></span>
-### New! Confirmation Required for Emails from Personal Inbox to Unmoderated Groups
+### New! Confirm Sending Emails from Personal Inbox to Unmoderated Groups
 
 Spammers are sometimes able to hijack personal email addresses, and
 then send spam to all of that person's contacts, including the
