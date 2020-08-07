@@ -12,7 +12,7 @@ address has bounced twice, it is "bounced out" and considered a "problem" addres
 
 After sending an email from an online account or from
 a personal inbox, if there were any failed
-deliveries, an "Email delivery report" from "Trivy Worker
+deliveries, an "Email delivery report" from "GV-BRAND Worker
 Bee" is emailed to the sender with a list of bounced
 email addresses and the reason for the bounce.  If all
 deliveries were successful, then a delivery report will

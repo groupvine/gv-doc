@@ -22,7 +22,7 @@ email sent with the `~post` instruction from your personal inbox to your account
 For example, for the Lighthouse Labs account, send the email to:
 
 ```
-~post~~lighthouselabs@trivy.email
+~post~~lighthouselabs@groupvine.com
 ```
 
 Note

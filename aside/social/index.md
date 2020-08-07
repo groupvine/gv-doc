@@ -72,7 +72,7 @@ An email can be scheduled for sending later by adding a "senddate" to
 the email address, for example like the following:
 
 ```
-~senddate='2019-04-10T13_30-08'~~lighthouselabs@trivy.email
+~senddate='2019-04-10T13_30-08'~~lighthouselabs@groupvine.com
 ```
 
 </span>

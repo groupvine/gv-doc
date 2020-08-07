@@ -68,9 +68,9 @@ Update your bookmarks!
 <span id="v20-upgrade-FAQ-basics-docurl"></span>
 ### GroupVine20 documentation 
 
-For subscription accounts, click [here](https://www.trivy.email/topics?sv=sub).
+For subscription accounts, click [here](https://www.groupvine.com/topics?sv=sub).
 
-For GroupVine 4 School accounts, click [here](https://www.trivy.email/topics?sv=g4s).
+For GroupVine 4 School accounts, click [here](https://www.groupvine.com/topics?sv=g4s).
 
 On the left side of the page, make sure your Service is set appropriately to view the documentation for your account type.
 
