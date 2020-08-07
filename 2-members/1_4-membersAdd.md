@@ -5,7 +5,7 @@
 
 All accounts are equipped with a public page where people can sign up to
 subscribe to your emails.
-You can find this URL, e.g. https://*myaccount*.trivy.email/subscribe, on the **Membership**'s **Add New Member** page. 
+You can find this URL, e.g. https://*myaccount*.groupvine.com/subscribe, on the **Membership**'s **Add New Member** page. 
 
 <span class="adv">
   
@@ -27,19 +27,25 @@ the **Subscription Sign-up Page** on the <img src="/docimages/transparent-gear-i
 <span class="highlight">
 
 For the application process, first set up the [Profile](/2-members/5-membersProfile.md?[LINK-QARGS-DOC]#gv-2members-5membersprofile) by 
-clicking **Member Profile Page** on the <img src="/docimages/transparent-gear-icon.png" height="22">**Site Customizations** page.  
-Setting up the Profile allows you to customize what information members can set themselves, and which lists and sub-groups they can self-join.  
+clicking **Member Profile Page** on the <img src="/docimages/transparent-gear-icon.png" height="22">**Site Customizations** page.  Setting up the Profile allows you to customize what information members can set themselves, and which lists and sub-groups they can self-join.  
 
 Once a subscriber signs up, they are emailed to confirm their interest
 and to verify their email address along with a link to your Email Feed and to their Profile, 
 where they can set themselves up.
 
-If you'd like members to update their Profile, you can send an email from your online account and from the Pers... (short for Personalization) 
-add the "Link to Profile" to the email, which shows up as a "Profile" link.
+If you would like members to update their Profile, you can send an email from your online account and from the **Pers...** (short for Personalization) menu, 
+add *Link to Profile* to your email, which shows up as a "Profile" link.
 
 </span> <!-- highlight -->
 
 </span> <!-- sub g4s -->
+
+<span class="free">
+  
+Once a subscriber signs up, they are emailed to confirm their interest
+and to verify their email address along with a link to your Email Feed and to their Profile.
+
+</span> <!-- free -->
 
 Then depending on the **Membership** settings on your 
 <img src="/docimages/transparent-gear-icon.png" height="22">**Account Settings** page:
