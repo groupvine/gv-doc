@@ -24,12 +24,25 @@ which includes your account logo and shades of its primary color.
 You can also replace the default text on your sign up page by editing
 the **Subscription Sign-up Page** on the <img src="/docimages/transparent-gear-icon.png" height="22"> **Site Customizations** page.
 
-</span> <!-- sub g4s -->
+<span class="highlight">
+
+For the application process, first set up the [Profile](/2-members/5-membersProfile.md?[LINK-QARGS-DOC]#gv-2members-5membersprofile) by 
+clicking **Member Profile Page** on the <img src="/docimages/transparent-gear-icon.png" height="22">**Site Customizations** page.  
+Setting up the Profile allows you to customize what information members can set themselves, and which lists and sub-groups they can self-join.  
 
 Once a subscriber signs up, they are emailed to confirm their interest
-and to verify their email address.
+and to verify their email address along with a link to your Email Feed and to their Profile, 
+where they can set themselves up.
+
+If you'd like members to update their Profile, you can send an email from your online account and from the Pers... (short for Personalization) 
+add the "Link to Profile" to the email, which shows up as a "Profile" link.
+
+</span> <!-- highlight -->
+
+</span> <!-- sub g4s -->
+
 Then depending on the **Membership** settings on your 
-<img src="/docimages/transparent-gear-icon.png" height="22"> **Account Settings** page:
+<img src="/docimages/transparent-gear-icon.png" height="22">**Account Settings** page:
 
 <span class="sub g4s">
 
@@ -54,3 +67,6 @@ can set attributes and join available lists and sub-groups.
 set attributes and join available lists.  
 
 </span>
+
+
+
