@@ -27,7 +27,10 @@ the **Subscription Sign-up Page** on the <img src="/docimages/transparent-gear-i
 <span class="highlight">
 
 For the application process, first set up the [Profile](/2-members/5-membersProfile.md?[LINK-QARGS-DOC]#gv-2members-5membersprofile) by 
-clicking **Member Profile Page** on the <img src="/docimages/transparent-gear-icon.png" height="22">**Site Customizations** page.  Setting up the Profile allows you to customize what attributes members can set themselves, and which lists and sub-groups they can self-join.  
+clicking **Member Profile Page** on the <img src="/docimages/transparent-gear-icon.png" height="22">**Site Customizations** page.  Setting up the Profile 
+allows you to customize which attributes members can set themselves, and which lists and sub-groups members can self-join.  Also, add text to the top of the Profile with instructions on what you would like members to know to set up their Profile.  
+
+Then to review how the Profile looks with your changes, you can click the menu in the top right corner of the page and select **My profile**.
 
 Once a subscriber signs up, they are emailed to confirm their interest
 and to verify their email address along with a link to your Email Feed and to their Profile, 
