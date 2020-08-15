@@ -93,8 +93,7 @@ considered a Premier ad type, all others are Standard ads.
 
 View Credit pricing is as follows (please 
 <a href="mailto:support@groupvine.com?subject=GoLocal%20high-volume%20pricing&body=My%20website:%20%0D%0AQuestions:%20%0D%0A" target="_blank">
-contact us</a>directly for higher volume pricing):
-
+contact us</a> directly for higher volume pricing):
 
 <table style="margin:20px auto">
   <tr>
