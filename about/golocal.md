@@ -18,7 +18,10 @@ In a nutshell, you only need to supply:
 We'll then help activate your account (starting as low as
 $69 for 2500 views) and your ads can start running as soon
 as tomorrow, plus you'll receive monthly activity reports.
-Scroll down for more details, or get in touch with us now!
+Scroll down for more details, or 
+<a href="mailto:support@groupvine.com?subject=GoLocal%20Information%20Request&body=My%20website:%20%0D%0AQuestions:%20%0D%0A" target="_blank">
+get in touch with us now!
+</a>
 
 <div style="margin:20px auto; text-align:center">
   <img src="/docimages/golocal-ad2.jpg" style="width:320px; height:60px">
