@@ -13,7 +13,7 @@ email service to communicate with their parent community, and it’s simple!
 In a nutshell, you only need to supply:
 
 *  Your biz or org name & website address, if you have one
-*  Your ad images (we can help you create them!)
+*  Your ad images (we can help you create them, for free!)
 
 We'll then help activate your account (starting as low as
 $69 for 2500 views) and your ads can start running as soon
