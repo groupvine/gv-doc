@@ -15,7 +15,8 @@ emails to help promote your business to this community and put your
 business just one click away? (Or know others in your community who
 may be interested and want to help replace the current ads with
 theirs?) You can learn more about our GoLocal™ advertising service
-here, and/or <a href="mailto:support@groupvine.com">send us an email
+<a href="/about/golocal">here,</a>
+and/or <a href="mailto:support@groupvine.com">send us an email
 </a> for other details and we'll help you get started!
 
 # Can I remove the ads all together?
