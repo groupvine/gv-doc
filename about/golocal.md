@@ -59,7 +59,7 @@ following two basic template formats.
   </div>
 
   <div style="margin:20px auto; text-align:center">
-    <img src="/docimages/golocal-top-ads.jpg" width="70%">
+    <img src="/docimages/golocal-top-ads.png" width="70%">
     <div style="display:inline-block">Template Two - Ads in the top banner</div>
   </div>
      
