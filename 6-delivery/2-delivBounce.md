@@ -34,7 +34,7 @@ those corrected addresses.  Here's how to do that:
 * On the New Email page select the option `Resend published email without any changes` and click `Review and Send`.  If email changes
  are needed, then select `Copy published email to your new email` instead, enter a subject and click `Compose`.
  
-* When ready, click `Send`, select the Select Individuals tab and select those members whose address you corrected.  
+* When ready, click `Address & Send`, select the Select Individuals tab and select those members whose address you corrected.  
 
 * Click `Resend!`
 
