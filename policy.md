@@ -301,8 +301,8 @@ or services are used to support our web service.
 <span id="ad-supported"></span>
 ### Ad-supported Service
 
-  For GroupSite Accounts that are supported by advertisements, you
-  agree that that image-based advertisements may appear with the
+  For Groupsite Accounts that are supported by advertisements, you
+  agree that GroupVine may integrate image-based advertisements with the
   content of Site web pages and group emails.  In such accounts, you
   also agree that you will not include additional paid-for
   advertisements in the content of the group emails beyond those that
