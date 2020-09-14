@@ -11,7 +11,8 @@
 <span id="gv-3send-1sendOnline-start"></span>
 ### Where to start
 
-To compose and send an email from your online account, select **New
+If you have an Admin or Editor role, you can 
+compose and send emails from your online account.  First select **New
 Email** and then select **Prepare email online**.
 
 By default the **New** tab is selected to create a new email from
