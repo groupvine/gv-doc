@@ -25,9 +25,9 @@ New features and changes to be aware of with the August 2020 upgrade to GroupVin
 * [Unused alternate email address were not migrated](#v20-upgrade-FAQ-basics-mem-unusedalts)
 
 ## [Sending Email](#v20-upgrade-FAQ-sendemail)
-* [New! Confirm Sending Emails from Personal Inbox to Unmoderated Groups](#v20-upgrade-FAQ-sendemail-confemail)
+* [New! Confirm Sending Emails from personal email account to Unmoderated Groups](#v20-upgrade-FAQ-sendemail-confemail)
 * [New! Templates make it faster and easier to compose periodic emails](#v20-upgrade-FAQ-basics-sendemail-templates)
-* [New! Email Widgets and attributes can be added to an email sent from a personal inbox](#v20-upgrade-FAQ-basics-sendemail-ewsattrsinbox)
+* [New! Email Widgets and attributes can be added to an email sent from your personal email account](#v20-upgrade-FAQ-basics-sendemail-ewsattrsinbox)
 * [Email Widgets upgrade: easy add from editor menu, faster, and Submit button is gone!](#v20-upgrade-FAQ-basics-sendemail-ews)
 * [List email addresses have changed - update your contacts!](#v20-upgrade-FAQ-basics-sendemail-listaddr)
 * [Resending an email with Email Widgets](#v20-upgrade-FAQ-basics-sendemail-resend)
@@ -101,10 +101,10 @@ about attributes.
 
 Attributes can also be used to personalize emails or target recipients who have a specified attribute values 
 set in their Profile.  To personalize your email using attributes, click [here](/3-send/1-sendOnline.md?[LINK-QARGS-DOC]#gv-3send-1sendOnline-useattrs) 
-if you're composing your email in your online account or click [here](/3-send/2-sendInbox.md?[LINK-QARGS-DOC]#gv-3send-2sendInbox-useattrs) 
-if you're sending from your personal inbox.  To target recipients using attribute values, 
+if you're composing your email in your account's New Email online page click [here](/3-send/2-sendInbox.md?[LINK-QARGS-DOC]#gv-3send-2sendInbox-useattrs) 
+if you're sending from your personal email account.  To target recipients using attribute values, 
 click [here](/3-send/1-sendOnline.md?[LINK-QARGS-DOC]#gv-3send-1sendOnline-send) when composing online or 
-click [here](/3-send/2-sendInbox.md?[LINK-QARGS-DOC]#gv-3send-2sendInbox-listattraddr) if sending from your personal inbox.
+click [here](/3-send/2-sendInbox.md?[LINK-QARGS-DOC]#gv-3send-2sendInbox-listattraddr) if sending from your personal email account.
 
 <span id="v20-upgrade-FAQ-basics-mem-custapppage"></span>
 
@@ -190,17 +190,17 @@ setting *Always send welcome emails?* on the <img src="/docimages/transparent-ge
 ## Sending Email
 
 <span id="v20-upgrade-FAQ-sendemail-confemail"></span>
-### New! Confirm Sending Emails from Personal Inbox to Unmoderated Groups
+### New! Confirm Sending Emails from Personal Email Account to Unmoderated Groups
 
 Spammers are sometimes able to hijack personal email addresses, and
 then send spam to all of that person's contacts, including the
 GroupVine email communities they are able to send to.  To help avoid
-this risk, when emails are sent from your personal inbox to any
+this risk, when emails are sent from your personal email account to any
 account or sub-group address that isn't already being moderated, the
 GroupVine20 system will immediately respond with a Confirmation
 request email to confirm that the email is legitimate.  
 
-If you're interested in skipping this confirmation step, you can change the setting **Emails from personal inbox required confirmation?** on 
+If you're interested in skipping this confirmation step, you can change the setting **Emails from personal email account required confirmation?** on 
 the <img src="/docimages/transparent-gear-icon.png" height="22">**Account Settings** page under **Email security** to `No`
 
 <span class="highlight">
@@ -224,7 +224,7 @@ send your periodic email.
 Click [here](/3-send/5-resend.md?[LINK-QARGS-DOC]#gv-3send-6templates) for more information on creating and using templates.
 
 <span id="v20-upgrade-FAQ-basics-sendemail-ewsattrsinbox"></span>
-### New! Email Widgets and attributes can be added to an email sent from a personal inbox
+### New! Email Widgets and attributes can be added to an email sent from a personal email account
 
 Email Widgets are a simple and powerful tool that make it easy 
 to ask questions, collect information, start conversations and 

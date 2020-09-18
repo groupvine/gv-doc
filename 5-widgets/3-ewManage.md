@@ -65,7 +65,7 @@ These three settings affect the response listing and apply to all Email Widgets 
 
 <img src="/docimages/email-config-ew.png" height="250">
 
-* **Allow response listing?** When enabled, the response listing is available to recipients by clicking to view the live email or clicking an Email Widget from their inbox to get to the email online, otherwise only the widget summary images are shown.  If disabled, signed-in Editor recipients and all signed-in Admins are still able to view the listing from the email online.
+* **Allow response listing?** When enabled, the response listing is available to recipients by clicking to view the live email or clicking an Email Widget from their personal inbox to get to the email online, otherwise only the widget summary images are shown.  If disabled, signed-in Editor recipients and all signed-in Admins are still able to view the listing from the email online.
 
 * **Commenting allowed on responses?** This option is only applicable if *Allow response listing?* is enabled.
 

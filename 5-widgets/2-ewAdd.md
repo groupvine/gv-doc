@@ -5,8 +5,8 @@
 
 <span class="todo">
   
-* Online emails
-* Emails from your inbox
+* Emails from groupvine.com account website
+* Emails from your personal email account
 Is there more text to add here?
 
 </span> <!-- todo -->
@@ -50,4 +50,4 @@ for feature comparisons and upgrade options.
 
 </span> <!-- free -->
 
-Click [here](/3-send/1-sendOnline.md?[LINK-QARGS-DOC]#gv-3send-1sendOnline) for information on adding an Email Widget to your online email or click [here](/3-send/2-sendInbox.md?[LINK-QARGS-DOC]#gv-3send-2sendInbox) for details to add an Email Widget when sending from your personal email account.
+Click [here](/3-send/1-sendOnline.md?[LINK-QARGS-DOC]#gv-3send-1sendOnline) for information on adding an Email Widget to an email you are composing online in your groupvine.com New Email page or click [here](/3-send/2-sendInbox.md?[LINK-QARGS-DOC]#gv-3send-2sendInbox) for details to add an Email Widget when sending from your personal email account.
