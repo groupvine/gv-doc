@@ -15,20 +15,20 @@
 ### How Uploading a File Impacts Your Membership
 
 <span class="highlight">
-  
-Uploading a file changes a member's information 
-based on how their information is set in the file.  
+
+When using the default "Add" mode, uploading a file only changes or
+adds settings or memberships that are not already set.  To make a change
+to an existing setting or remove a membership, use the "Modify" mode
+which can be set by first clicking on "Options" in the top right of the page
+before doing your upload.
+
+In the default "Add" mode, empty cells will be ignored.  In "Modify"
+mode empty cells will remove an attribute value or remove the member
+from a list or sub-group, and an empty cell in the "Role" column will
+remove the member from the account.
 
 </span> <!-- highlight -->
   
-<span class="sub g4s">  
-  
-A member's attribute values, role, and memberships to lists and sub-groups are set 
-based on the values of these columns in the uploaded file.  An empty cell will remove an attribute value or remove 
-the member from a list or sub-group, and an empty cell in the "Role" column will remove the member 
-from the account.
-
-</span> <!-- sub g4s -->
 
 <span class="free">
   
