@@ -6,7 +6,9 @@
 <span class="sub g4s">
 
 Sub-groups provide additional flexibility in how you manage your
-membership and target your emails.
+membership and target your emails.  New sub-groups can be added
+on the Membership's "Manage Sub-groups" page. 
+
 Here are a sub-group's key features:
 
 * Sub-groups have their own membership that is selected from the parent group's membership and is independent from other sub-groups.
