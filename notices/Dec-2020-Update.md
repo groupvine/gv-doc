@@ -1,7 +1,7 @@
 **GroupVine Notice: December 12, 2020**
 
 <span id="Dec-2020-update"> </span>
-# GroupVine Feature Update - December 2020
+# GroupVine New Features Update - December 2020
 
 New features and changes to be aware of with the December 2020 update
 to the GroupVine community email service, as well as a listing of

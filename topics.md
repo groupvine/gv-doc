@@ -219,7 +219,7 @@
           <ul>
             <li>
               <a href="/notices/Dec-2020-Update.md?[LINK-QARGS-DOC]#Dec-2020-update">
-                Dec 12, 2020: GroupVine Features Update
+                Dec 12, 2020: GroupVine New Features Update
               </a>
             </li>
             <li>
