@@ -21,8 +21,8 @@ to GroupVine20.
 You can now search your Email Feed for matching words or word
 combinations.
 
-**Show image of search input with example search, like "birds OR
-  reptiles" along with arrow to "Search" link to open the search panel**
+_Show image of search input with example search, like "birds OR
+reptiles" along with arrow to "Search" link to open the search panel_
 
 The Subject, From address, and email content for each email in your
 Email Feed will searched and matching results will be listed in order
