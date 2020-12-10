@@ -9,17 +9,24 @@ Email delivery:
 *  **Email**  member's primary email address,
 *  **Email AltN** alternate addresses, where N is an optional integer (2, 3, ...),
 *  **Opted Out** indicates whether the member has opted out (or hasn't yet opted-in) to receiving emails.
-*  **First Name** member's first name
-*  **Last Name** member's last name
-*  **Photo URL** web address of member's profile photo
 
 Identification:
 
+*  **First Name** member's first name
+*  **Last Name** member's last name
+*  **Photo URL** web address of member's profile photo
+*  **id**    number used internally to identify users.
+
+Membership:
+
 *  **Role** Member's role in the account, one of Admininistrator (or abbrev. 'Admin'), 
    Editor, or Member (or abbrev. 'x')
-*  **id**    number used internally to identify users.
 *  **appId** number used internally to identify member applications.
 *  **appStatus** used internally to identify member application status.
+* **Membership Vis** membership visibility for non-Admins (when
+    enabled by the account).  In increasing visibility, must be one
+    of: 'None', 'Name', 'Email' or 'Phone'. Only settable by the
+    member (or GroupVine system administrator).
 
 Text notifications:
 
