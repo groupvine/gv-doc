@@ -218,6 +218,11 @@
           Notices
           <ul>
             <li>
+              <a href="/notices/Dec-2020-Update.md?[LINK-QARGS-DOC]#Dec-2020-update">
+                Dec 12, 2020: GroupVine Features Update
+              </a>
+            </li>
+            <li>
               <a href="/notices/V20-Upgrade-FAQ.md?[LINK-QARGS-DOC]#v20-upgrade-FAQ">
                 Aug 1, 2020: GroupVine20 Upgrade features and changes to be aware of
               </a>
