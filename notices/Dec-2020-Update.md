@@ -39,7 +39,7 @@ example:
 ```
 
 Common words such as the, but, by, very, because, this, that, etc.,
-and search strings less than 3 characters will be ignored.
+will be ignored.
 
 
 <span id="dec2020-email-threads"></span>
