@@ -101,8 +101,9 @@ the private links in the community emails.
 
 * By default, emails sent to the community from a sender's personal
   inbox require the sender to confirm the email before it is delivered
-  to the community.  This sender-confirmation security step can now be
-  optionally disabled on the Account Settings page.
+  to the community.  Your account can now be configured to skip this
+  sender-confirmation security step with a new setting on the Account
+  Settings page.
 
 * You can now download a template membership file for your account on
   the Membership Upload & Export page, to make it easier to create and
