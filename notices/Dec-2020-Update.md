@@ -105,28 +105,31 @@ the private links in the community emails.
   sender-confirmation security step with a new setting on the Account
   Settings page.
 
-* You can now download a template membership file for your account on
+* A template membership file can now be downloaded for your account on
   the Membership Upload & Export page, to make it easier to create and
   upload new membership additions or changes using a membership import file.
 
 * When adding a new member on the "Add New Member" membership page,
-  the new member information (beyond name, email address and role) can
-  be immediately edited on that page.
+  the new member information can then be immediately edited on that
+  page.
 
-* Online email editor updated to include more font choices: Arial Black,
-  Comic Sans MS, Impact, Ubuntu, and Ubunto Mono.
+* The online email editor has been updated to include additional font
+  choices: Arial Black, Comic Sans MS, Impact, Ubuntu, and Ubunto
+  Mono.
 
-* Image handling updated in online email editor to make it easier to insert
-  text immediately before and after, and to add more scaling options.
+* Image handling has been updated in online email editor to make it
+  easier to insert text immediately before and after, and with more
+  image scaling options.
 
-* Manage Lists page in sub-groups now also list the lists defined and managed
-  at the Account level for informational purposes.
+* The Manage Lists page in sub-groups now also includes a list of the
+  Lists defined and managed at the Account level for reference.
 
 * Email notifications are now regularly sent to account Admins when
   there are pending membership applications.  The frequency of these
   notifications can be controlled on the Account Settings page.
 
-* Add support for numeric-only list names (like "2020", "20201").
+* Support has been added for numeric-only list names (like "2020",
+  "20201").
 
 
 Finally, we always appreciate hearing from you on changes and
