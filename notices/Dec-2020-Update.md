@@ -12,7 +12,7 @@ to GroupVine20.
 * [Search your Email Feed](#dec2020-email-feed-search)
 * [Email Feed listing view groups emails by email thread](#dec2020-email-threads)
 * [Online directory for your membership](#dec2020-membership-dir)
-* [Other Noteworthy Changes](#dec2020-other-changes)
+* [Other Notable Changes](#dec2020-other-changes)
 
 
 <span id="dec2020-email-feed-search"></span>
@@ -97,7 +97,7 @@ the private links in the community emails.
 
 
 <span id="dec2020-other-changes"></span>
-## Other Noteworthy Changes since the August 2020 GroupVine20 Upgrade
+## Other Notable Changes since the August 2020 GroupVine20 Upgrade
 
 * By default, emails sent to the community from a sender's personal
   inbox require the sender to confirm the email before it is delivered
