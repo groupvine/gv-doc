@@ -48,7 +48,7 @@ used and combined, along with parentheses.  For example:
 ```
 
 will list any emails that contain the words "oil" and "industry", and also
-contains at least one of the words "climate" or "renewable".
+contains at least one of the words "wind" or "solar".
 
 Common words such as <i>the, but, by, very, because, this, that</i>,
 etc., will be ignored.
