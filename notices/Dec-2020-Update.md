@@ -21,8 +21,9 @@ to GroupVine20.
 You can now search your Email Feed for matching words or word
 combinations.
 
-_Show image of search input with example search, like "birds OR
-reptiles" along with arrow to "Search" link to open the search panel_
+<img src="/docimages/Search_option.png" height="120">
+
+<img src="/docimages/Search_input.png" height="120">
 
 The Subject, From address, and email content for each email in your
 Email Feed will searched and matching results will be listed in order
@@ -49,12 +50,12 @@ The listing view of your Email Feed now groups emails by "threads."
 This means that all replies or resends of an email will be grouped
 into a single line in your Email Feed listing.
 
-_Show example listing with a couple grouped threads_
+<img src="/docimages/Feed_w_threads_unexpanded.png" height="120">
 
 An email thread can be expanded into the individual emails by clicking
 on the "+".
 
-_Previous example with one of the threads expanded_
+<img src="/docimages/Feed_w_threads_expanded.png" height="120">
 
 The threading only groups emails if the Subject hasn't been altered.
 A changed Subject is used as an indication that the sender wishes
@@ -73,13 +74,13 @@ in a received email.
 
 The setting has the following choices:
 
-_image with showing menu with: Admins Only, Editors & Admins, and All members_
+<img src="/docimages/Settings_who_can_view.png" height="120">
 
 Also, members will see a new menu on their profile page to allow them
 to customize what information of theirs would be visible from this
 online directory:
 
-_image with showing menu with: None (Admin access only), Name only, Name & Email, Name, Email & Phone_
+<img src="/docimages/Profile_membership_vis.png" height="120">
 
 New members will have their membership visiblity choice defaulted to
 Name & Email.
