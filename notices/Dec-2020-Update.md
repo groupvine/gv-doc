@@ -31,16 +31,27 @@ of best matches.  (Emails with equivalent matching word density are then
 ordered by most recent emails first.)
 
 If you enter more than one word, only emails that include both words
-will be listed.  For more complex searches, the special terms AND, OR,
-and NOT can be used and combined, along with parentheses.  For
-example:
+will be listed.  For instance, if you enter
 
 ```
-   (oil industry) AND (climate OR renewable)
+    oil industry
 ```
 
-Common words such as the, but, by, very, because, this, that, etc.,
-will be ignored.
+only emails that have both the words "oil" and "industry" will be
+listed.
+
+For more complex searches, the special terms AND, OR, and NOT can be
+used and combined, along with parentheses.  For example:
+
+```
+(oil industry) AND (wind OR solar)
+```
+
+will list any emails that contain the words "oil" and "industry", and also
+contains at least one of the words "climate" or "renewable".
+
+Common words such as <i>the, but, by, very, because, this, that</i>,
+etc., will be ignored.
 
 
 <span id="dec2020-email-threads"></span>
