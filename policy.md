@@ -253,8 +253,8 @@ or services are used to support our web service.
   grant access to its contents to only appropriately authorized Users,
   or if the WG Administrator has chosen to make a membership directory
   available to their members, and the member has not opted-out of the directory,
-  then certain Profile information may also be viewable by other general members
-  using a ticketed link included in emails sent to Groupsite members.
+  then certain Profile information may also be viewable by others using an
+  individually ticketed link included in emails sent to Groupsite members.
   
   Unless WG Administrators choose to make emails or their WG's Email
   Feed public, WG email contents can only be accessed by
