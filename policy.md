@@ -63,8 +63,8 @@ that User has been added (for example, after being approved after
 requesting membership).
 
 * **Groupsite Administrator**  
-A Groupsite member who has been granted the Administrator role
-within the context of a particular Groupsite, which allows the
+A Groupsite member who has been granted the Administrator
+role within the context of a particular Groupsite, which allows the
 user to view and manage membership information for that Groupsite.
 
 * **Applicable Work Group(s)**  
@@ -86,15 +86,13 @@ or services are used to support our web service.
 <span id="personalinfo"></span>
 ### Site's use of Personal Contact Information:
 
-  On users’ "Profile" pages, available via the WG’s membership
-  management page, via a link on most other pages, and by uploading
+  On users’ "Profile" pages, on the WG’s membership
+  page, and by uploading or exporting
   membership import files, users and/or WG administrators are able to
   provide, view, update, and/or confirm, user contact information
   (such as email and physical address, phone numbers, and profile
   photo) so that they may be made available for private use within the
-  Applicable WG Community(s), and any other WGs users choose (and are
-  approved) to join or who have been provided with users’ email
-  address and have added these user(s) as member(s).  The collection
+  Applicable WG Community(s).  The collection
   of this information by WGs is intended solely for facilitating
   private, community purposes, such as online directories and group
   email lists.  GroupVine<sup>TM</sup> will not sell this information
@@ -248,16 +246,24 @@ or services are used to support our web service.
   the Site are protected by encrypted links and verifiable
   authentication certificates.  Strong cryptographic hashes are used
   for user password authentication.  No user passwords are directly
-  stored by GroupVine.  User Profile and WG information within the
+  stored by GroupVine.
+
+  User Profile and WG information within the
   Site is protected by password-protected access controls designed to
-  grant access to its contents to only appropriately authorized Users.
-  WG email contents can be accessed only
-  by password-authenticated Users or by using an individually ticketed
-  link to the Groupsite (and the Groupsite's online Email or Email Feed)
-  included in emails sent to Groupsite members.  For
-  payment processing, GroupVine<sup>TM</sup> partners with established
-  payment gateway service companies, and thus, no credit card numbers
-  or other personal payment identifiers are stored on the
+  grant access to its contents to only appropriately authorized Users,
+  or if the WG Administrator has chosen to make a membership directory
+  available to their members, and the member has not opted-out of the directory,
+  then certain Profile information may also be viewable by other general members
+  using a ticketed link included in emails sent to Groupsite members.
+  
+  Unless WG Administrators choose to make emails or their WG's Email
+  Feed public, WG email contents can only be accessed by
+  password-authenticated Users or by using an individually ticketed
+  link to the Groupsite (and the Groupsite's online Email or Email
+  Feed) included in emails sent to Groupsite members.  For payment
+  processing, GroupVine<sup>TM</sup> partners with established payment
+  gateway service companies, and thus, no credit card numbers or other
+  personal payment identifiers are stored on the
   GroupVine<sup>TM</sup> site.
 
 <span id="subscriptions"></span>
@@ -326,7 +332,7 @@ or services are used to support our web service.
   GroupVine<sup>TM</sup> uses Service Providers to perform functions
   and provide services to us, including, without limitation, hosting
   and maintenance, payment processing, customer relationship, and
-  support services. We will share your personally identifiable
+  support services.  We will share your personally identifiable
   information with these third parties, but only to the extent
   necessary to perform these functions and provide such services, and
   only pursuant to written, posted policies requiring such third
@@ -336,12 +342,12 @@ or services are used to support our web service.
 <span id="trademarks"></span>
 ### Trademarks:
 
-  GroupVine, GroupVine20, Trivy, Interactive Email, Engagement Widget,
-  GroupVine's logo and sub-logos, and related trade names and service
-  marks used by GroupVine<sup>TM</sup> are the trademarks of
-  GroupVine, Inc. and may not be used without permission. Other
-  trademarks and trade names that may appear on this Site are the
-  property of their respective owners.
+  GroupVine, GroupVine20, Trivy, Interactive Email, Email Widget,
+  Engagement Widget, GroupVine's logo and sub-logos, and related trade
+  names and service marks used by GroupVine<sup>TM</sup> are the
+  trademarks of GroupVine, Inc. and may not be used without
+  permission. Other trademarks and trade names that may appear on this
+  Site are the property of their respective owners.
 
 <span id="disputes"></span>
 ### Dispute Resolution:
