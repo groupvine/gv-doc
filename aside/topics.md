@@ -71,7 +71,7 @@
 
       <td>
         <h3>
-          Social Email options
+          Email Widget options
         </h3>
         <p>
           emails with social email widgets allow recipients to add responses
