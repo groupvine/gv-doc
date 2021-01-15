@@ -16,7 +16,7 @@ there.
 </span> <!-- adv -->
 
 Your sign up page will be customized with your
-[account theme](/3-send/4-sendSettings.md?[LINK-QARGS-DOC]#gv-3send-4sendsettings-theme-colors),
+[account theme](/3-send/4-sendSettings.md?gv-qargs=0#gv-3send-4sendsettings-theme-colors),
 which includes your account logo and shades of its primary color.
 
 <span class="sub g4s">
@@ -26,7 +26,7 @@ the **Subscription Sign-up Page** on the <img src="/docimages/transparent-gear-i
 
 <span class="highlight">
 
-For the application process, first set up the [Profile](/2-members/5-membersProfile.md?[LINK-QARGS-DOC]#gv-2members-5membersprofile) by 
+For the application process, first set up the [Profile](/2-members/5-membersProfile.md?gv-qargs=0#gv-2members-5membersprofile) by 
 clicking **Member Profile Page** on the <img src="/docimages/transparent-gear-icon.png" height="22">**Site Customizations** page.  Setting up the Profile 
 allows you to customize which attributes members can set themselves, and which lists and sub-groups members can self-join.  Also, add text to the top of the Profile with instructions on what you would like members to know to set up their Profile.  
 

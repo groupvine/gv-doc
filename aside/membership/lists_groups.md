@@ -71,7 +71,7 @@ least a Member of the "2ndgrade".
 
 Additions, modifications, and deletions of new or existing sub-groups
 can also be performed by emailing instructions to your account server; 
-[see here](./emailactions?[LINK-QARGS-DOC]) for instructions.
+[see here](./emailactions?gv-qargs=0) for instructions.
 
 
 </span>  <!-- END ADVANCED -->

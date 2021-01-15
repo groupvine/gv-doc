@@ -102,11 +102,11 @@ GroupVine 4 School and Subscription documentation modes.
 To ensure that the documentation mode (including the service level,
 account id, advanced and support mode settings) are carried along to
 the new page, each internal link should include a special query arg of
-the form either [LINK-QARGS-DOC] or [LINK-QARGS] (if to a non-doc home
+the form either gv-qargs=0 or gv-qargs-app=0 (if to a non-doc home
 page).  E.g., like:
 
 ```
-[importing membership](/4-membership/2-importing.md?[LINK-QARGS-DOC]#gv-import)
+[importing membership](/4-membership/2-importing.md?gv-qargs=0#gv-import)
 ```
 
 

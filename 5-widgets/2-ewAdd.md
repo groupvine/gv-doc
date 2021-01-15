@@ -39,7 +39,7 @@ Here are the different types of Email Widgets that can be included in emails whe
 
 Note
 
-* The color of the summary images are based on shades of your group's primary [theme color](/3-send/4-sendSettings.md?[LINK-QARGS-DOC]#gv-2members-4sendsettings-theme-colors).
+* The color of the summary images are based on shades of your group's primary [theme color](/3-send/4-sendSettings.md?gv-qargs=0#gv-2members-4sendsettings-theme-colors).
 
 * Double click on a widget to change its defaults and to configure widgets email-wide.  It's important to give your widget a name to briefly describes it's purpose.  The name is used in several places:  the caption to the widget's summary image's in the Email Feed, the column label when responses are downloaded to a spreadsheet, and the widget's description when hovering over its response in the reponse listing.  Email Widget names are limited to 32 characters.
 
@@ -50,4 +50,4 @@ for feature comparisons and upgrade options.
 
 </span> <!-- free -->
 
-Click [here](/3-send/1-sendOnline.md?[LINK-QARGS-DOC]#gv-3send-1sendOnline) for information on adding an Email Widget to an email you are composing online in your groupvine.com New Email page or click [here](/3-send/2-sendInbox.md?[LINK-QARGS-DOC]#gv-3send-2sendInbox) for details to add an Email Widget when sending from your personal email account.
+Click [here](/3-send/1-sendOnline.md?gv-qargs=0#gv-3send-1sendOnline) for information on adding an Email Widget to an email you are composing online in your groupvine.com New Email page or click [here](/3-send/2-sendInbox.md?gv-qargs=0#gv-3send-2sendInbox) for details to add an Email Widget when sending from your personal email account.

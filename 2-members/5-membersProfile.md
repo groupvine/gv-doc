@@ -37,14 +37,14 @@ to set or join is determined by how the **Member Profile Page** on the <img src=
 <img src="/docimages/transparent-gear-icon.png" height="22"> **Member Attributes** page.)
 
 Administrators can also update member profiles by uploading a file or by selecting the
-member's ellipsis (<img src="/docimages/ellipsis.png" height="22">) on the **Membership**'s **Member Listing** page.  For more information on uploading, click [here](/2-members/1_2-membersAdd.md?[LINK-QARGS-DOC]#gv-2members-12membersAdd).
+member's ellipsis (<img src="/docimages/ellipsis.png" height="22">) on the **Membership**'s **Member Listing** page.  For more information on uploading, click [here](/2-members/1_2-membersAdd.md?gv-qargs=0#gv-2members-12membersAdd).
 
 </span> <!-- sub g4s -->
 
 <span class="free"> 
 
 Administrators can update member profiles by uploading a file or by selecting the
-member's ellipsis (<img src="/docimages/ellipsis.png" height="22">) on the **Membership**'s **Member Listing** page.  For more information on uploading, click [here](/2-members/1_2-membersAdd.md?[LINK-QARGS-DOC]#gv-2members-12membersAdd).
+member's ellipsis (<img src="/docimages/ellipsis.png" height="22">) on the **Membership**'s **Member Listing** page.  For more information on uploading, click [here](/2-members/1_2-membersAdd.md?gv-qargs=0#gv-2members-12membersAdd).
 
 </span> <!-- free -->
 

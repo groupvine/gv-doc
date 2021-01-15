@@ -30,6 +30,6 @@ the additional option to be private to sub-group members only.
 
 <span class="sub g4s">
   
-For details on setting the Email Feed visibility for an account or sub-group, click [here](/3-send/4-sendSettings.md?[LINK-QARGS-DOC]#gv-2members-4sendsettings-email-feed-visibility).
+For details on setting the Email Feed visibility for an account or sub-group, click [here](/3-send/4-sendSettings.md?gv-qargs=0#gv-2members-4sendsettings-email-feed-visibility).
 
 </span> <!-- sub g4s -->

@@ -3,10 +3,10 @@
 <span id="gv-3send-6templates"></span>
 ## Email Templates
 
-* [What are templates and why use them](/3-send/6-templates.md?[LINK-QARGS-DOC]#gv-3send-6templates-about)
-* [How to create a template](/3-send/6-templates.md?[LINK-QARGS-DOC]#gv-3send-6templates-create)
-* [How to make changes to a template](/3-send/6-templates.md?[LINK-QARGS-DOC]#gv-3send-6templates-change)
-* [How to use a template](/3-send/6-templates.md?[LINK-QARGS-DOC]#gv-3send-6templates-use)
+* [What are templates and why use them](/3-send/6-templates.md?gv-qargs=0#gv-3send-6templates-about)
+* [How to create a template](/3-send/6-templates.md?gv-qargs=0#gv-3send-6templates-create)
+* [How to make changes to a template](/3-send/6-templates.md?gv-qargs=0#gv-3send-6templates-change)
+* [How to use a template](/3-send/6-templates.md?gv-qargs=0#gv-3send-6templates-use)
 
 <span id="gv-3send-6templates-about"></span>
 ### What are templates and why use them

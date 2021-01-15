@@ -49,8 +49,8 @@ Miscellanous:
   used to specify sub-group and list membership, using header field
   labels prefixed by "list:" for list membership and "group:" for
   sub-group membership.  See [Membership
-  Lists](./lists?[LINK-QARGS-DOC]) and [Membership
-  Sub-groups](./groups?[LINK-QARGS-DOC]) for more information on
+  Lists](./lists?gv-qargs=0) and [Membership
+  Sub-groups](./groups?gv-qargs=0) for more information on
   these.
 
 * Additionally, import columns with header labels prefixed with

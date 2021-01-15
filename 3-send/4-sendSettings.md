@@ -8,11 +8,11 @@
 The email related settings below can be found on the <img src="/docimages/transparent-gear-icon.png" height="22"> **Account Settings** and <img src="/docimages/transparent-gear-icon.png" height="22"> 
 **Sub-group Settings** pages.  These settings are identified with an `*` because if the sub-group's setting has not been set, it will default to the account's value, otherwise, the sub-group's settings will override its default value.
      
-* [Theme Colors & Logo](/3-send/4-sendSettings.md?[LINK-QARGS-DOC]#gv-2members-4sendsettings-theme-colors)
-* [Default Email Layout](/3-send/4-sendSettings.md?[LINK-QARGS-DOC]#gv-2members-4sendsettings-default-email-layout)
-* [Use Moderation to review emails before they are sent](/3-send/4-sendSettings.md?[LINK-QARGS-DOC]#gv-2members-4sendsettings-use-moderation)
-* [Who can send emails](/3-send/4-sendSettings.md?[LINK-QARGS-DOC]#gv-2members-4sendsettings-who-can)     
-* [Email feed visibility](/3-send/4-sendSettings.md?[LINK-QARGS-DOC]#gv-2members-4sendsettings-email-feed-visibility)
+* [Theme Colors & Logo](/3-send/4-sendSettings.md?gv-qargs=0#gv-2members-4sendsettings-theme-colors)
+* [Default Email Layout](/3-send/4-sendSettings.md?gv-qargs=0#gv-2members-4sendsettings-default-email-layout)
+* [Use Moderation to review emails before they are sent](/3-send/4-sendSettings.md?gv-qargs=0#gv-2members-4sendsettings-use-moderation)
+* [Who can send emails](/3-send/4-sendSettings.md?gv-qargs=0#gv-2members-4sendsettings-who-can)     
+* [Email feed visibility](/3-send/4-sendSettings.md?gv-qargs=0#gv-2members-4sendsettings-email-feed-visibility)
 
 </span> <!-- sub g4s -->
 
@@ -20,8 +20,8 @@ The email related settings below can be found on the <img src="/docimages/transp
 
 The email related settings below can be found on the <img src="/docimages/transparent-gear-icon.png" height="22"> **Account Settings** page.
 
-* [Theme Colors & Logo](/3-send/4-sendSettings.md?[LINK-QARGS-DOC]#gv-2members-4sendsettings-theme-colors)
-* [Who can send emails](/3-send/4-sendSettings.md?[LINK-QARGS-DOC]#gv-2members-4sendsettings-who-can)     
+* [Theme Colors & Logo](/3-send/4-sendSettings.md?gv-qargs=0#gv-2members-4sendsettings-theme-colors)
+* [Who can send emails](/3-send/4-sendSettings.md?gv-qargs=0#gv-2members-4sendsettings-who-can)     
 
 </span> <!-- free -->
 

@@ -3,12 +3,12 @@
 <span id="gv-2members-12membersAdd"></span>
 ## Upload a Membership FIle
 
-* [How Uploading a File Impacts Your Membership](/2-members/1_2-membersAdd.md?[LINK-QARGS-DOC]#gv-2members-12membersAdd-impactMem)
-* [Uploading Recipient Addresses-only](/2-members/1_2-membersAdd.md?[LINK-QARGS-DOC]#gv-2members-12membersAdd-uploading-recipient-addresses)
-* [Uploading Member Attributes](/2-members/1_2-membersAdd.md?[LINK-QARGS-DOC]#gv-2members-12membersAdd-uploading-member-attributes)
-* [Uploading Membership Roles](/2-members/1_2-membersAdd.md?[LINK-QARGS-DOC]#gv-2members-12membersAdd-uploading-membership-roles)
-* [Uploading to Member Lists](/2-members/1_2-membersAdd.md?[LINK-QARGS-DOC]#gv-2members-12membersAdd-uploading-to-member-lists)
-* [Uploading to Groups](/2-members/1_2-membersAdd.md?[LINK-QARGS-DOC]#gv-2members-12membersAdd-uploading-to-groups)
+* [How Uploading a File Impacts Your Membership](/2-members/1_2-membersAdd.md?gv-qargs=0#gv-2members-12membersAdd-impactMem)
+* [Uploading Recipient Addresses-only](/2-members/1_2-membersAdd.md?gv-qargs=0#gv-2members-12membersAdd-uploading-recipient-addresses)
+* [Uploading Member Attributes](/2-members/1_2-membersAdd.md?gv-qargs=0#gv-2members-12membersAdd-uploading-member-attributes)
+* [Uploading Membership Roles](/2-members/1_2-membersAdd.md?gv-qargs=0#gv-2members-12membersAdd-uploading-membership-roles)
+* [Uploading to Member Lists](/2-members/1_2-membersAdd.md?gv-qargs=0#gv-2members-12membersAdd-uploading-to-member-lists)
+* [Uploading to Groups](/2-members/1_2-membersAdd.md?gv-qargs=0#gv-2members-12membersAdd-uploading-to-groups)
 
 
 <span id="gv-2members-12membersAdd-impactMem"></span>
@@ -114,7 +114,7 @@ Now when sending emails, the recipient’s attribute value can be included in em
     Cheers, 
     From the Lighthouse
 
-For more information on Member Attributes, click [here](/2-members/4-membersAttributes.md?[LINK-QARGS-DOC]#gv-2members-4membersattributes).
+For more information on Member Attributes, click [here](/2-members/4-membersAttributes.md?gv-qargs=0#gv-2members-4membersattributes).
 
 <span id="gv-2members-12membersAdd-uploading-membership-roles"></span>
 ### Uploading Membership Roles
@@ -126,7 +126,7 @@ can also have an arbitrary number of Administrators and Editors.  Here
 are the available role types with their default capabilities and how
 they are used in the upload file.
 
-**Member**: Can receive email and respond to [Email Widgets](/5-widgets/1-ewIntro.md?[LINK-QARGS-DOC]#gv-5widgets-1ewintro).  'x' can be used as an abbreviation.
+**Member**: Can receive email and respond to [Email Widgets](/5-widgets/1-ewIntro.md?gv-qargs=0#gv-5widgets-1ewintro).  'x' can be used as an abbreviation.
 
 **Editor**: In addition to a Member's capabilities, can also send group
 emails.
@@ -154,7 +154,7 @@ the account, and similarly for sub-groups and their sub-group column.
 
 <span class="free">
   
-By default, new members are given the basic "Member" role, which can receive email and respond to [Email Widgets](/5-widgets/1-ewIntro.md?[LINK-QARGS-DOC]#gv-5widgets-1ewintro).  'x' can be used as an abbreviation.
+By default, new members are given the basic "Member" role, which can receive email and respond to [Email Widgets](/5-widgets/1-ewIntro.md?gv-qargs=0#gv-5widgets-1ewintro).  'x' can be used as an abbreviation.
  
 To set a member's role, specify their role in a "Role"
 column, like this (the City, Sport, and Fav Color attributes are
@@ -196,7 +196,7 @@ when the upload was complete.
 * New lists can be created when uploading simply by adding
 *list:[list name]* to a new column header in your file.
 
-For more information about lists, click [here](/2-members/2-membersList.md?[LINK-QARGS-DOC]#gv-2members-2memberslist).
+For more information about lists, click [here](/2-members/2-membersList.md?gv-qargs=0#gv-2members-2memberslist).
 
 <span class="sub g4s">
 
@@ -206,13 +206,13 @@ For more information about lists, click [here](/2-members/2-membersList.md?[LINK
 Groups are similar to lists by also allowing specific
 targeting of community emails, but are more powerful by having their own Administrators
 to manage the group's settings and membership, and moderate their own emails.  For more information about sub-groups,
-click [here](/2-members/3-membersGroups.md?[LINK-QARGS-DOC]#gv-2members-3membersGroups).
+click [here](/2-members/3-membersGroups.md?gv-qargs=0#gv-2members-3membersGroups).
 
 Where new lists can be created using with an upload file, groups need
 to be created before they are referenced in the upload file.
 
 Group columns are in the format *group:[group name]* and whereas a member's role for the entire account is
-under a "Role" column (see [Uploading Membership Roles](/2-members/1_2-membersAdd.md?[LINK-QARGS-DOC]#gv-2members-12membersAdd-uploading-membership-roles)), the member's role in a sub-group is under the *group:[group name]* column.
+under a "Role" column (see [Uploading Membership Roles](/2-members/1_2-membersAdd.md?gv-qargs=0#gv-2members-12membersAdd-uploading-membership-roles)), the member's role in a sub-group is under the *group:[group name]* column.
 
 | Email                    | group:east | group:west |
 |:-------------------------|:-----------|:-----------|

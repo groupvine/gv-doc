@@ -28,7 +28,7 @@ draft, but has yet to be sent/published to its intended recipients.
 * A Template is set up as a starting point for new emails that are sent often, e.g. weekly newsletters.  The templates on this tab
 have been saved either in the current group or in a parent group.  
 
-* Published emails have been sent to its recipients and are published to the group's Email Feed.  Click [here](/3-send/5-resend.md?[LINK-QARGS-DOC]#gv-2members-5resend) for details on resending a published email.
+* Published emails have been sent to its recipients and are published to the group's Email Feed.  Click [here](/3-send/5-resend.md?gv-qargs=0#gv-2members-5resend) for details on resending a published email.
 
 <span id="gv-3send-1sendOnline-useattrs"></span>
 ### Add predefined and custom attributes to customize your email
@@ -41,7 +41,7 @@ For example, if you select “First Name” from the Personalization menu, the p
 is added to your email.  When previewing your email, the placeholder 
 is replaced with your First Name as set in your Profile.
 For more information about Member Attributes, click 
-[here](/2-members/4-membersAttributes.md?[LINK-QARGS-DOC]#gv-2members-4membersattributes).
+[here](/2-members/4-membersAttributes.md?gv-qargs=0#gv-2members-4membersattributes).
 
 Also available from the **Pers...** menu are *Link to Profile* and *Link to Email Feed*, which can be included
 in your emails to give members a direct link access to their Profile and your account Email Feed.
@@ -54,7 +54,7 @@ in your emails to give members a direct link access to their Profile and your ac
 While composing your email, ask questions or gather information directly in your email by selecting one of the 
 five types of Email Widgets (Text, Count, RSVP, Yes-No, Single/Multi-Choice) from the **Widget** menu.  Use normal text in your email to 
 ask the question related to an Email Widget.  For more information about using Email Widgets,
-click [here](/5-widgets/1-ewIntro.md?[LINK-QARGS-DOC]#gv-5widgets-1ewIntro).
+click [here](/5-widgets/1-ewIntro.md?gv-qargs=0#gv-5widgets-1ewIntro).
 
 </span> <!-- sub g4s -->
 
@@ -62,7 +62,7 @@ click [here](/5-widgets/1-ewIntro.md?[LINK-QARGS-DOC]#gv-5widgets-1ewIntro).
   
 While composing you email, ask questions or gather information directly in your email by selecting one of the four preset types of Email Widgets 
 (Text, Count, RSVP, Yes-No) from the **Widget** menu.  Use normal text in your email to ask the question related to an Email Widget.  For more 
-information about using Email Widgets, click [here](/5-widgets/1-ewIntro.md?[LINK-QARGS-DOC]#gv-5widgets-1ewIntro).
+information about using Email Widgets, click [here](/5-widgets/1-ewIntro.md?gv-qargs=0#gv-5widgets-1ewIntro).
   
 </span> <!-- free -->
 

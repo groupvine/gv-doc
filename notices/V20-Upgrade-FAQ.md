@@ -51,9 +51,9 @@ Your new GroupVineV20 home page at *http://myacount.groupvine.com* is your Email
 
 Visitors will be able to reach your feed, but will be limited to viewing only public emails and Email Widget summary images.  Visitors will also have the option to subscribe to your emails from the Visitor menu at the top of the page.
 
-Customize your Email Feed by setting your [color theme and logo](/3-send/4-sendSettings.md?[LINK-QARGS-DOC]#gv-2members-4sendsettings-theme-colors) and adding an account description on the <img src="/docimages/transparent-gear-icon.png" height="22">**Site Customizations** page.
+Customize your Email Feed by setting your [color theme and logo](/3-send/4-sendSettings.md?gv-qargs=0#gv-2members-4sendsettings-theme-colors) and adding an account description on the <img src="/docimages/transparent-gear-icon.png" height="22">**Site Customizations** page.
 
-Plus, to keep your Email Feed tidy, Administrators and Editors can archive emails or file them away off the Email Feed.  For information on archiving, click [here](/6-feedArchive.md?[LINK-QARGS-DOC]#gv-4feed-6feedarchive).
+Plus, to keep your Email Feed tidy, Administrators and Editors can archive emails or file them away off the Email Feed.  For information on archiving, click [here](/6-feedArchive.md?gv-qargs=0#gv-4feed-6feedarchive).
 
 <span id="v20-upgrade-FAQ-basics-signin"></span>
 ### How to sign in to your account
@@ -96,28 +96,28 @@ Until September 30, 2020 Administrators will be able to access their current acc
 ### New! Create customized attributes to save member info to fit your account needs 
 
 Use member attributes, which can be a number, text, a checkbox or single/multiple choice values, to save custom information about your members 
-to satisfy your account's specific needs.  Click [here](/2-members/4-membersAttributes.md?[LINK-QARGS-DOC]#gv-2members-4membersattributes) to learn more
+to satisfy your account's specific needs.  Click [here](/2-members/4-membersAttributes.md?gv-qargs=0#gv-2members-4membersattributes) to learn more
 about attributes.
 
 Attributes can also be used to personalize emails or target recipients who have a specified attribute values 
-set in their Profile.  To personalize your email using attributes, click [here](/3-send/1-sendOnline.md?[LINK-QARGS-DOC]#gv-3send-1sendOnline-useattrs) 
-if you're composing your email in your account's New Email online page click [here](/3-send/2-sendInbox.md?[LINK-QARGS-DOC]#gv-3send-2sendInbox-useattrs) 
+set in their Profile.  To personalize your email using attributes, click [here](/3-send/1-sendOnline.md?gv-qargs=0#gv-3send-1sendOnline-useattrs) 
+if you're composing your email in your account's New Email online page click [here](/3-send/2-sendInbox.md?gv-qargs=0#gv-3send-2sendInbox-useattrs) 
 if you're sending from your personal email account.  To target recipients using attribute values, 
-click [here](/3-send/1-sendOnline.md?[LINK-QARGS-DOC]#gv-3send-1sendOnline-send) when composing online or 
-click [here](/3-send/2-sendInbox.md?[LINK-QARGS-DOC]#gv-3send-2sendInbox-listattraddr) if sending from your personal email account.
+click [here](/3-send/1-sendOnline.md?gv-qargs=0#gv-3send-1sendOnline-send) when composing online or 
+click [here](/3-send/2-sendInbox.md?gv-qargs=0#gv-3send-2sendInbox-listattraddr) if sending from your personal email account.
 
 <span id="v20-upgrade-FAQ-basics-mem-custapppage"></span>
 
 ### New! Customizable Profile allows members to set values to attributes and join lists and sub-groups
 
-The [Profile](/2-members/5-membersProfile.md?[LINK-QARGS-DOC]#gv-2members-5membersprofile) can be set up by the Account Administrator to suit what works for their account.  Which attributes, lists and sub-groups are available on the Profile is determined by how the **Member Profile Page** 
+The [Profile](/2-members/5-membersProfile.md?gv-qargs=0#gv-2members-5membersprofile) can be set up by the Account Administrator to suit what works for their account.  Which attributes, lists and sub-groups are available on the Profile is determined by how the **Member Profile Page** 
 on the <img src="/docimages/transparent-gear-icon.png" height="22"> **Site Customizations** page is set up by the Account Administrator. 
 
 When members visit their Profile, they themselves can set values to the attributes or join the lists and sub-groups that appear on their Profile.  Since members can now set and join, the Profile replaces an account's customized application page.  Contact us if you would like help setting this up!
 
 ### New! Customizable Profile allows members to set values to attributes and join lists
 
-The [Profile](/2-members/5-membersProfile.md?[LINK-QARGS-DOC]#gv-2members-5membersprofile) can be set up by the Account Administrator to suit what works for their account.  Which attributes and lists are available on the Profile is determined by how the **Member Profile Page** 
+The [Profile](/2-members/5-membersProfile.md?gv-qargs=0#gv-2members-5membersprofile) can be set up by the Account Administrator to suit what works for their account.  Which attributes and lists are available on the Profile is determined by how the **Member Profile Page** 
 on the <img src="/docimages/transparent-gear-icon.png" height="22"> **Site Customizations** page is set up by the Account Administrator. 
 
 When members visit their Profile, they themselves can set values to the attributes or join the lists that appear on their Profile.  Since members can now set and join, the Profile replaces an account's customized application page.  Contact us if you would like help setting this up!
@@ -221,7 +221,7 @@ template is set up, using them will save you the time of
 recreating your email's look and basic content each time you 
 send your periodic email.
 
-Click [here](/3-send/5-resend.md?[LINK-QARGS-DOC]#gv-3send-6templates) for more information on creating and using templates.
+Click [here](/3-send/5-resend.md?gv-qargs=0#gv-3send-6templates) for more information on creating and using templates.
 
 <span id="v20-upgrade-FAQ-basics-sendemail-ewsattrsinbox"></span>
 ### New! Email Widgets and attributes can be added to an email sent from a personal email account
@@ -231,17 +231,17 @@ to ask questions, collect information, start conversations and
 gather feedback right in an email. From their inbox, recipients 
 can add responses and comments and see up-to-date images that 
 summarize Email Widget responses.  For a further introduction 
-and more information on Email Widgets, click [here](/5-widgets/1-ewIntro.md?[LINK-QARGS-DOC]#gv-5widgets-1ewintro)
+and more information on Email Widgets, click [here](/5-widgets/1-ewIntro.md?gv-qargs=0#gv-5widgets-1ewintro)
 and to include Email Widgets to emails created from an inbox, 
-click [here](/3-send/2-sendInbox.md?[LINK-QARGS-DOC]#gv-3send-2sendInbox-useattrs)
+click [here](/3-send/2-sendInbox.md?gv-qargs=0#gv-3send-2sendInbox-useattrs)
 
 Custom Attributes are used to save member information that is 
 specific to your account.  Attributes can be added to your emails
 to personalize them with the recipient's attribute values.
 For more information about 
-Attributes, click [here](/2-members/4-membersAttributes.md?[LINK-QARGS-DOC]#gv-2members-4membersattributes)
+Attributes, click [here](/2-members/4-membersAttributes.md?gv-qargs=0#gv-2members-4membersattributes)
 and to add attributes to an email created from an inbox,
-click [here](/3-send/2-sendInbox.md?[LINK-QARGS-DOC]#gv-3send-2sendInbox-useattrs).
+click [here](/3-send/2-sendInbox.md?gv-qargs=0#gv-3send-2sendInbox-useattrs).
 
 <span id="v20-upgrade-FAQ-basics-sendemail-ews"></span>
 ### Email Widgets upgrade: easy add from editor menu, faster, and Submit button is gone!
@@ -254,8 +254,8 @@ Try sending an email with some Email Widgets to yourself and a few others to che
 in your email and from your Email Feed.  Then respond and maybe change your response, and add some comments.  Anyone viewing their response listing will get udpated in real-time with new or changed responses, as will the summary images. If you added a comment, everyone in that response's thread will receive an email notifying them of the comment.  Finally, download responses to
 see up-to-date responses and comments, and more :)
 
-For more details on Email Widgets, click [here](/5-widgets/1-ewIntro.md?[LINK-QARGS-DOC]#gv-5widgets-1ewintro) and to add 
-a widget to your online email, click [here](/3-send/1-sendOnline.md?[LINK-QARGS-DOC]#gv-3send-1sendOnline-useews).
+For more details on Email Widgets, click [here](/5-widgets/1-ewIntro.md?gv-qargs=0#gv-5widgets-1ewintro) and to add 
+a widget to your online email, click [here](/3-send/1-sendOnline.md?gv-qargs=0#gv-3send-1sendOnline-useews).
 
 <span id="v20-upgrade-FAQ-basics-sendemail-listaddr"></span>
 ### List email addresses have changed - update your contacts!
@@ -286,7 +286,7 @@ sent to missed or new recipients.
 If resending is done as a copy, and the email has Email Widgets, then responses will be separate from the original email
 and any of its resends, and will have its own data set.  
 
-For more information on resending emails, click [here](/3-send/5-resend.md?[LINK-QARGS-DOC]#gv-2members-5resend).
+For more information on resending emails, click [here](/3-send/5-resend.md?gv-qargs=0#gv-2members-5resend).
 
 <span id="v20-upgrade-FAQ-basics-subs"></span>
 ## Subscription Accounts

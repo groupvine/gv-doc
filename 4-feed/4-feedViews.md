@@ -28,7 +28,7 @@ response in person.
 navigates you to its **Compose** page. 
 
 * <img src="/docimages/feed-menu-resend-email.png" height="22"> navigates you to the **New Email** page with the
-published email selected and the resend option defaulted to *Copy published email to your new email and make changes*.  Click [here](/3-send/5-resend.md?[LINK-QARGS-DOC]#gv-2members-5resend) for details on resending an email, which has important information if your email has Email Widgets.
+published email selected and the resend option defaulted to *Copy published email to your new email and make changes*.  Click [here](/3-send/5-resend.md?gv-qargs=0#gv-2members-5resend) for details on resending an email, which has important information if your email has Email Widgets.
 
 * <img src="/docimages/feed-menu-change-ew-settings.png" height="22"> allows you to change the 
 Email Widgets configuration, which are to allow recipients to view responses, allow commenting on responses, and allow names on responses to be visible.  The new configuration will take effect after the next response is recorded.

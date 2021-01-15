@@ -23,12 +23,12 @@ Note
 
 <span class="sub g4s">
 
-Members are able to set their own attribute values from their [Profile](/2-members/5-membersProfile.md?[LINK-QARGS-DOC]#gv-2members-5membersprofile).  Administrators decide which custom attributes are available to members on their Profile by selecting them from the **Member Profile Page** on the <img src="/docimages/transparent-gear-icon.png" height="22"> **Site Customizations** page.  
+Members are able to set their own attribute values from their [Profile](/2-members/5-membersProfile.md?gv-qargs=0#gv-2members-5membersprofile).  Administrators decide which custom attributes are available to members on their Profile by selecting them from the **Member Profile Page** on the <img src="/docimages/transparent-gear-icon.png" height="22"> **Site Customizations** page.  
 
 Attribute values can also be set by uploading a file to your membership or by clicking a
 member's ellipsis (<img src="/docimages/ellipsis.png" height="22">)
 on the **Membership**'s **Member Listing** page.  For more information about uploading attributes,
-click [here](/2-members/1_2-membersAdd.md?[LINK-QARGS-DOC]#gv-2members-12membersAdd-uploading-member-attributes).
+click [here](/2-members/1_2-membersAdd.md?gv-qargs=0#gv-2members-12membersAdd-uploading-member-attributes).
 
 </span> <!-- sub g4s -->
 
@@ -37,7 +37,7 @@ click [here](/2-members/1_2-membersAdd.md?[LINK-QARGS-DOC]#gv-2members-12members
 Attribute values can be set by uploading a file to your membership or by clicking a
 member's ellipsis (<img src="/docimages/ellipsis.png" height="22">)
 on the **Membership**'s **Member Listing** page.  For more information about uploading attributes,
-click [here](/2-members/1_2-membersAdd.md?[LINK-QARGS-DOC]#gv-2members-12membersAdd-uploading-member-attributes).
+click [here](/2-members/1_2-membersAdd.md?gv-qargs=0#gv-2members-12membersAdd-uploading-member-attributes).
 
 </span> <!-- free -->
 
@@ -47,17 +47,17 @@ click [here](/2-members/1_2-membersAdd.md?[LINK-QARGS-DOC]#gv-2members-12members
 Personalize your emails by inserting an attribute placeholder that will be translated to the recipient's attribute value in their delivered email.  
 
 For emails created in your online account, select the attribute from the **"Pers…"** menu (short
-for Personalization) in the email editor.  Click [here](/3-send/2-sendInbox.md?[LINK-QARGS-DOC]#gv-3send-2sendInbox) for more information on sending email from your online account.
+for Personalization) in the email editor.  Click [here](/3-send/2-sendInbox.md?gv-qargs=0#gv-3send-2sendInbox) for more information on sending email from your online account.
 
 If you are sending from your personal email account, follow the
-instructions on the **Personalize** tab after selecting to email from your own inbox on the **New Email** page.  Click [here](/3-send/2-sendInbox.md?[LINK-QARGS-DOC]#gv-3send-2sendInbox) for more information on sending email from your personal inbox.
+instructions on the **Personalize** tab after selecting to email from your own inbox on the **New Email** page.  Click [here](/3-send/2-sendInbox.md?gv-qargs=0#gv-3send-2sendInbox) for more information on sending email from your personal inbox.
 
 <span id="gv-2members-4membersattributes-target"></span>
 ### Use attributes to target email recipients
 
 Use the Choice and Checkbox attributes as another way to target recipients.  For example, set your recipients to be those who selected the Checkbox attribute "Can you help with planning?" or who selected "Mornings" for a Choice attribute with choices "Mornings", "Afternoons", and "Evenings."  
 
-For information about sending email, click [here](/3-send/2-sendInbox.md?[LINK-QARGS-DOC]#gv-3send-2sendInbox) to send from your personal inbox or click [here](/3-send/1-sendOnline.md?[LINK-QARGS-DOC]#gv-3send-1sendOnline) to send from your online account.
+For information about sending email, click [here](/3-send/2-sendInbox.md?gv-qargs=0#gv-3send-2sendInbox) to send from your personal inbox or click [here](/3-send/1-sendOnline.md?gv-qargs=0#gv-3send-1sendOnline) to send from your online account.
 
 <span id="gv-2members-4membersattributes-predef"></span>
 ### Predefined Member Attributes

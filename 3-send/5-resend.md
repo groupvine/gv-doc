@@ -17,5 +17,5 @@ Once your selection is made, you will jump to the **Published** tab of the **New
 
 * **Copy published email to your new email and make changes** This new email can be edited and its Email Widget responses will be new and separate from its original email.
 
-Refer to [Send email from your online account](/3-send/1-sendOnline.md?[LINK-QARGS-DOC]#gv-3send-1sendOnline) for the remaining steps to send your email.
+Refer to [Send email from your online account](/3-send/1-sendOnline.md?gv-qargs=0#gv-3send-1sendOnline) for the remaining steps to send your email.
 

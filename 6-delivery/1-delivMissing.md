@@ -14,7 +14,7 @@
  
 A couple of common reasons can be easily resolved by a simple look-up for whether the member's email address is listed on the **Membership**'s **Membership's Delivery Issues** page.
 
-* If the member's email address is a "problem" address or has "bounced out" ([what this?](/6-delivery/4-delivProblems.md?[LINK-QARGS-DOC]#gv-6delivery-4delivProblems-problem-addr)), then confirm the correctness of their address and update their email address from the **Membership**'s **Member Listing** page.
+* If the member's email address is a "problem" address or has "bounced out" ([what this?](/6-delivery/4-delivProblems.md?gv-qargs=0#gv-6delivery-4delivProblems-problem-addr)), then confirm the correctness of their address and update their email address from the **Membership**'s **Member Listing** page.
 
 <span class="g4s">
  
@@ -49,7 +49,7 @@ on the **Membership**'s **Add New Member** page.)
 <span id="gv-6delivery-1delivmissing-other-based-on-deliv-data"></span>
 ## Other possibilities based on delivery data
 
-For other possible reasons, [download the email's detailed delivery data](/6-delivery/5-delivStats.md?[LINK-QARGS-DOC]#gv-6delivery-5delivstat-download-detailed)
+For other possible reasons, [download the email's detailed delivery data](/6-delivery/5-delivStats.md?gv-qargs=0#gv-6delivery-5delivstat-download-detailed)
 and see if one of these scenarios matches your situation.
 
 * If you see "bounced" or "delayed" in the list of delivery failures,

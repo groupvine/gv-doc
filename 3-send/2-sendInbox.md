@@ -7,7 +7,7 @@
 <span class="g4s sub">
 <span class=highlight>
   
-To avoid the risk of spammers sending emails to a group from a possibly compromised email account, after an email is sent from an inbox to an [unmoderated group](/3-send/4-sendSettings.md?[LINK-QARGS-DOC]#gv-2members-4sendsettings-use-moderation), a confirmation mail is emailed to the sender where the sender must confirm the email send before it can be forwarded to its recipients.
+To avoid the risk of spammers sending emails to a group from a possibly compromised email account, after an email is sent from an inbox to an [unmoderated group](/3-send/4-sendSettings.md?gv-qargs=0#gv-2members-4sendsettings-use-moderation), a confirmation mail is emailed to the sender where the sender must confirm the email send before it can be forwarded to its recipients.
 
 If you're interested in skipping this confirmation step, you can change the setting **Emails from personal inbox required confirmation?** on 
 the <img src="/docimages/transparent-gear-icon.png" height="22">**Account Settings** page under **Email security** to `No`, but skipping the confirmation step opens your account to the possibility of unwanted emails being distributed when a member's personal email account has been hacked.
@@ -74,7 +74,7 @@ address to the "To" field of your email in your personal inbox.  If you use this
 <span id="gv-3send-2sendInbox-drafturgentaddr"></span>
 ## Get the email address to send a draft or "urgent" email
 
-To send a draft or ["urgent"](/3-send/3-sendTexts.md?[LINK-QARGS-DOC]#gv-2members-3sendTexts) email, 
+To send a draft or ["urgent"](/3-send/3-sendTexts.md?gv-qargs=0#gv-2members-3sendTexts) email, 
 select **New Email** and then select **Send email from your own inbox**.  On the **Addressing** tab select *Send as a draft email* 
 or *Mark email as urgent* and copy the updated email address to the "To" field of your new email in your personal email account.  
 
@@ -82,7 +82,7 @@ or *Mark email as urgent* and copy the updated email address to the "To" field o
 ## Add predefined and custom attributes to customize your email
 
 Personalize your emails by including pre-defined or custom attribute values by selecting **New Email** and then the **Personalize** tab.  For more
-information about Member Attributes, click [here](/2-members/4-membersattributes.md?[LINK-QARGS-DOC]#gv-2members-4membersattributes).  
+information about Member Attributes, click [here](/2-members/4-membersattributes.md?gv-qargs=0#gv-2members-4membersattributes).  
 
 Also available are *Link to Profile* and *Link to Email Feed*, which can be included in your emails to give members a direct link access to their Profile and your account Email Feed.
 
@@ -107,7 +107,7 @@ Google Chrome browser.
 Ask questions or gather information directly in your email by adding Email Widgets.  Follow 
 the instructions on the **Widgets** tab to add any of the four types of Widgets
 (Text, Count, RSVP, and Yes-No).  The Email Widget's question is just normal text in your email.  For more information about Email Widgets,
-click [here](/5-widgets/1-ewIntro.md?[LINK-QARGS-DOC]).
+click [here](/5-widgets/1-ewIntro.md?gv-qargs=0).
 
 <span class=highlight>
   

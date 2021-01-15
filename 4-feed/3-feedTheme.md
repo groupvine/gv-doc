@@ -8,7 +8,7 @@
 
 The account **Email Feed** will appear with its logo and in shades of its primary
 color.  A sub-group **Email Feed** will initially default to its account's colors and logo, but can be overridden with its own look.
-For information on setting colors and logo, click [here](/3-send/4-sendSettings.md?[LINK-QARGS-DOC]#gv-2members-4sendsettings-theme-colors).
+For information on setting colors and logo, click [here](/3-send/4-sendSettings.md?gv-qargs=0#gv-2members-4sendsettings-theme-colors).
 
 </span> <!-- sub g4s -->
 
@@ -17,7 +17,7 @@ For information on setting colors and logo, click [here](/3-send/4-sendSettings.
 ## The Look of your Feed - Color and Logo
 
 Your account **Email Feed** will appear with its logo and in shades of its primary
-color.  For information on setting colors and logo, click [here](/3-send/4-sendSettings.md?[LINK-QARGS-DOC]#gv-2members-4sendsettings-theme-colors).
+color.  For information on setting colors and logo, click [here](/3-send/4-sendSettings.md?gv-qargs=0#gv-2members-4sendsettings-theme-colors).
 
 </span> <!-- free -->
 
@@ -27,6 +27,6 @@ On the <img src="/docimages/transparent-gear-icon.png" height="22"> **Site Custo
 
 Note
 
-* From the Email Feed, Visitors can subscribe by clicking the **Visitor** menu in the top right and selecting <img src="/docimages/visitor-menu-subscribe.png" height="22">.  Click [here](/2-members/1_4-membersAdd.md?[LINK-QARGS-DOC]#gv-2members-14membersAdd) for information about subscribers signing up.
+* From the Email Feed, Visitors can subscribe by clicking the **Visitor** menu in the top right and selecting <img src="/docimages/visitor-menu-subscribe.png" height="22">.  Click [here](/2-members/1_4-membersAdd.md?gv-qargs=0#gv-2members-14membersAdd) for information about subscribers signing up.
 
 </span> <!-- sub g4s -->

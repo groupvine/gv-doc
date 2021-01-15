@@ -8,7 +8,7 @@
 A bounced email is an email that could not be delivered to
 the recipient's email address which usually occurs because the email
 address was incorrect or a recipient's mailbox is full.  Once an
-address has bounced twice, it is "bounced out" and considered a "problem" address ([what's this?](/6-delivery/4-delivProblems.md?[LINK-QARGS-DOC]gv-6delivery-4delivProblems-problem-addr)).
+address has bounced twice, it is "bounced out" and considered a "problem" address ([what's this?](/6-delivery/4-delivProblems.md?gv-qargs=0gv-6delivery-4delivProblems-problem-addr)).
 
 After sending an email from an online account or from
 a personal inbox, if there were any failed

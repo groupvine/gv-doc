@@ -10,12 +10,12 @@
 
 </span> <!-- todo -->
 
-* [Download Email Widget Responses & Comments](/5-widgets/3-ewManage.md?[LINK-QARGS-DOC]#gv-5widgets-3ewmanage-download)
+* [Download Email Widget Responses & Comments](/5-widgets/3-ewManage.md?gv-qargs=0#gv-5widgets-3ewmanage-download)
 * [Report Inappropriate Comment](#gv-5widgets-3ewmanage-report)
-* [Hide Inappropriate Response or Comment](/5-widgets/3-ewManage.md?[LINK-QARGS-DOC]#gv-5widgets-3ewmanage-hide-unhide)
-* [Configure Settings for Email Widget Response Listing](/5-widgets/3-ewManage.md?[LINK-QARGS-DOC]#gv-5widgets-3ewmanage-config-ew)
-* [Change Email Widget Configuration After Email is Published](/5-widgets/3-ewManage.md?[LINK-QARGS-DOC]#gv-5widgets-3ewmanage-change-config-after-pub)
-* [Add Response as Recipient to Email Widget](/5-widgets/3-ewManage.md?[LINK-QARGS-DOC]#gv-5widgets-3ewmanage-add-as-recipient)
+* [Hide Inappropriate Response or Comment](/5-widgets/3-ewManage.md?gv-qargs=0#gv-5widgets-3ewmanage-hide-unhide)
+* [Configure Settings for Email Widget Response Listing](/5-widgets/3-ewManage.md?gv-qargs=0#gv-5widgets-3ewmanage-config-ew)
+* [Change Email Widget Configuration After Email is Published](/5-widgets/3-ewManage.md?gv-qargs=0#gv-5widgets-3ewmanage-change-config-after-pub)
+* [Add Response as Recipient to Email Widget](/5-widgets/3-ewManage.md?gv-qargs=0#gv-5widgets-3ewmanage-add-as-recipient)
 
 <span id="gv-5widgets-3ewmanage-download"></span>
 ### Download Email Widget Responses & Comments

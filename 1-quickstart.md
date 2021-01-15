@@ -5,7 +5,7 @@ Once your account is created, you're ready to send yourself an email composed in
 
 ## Add email addresses
 
-If you would like to include more recipients, there are a few ways to do this.  For a handful of addresses, you can either [add them one at a time](/2-members/1_3-membersAdd.md?[LINK-QARGS-DOC]#gv-2members-13membersAdd) or [copy and paste a list of addresses](/2-members/1_1-membersAdd.md?[LINK-QARGS-DOC]#gv-2members-11membersAdd) to add them all at once.  Or, if you have a spreadsheet of addresses, you can [upload the file](/2-members/1_2-membersAdd.md?[LINK-QARGS-DOC]#gv-2members-12membersAdd) to your membership.
+If you would like to include more recipients, there are a few ways to do this.  For a handful of addresses, you can either [add them one at a time](/2-members/1_3-membersAdd.md?gv-qargs=0#gv-2members-13membersAdd) or [copy and paste a list of addresses](/2-members/1_1-membersAdd.md?gv-qargs=0#gv-2members-11membersAdd) to add them all at once.  Or, if you have a spreadsheet of addresses, you can [upload the file](/2-members/1_2-membersAdd.md?gv-qargs=0#gv-2members-12membersAdd) to your membership.
 
 ## Send an email
 
@@ -13,9 +13,9 @@ When ready, send a quick email from your personal inbox using your account's gro
 
 (Note, to avoid the risk of spammers sending emails to a group from a possibly compromised email account, after emailing from your inbox, a confirmation email will be  sent to you where you must confirm the email send before it can be forwarded to its recipients.)
 
-Easy peasy.  And now you can check your [Email Feed](/4-feed/1-feedIntro.md?[LINK-QARGS-DOC]#gv-4feeed-1feedInto) for your new email.
+Easy peasy.  And now you can check your [Email Feed](/4-feed/1-feedIntro.md?gv-qargs=0#gv-4feeed-1feedInto) for your new email.
 
-Here are more details for sending from your [personal inbox](/3-send/2-sendInbox.md?[LINK-QARGS-DOC]#gv-3send-2sendInbox) or your [online account](/3-send/1-sendOnline.md?[LINK-QARGS-DOC]#gv-3send-1sendOnline). 
+Here are more details for sending from your [personal inbox](/3-send/2-sendInbox.md?gv-qargs=0#gv-3send-2sendInbox) or your [online account](/3-send/1-sendOnline.md?gv-qargs=0#gv-3send-1sendOnline). 
 
 ## Where to get more help
 
