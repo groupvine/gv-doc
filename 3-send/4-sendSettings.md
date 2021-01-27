@@ -113,11 +113,11 @@ to a valid group email address, they will receive an error since they
 are not authorized to send to that group.
 
 However, Administrators can allow general members to send account emails from their 
-personal inbox by setting **Can general members also send account emails?** 
+personal inbox by setting **Can general members send account emails?** 
 on the <img src="/docimages/transparent-gear-icon.png" height="22"> **Account Settings** page.  
 
 Similarly, general members in a sub-group can be allowed to send sub-group emails by setting 
-**Can general members also send group emails?** on the <img src="/docimages/transparent-gear-icon.png" height="22"> **Sub-group Settings** page.
+**Can general members send group emails?** on the <img src="/docimages/transparent-gear-icon.png" height="22"> **Sub-group Settings** page.
 
 If general members are allowed to send emails, consider turning on moderation so Administrators can review emails before they are sent.
 

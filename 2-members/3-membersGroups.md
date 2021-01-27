@@ -26,7 +26,7 @@ public, sub-group members only, or account members only.  Individual emails can 
 * Sub-groups have their own group administrator(s) and editor(s) whose 
 capabilities are local to their group. 
 
-* Sub-groups can allow its general members to send email to the sub-group by setting **Can general members also send group emails** on its 
+* Sub-groups can allow its general members to send email to the sub-group by setting **Can general members send group emails** on its 
 <img src="/docimages/transparent-gear-icon.png" height="22"> **Sub-group Settings** page.  General members would use the sub-group's group email address and email using their personal inbox.
 
 * Sub-groups can be moderated by setting **Is group moderated?** on 
