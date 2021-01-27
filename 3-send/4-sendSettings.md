@@ -119,7 +119,7 @@ on the <img src="/docimages/transparent-gear-icon.png" height="22"> **Account Se
 Similarly, general members in a sub-group can be allowed to send sub-group emails by setting 
 **Can general members also send group emails?** on the <img src="/docimages/transparent-gear-icon.png" height="22"> **Sub-group Settings** page.
 
-If general members are allowed to send emails, we recommend turning on moderation so Administrators can review emails before they are sent.
+If general members are allowed to send emails, consider turning on moderation so Administrators can review emails before they are sent.
 
 </span> <!-- sub g4s -->
 
