@@ -152,8 +152,11 @@ just shown to give a more complete example).
 
 Note
 
-* Uploading an empty cell for "Role" will remove the member from
-the account, and similarly for sub-groups and their sub-group column.
+* When using the default "Add" mode, uploading an empty cell for the
+  Role column will cause that row to be ignored.  If using the
+  "Modify" mode, an empty Role cell will cause the member to be
+  removed from the account, and similarly for sub-groups and their
+  sub-group column.
 
 </span> <!-- sub g4s -->
 
