@@ -127,9 +127,11 @@ are the available role types with their default capabilities and how
 they are used in the upload file.
 
 **Member**: Can receive email and respond to [Email
-Widgets](/5-widgets/1-ewIntro.md?gv-qargs=0#gv-5widgets-1ewintro).
-Can also send emails from their personal inbox "Can general members
-send emails" is enabled.  'x' can be used as an abbreviation.
+Widgets](/5-widgets/1-ewIntro.md?gv-qargs=0#gv-5widgets-1ewintro),
+browse and search the online Email Feed, and manage their individual
+member settings on their Profile page.  Can also send emails from
+their personal inbox "Can general members send emails" is enabled.
+'x' can be used as an abbreviation.
 
 **Editor**: In addition to a Member's capabilities, can also prepare
 and send group emails online.
