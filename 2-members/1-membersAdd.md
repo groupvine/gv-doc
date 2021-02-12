@@ -14,14 +14,17 @@ New members can be added to your account in the following ways:
 
 <span class="support">
 
-See the following diagrams which gives the flow for the two main cases:
+See the following diagrams which gives the flow for the following cases:
 
-1. new member signs up throught the /subscribe page and,
-2. new member is invited to join.
+1. new member signs up through the /subscribe page,
+2. new member is added or invited to join at the account level, and
+3. new member is added or invited to join in a sub-group.
 
 <img src="/docimages/subscribe-flow-1.png" width="100%">
 
 <img src="/docimages/subscribe-flow-2.png" width="100%">
+
+<img src="/docimages/subscribe-flow-3.png" width="100%">
 
 </span>
 
