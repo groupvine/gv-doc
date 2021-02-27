@@ -54,7 +54,7 @@ Miscellanous:
   these.
 
 * Additionally, import columns with header labels prefixed with
-  "delivery:" (used in exports) and "ignore:" are silently ignored
+  "info:" and "delivery:" (used in exports) and "ignore:" are silently ignored
   during imports.
 
 </span>
