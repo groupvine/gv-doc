@@ -35,7 +35,9 @@
             </li>
             <li class="sub g4s">
               <a href="/2-members/3-membersGroups.md?gv-qargs=0#gv-2members-3membersGroups">
-                Use Sub-groups for groups that can work independently from the main group
+                Use Sub-groups for groups that can work independently from the <br/>
+                main group
+                <i class="fab fa-lg fa-youtube"></i>
               </a>
             </li>
             <li>
