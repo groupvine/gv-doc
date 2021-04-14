@@ -3,7 +3,7 @@
 <span id="gv-2members-3membersGroups"></span>
 ## Use Sub-groups for groups that can work independently from the main group
 
-<div style="text-align:center">
+<div style="text-align:center; display:none">
   <iframe width="560" height="315" title="GroupVine Sub-groups" frameborder="0" 
           src="https://www.youtube.com/embed/OUkvEjXadfU?modestbranding=1&playlist=OUkvEjXadfU,PPt0UEdpeNI,EZC2ruSdJNM,bRIVTEBaLkA,l06ofG0rk7Q&rel=0"
           allow="accelerometer; autoplay=0; clipboard-write; encrypted-media; gyroscope; 
