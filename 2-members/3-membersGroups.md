@@ -9,7 +9,7 @@ Sub-groups provide additional flexibility in how you manage your
 membership and target your emails.  New sub-groups can be added
 on the Membership's "Manage Sub-groups" page. 
 
-<div style="text-align:center">
+<div style="text-align:center" class="tutorialVid">
   <iframe width="560" height="315" title="GroupVine Sub-groups" frameborder="0" 
           src="https://www.youtube.com/embed/TzyHstc2IJA?modestbranding=1&listType=playlist&list=PLDpr40ac-3iJxubj8z77-Y-b81zevRF_L&rel=0"
           allow="accelerometer; autoplay=0; clipboard-write; encrypted-media; gyroscope; 
