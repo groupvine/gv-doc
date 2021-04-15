@@ -31,6 +31,7 @@
             <li>
               <a href="/2-members/2-membersList.md?gv-qargs=0#gv-2members-2memberslist">
                 Use lists to target an interest group
+                <i class="fab fa-lg fa-youtube"></i>
               </a>
             </li>
             <li class="sub g4s">

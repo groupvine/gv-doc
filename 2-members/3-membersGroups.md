@@ -3,7 +3,13 @@
 <span id="gv-2members-3membersGroups"></span>
 ## Use Sub-groups for groups that can work independently from the main group
 
-<div style="text-align:center; display:none">
+<span class="sub g4s">
+
+Sub-groups provide additional flexibility in how you manage your
+membership and target your emails.  New sub-groups can be added
+on the Membership's "Manage Sub-groups" page. 
+
+<div style="text-align:center">
   <iframe width="560" height="315" title="GroupVine Sub-groups" frameborder="0" 
           src="https://www.youtube.com/embed/OUkvEjXadfU?modestbranding=1&playlist=OUkvEjXadfU,PPt0UEdpeNI,EZC2ruSdJNM,bRIVTEBaLkA,l06ofG0rk7Q&rel=0"
           allow="accelerometer; autoplay=0; clipboard-write; encrypted-media; gyroscope; 
@@ -11,11 +17,6 @@
   </iframe>
 </div>
 
-<span class="sub g4s">
-
-Sub-groups provide additional flexibility in how you manage your
-membership and target your emails.  New sub-groups can be added
-on the Membership's "Manage Sub-groups" page. 
 
 Here are a sub-group's key features:
 

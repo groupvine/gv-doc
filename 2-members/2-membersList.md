@@ -4,7 +4,16 @@
 ## Use lists to target an interest group
 
 Lists give you the flexibility to target an email to a subset of your
-membership that you often email.  
+membership that you often email.
+
+<div style="text-align:center">
+  <iframe width="560" height="315" title="GroupVine Sub-groups" frameborder="0" 
+          src="https://www.youtube.com/embed/HfxVBC6qar4?modestbranding=1&playlist=OUkvEjXadfU,PPt0UEdpeNI,EZC2ruSdJNM,bRIVTEBaLkA,l06ofG0rk7Q&rel=0"
+          allow="accelerometer; autoplay=0; clipboard-write; encrypted-media; gyroscope; 
+          picture-in-picture" allowfullscreen>
+  </iframe>
+</div>
+
 
 Key list features include:
 
