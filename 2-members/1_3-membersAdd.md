@@ -3,6 +3,14 @@
 <span id="gv-2members-13membersAdd"></span>
 ## Add a new member from the Membership page
 
+<div style="text-align:center">
+  <iframe width="560" height="315" title="GroupVine Sub-groups" frameborder="0" 
+          src="https://www.youtube.com/embed/TzyHstc2IJA?modestbranding=1&playlist=OUkvEjXadfU,PPt0UEdpeNI,EZC2ruSdJNM,bRIVTEBaLkA,l06ofG0rk7Q&rel=0"
+          allow="accelerometer; autoplay=0; clipboard-write; encrypted-media; gyroscope; 
+          picture-in-picture" allowfullscreen>
+  </iframe>
+</div>
+
 To add a new member, you can enter their information on
 the **Membership**'s **Add New Member** page and click `Add`.
 

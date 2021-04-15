@@ -26,6 +26,7 @@
             <li>
               <a href="/2-members/1-membersAdd.md?gv-qargs=0#gv-2members-1membersAdd">
                 Add new Members/Subscribers
+                <i class="fab fa-lg fa-youtube"></i>
               </a>
             </li>
             <li>
