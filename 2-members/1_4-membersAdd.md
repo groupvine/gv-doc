@@ -5,7 +5,7 @@
 
 <div style="text-align:center" class="tutorialVid">
   <iframe width="560" height="315" title="Add a Single New Member" frameborder="0" 
-          src="https://www.youtube.com/embed/aN4GaonEmb0?modestbranding=1&listType=playlist&list=PLL5nMi8cccNSjt9jK6Lc39ZkOyD44uFae&rel=0"
+          src="https://www.youtube.com/embed/3B2F8cdjBW0?modestbranding=1&listType=playlist&list=PLDpr40ac-3iJxubj8z77-Y-b81zevRF_L&rel=0"
           allow="accelerometer; autoplay=0; clipboard-write; encrypted-media; gyroscope; 
           picture-in-picture" allowfullscreen>
   </iframe>

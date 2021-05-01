@@ -1,7 +1,7 @@
 # Managing your Membership
 
 <span id="gv-2members-12membersAdd"></span>
-## Upload a Membership FIle
+## Upload a Membership File
 
 * [How Uploading a File Impacts Your Membership](/2-members/1_2-membersAdd.md?gv-qargs=0#gv-2members-12membersAdd-impactMem)
 * [Uploading Recipient Addresses-only](/2-members/1_2-membersAdd.md?gv-qargs=0#gv-2members-12membersAdd-uploading-recipient-addresses)
@@ -12,7 +12,7 @@
 
 <div style="text-align:center" class="tutorialVid">
   <iframe width="560" height="315" title="Uploading a Membership File" frameborder="0" 
-          src="https://www.youtube.com/embed/O4IXHlBLlAo?modestbranding=1&listType=playlist&list=PLL5nMi8cccNSjt9jK6Lc39ZkOyD44uFae&rel=0"
+          src="https://www.youtube.com/embed/BZsZALJW-Xs?modestbranding=1&listType=playlist&list=PLDpr40ac-3iJxubj8z77-Y-b81zevRF_L&rel=0"
           allow="accelerometer; autoplay=0; clipboard-write; encrypted-media; gyroscope; 
           picture-in-picture" allowfullscreen>
   </iframe>
