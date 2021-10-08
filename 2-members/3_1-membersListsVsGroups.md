@@ -1,7 +1,19 @@
 # Managing your Membership
 
 <span id="gv-2members-31membersListsVsGroups"></span>
-## Comparing Lists with Sub-Groups
+
+
+In general, if a set of members could potentially use a level of
+autonomy, such as being able to reply-all to the others (without also
+being able to reply-all to the entire account), then using a sub-group
+is recommended.
+
+
+On the other hand, to simply address a set of members within the same
+account (or sub-group, if the list is created there) without the need
+for specific degree of autonomy, or delegation, or policies different
+than the entire account (or sub-group), then a simple list is
+recommended.
 
 
 |                       |                     List                     |                      Sub-group                      |
@@ -15,16 +27,8 @@
 | Email Feed            | Included in account's Email Feed*            | Has its own Email Feed (with own Visibility policy) |
 | Logo and color theme  | Included in account (so same logo & colors)* | Can have its own logo & color theme                 |
 
+
+
 * For Lists created within a specific sub-group, replace "acccount"
   with "sub-group".
 
-
-In general, if a set of members could potentially use a level of
-autonomy, such as being able to reply-all to the others (without also
-being able to reply-all to the entire account), then using a sub-group
-is recommended.
-
-On the other hand, to simply address a set of members within the same
-account (or sub-group if created within one) without the need for any
-autonomy, delegation, or policies different than the entire account
-(or sub-group), then a simple list is recommended.
