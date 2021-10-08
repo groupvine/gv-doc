@@ -19,7 +19,7 @@ account (or sub-group), then a simple list is recommended.
 |                           |                     List                     |                      Sub-group                       |
 |--------------------------:|:--------------------------------------------:|:----------------------------------------------------:|
 | **Configuration options** | None                                         | Similar to account configuration but just for the sub-group |
-| **Scope**                 | Lists can be created within a specific sub-group* | ... but not vice versa                          |
+| **Scope**                 | Lists can be created within a specific sub-group* | ... but not vice versa (although account Lists can be *used* within a sub-group) |
 | **Allowed sender policy** | Same as account policy**                      | Specific to sub-group                               |
 | **Moderation policy**     | Same as account policy**                      | Specific to sub-group                               |
 | **Membership delegation** | None                                         | Can have its own Admins                              |
