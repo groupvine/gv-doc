@@ -8,9 +8,9 @@ autonomy, such as being able to reply-all to the others (without also
 being able to reply-all to the entire account), then using a sub-group
 is recommended.
 
-On the other hand, to simply address a set of members within the same
+On the other hand, to simply address a set of members within the 
 account (or sub-group, if the list is created there) without the need
-for any autonomy, or delegation, or policies different than the entire
+for any autonomy or policies different than the entire
 account (or sub-group), then a simple list is recommended.
 
 
@@ -22,7 +22,7 @@ account (or sub-group), then a simple list is recommended.
 | **Moderation policy**     | Same as account policy**                      | Specific to sub-group                               |
 | **Membership delegation** | None                                         | Can have its own Admins                              |
 | **Email delegation**      | None                                         | Can have its own Editors                             |
-| **Email Feed**            | Included in account's Email Feed**            | Has its own Email Feed (with own Visibility policy) |
+| **Email Feed**            | Included in account's Email Feed**            | Has its own Email Feed (with own visibility policy) |
 | **Logo and color theme**  | Included in account (so same logo & colors)** | Can have its own logo & color theme                 |
 
 
