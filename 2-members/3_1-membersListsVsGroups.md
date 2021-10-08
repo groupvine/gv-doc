@@ -8,12 +8,10 @@ autonomy, such as being able to reply-all to the others (without also
 being able to reply-all to the entire account), then using a sub-group
 is recommended.
 
-
 On the other hand, to simply address a set of members within the same
 account (or sub-group, if the list is created there) without the need
-for specific degree of autonomy, or delegation, or policies different
-than the entire account (or sub-group), then a simple list is
-recommended.
+for any autonomy, or delegation, or policies different than the entire
+account (or sub-group), then a simple list is recommended.
 
 
 |                       |                     List                     |                      Sub-group                      |
