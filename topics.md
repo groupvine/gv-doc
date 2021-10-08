@@ -44,7 +44,7 @@
             </li>
             <li class="sub g4s">
               <a href="/2-members/3_1-membersListsVsGroups.md?gv-qargs=0#gv-2members-31membersListsVsGroups">
-                Table comparing lists with sub-groups
+                Guidelines on whether to use a List or Sub-group
               </a>
             </li>
             <li>

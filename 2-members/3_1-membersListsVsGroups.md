@@ -1,12 +1,14 @@
 # Managing your Membership
 
 <span id="gv-2members-31membersListsVsGroups"></span>
-## Comparing Lists with Sub-Groups
+## Guidelines on whether to use a List or Sub-group
 
-In general, if a set of members could potentially use a level of
-autonomy, such as being able to reply-all to the others (without also
-being able to reply-all to the entire account), then using a sub-group
-is recommended.
+
+In general, if a group of members could potentially benefit from a
+level of autonomy, such as being managed by local administrators or by
+having members of this group being able to send or reply-all to the
+group (without also being able to send or reply-all to the entire
+account membership), then using a sub-group is recommended.
 
 On the other hand, to simply address a set of members within the 
 account (or sub-group, if the list is created there) without the need
