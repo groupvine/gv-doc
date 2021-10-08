@@ -1,7 +1,7 @@
 # Managing your Membership
 
 <span id="gv-2members-31membersListsVsGroups"></span>
-
+## Comparing Lists to Sub-Groups
 
 In general, if a set of members could potentially use a level of
 autonomy, such as being able to reply-all to the others (without also
