@@ -42,6 +42,11 @@
                 <i class="fab fa-lg fa-youtube"></i>
               </a>
             </li>
+            <li class="sub g4s">
+              <a href="/2-members/3_1-membersListsVsGroups.md?gv-qargs=0#gv-2members-31membersListsVsGroups">
+                Table comparing lists with sub-groups
+              </a>
+            </li>
             <li>
               <a href="/2-members/4-membersAttributes.md?gv-qargs=0#gv-2members-4membersattributes">
                 Use Attributes to save custom information about your members
