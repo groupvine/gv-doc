@@ -18,7 +18,7 @@ account (or sub-group), then a simple list is recommended.
 
 |                           |                     List                     |                      Sub-group                       |
 |--------------------------:|:--------------------------------------------:|:----------------------------------------------------:|
-| **Group Context**         | No group context of its own, just allows targeting emails to a subset of current account membership*  | Provides a new group context with it's own membership, and even its own Lists |
+| **Group Context**         | No group context of its own, just allows targeting emails to a subset of current account membership* | Allows targeting a sub-set of account membership, but also provides a new group context which could even include its own Lists |
 | **Allowed sender policy** | Same as account policy*                      | Specific to sub-group                               |
 | **Moderation policy**     | Same as account policy*                      | Specific to sub-group                               |
 | **Membership delegation** | None                                         | Can have its own Admins                              |
