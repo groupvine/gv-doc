@@ -18,18 +18,22 @@ account (or sub-group), then a simple list is recommended.
 
 |                           |                     List                     |                      Sub-group                       |
 |--------------------------:|:--------------------------------------------:|:----------------------------------------------------:|
-| **Configuration options** | None                                         | Similar to account configuration but just for the sub-group |
-| **Scope**                 | Lists can be created within a specific sub-group* | ... but not vice versa (although account Lists can be *used* within a sub-group) |
-| **Allowed sender policy** | Same as account policy**                      | Specific to sub-group                               |
-| **Moderation policy**     | Same as account policy**                      | Specific to sub-group                               |
+| **Group Context**         | No group context of its own, just allows targeting emails to a subset of current account membership*  | Provides a new group context with it's own membership, and even its own Lists |
+| **Allowed sender policy** | Same as account policy*                      | Specific to sub-group                               |
+| **Moderation policy**     | Same as account policy*                      | Specific to sub-group                               |
 | **Membership delegation** | None                                         | Can have its own Admins                              |
 | **Email delegation**      | None                                         | Can have its own Editors                             |
-| **Email Feed**            | Included in account's Email Feed**            | Has its own Email Feed (with own visibility policy) |
-| **Logo and color theme**  | Included in account (so same logo & colors)** | Can have its own logo & color theme                 |
+| **Email Feed**            | Included in account's Email Feed*            | Has its own Email Feed (with own visibility policy) |
+| **Logo and color theme**  | Included in account (so same logo & colors)* | Can have its own logo & color theme                 |
 
+<!--
+| **Configuration options** | None                                         | Similar to account configuration but just for the sub-group |
+| **Scope**                 | Lists can be created within a specific sub-group** | ... but not vice versa (although account Lists can be *used* within a sub-group) |
 
-\* Of course, Lists can also be created for the entire account too (as is the typical case).
+** Of course, Lists can also be created for the entire account too (as is the typical case).
+-->
 
-** For Lists created within a specific sub-group, replace "account"
+\* For Lists created within a specific sub-group, replace "account"
    with "sub-group".
+
 
