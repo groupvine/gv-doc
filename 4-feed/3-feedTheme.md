@@ -1,10 +1,10 @@
-# Email Feed
+# Customizing your Email Feed
 
 <span id="gv-4feed-3feedtheme"></span>
 
 <span class="sub g4s">
   
-## Customizing your Email Feed
+## Logo and Colors
 
 Your account **Email Feed** will appear with its logo and in shades of its primary
 color.  A sub-group **Email Feed** will initially default to its account's colors and logo, but can be overridden with its own look.
@@ -26,30 +26,30 @@ color.  For information on setting colors and logo, click [here](/3-send/4-sendS
 Above your Email Feed, you will have the option to add and customize
 an intro by clicking on the pencil edit icon in the upper left corner.
 
-<img src="/docimages/emailfeed_nov21.png" height="120">
+<img src="/docimages/emailfeed_nov21.png" height="300">
 
 After clicking, your Email Feed Introduction editing options will
 appear. There, you will have the chance to add or change Text, a
 Background Image, as well as a Side Image.
 
-<img src="/docimages/cust-feedintro-1.png" height="120">
+<img src="/docimages/cust-feedintro-1.png" height="300">
 
 Add text to your Email Feed Introduction:
 
-<img src="/docimages/cust-feedintro-2.png" height="120">
+<img src="/docimages/cust-feedintro-2.png" height="300">
 
 Add a Background image to give your Email Feed more personality: 
 
-<img src="/docimages/cust-feedintro-3.png" height="120">
+<img src="/docimages/cust-feedintro-3.png" height="300">
 
 And even upload a Side Image: 
 
-<img src="/docimages/cust-feedintro-4.png" height="120">
+<img src="/docimages/cust-feedintro-4.png" height="300">
 
 When finished, click “Save” down at the bottom to preserve your
 changes and admire the result on your Email Feed:
 
-<img src="/docimages/cust-feedintro-5.png" height="200">
+<img src="/docimages/cust-feedintro-5.png" height="400">
 
 
 ## Choosing Feature Images in your Email Feed 
@@ -60,18 +60,18 @@ summary in the Email Feed, left & right arrows will appear allowing
 you to scroll through the images contained in that email.  Their
 choices will then be saved and used as the new feature images.
 
-<img src="/docimages/feed-feature-image-1.png" height="200">
+<img src="/docimages/feed-feature-image-1.png" height="300">
 
-<img src="/docimages/feed-feature-image-2.png" height="200">
+<img src="/docimages/feed-feature-image-2.png" height="300">
 
 ## Click on an email's Email Widget (EW) to go straight to its responses listing
 
 For emails that contain an EW, you can click on the EW box to be taken
 directly to its response page:
 
-<img src="/docimages/feed-ew-1.png" height="120">
+<img src="/docimages/feed-ew-1.png" height="300">
 
-<img src="/docimages/feed-ew-2.png" height="120">
+<img src="/docimages/feed-ew-2.png" height="300">
 
 Closing the response box will land you on the email that included that EW. 
 

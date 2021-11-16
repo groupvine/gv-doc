@@ -113,14 +113,9 @@
                   Public or Private?
                 </a>
             </li>
-           <li class="sub g4s">
+           <li>
               <a href="/4-feed/3-feedTheme.md?gv-qargs=0#gv-4feed-3feedtheme">
-                The Look of your Feed - Color, Logo, and Description
-              </a>
-            </li>
-            <li class="free">
-              <a href="/4-feed/3-feedTheme.md?gv-qargs=0#gv-4feed-3feedtheme">
-                The Look of your Feed - Color and Logo
+                Customizing your Email Feed
               </a>
             </li>
             <li>
