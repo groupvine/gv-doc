@@ -4,7 +4,7 @@
 
 <span class="sub g4s">
   
-## The Look of your Feed - Color, Logo, and Descrition
+## Customizing your Email Feed
 
 The account **Email Feed** will appear with its logo and in shades of its primary
 color.  A sub-group **Email Feed** will initially default to its account's colors and logo, but can be overridden with its own look.
