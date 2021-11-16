@@ -49,7 +49,7 @@ And even upload a Side Image:
 When finished, click “Save” down at the bottom to preserve your
 changes and admire the result on your Email Feed:
 
-<img src="/docimages/cust-feedintro-5.png" height="400">
+<img src="/docimages/cust-feedintro-5.png" height="500">
 
 
 ## Choosing Feature Images in your Email Feed 
@@ -85,7 +85,7 @@ Member Profile Page in the same fashion. To do so, click on the “gear”
 icon to go to your Settings Page. Once there, you will find these
 various options under the “Site Customizations” tab.
 
-<img src="/docimages/site-customizations.jpg" height="22">.
+<img src="/docimages/site-customizations.jpg" height="300">.
 
 
 </span> <!-- sub g4s -->
