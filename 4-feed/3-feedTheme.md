@@ -91,7 +91,7 @@ various options under the “Site Customizations” tab.
 </span> <!-- sub g4s -->
 
 
-Note:
+## Note
 
 * From the Email Feed, Visitors can subscribe by clicking the
   **Visitor** menu in the top right and selecting
