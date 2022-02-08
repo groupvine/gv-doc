@@ -140,7 +140,7 @@
 
       <tr>
         <td class="topicsSection">
-          Email Widgets (a Patented GroupVine Technology)
+          Email Widgets <span style="font-size:16px">(a Patented GroupVine Technology)</span>
           <ul>
             <li>
               <a href="/5-widgets/1-ewIntro.md?gv-qargs=0#gv-5widgets-1ewintro">
