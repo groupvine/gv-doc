@@ -7,8 +7,13 @@ reserved member attributes.
 Email delivery:
 
 *  **Email**  member's primary email address,
-*  **Email AltN** alternate addresses, where N is an optional integer (2, 3, ...),
 *  **Opted Out** indicates whether the member has opted out (or hasn't yet opted-in) to receiving emails.
+
+<span class="support">
+Also, **Email AltN** is reserved for alternate addresses, where N is an optional integer (2, 3, ...),
+although this is not typically supported for new accounts (unless grandfathered in).
+</span>
+
 
 Identification:
 
