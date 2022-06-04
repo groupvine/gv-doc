@@ -9,6 +9,10 @@
   
 To avoid the risk of spammers sending emails to a group from a possibly compromised email account, after an email is sent from an inbox to an [unmoderated group](/3-send/4-sendSettings.md?gv-qargs=0#gv-2members-4sendsettings-use-moderation), a confirmation mail is emailed to the sender where the sender must confirm the email send before it can be forwarded to its recipients.
 
+If you're interested in skipping this confirmation step, you can change the setting **Emails from personal inbox required confirmation?** on 
+the <img src="/docimages/transparent-gear-icon.png" height="22">**Account Settings** page under **Email security** to `No`, although skipping 
+the confirmation step opens your account to the possibility of unwanted emails being distributed when a (valid sender) member's personal email account has been hacked.
+
 </span> <!-- highlight -->
 </span> <!-- g4s sub -->
 
@@ -17,12 +21,13 @@ To avoid the risk of spammers sending emails to a group from a possibly compromi
   
 To avoid the risk of spammers sending emails to a group from a possibly compromised email account, after an email is sent from an inbox, a confirmation mail is emailed to the sender where the sender must confirm the email send before it can be forwarded to its recipients.
 
+If you're interested in skipping this confirmation step, you can change the setting **Emails from personal inbox required confirmation?** on 
+the <img src="/docimages/transparent-gear-icon.png" height="22">**Account Settings** page under **Email security** to `No`, although skipping 
+the confirmation step opens your account to the possibility of unwanted emails being distributed when a valid sender member's personal email account has been hacked.
+
 </span> <!-- highlight -->
 </span> <!-- free -->
 
-If you're interested in skipping this confirmation step, you can change the setting **Emails from personal inbox required confirmation?** on 
-the <img src="/docimages/transparent-gear-icon.png" height="22">**Account Settings** page under **Email security** to `No`, but skipping 
-the confirmation step opens your account to the possibility of unwanted emails being distributed when a member's personal email account has been hacked.
 
 Also, all bounce message reports are now sent to the sender.
 
