@@ -9,6 +9,14 @@ If you would like to include more recipients, there are a few ways to do this.  
 
 ## Send an email
 
+<div style="text-align:center" class="tutorialVid">
+  <iframe width="560" height="315" title="Sending Your First Email" frameborder="0" 
+          src="https://www.youtube.com/embed/xPiSGh2Ho0s?modestbranding=1&listType=playlist&list=PLDpr40ac-3iJxubj8z77-Y-b81zevRF_L&rel=0"
+          allow="accelerometer; autoplay=0; clipboard-write; encrypted-media; gyroscope; 
+          picture-in-picture" allowfullscreen>
+  </iframe>
+</div>
+
 When ready, send a quick email from your personal inbox using your account's group email address, which Administrators can look up by signing into your account, clicking the <img src="/docimages/transparent-gear-icon.png" height="22"> and emailing "To" your **Address**, e.g. *myaccount*@groupvine.com, under **Core account settings**.  
 
 (Note, to avoid the risk of spammers sending emails to a group from a possibly compromised email account, after emailing from your inbox, a confirmation email will be  sent to you where you must confirm the email send before it can be forwarded to its recipients.)

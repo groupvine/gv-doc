@@ -13,6 +13,7 @@
             <li>
               <a href="/1-quickstart.md?gv-qargs=0#gv-quick-start">
                 Send your first GV-BRAND email in minutes!
+                <i class="fab fa-lg fa-youtube"></i>
               </a>
             </li>
           </ul>
