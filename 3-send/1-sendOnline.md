@@ -15,6 +15,14 @@ If you have an Admin or Editor role, you can
 compose and send emails from your online account.  First select **New
 Email** and then select **Prepare email online**.
 
+<div style="text-align:center" class="tutorialVid">
+  <iframe width="560" height="315" title="Sending Your First Email" frameborder="0" 
+          src="https://www.youtube.com/embed/xPiSGh2Ho0s?modestbranding=1&listType=playlist&list=PLDpr40ac-3iJxubj8z77-Y-b81zevRF_L&rel=0"" 
+          allow="accelerometer; autoplay=0; clipboard-write; encrypted-media; gyroscope; 
+          picture-in-picture" allowfullscreen>
+  </iframe>
+</div>
+
 By default the **New** tab is selected to create a new email from
 scratch (Note, for your very first email, you'll start by entering the
 email's subject).  You may also have a **Drafts**, **Templates**,

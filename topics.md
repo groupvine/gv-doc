@@ -69,6 +69,7 @@
             <li>
               <a href="/3-send/1-sendOnline.md?gv-qargs=0#gv-3send-1sendOnline">
                 Send email from your online account
+                <i class="fab fa-lg fa-youtube"></i>
               </a>
             </li>
             <li>
