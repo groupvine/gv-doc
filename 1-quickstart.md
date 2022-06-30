@@ -11,7 +11,7 @@ If you would like to include more recipients, there are a few ways to do this.  
 
 <div style="text-align:center" class="tutorialVid">
   <iframe width="560" height="315" title="Sending Your First Email" frameborder="0" 
-          src="https://www.youtube.com/embed/xPiSGh2Ho0s?modestbranding=1&listType=playlist&list=PLDpr40ac-3iJxubj8z77-Y-b81zevRF_L&rel=0"
+          src="https://www.youtube.com/embed/xPiSGh2Ho0s?modestbranding=1&listType=playlist&list=PLDpr40ac-3iJxubj8z77-Y-b81zevRF_L&rel=0"" 
           allow="accelerometer; autoplay=0; clipboard-write; encrypted-media; gyroscope; 
           picture-in-picture" allowfullscreen>
   </iframe>
