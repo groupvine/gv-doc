@@ -6,11 +6,11 @@ edit the HTML source directly when composing your email.  There are
 two modes for doing this as described below:
 
 1. Direct Editing of HTML Source
-
 2. Embedding HTML Blocks
 
-<img src="/docimages/html-editing-options.png" width="75%">
-
+<div style="text-align:center">
+  <img src="/docimages/html-editing-options.png" width="75%">
+</div>
 
 <span id="gv-2htmlSource-editing"></span>
 ## Direct Editing of HTML Source
@@ -22,21 +22,21 @@ and allows you to edit the HTML directly.
 Unlike the "Embedded HTML Blocks" (discussed below), this mode is more
 fully integrated with the WYSIWYG features, and minor changes to
 inserted HTML often occur when the email is saved, such as the change
-of ```<p>``` tags to ```<div class="gv-p">``` tags (which otherwise
-exhibit the same behavior as ```<p>``` tags, so the actual formatting
+of ```<p>...</p>``` tags to ```<div class="gv-p">...</div>``` tags (which otherwise
+exhibit the same behavior as ```<p>...</p>``` tags, so the actual formatting
 of paragraph elements would typically remain unchanged).
 
 Also, default styling is applied to a number of HTML elements entered
-using this mode. For example, ```<table>``` elements are displayed
-with thin, light borders and some extra margins.  This is typically
-appropriate for actual tables, however, HTML ```<table>``` elements
-are often instead used only for positioning elements in emails
-(particularly due to limited email support for 'position'-related CSS
-elements). To avoid these borders and margins around ```<table>```
-elements, and some other default styling, wrap your custom HTML in a
-class="gv-base-styling" element.  This could be done by adding this
-class to an element that already wraps your email content, or adding
-an overally ```<div>``` wrapper like this:
+using this mode. For example, ```<table>...</table>``` elements are
+displayed with thin, light borders and some extra margins.  This is
+typically appropriate for actual tables, however, HTML ```<table>```
+elements are often instead used only for positioning elements in
+emails (particularly due to limited email support for
+'position'-related CSS elements). To avoid these borders and margins
+around ```<table>``` elements, and some other default styling, wrap
+your custom HTML in a class="gv-base-styling" element.  This could be
+done by adding this class to an element that already wraps your email
+content, or adding an overally ```<div>``` wrapper like this:
 
 ```
     <div class="gv-base-styling">
