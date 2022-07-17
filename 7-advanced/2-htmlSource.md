@@ -22,7 +22,7 @@ and allows you to edit the HTML directly.
 Unlike the "Embedded HTML Blocks" (discussed below), this mode is more
 fully integrated with the WYSIWYG features, and minor changes to
 inserted HTML often occur when the email is saved, such as the change
-of ```<p>...</p>``` tags to ```<div class="gv-p">...</div>``` tags (which otherwise
+of `<p>` tags to ```<div class="gv-p">...</div>``` tags (which otherwise
 exhibit the same behavior as ```<p>...</p>``` tags, so the actual formatting
 of paragraph elements would typically remain unchanged).
 
