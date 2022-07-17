@@ -27,16 +27,16 @@ exhibit the same behavior as &lt;p&gt; tags, so the actual formatting
 of paragraph elements would typically remain unchanged).
 
 Also, default styling is applied to a number of HTML elements entered
-using this mode. For example, &lt;table&gt; elements are
-displayed with thin, light borders and some extra margins.  This is
-typically appropriate for actual tables, however, HTML &lt;table&gt;
-elements are often instead used only for positioning elements in
-emails (particularly due to limited email support for
-'position'-related CSS elements). To avoid these borders and margins
-around &lt;table&gt; elements, and some other default styling, wrap
-your custom HTML in a class="gv-base-styling" element.  This could be
-done by adding this class to an element that already wraps your email
-content, or adding an overally &lt;div&gt; wrapper like this:
+using this mode. For example, &lt;table&gt; elements are displayed
+with thin, light borders and some extra margins.  This is typically
+appropriate for actual tables, however, HTML &lt;table&gt; elements
+are often instead used only for positioning elements in emails
+(particularly due to limited email support for 'position'-related CSS
+elements). To avoid these borders and margins around &lt;table&gt;
+elements, and some other default styling, wrap your custom HTML within
+an element with class="gv-base-styling".  This could be done by adding
+this class to an element that already wraps your email content, or
+adding an overally &lt;div&gt; wrapper like this:
 
 ```
     <div class="gv-base-styling">
