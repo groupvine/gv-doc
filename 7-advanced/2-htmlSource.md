@@ -2,7 +2,7 @@
 # Direct HTML Editing
 
 If enabled for your account, advanced users are able to insert and
-edit the HTML source directly when composing your email.  There are
+edit the HTML source directly when composing their email.  There are
 two modes for doing this as described below:
 
 1. Direct Editing of HTML Source
@@ -17,7 +17,7 @@ two modes for doing this as described below:
 
 The "Source" HTML editing mode displays the current email, including
 the portions entered using the regular WYSIWYG editor, as HTML
-and allows you to edit the HTML directly.
+and allows editing of the email's HTML source directly.
 
 Unlike the "Embedded HTML Blocks" (discussed below), this mode is more
 fully integrated with the WYSIWYG features, and minor changes to
@@ -33,9 +33,9 @@ appropriate for actual tables, however, HTML &lt;table&gt; elements
 are often instead used only for positioning elements in emails
 (particularly due to limited email support for 'position'-related CSS
 elements). To avoid these borders and margins around &lt;table&gt;
-elements, and some other default styling, wrap your custom HTML within
+elements, and some other default styling, wrap the custom HTML within
 an element with class="gv-base-styling".  This could be done by adding
-this class to an element that already wraps your email content, or
+this class to an element that already wraps this email content, or
 adding an overally &lt;div&gt; wrapper like this:
 
 ```
@@ -48,16 +48,16 @@ adding an overally &lt;div&gt; wrapper like this:
 <span id="gv-2htmlSource-embedded"></span>
 ## Embedding HTML Blocks
 
-Adding Embedded HTML blocks in the editor allows you to enter or paste
+Adding Embedded HTML blocks in the editor allows entering or pasting
 HTML into an embedded editor widget and have it included in the email
 exactly as entered, with little or no default GroupVine styling
 applied.
 
-Note that if the direct HTML source editing above works for your
-email, it is generally preferred since it facilitates easier
-integration with GroupVine-specific email elements, such as Email
-Widgets.  However, when including HTML exactly as entered is required,
-these embedded HTML blocks can be used.
+Note that if the direct HTML source editing above works, it is
+generally preferred since it facilitates easier integration with
+GroupVine-specific elements, such as Email Widgets.  However,
+when including HTML exactly as entered is required, these embedded
+HTML blocks can be used.
 
 
 ## Test first!
