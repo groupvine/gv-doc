@@ -32,8 +32,11 @@ Also, all bounce message reports are now sent to the sender.
 </span> <!-- highlight -->
 </span> <!-- free -->
 
-
-To send an email to your account from your inbox, use your account's **Address** found on the <img src="/docimages/transparent-gear-icon.png" height="22"> **Account Settings** page, for example:
+To send an email to your community from your personal inbox, you can
+find the email address to use by signing into your online account,
+selecting **New Email** and then select **Send email from your own
+inbox**.  The address for your account (or your sub-group if you're in
+a sub-group) will then be shown.  For example:
 
 ```
 lighthouselabs@groupvine.com
@@ -41,14 +44,20 @@ lighthouselabs@groupvine.com
 
 <span class="g4s sub"> 
 
-Similarly, to send to a sub-group from your inbox, use the sub-group's **Address** found on the sub-group's 
-<img src="/docimages/transparent-gear-icon.png" height="22"> **Sub-group Settings** page, for example:
+or for a sub-group:
 
 ```
 team.lighthouselabs@groupvine.com
 ```
 
 </span> <!-- g4s sub -->
+
+
+
+Admins can also find your account's (or sub-group's)
+**Address** on the <img
+src="/docimages/transparent-gear-icon.png" height="22"> **Settings** page.
+
 
 Once your email is sent, it will appear in your Email Feed with <img src="/docimages/sent-from-inbox-icon.png" height="22"> to 
 identify that the email was sent from a personal email account.  If your email isn't listed at the top, wait a minute and click <img src="/docimages/refresh-feed-icon.png" width="22"> in the Email Feed header to 
@@ -67,8 +76,9 @@ the name normally used to send email.
 <span id="gv-3send-2sendInbox-listattraddr"></span>
 ## Get the email address to send to lists or recipients with specific attribute values
 
-To find the email address to target lists or recipients with specific attribute values, select **New Email** and then select **Send email from 
-your own inbox**.  On the **Addressing** tab select the lists and attributes you want your email to target and copy the updated email 
+To find the email address to target lists or recipients with specific
+attribute values, select **New Email** and then select **Send email
+from your own inbox**.  On the **Addressing** tab select the lists and attributes you want your email to target and copy the updated email 
 address to the "To" field of your email in your personal inbox.  If you use this email address often, you might want to add it to your contacts so the address is readily available when sending.
 
 <span id="gv-3send-2sendInbox-drafturgentaddr"></span>
