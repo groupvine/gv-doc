@@ -11,6 +11,7 @@ other minor changes and fixes implemented over the past year.
 * [More control of email visibility in Email Feeds](#email-visibility-control)
 * [Ability to hide Email Widget results](#hiding-ew-results)
 * [Smart inclusion of sub-group emails in account Email Feed](#subgroup-emails-in-feed)
+* [Other notable changes](#mar2023-other-changes)
 
 <span id="improved-email-addressing"></span>
 ## Improved Email Addressing
@@ -67,15 +68,19 @@ settings page is set to “Yes".
 [Screenshot showing how to enable in Account Settings]
 
 <span id="mar2023-other-changes"></span>
-## Other Notable Changes and Fixes 
+## Other Notable Changes 
 
 TBD [following raw cut-and-paste from Robin]
 
+Draft emails can include individually selected recipients. 
+Administrators and Editors are innitially set up as the default 
+recipients, but now you can also add other individual members 
+to receive your Draft.  
 
-Add captcha to /subscribe page CAPTCHA helps protect you from spam and
-password decryption by asking you to complete a simple test that
-proves you are human and not a computer trying to break into a
-password protected account:  "https://github.com/groupvine/gv/issues/137"
+On your account subscribe page, we've added a CAPTCHA which 
+asks the subscriber to complete a simple test to prove they are 
+human and not a computer trying to join your account.
+"https://github.com/groupvine/gv/issues/137"
    
 Allow downloading spreadsheet with all sub-group addresses:
 "https://github.com/groupvine/gv/issues/144"
