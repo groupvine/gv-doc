@@ -72,21 +72,34 @@ settings page is set to “Yes".
 
 TBD [following raw cut-and-paste from Robin]
 
-Draft emails can include individually selected recipients. 
-Administrators and Editors are innitially set up as the default 
-recipients, but now you can also add other individual members 
-to receive your Draft.  
+By default, Draft emails will still be set up with Admins and
+Editors as recipients, but now you can add individually 
+selected recipients and the Admins and Editors can be optional.
 
-On your account subscribe page, we've added a CAPTCHA which 
+On the subscribe page, we've added a CAPTCHA which 
 asks the subscriber to complete a simple test to prove they are 
-human and not a computer trying to join your account.
+a human and not a computer attempting to join your account.
 "https://github.com/groupvine/gv/issues/137"
    
-Allow downloading spreadsheet with all sub-group addresses:
+From your account's Manage Sub-groups page, a spreadsheet can 
+be downloaded containing all sub-group account information including 
+the sub-group email address.  This makes it easier to have all 
+addresses at hand than to individually look them up online.
 "https://github.com/groupvine/gv/issues/144"
+[Screenshot of account page - Robin has]
     
+
+
+MAYBE NOT INCLUDE THESE??
+
 Improve UI handling of files associated with an email:
 "https://github.com/groupvine/gv/issues/138"
+
+Forward Email option: "https://github.com/groupvine/gv/issues/54
+
+Add support for editing HTML directly
+https://github.com/groupvine/gv/issues/103 Add Embed HTML and HTML
+Source mode options Only enabled via GV-Only switches
 
 Email Feed - showing sub-group emails:
 "https://github.com/groupvine/gv/issues/115"
@@ -96,13 +109,6 @@ Users can change their email address on their profile page:
 
 If click on EW summary image in an email online, bring up
 show-all-responses: "https://github.com/groupvine/gv/issues/57
-
-Forward Email option: "https://github.com/groupvine/gv/issues/54
-
-Add support for editing HTML directly
-https://github.com/groupvine/gv/issues/103 Add Embed HTML and HTML
-Source mode options Only enabled via GV-Only switches
-
 
 
 
