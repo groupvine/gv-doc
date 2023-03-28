@@ -21,13 +21,12 @@ community, sub-groups, individually selected recipients, lists or
 attributes.  For any addressing selection, a plain-English summary is
 now provided to help clarify exactly who would receive the email.
 
-[screenshot of example selecting 2 sub-groups and 1 list, circling summary]
+<img src="/docimages/adr-summary.png" width="600" style="display:block; margin:0 auto">
 
 Also Draft emails can be sent to individually selected recipients,
 with or without being sent to the Administrators and Editors.
 
-[screenshot selecting Draft and specific recipients]
-
+<img src="/docimages/draft-rcpts.png" width="600" style="display:block; margin:0 auto">
 
 <span id="email-visibility-control"></span>
 ## More control of email visibility in Email Feeds
@@ -37,7 +36,7 @@ Sub-group members or Qualified members right in the Email Feed.
 Qualified members are recipients based on a list, attribute or
 individually selected recipients.
 
-[Screenshot of Email Feed with visibility menu open for a given email]
+<img src="/docimages/email-vis-menu.png" width="600" style="display:block; margin:0 auto">
 
 For example, with an email sent to a list and at its default
 visibility, only list members would be able to view the email in the
@@ -54,7 +53,7 @@ optionally released at a later time.  For instance, for a secret
 ballot you may wish to hide the results chart until after the voting
 period.
 
-[Screenshot of an example voting EW; e.g., "Vote for up to 3 board members"]
+<img src="/docimages/ew-no-summary.png" width="600" style="display:block; margin:0 auto">
 
 <span id="subgroup-emails-in-feed"></span>
 ## Smart inclusion of sub-group emails in account Email Feed
@@ -70,45 +69,22 @@ settings page is set to “Yes".
 <span id="mar2023-other-changes"></span>
 ## Other Notable Changes 
 
-TBD [following raw cut-and-paste from Robin]
+* By default, Draft emails will still be set up with Admins and
+  Editors as recipients, but now you can add individually 
+  selected recipients and the Admins and Editors can be optional.
 
-By default, Draft emails will still be set up with Admins and
-Editors as recipients, but now you can add individually 
-selected recipients and the Admins and Editors can be optional.
-
-On the subscribe page, we've added a CAPTCHA which 
-asks the subscriber to complete a simple test to prove they are 
-a human and not a computer attempting to join your account.
-"https://github.com/groupvine/gv/issues/137"
+* On the subscribe page, we've added a CAPTCHA which 
+  asks the subscriber to complete a simple test to prove they are 
+  a human and not a computer attempting to join your account.
    
-From your account's Manage Sub-groups page, a spreadsheet can 
-be downloaded containing all sub-group account information including 
-the sub-group email address.  This makes it easier to have all 
-addresses at hand than to individually look them up online.
-"https://github.com/groupvine/gv/issues/144"
-[Screenshot of account page - Robin has]
+* For accounts with sub-groups, from your account's Manage Sub-groups page, 
+  a spreadsheet can 
+  be downloaded containing all sub-group account information including 
+  the sub-group email address.  This makes it easier to have all 
+  addresses at hand than to individually look them up online.
+
+  [Screenshot of account page - Robin has]
     
-
-
-MAYBE NOT INCLUDE THESE??
-
-Improve UI handling of files associated with an email:
-"https://github.com/groupvine/gv/issues/138"
-
-Forward Email option: "https://github.com/groupvine/gv/issues/54
-
-Add support for editing HTML directly
-https://github.com/groupvine/gv/issues/103 Add Embed HTML and HTML
-Source mode options Only enabled via GV-Only switches
-
-Email Feed - showing sub-group emails:
-"https://github.com/groupvine/gv/issues/115"
-
-Users can change their email address on their profile page:
-"https://github.com/groupvine/gv/issues/96
-
-If click on EW summary image in an email online, bring up
-show-all-responses: "https://github.com/groupvine/gv/issues/57
 
 
 
