@@ -68,7 +68,7 @@ including its sub-groups, that each viewer is entitled to see.  To
 enable, be sure that “Sub-group Emails in Feed?” in your account
 settings page is set to “Yes".
 
-<img src="/docimages/incl-subgroup-emails.png" width="600" style="display:block; margin:0 auto">
+<img src="/docimages/incl-subgroup-emails.png" width="300" style="display:block; margin:0 auto">
 
 <span id="mar2023-other-changes"></span>
 ## Other Notable Changes 
