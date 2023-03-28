@@ -87,7 +87,7 @@ settings page is set to “Yes".
   the sub-group email address.  This makes it easier to have all 
   addresses at hand than to individually look them up online.
 
-  [Screenshot of account page - Robin has]
+<img src="/docimages/subgroup-info-download.png" width="300" style="display:block; margin:0 auto">
     
 
 
