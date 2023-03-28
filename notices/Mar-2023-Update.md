@@ -8,6 +8,7 @@ to the GroupVine community email service, as well as a listing of
 other minor changes and fixes implemented over the past year.
 
 * [Improved Email Addressing](#improved-email-addressing)
+* [Selecting Recipients for Drafts](#draft-recipients)
 * [More control of email visibility in Email Feeds](#email-visibility-control)
 * [Ability to hide Email Widget results](#hiding-ew-results)
 * [Smart inclusion of sub-group emails in account Email Feed](#subgroup-emails-in-feed)
@@ -23,7 +24,10 @@ now provided to help clarify exactly who would receive the email.
 
 <img src="/docimages/adr-summary.png" width="600" style="display:block; margin:0 auto">
 
-Also Draft emails can be sent to individually selected recipients,
+<span id="draft-recipients"></span>
+## Selecting Recipients for Drafts
+
+Draft emails can be sent to individually selected recipients,
 with or without being sent to the Administrators and Editors.
 
 <img src="/docimages/draft-rcpts.png" width="600" style="display:block; margin:0 auto">
@@ -64,7 +68,7 @@ including its sub-groups, that each viewer is entitled to see.  To
 enable, be sure that “Sub-group Emails in Feed?” in your account
 settings page is set to “Yes".
 
-[Screenshot showing how to enable in Account Settings]
+<img src="/docimages/incl-subgroup-emails.png" width="600" style="display:block; margin:0 auto">
 
 <span id="mar2023-other-changes"></span>
 ## Other Notable Changes 
