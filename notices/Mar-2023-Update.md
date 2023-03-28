@@ -42,11 +42,11 @@ individually selected recipients.
 
 <img src="/docimages/email-vis-menu.png" width="600" style="display:block; margin:0 auto">
 
-For example, with an email sent to a list and at its default
-visibility, only list members would be able to view the email in the
-Email Feed.  However, Admins can now change the emails visibility in
-the Email Feed to permit all sub-group or account members to view it
-in the Email Feed.
+For example, generally when an email is sent to a list and based on
+the group's default visibility, only list members would be able to
+view the email in their Email Feed. However, Admins can now change the
+email's visibility to permit all sub-group or account members to also
+view it from their feed.
 
 <span id="hiding-ew-results"></span>
 ## Ability to hide Email Widget results
@@ -58,6 +58,18 @@ ballot you may wish to hide the results chart until after the voting
 period.
 
 <img src="/docimages/ew-no-summary.png" width="600" style="display:block; margin:0 auto">
+
+Here's how you can set or change an email's widget settings:
+
+* From your account settings page, set the default for all widgets.
+ 
+* When composing a new email, make changes from the widget's
+  Email-wide Settings tab which can be accessed when adding a new
+  widget or by double-clicking on an existing widget.
+ 
+* For a published email, select Change Widget settings from the
+  email's action menu in the Email Feed.
+   
 
 <span id="subgroup-emails-in-feed"></span>
 ## Smart inclusion of sub-group emails in account Email Feed
@@ -72,10 +84,6 @@ settings page is set to “Yes".
 
 <span id="mar2023-other-changes"></span>
 ## Other Notable Changes 
-
-* By default, Draft emails will still be set up with Admins and
-  Editors as recipients, but now you can add individually 
-  selected recipients and the Admins and Editors can be optional.
 
 * On the subscribe page, we've added a CAPTCHA which 
   asks the subscriber to complete a simple test to prove they are 
