@@ -173,7 +173,7 @@ As you may have noticed, if you use the GroupVine 4 School (G4S)
 service, your school emails include <a href="#golocal-ad-formats">two
 ad slots,</a> usually near the very top of the email.  These ad slots
 could be dedicated for use by up to five sponsors that you select,
-perhaps as a separate sponsorship offering or packaged as an added
+either as a separate sponsorship offering or packaged as an added
 feature of an existing, premium sponsorship offering.
 
 The best part is that we'll work directly with the merchants to help
@@ -201,11 +201,10 @@ on what's easist for your school:
    emails" with your premier sponsorships.
 
 
-Sound interesting?  
-<a href="mailto:support@groupvine.com?subject=GoLocal%20Information%20Request&body=My%20website:%20%0D%0AQuestions:%20%0D%0A" target="_blank">
-Send us an email</a>
-and we can help answer any other questions you have and help you get started!
-
+<b>Interested!?</b> <a
+href="mailto:support@groupvine.com?subject=G4S%20Sponsorship%20Information%20Request"
+target="_blank">Send us an email</a> and we can help answer any other
+questions you have and help you get started!
 
 
 <span id="golocal-ad-formats"> </span>
