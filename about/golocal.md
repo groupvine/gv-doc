@@ -1,26 +1,25 @@
 <span id="about-golocal"> </span>
-# GoLocal&trade and GoLocal Sponsorships
+# GoLocal&trade; and GoLocal&trade; Sponsorships
 
-GroupVine's GoLocal program allows schools to add compelling, premium
-deals to their sponsorship offerings for local businesses and
-organizations, and allows local businesses and organizations to be
-easily and effectively promoted to local schools who use the GroupVine
-service.
+GroupVine's GoLocal&trade; program allows schools to add compelling,
+premium-level deals to their sponsorship offerings for local
+businesses and organizations, and also allows local businesses and
+organizations to be easily and effectively promoted to local schools
+who use the GroupVine email service.
+
+If you are involved in offering sponsorships for your school, and
+would like to add GroupVine GoLocal ad placement as a new sponsorship
+offering, or as an additional feature to a premium sponsorship level, see the
+<a href="#golocal-for-sponsorships">GoLocal for Premium School Sponsorships<a>
+section below.
 
 If you are a business or other organization wishing to promote to
 schools in your area who use the GroupVine community email service,
 <a href="#golocal-for-biz">read on into the next section.</a>
 
-If you are involved in offering sponsorships for your school, and
-would like to add GroupVine GoLocal ad placement as a new sponsorship
-offering, or as an additional feature to a premium sponsorship level, see the
-<a href="#golocal-for-sponsorships">GoLocal-Sponsorships: GoLocal for Premium School Sponsorships<a>
-section below.
-
-
 
 <span id="golocal-for-biz"> </span>
-## GoLocal-Business: For Promoting Your Business or Organization to Local Schools
+## GoLocal for Promoting Your Business or Organization to Local Schools
 
 Promote your business or organization directly to, and be just a click
 away from, any local school community that uses the free
@@ -68,6 +67,7 @@ Schools that use the GroupVine service can use one of two email
 formats that have different ad specifications.  These formats are <a
 href="#golocal-ad-formats">detailed in the "Ad Image Types and
 Specifications" section below.</a>
+
 
 <span id="golocal-pricing"></span>
 ### GoLocal Pricing for Local Businesses or Organizations
@@ -134,7 +134,7 @@ sent by the school communities you have specified!
 <a href="mailto:support@groupvine.com?subject=Questions%20about%20getting%20started%20with%20GoLocal&body=My%20website:%20%0D%0AQuestions:%20%0D%0A" target="_blank">
 Email us</a> if you have any questions or to get started!
 
-## GoLocal FAQ for Local Businesses and Organizations
+### GoLocal FAQ for Local Businesses and Organizations
 
 * **Can I advertise to more than one school community?**
 Yes, just let us know which schools your’d like to target and we can
@@ -162,14 +162,15 @@ templates so your ad will be rotated through the ad slots
 regardless of the template used.
 
 
-<span id=g"golocal-for-sponsorships"> </span>
-## GoLocal-Sponsorships: GoLocal for Premium School Sponsorships
+<span id="golocal-for-sponsorships"> </span>
+## GoLocal for Premium School Sponsorships
 
-If you are involved in reaching out to local merchants and other local
-organizations with sponsorship offerings, we can help!
+If you are involved with your school's efforts to reach out to local
+merchants and other local organizations with sponsorship promotions,
+we can help!
 
 As you may have noticed, if you use the GroupVine 4 School (G4S)
-service, your school emails include <a href="#golocal-ad-formats>two
+service, your school emails include <a href="#golocal-ad-formats">two
 ad slots,</a> usually near the very top of the email.  These ad slots
 could be dedicated for use by up to five sponsors that you select,
 perhaps as a separate sponsorship offering or packaged as an added
@@ -181,10 +182,10 @@ which ones you've selected.  Any other sponsorship details, including
 the sponsorship/donation amounts, are totally up to you.
 
 There are two basic models for converting your standard GroupVine 4
-School (G4S) service to a G4S GoLocal-Sponsorship service, depending
+School (G4S) service to a G4S-Sponsorship service, depending
 on what's easist for your school:
 
-1. Add the <a href="https://www.groupvine.com/pricing"> GroupVine
+1. Add the <a href="https://www.groupvine.com/pricing" target="_blank"> GroupVine
    subscription service</a>, for your school but retain the email ad
    slots that then become available for your own sponsorships.  All
    sponsorship/donation amounts would continue to flow directly to the
