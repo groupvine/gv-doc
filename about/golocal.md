@@ -201,7 +201,7 @@ on what's easist for your school:
    emails" with your premier sponsorships.
 
 
-**Interested!?** <a
+Sound interesting!? <a
 href="mailto:support@groupvine.com?subject=G4S%20Sponsorship%20Information%20Request"
 target="_blank">Send us an email</a> and we can help answer any other
 questions you have and help you get started!
