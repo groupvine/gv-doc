@@ -1,11 +1,12 @@
 <span id="about-golocal"> </span>
-# GoLocal&trade; and GoLocal&trade; Sponsorships
+# GoLocal&trade; and GroupVine 4 School Sponsorships
 
-GroupVine's GoLocal&trade; program allows schools to add compelling,
-premium-level deals to their sponsorship offerings for local
-businesses and organizations, and also allows local businesses and
-organizations to be easily and effectively promoted to local schools
-who use the GroupVine email service.
+GroupVine's GoLocal&trade; program leverages the GroupVine 4 School
+email service to allow schools to add compelling, premium-level deals
+to their sponsorship offerings for local businesses and organizations,
+and also allow local businesses and organizations to be easily and
+effectively promoted to local schools who use the GroupVine email
+service.
 
 If you are involved in offering sponsorships for your school, and
 would like to add GroupVine GoLocal ad placement as a new sponsorship
