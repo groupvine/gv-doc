@@ -170,7 +170,7 @@ regardless of the template used.
 ## GoLocal for Premium School Sponsorships
 
 If you are involved with your school's efforts to reach out to local
-merchants and other local organizations with sponsorship promotions,
+merchants and other organizations with sponsorship promotions,
 we can help!
 
 As you may have noticed, if you use the GroupVine 4 School (G4S)
@@ -181,7 +181,7 @@ either as a separate sponsorship offering or packaged as an added
 feature of an existing, premium sponsorship offering.
 
 The best part is that we'll work directly with the merchants to help
-them create and post their ads.  All you'll need to do is let us know
+them create and post their ad.  All you'll need to do is let us know
 which ones you've selected.  Any other sponsorship details, including
 the sponsorship/donation amounts, are totally up to you.
 
