@@ -5,7 +5,7 @@ GroupVine's GoLocal&trade; program leverages the GroupVine 4 School
 email service and can be used to serve two needs:
 
 1. allows schools to add compelling, premium-level deals to their
-   sponsorship offerings for local businesses and organizations.
+   sponsorship offerings for local businesses and organizations;
 
 2. allows local businesses and organizations to be easily and
    effectively promoted to local schools who use the GroupVine email
