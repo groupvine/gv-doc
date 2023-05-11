@@ -123,13 +123,13 @@ contact us</a> directly for higher volume pricing):
 </table>
 
 Note that by using View Credits, we ensure that your
-account will only be charged when your ad is actually
+account will only be charged when your ad is 
 viewed.
 
 To start running your ad, we’ll email you an invoice using
 PayPal (which accepts all major credit cards). After
-receiving your payment, your ad should typically be ready
-within 24 hours to be begin running in the next emails
+receiving your payment, your ad is typically ready
+within 24 hours to begin running in the subsequent emails
 sent by the school communities you have specified!
 
 <a href="mailto:support@groupvine.com?subject=Questions%20about%20getting%20started%20with%20GoLocal&body=My%20website:%20%0D%0AQuestions:%20%0D%0A" target="_blank">
@@ -138,7 +138,7 @@ Email us</a> if you have any questions or to get started!
 ### GoLocal FAQ for Local Businesses and Organizations
 
 * **Can I advertise to more than one school community?**
-Yes, just let us know which schools your’d like to target and we can
+Yes, just let us know which schools you’d like to target and we can
 include your ad in their community emails.
 
 * **What statistics are included in the monthly activity reports?**
@@ -148,7 +148,7 @@ views and clicks for your ad during the month, and; 2) The
 number of view credits remaining in your account.
 
 * **What if there are more advertisers than ad slots available?**
-If this is the case, then ads will be fairly rotated.
+If this is the case, then ads will be rotated.
 
 * **Can I change my ad once I make a payment?**
 Yes!  You can update a particular ad image as frequently as every month.
