@@ -1,25 +1,29 @@
 <span id="about-golocal"> </span>
 # GoLocal&trade; and GroupVine 4 School Sponsorships
 
-GroupVine's GoLocal&trade; program leverages the GroupVine 4 School
-email service and can be used to serve two needs:
+GroupVine's GoLocal&trade; program leverages the GroupVine 4 School email
+service to offer two opportunities for schools and local businesses:
 
-1. allows schools to add compelling, premium-level deals to their
-   sponsorship offerings for local businesses and organizations;
+- <a href="#golocal-for-sponsorships">
+  GoLocal for schools looking to increase their Premium
+  Level Sponsorships </a>
+  by including compelling, high visibility
+  placements for sponsors’ ads just below the header of your emails
+  (in place of the current GroupVine or other ads).  If you are
+  involved in offering sponsorships for your school, see the
+  <a href="#golocal-for-sponsorships">GoLocal
+  for Premium School Sponsorships section below </a>
+  for more information.
 
-2. allows local businesses and organizations to be easily and
-   effectively promoted to local schools who use the GroupVine email
-   service.
-
-If you are involved in offering sponsorships for your school, and
-would like to add GroupVine GoLocal ad placement as a new sponsorship
-offering, or as an additional feature to a premium sponsorship level, see the
-<a href="#golocal-for-sponsorships">GoLocal for Premium School Sponsorships<a>
-section below.
-
-If you are a business or other organization wishing to promote to
-schools in your area who use the GroupVine community email service,
-<a href="#golocal-for-biz">read on into the next section.</a>
+- <a href="#golocal-for-biz">
+  GoLocal for businesses or organizations </a>
+  to promote themselves to
+  local schools by having their ad, that GroupVine can help create and
+  that can be linked to a website or ready-to-send email, appear at
+  the top of school emails.  If you are a business or organization
+  wishing to promote to schools in your area who use the GroupVine
+  community email service, <a href="#golocal-for-biz">read on to the next
+  section</a>.
 
 
 <span id="golocal-for-biz"> </span>
@@ -170,45 +174,49 @@ regardless of the template used.
 ## GoLocal for Premium School Sponsorships
 
 If you are involved with your school's efforts to reach out to local
-merchants and other organizations with sponsorship promotions,
-we can help!
-
-As you may have noticed, if you use the GroupVine 4 School (G4S)
-service, your school emails include <a href="#golocal-ad-formats">two
-ad slots,</a> usually near the very top of the email.  These ad slots
-could be dedicated for use by up to five sponsors that you select,
-either as a separate sponsorship offering or packaged as an added
-feature of an existing, premium sponsorship offering.
-
-The best part is that we'll work directly with the merchants to help
-them create and post their ad.  All you'll need to do is let us know
-which ones you've selected.  Any other sponsorship details, including
-the sponsorship/donation amounts, are totally up to you.
+merchants and organizations to promote premium sponsorship packages,
+we can help by making signing up more enticing and valuable by
+including premier ad placement as an additional perk.
 
 There are two basic models for converting your standard GroupVine 4
-School (G4S) service to a G4S-Sponsorship service, depending
-on what's easist for your school:
+School (G4S) service to a G4S-Sponsorship service, depending on what's
+easiest for your school:
 
-1. Add the <a href="https://www.groupvine.com/pricing" target="_blank"> GroupVine
-   subscription service</a>, for your school but retain the email ad
-   slots that then become available for your own sponsorships.  All
-   sponsorship/donation amounts would continue to flow directly to the
-   school.  You would simply let us know which sponsors to work with
-   to create and activate their email ads.
-
-2. Continue with the standard, free GroupVine 4 School email service,
-   and simply direct the merchants you select to work with us to 
-   create and activate their ads.  As a school-selected sponsor, we 
-   would offer these merchants an additional 10% discount 
-   over the standard <a href="#golocal-pricing">GoLocal pricing</a>,
-   allowing you to promote "discounted ad placement at the top of school
-   emails" with your premier sponsorships.
+- Sign your school up for the
+  <a href="https://www.groupvine.com/pricing" target="_blank">
+  GroupVine subscription service </a>
+  and keep
+  the email ad slots that then become available for your premium
+  sponsors. All sponsorship amounts would continue to flow directly to
+  the school. No additional work for you, you would simply let us know
+  which sponsors to work with to create and activate their email ads.
 
 
-Sound interesting!? <a
-href="mailto:support@groupvine.com?subject=G4S%20Sponsorship%20Information%20Request"
-target="_blank">Send us an email</a> and we can help answer any other
-questions you have and help you get started!
+- Continue with the standard, free GroupVine 4 School email service,
+  and just direct the merchants you select to work with GroupVine to
+  create and activate their ads. As a school-selected sponsor, we
+  would offer these merchants an additional 10% discount over the
+  standard
+  <a href="#golocal-pricing">GoLocal pricing</a>,
+  allowing you to promote "discounted ad
+  placement at the top of school emails" with your premium
+  sponsorship.
+
+With either service we will also include a free ad for your school to
+promote your sponsorship package details.  This ad would rotate along
+with any of the premium advertisers you’ve selected.  We help create
+all ads, which can be linked to a website or ready-to-send email.
+
+The best part is that you only need to let us know which merchants
+you’ve selected, and we will work directly with them to help create
+and post their ad.  With either service approach, all other
+sponsorship details, including the sponsorship amounts, are totally up
+to you.
+
+Sounds interesting!? Send us an email at
+<a mailto:support@groupvine.com>support@groupvine.com</a>
+and we can help answer any other questions you have and help you get
+started!
 
 
 <span id="golocal-ad-formats"> </span>
