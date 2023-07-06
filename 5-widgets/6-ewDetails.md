@@ -1,7 +1,7 @@
-# Email Widget Details and Additional Features
+# Email Widget Details and Features
 
 <span id="gv-5widgets-6ewDetails"></span>
-Here are some additional Email Widget details and features:
+Here's a summary of key Email Widget details and features:
 
 * Recipients can respond and comment from their email without
   signing-in or clicking-through to a survey, online document, or
