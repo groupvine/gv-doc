@@ -5,8 +5,8 @@ GroupVine's GoLocal&trade; program leverages the GroupVine 4 School email
 service to offer two opportunities for schools and local businesses:
 
 - <a href="#golocal-for-sponsorships">
-  GoLocal for schools looking to increase their Premium
-  Level Sponsorships </a>
+  GoLocal for schools looking to increase their premium
+  level sponsorships </a>
   by including compelling, high visibility
   placements for sponsors’ ads just below the header of your emails
   (in place of the current GroupVine or other ads).  If you are
@@ -182,15 +182,14 @@ There are two basic models for converting your standard GroupVine 4
 School (G4S) service to a G4S-Sponsorship service, depending on what's
 easiest for your school:
 
-- Sign your school up for the
+- Sign your school up for an annual
   <a href="https://www.groupvine.com/pricing" target="_blank">
   GroupVine subscription service </a>
-  and keep
+  (with a 20% discount for non-profits) and keep
   the email ad slots that then become available for your premium
   sponsors. All sponsorship amounts would continue to flow directly to
   the school. No additional work for you, you would simply let us know
   which sponsors to work with to create and activate their email ads.
-
 
 - Continue with the standard, free GroupVine 4 School email service,
   and just direct the merchants you select to work with GroupVine to
