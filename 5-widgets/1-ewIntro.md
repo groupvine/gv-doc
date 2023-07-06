@@ -26,7 +26,7 @@ businesses?
 <img src="/docimages/ew-example1.png" height="120">
 
 
-### Single/Multiple custom choice widget to poll recipients
+### Single/Multiple custom choice widget
 
 Which fundraiser would you most likely support next year? 
 
