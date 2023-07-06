@@ -150,8 +150,8 @@
               </a>
             </li>
             <li>
-              <a href="/5-widgets/2-ewAdd.md?gv-qargs=0#gv-5widgets-2ewadd">
-                Adding Email Widgets to your emails
+              <a href="/5-widgets/6-ewDetails.md?gv-qargs=0#gv-5widgets-6ewDetails">
+                Email Widget Details and Features
               </a>
             </li>
             <li>

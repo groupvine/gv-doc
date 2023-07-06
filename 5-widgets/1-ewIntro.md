@@ -3,10 +3,77 @@
 <span id="gv-5widgets-1ewintro"></span>
 ## What are Email Widgets?
 
-* [Adding Email Widgets to your emails](/5-widgets/2-ewAdd.md?gv-qargs=0#gv-5widgets-2ewadd)
+<span class="todo">
+
+Email Widgets are questions added right to your email asking
+recipients for information, which could be votes, polls, help
+requests, and RSVPs, as well as soliciting opinions and comments. From
+their inbox, recipients can add responses and see up-to-date images
+that summarize all responses.  Also with commenting capabilities,
+where recipients can add comments to other responses, it's possible to
+engage your community in a discussion.
+
+Below are some examples of the different types of widgets we offer.
+For more information, see:
+
+* [Email Widget Details](/5-widgets/6-ewDetails.md?gv-qargs=0#gv-5widgets-6ewDetails)
 * [Managing Email Widgets](/5-widgets/3-ewManage.md?gv-qargs=0#gv-5widgets-3ewmanage)
 
-<span class="todo">
+
+### Yes-No widget to poll recipients
+
+Would you recommend our email service to friends, families, and other
+businesses?
+
+<img src="/docimages/ew-example1.png" height="120">
+
+
+### Single/Multiple custom choice widget to poll recipients
+
+Which fundraiser would you most likely support next year? 
+
+<img src="/docimages/ew-example2.png" height="120">
+
+
+### RSVP widget
+
+We’re short on volunteers for the noon-3pm time slot, can you help?
+
+<img src="/docimages/ew-example3.png" height="120">
+
+### Text widget for open ended questions
+
+Any comments or feedback?
+
+<img src="/docimages/ew-example4.png" height="120">
+
+### Numeric widget
+
+How many tickets would you like to reserve for next month’s event?
+
+<img src="/docimages/ew-example5.png" height="120">
+
+
+
+Up-to-date responses are kept with the email in your feed, so at any
+time, Administrators and Editors can download detailed data to a
+spreadsheet. Click
+[here](https://www.groupvine.com/5-widgets/3-ewManage.md?gvdoc=1#gv-5widgets-3ewmanage-download)
+for details.
+
+Click
+[here](https://www.groupvine.com/3-send/1-sendOnline.md?gvdoc=1#gv-3send-1sendOnline)
+for information on adding an Email Widget to an email you are
+composing online from your groupvine.com New Email page or click
+[here](https://www.groupvine.com/3-send/2-sendInbox.md?gvdoc=1#gv-3send-2sendInbox)
+for details to add an Email Widget when sending from your personal
+email account.
+
+
+
+
+------------------
+
 
 Notes:
 
@@ -16,22 +83,9 @@ Notes:
 
 * Recipients see up-to-date images that summarize Email Widget response in their email.
 
-* [TBD] From the list of responses, Administrators and Editors can email a recipient or a group of recipients who have either responded, have yet to respond, or responded with a specific answer.
-
-* [TBD] Recipients can comment on responses which sends an email notifying others in the response thread of the new comment.  Commenting can be a time-saver
-because it’s a convenient way to send confirmations, share ideas, request more information, and “get back” to someone without having to look up their email address.
-
-</span> <!-- todo -->
-
 Email Widgets are a simple and powerful tool that make it easy to ask questions, collect information, start conversations and gather feedback right in an email.  From their inbox, recipients can add responses and comments and see up-to-date images that summarize Email Widget responses.  
 
 Email Widgets can be used for almost anything you would like to ask your community: votes, polls, help requests, RSVPs, as well as soliciting opinions and comments, all which make it possible to engage your community in a discussion, embedded within the email, around these questions.  
-
-<span class="todo">
-  
-Email Widgets transform email for groups and communities into dynamic and engaging communications, and enhance the value (for recipients and senders) of each communication you send and drive greater participation and interaction from your community.
-
-</span> <!-- todo -->
 
 Here are some key Email Widget features:
 
