@@ -25,6 +25,7 @@ businesses?
 
 <img src="/docimages/ew-example1.png" height="120">
 
+<span class="sub g4s">
 
 ### Single/Multiple custom choice widget
 
@@ -32,6 +33,7 @@ Which fundraiser would you most likely support next year?
 
 <img src="/docimages/ew-example2.png" height="120">
 
+</span>  <!-- class="sub g4s" -->
 
 ### RSVP widget
 
