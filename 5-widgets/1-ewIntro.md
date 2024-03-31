@@ -33,6 +33,16 @@ Which fundraiser would you most likely support next year?
 
 <img src="/docimages/ew-example2.png" height="120">
 
+### Ranked-choice widget
+
+You can rank up to 3 preferences and we'll bring a bowl of the two
+inners to the party:
+
+<img src="/docimages/ranked-choice-widget.png" width="100%">
+
+More details on ranked-choice widgets are available
+[here.](/5-widgets/7-ewRankedChoice.md?gv-qargs=0#gv-5widgets-ewRankedChoice)
+
 </span>  <!-- class="sub g4s" -->
 
 ### RSVP widget
