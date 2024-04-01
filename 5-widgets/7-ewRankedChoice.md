@@ -44,7 +44,10 @@ When selecting multiple winners, the specific computer-friendly,
 method used by the Email Widget is slightly more complicated, although
 <a href="https://youtu.be/lNxwMdI8OWw?si=LDvKYt8OeATUfM9I"
 target="_blank"> this instant-runoff video </a> presents the concepts
-well.
+well.  If there's an exact tie at some point (such as when choosing a
+"defeated" choice with the lowest number of votes), the order that the
+choices are entered into the Email Widget is used as the tiebreaker, with
+choices listed first having preference.
 
 As is the case for all email widgets, results can also be
 arbitrarily analyzed later by downloading a spreadsheet with the raw
