@@ -71,4 +71,5 @@ target="_blank"> this.  </a>
 
 Note that these Email Widgets should not be utilized for official
 elections that require stronger security than is currently possible
-using such email and online services.
+using such email and online services due to risks like forwarded
+emails, stolen passwords, lack of ballot paper trail, etc.
