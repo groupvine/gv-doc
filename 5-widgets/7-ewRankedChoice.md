@@ -5,11 +5,7 @@
 ## Introduction
 
 The Ranked Choice email widget provides an excellent way to poll your
-membership for their preferences among multiple choices.  Whereas the
-simpler single- or multiple-choice widget can result with "plurality"
-winners (winning selections that have more votes than the others,
-though still only have minority support), Ranked Choice helps ensure
-that the winners are those with the broadest support.
+membership for their preferences among multiple choices.
 
 To add a Ranked Choice widget to your email, select the "Widget" menu
 in the online editor, and then "Custom Choice."  Then, in the
@@ -17,8 +13,6 @@ configuration pop-up, select "Ranked Choice" from the choice type
 menu.  You'll then have options to limit the 
 maximum number of preferences each member can rank (default 3), and also to
 set the number of resulting winners (default 1).
-
-## Example
 
 Here's an example of a Ranked Choice in action, with this member
 selecting "Bananas", "Peaches", and then "Blueberries" as their top
@@ -35,7 +29,13 @@ fruit preferences.
 After 6 responses, Bananas and Peaches (marked with the asterisks)
 have the most support.
 
+
 ## How results are computed
+
+Whereas single- or multiple-choice widgets can result with "plurality"
+winners (winning selections that have more votes than the others,
+though still only have minority support), Ranked Choice helps ensure
+that the winners are those with the broadest support.
 
 <a href="https://youtu.be/oHRPMJmzBBw?si=R9BXgSfeuJedUd96"
 target="_blank"> This video </a> presents a good introduction for how
