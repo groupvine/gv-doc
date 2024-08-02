@@ -41,8 +41,8 @@ have been saved either in the current group or in a parent group.
 <span id="gv-3send-1sendOnline-useattrs"></span>
 ### Add predefined and custom attributes to customize your email
 
-While composing your email, personalize your email by selecting an attribute to add from the **Pers…** menu (short for
-Personalization) in the email editor.  
+While composing your email, personalize your email by selecting an attribute to add from the **Attrib…** menu (short for personalized
+Attributes) in the email editor.  
 
 Added to your email and representing the attribute, is a placeholder which will be translated to the recipient's value in their received email. 
 For example, if you select “First Name” from the Personalization menu, the placeholder <img src="/docimages/FirstName_attribute.png" height="22">
@@ -51,7 +51,7 @@ is replaced with your First Name as set in your Profile.
 For more information about Member Attributes, click 
 [here](/2-members/4-membersAttributes.md?gv-qargs=0#gv-2members-4membersattributes).
 
-Also available from the **Pers...** menu are *Link to Profile* and *Link to Email Feed*, which can be included
+Also available from the **Attrib...** menu are *Link to Profile* and *Link to Email Feed*, which can be included
 in your emails to give members a direct link access to their Profile and your account Email Feed.
 
 <span id="gv-3send-1sendOnline-useews"></span>
