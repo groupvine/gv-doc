@@ -135,6 +135,11 @@
                 Tidy Up your Feed by Archiving Emails
               </a>
             </li>
+            <li>
+              <a href="/4-feed/7-feedSearch.md?gv-qargs=0#gv-4feed-6feedsearch">
+                Searching your Email Feed
+              </a>
+            </li>
           </ul>
         </td>
         
