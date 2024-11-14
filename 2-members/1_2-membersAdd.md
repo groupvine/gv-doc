@@ -129,17 +129,22 @@ For more information on Member Attributes, click [here](/2-members/4-membersAttr
     
 <span class="sub g4s">    
   
-By default, new members are given the basic "Member" role, however, you
-can also have an arbitrary number of Administrators and Editors.  Here
-are the available role types with their default capabilities and how
-they are used in the upload file.
+By default, new members are given the basic "Member" role, however,
+you can also have an arbitrary number of Administrators and Editors.
+Only Administrators and Editors require a login password; general
+members can fully participate without requiring a login or password,
+even viewing the Email Feed and their Profile page using personalized
+links in received community emails.
+
+Here are the available role types with their default capabilities and
+how they are used in the upload file.
 
 **Member**: Can receive email and respond to [Email
 Widgets](/5-widgets/1-ewIntro.md?gv-qargs=0#gv-5widgets-1ewintro),
 browse and search the online Email Feed, and manage their individual
 member settings on their Profile page.  Can also send emails from
 their personal inbox if "Can general members send emails" has been
-enabled.  'x' can be used as an abbreviation.
+enabled.  'x' can be used as an abbreviation.  
 
 **Editor**: In addition to a Member's capabilities, can also prepare
 and send group emails online.
