@@ -9,6 +9,10 @@ can navigate to with the opportunity to subscribe.
 Emails are listed 
 chronological and include published emails and posts of older emails and emails from a different service.
 
+Unless the visibility of an email is changed by an Administrator,
+members are only shown the emails that they were sent (or would have
+been sent based on their current sub-group and list memberships).
+
 General members will have options to refresh the feed (<img src="/docimages/refresh-feed-icon.png" height="22">), view the feed in Gallery view (<img src="/docimages/gallery-view-feed-icon.png" height="22">) or view the feed in Listing view (<img src="/docimages/listing-view-icon.png" height="22">).
 
 <span class="sub g4s">
